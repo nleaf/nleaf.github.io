@@ -4,9 +4,9 @@ banner_image: "/uploads/2018/02/17/bridge3.jpg"
 layout: landing-page
 heading: Enterprise Cloud
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/uploads/ua.png"
+- "/uploads/prod.png"
+- "/uploads/steemer.png"
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
