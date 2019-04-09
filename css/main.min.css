@@ -52,11 +52,14 @@
 
 .navigation li.current>a {
 	color: #FFF;
-	border-bottom-color: #FFF;
+	border-bottom-color: #d31145;
 }
 .navigation>li>a:hover {
 	color: #d31145;
 }
 .button-success {
 	background-color: #d31145;
+}
+.navigation li a {
+	color: #ccc;
 }
