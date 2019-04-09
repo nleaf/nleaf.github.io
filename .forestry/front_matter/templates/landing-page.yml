@@ -53,4 +53,5 @@ fields:
   name: show_staff
   label: show_staff
 pages:
+- about.md
 - index.md

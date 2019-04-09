@@ -1,12 +1,13 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
+banner_image: "/uploads/2018/02/17/bridge.jpg"
 heading: About Belkirk
-sub_heading: Ora et Labora
+sub_heading: ''
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: "“Since we have partnerships with Intel and VMware, we’re always on the
+  cutting edge, so we have the privilege of working with brand new technology. Expedient
+  is pretty much a techie’s dream; all it takes is a walk around one of the data centers.”"
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: false
 menu:
