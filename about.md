@@ -1,14 +1,21 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+banner_image: "/uploads/2018/02/17/bridge.jpg"
+heading: About Expedient
+sub_heading: ''
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: "“Since we have partnerships with Intel and VMware, we’re always on the
+  cutting edge, so we have the privilege of working with brand new technology. Expedient
+  is pretty much a techie’s dream; all it takes is a walk around one of the data centers.”"
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: false
+partners: []
+services: []
+hero_button:
+  text: ''
+  href: ''
+show_news: false
 menu:
   footer:
     identifier: _about
@@ -18,6 +25,4 @@ menu:
     weight: 2
 
 ---
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
-
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+Expedient combines data centers, network access and managed services to deliver information technology infrastructure as a service (IaaS) solutions. With a physical presence in seven (7) cities, local experts ensure continuous service availability at eleven (11) locations where client data is secured in both physical and virtual platforms, including colocation cabinets, cages and public and private clouds. The company ensures application and data availability through the delivery of a variety of complementary products, predictable monthly expense forecasting, mitigation of the risks associated with industry and government compliance mandates and collaboration with teams of local experts, who are focused on maintaining an environment of operational excellence–freeing clients to focus on strengthening their own differentiators to effectively compete.
