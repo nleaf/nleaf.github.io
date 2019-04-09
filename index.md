@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2018/02/17/bridge3.jpg"
 layout: landing-page
-heading: Expedient
+heading: Enterprise Cloud
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,11 +16,8 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: The Outcome You're Looking For®
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+sub_heading: ''
+textline: The Outcome You're Looking For®
 hero_button:
   text: Learn more
   href: "/about"
