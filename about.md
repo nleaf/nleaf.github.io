@@ -2,7 +2,7 @@
 title: About
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2018/02/17/bridge.jpg"
-heading: About Belkirk
+heading: About Expedient
 sub_heading: ''
 layout: landing-page
 textline: "“Since we have partnerships with Intel and VMware, we’re always on the
@@ -10,6 +10,12 @@ textline: "“Since we have partnerships with Intel and VMware, we’re always o
   is pretty much a techie’s dream; all it takes is a walk around one of the data centers.”"
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: false
+partners: []
+services: []
+hero_button:
+  text: ''
+  href: ''
+show_news: false
 menu:
   footer:
     identifier: _about
