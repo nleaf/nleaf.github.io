@@ -10,7 +10,10 @@ textline: "“Since we have partnerships with Intel and VMware, we’re always o
   is pretty much a techie’s dream; all it takes is a walk around one of the data centers.”"
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: false
-partners: []
+partners:
+- "/uploads/ua.png"
+- "/uploads/prod.png"
+- "/uploads/steemer.png"
 services: []
 hero_button:
   text: ''
