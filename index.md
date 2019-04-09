@@ -11,10 +11,9 @@ services:
 - description: Enterprise infrastructure and reliable operations.
   heading: Cloud
   icon: "/uploads/cloud.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- description: Secure and redundant data centers.
+  heading: Colocation
+  icon: "/uploads/colo.png"
 sub_heading: ''
 textline: The Outcome You're Looking For®
 hero_button:
