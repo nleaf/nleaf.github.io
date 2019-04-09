@@ -8,10 +8,9 @@ partners:
 - "/uploads/prod.png"
 - "/uploads/steemer.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
+- description: Enterprise infrastructure and reliable operations.
+  heading: Cloud
+  icon: "/uploads/cloud.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech
