@@ -20,3 +20,5 @@ fields:
 - type: boolean
   name: show_staff
   label: show_staff
+pages:
+- contact.md
