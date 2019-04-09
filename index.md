@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: ''
+banner_image: "/uploads/2018/02/17/bridge3.jpg"
 layout: landing-page
 heading: Expedient
 partners:
