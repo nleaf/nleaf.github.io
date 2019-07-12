@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2018/02/17/bridge3.jpg"
 layout: landing-page
-heading: Enterprise Cloud 123
+heading: Enterprise Cloud 1234
 partners:
 - "/uploads/ua.png"
 - "/uploads/prod.png"
