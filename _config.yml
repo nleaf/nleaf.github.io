@@ -1,7 +1,7 @@
 title: Expedient
 short_title: Expedient
 description: Expedient Demo Site for Forestry.io
-baseurl:
+baseurl: "nleaf.github.io"
 permalink: "/:path/"
 defaults:
   - scope:
