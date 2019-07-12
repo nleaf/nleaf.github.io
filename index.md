@@ -15,7 +15,7 @@ services:
   heading: Colocation
   icon: "/uploads/colo.png"
 sub_heading: ''
-textline: The Outcome You're Looking For®
+textline: The Outcome You're Looking For123®
 hero_button:
   text: Learn more
   href: "/about"
