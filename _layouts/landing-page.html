@@ -7,8 +7,14 @@ layout: default
 	e.g index.md and about.md
 {% endcomment %}
 
+{% include index_hero.html %}
+
+{% include newswire.html %}
+
+{% include featured.html %}
+
 {% assign stripped_content = content | strip_newlines %}
-{% if content and stripped_content != "" %}
+<!-- {% if content and stripped_content != "" %}
 <section class="about">
 	<div class="container pure-g">
 		<div class="pure-u-1">
@@ -18,7 +24,7 @@ layout: default
 		</div>
 	</div>
 </section>
-{% endif %}
+{% endif %} -->
 
 {% include services.html %}
 
@@ -27,3 +33,36 @@ layout: default
 {% include partners.html %}
 
 {% include staff.html %}
+
+<script type="text/javascript">
+	// Fade-In Animations
+	var animateHTML = function() {
+	var elems;
+	var windowHeight;
+	function init() {
+		elems = document.querySelectorAll('.hiddensc');
+		windowHeight = window.innerHeight;
+		addEventHandlers();
+		checkPosition();
+	}
+	function addEventHandlers() {
+		window.addEventListener('scroll', checkPosition);
+		window.addEventListener('resize', init);
+	}
+	function checkPosition() {
+		for (var i = 0; i < elems.length; i++) {
+		var positionFromTop = elems[i].getBoundingClientRect().top;
+		if (positionFromTop - windowHeight <= 0) {
+			elems[i].className = elems[i].className.replace(
+			'hiddensc',
+			'fade-in-element'
+			);
+		}
+		}
+	}
+	return {
+		init: init
+	};
+	};
+	animateHTML().init();
+</script>

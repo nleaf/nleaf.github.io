@@ -1,0 +1,24 @@
+{% if page.index_caseStudies %}
+<!-- Client Know Best -->
+<div class="flex w-full mb-12 pt-4 sm:pt-20 content-start justify-between flex-wrap align-middle items-center">
+    <h3 class="text-2xl w-full text-center sm:text-left sm:w-auto sm:w-sm:text-3xl md:text-hpClient font-semibold leading-exp font-black font-sans my-2 text-dgrey opacity-25">Our Clients Know Best</h3>
+    {% for item in page.index_caseStudies %}
+        <!-- Item -->
+        <a href="{{ item.link | absolute_url }}" class="ckb w-1/2 my-4 sm:w-auto" data-tippy-content="Read Case Study">
+            <img src="{{ item.client_logo | absolute_url }}" alt="{{ item.title }}" />
+        </a>
+    {% endfor %}
+</div>
+<!-- END Client Know Best -->
+
+<!-- Case Studies JS -->
+<script src="https://unpkg.com/popper.js@1"></script>
+<script src="https://unpkg.com/tippy.js@4"></script>
+<script type="text/javascript">
+    // Popup Tips
+    tippy.setDefaults({
+        arrow: true,
+    })
+    tippy('[data-tippy-content]')
+</script>
+{% endif %}

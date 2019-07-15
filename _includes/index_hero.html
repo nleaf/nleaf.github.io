@@ -1,0 +1,39 @@
+{% if page.index_quicknavigation %}
+<!-- Index Hero -->
+<div class="bg-cover bg-center pb-8" style="background-image: url('{{ page.banner_image | absolute_url }}');">
+    <div class="flex flex-wrap mb-4 lg:items-top mx-auto md:max-w-expBody pt-32 lg:pt-64 px-4 justify-between">
+
+            <!-- Text Intro -->
+            <div class="w-full md:w-1/2 flex-grow pr-2">
+                <h1 class="text-5xl sm:text-3xl md:text-exphl font-semibold leading-exp font-black font-sans my-6">{{ page.heading | default: page.title }}</h1>
+                {% if page.sub_heading and page.sub_heading != "" %}
+                    <p class="text-hp font-light leading-snug">{{ page.sub_heading }}</p>
+                {% endif %}
+                <div class="h-2 bg-red w-24 mt-12"></div>
+            </div>
+
+            {% include index_quicknavigation.html %}
+
+            {% include index_casestudies.html %}
+
+            <!-- Client Know Best -->
+            <!-- <div class="flex w-full mb-12 pt-4 sm:pt-20 content-start justify-between flex-wrap align-middle items-center">
+                <h3 class="text-2xl w-full text-center sm:text-left sm:w-auto sm:w-sm:text-3xl md:text-hpClient font-semibold leading-exp font-black font-sans my-2 text-dgrey opacity-25">Our Clients Know Best</h3>
+                <a class="ckb w-1/2 my-4 sm:w-auto" data-tippy-content="Read Case Study">
+                    <img class="mx-auto" src="/images/ph_Client1.png" />
+                </a>
+                <a class="ckb w-1/2 my-4 sm:w-auto" data-tippy-content="Read Case Study">
+                    <img class="mx-auto" src="/images/ph_Client2.png" />
+                </a>
+                <a class="ckb w-1/2 my-4 sm:w-auto" data-tippy-content="Read Case Study">
+                    <img class="mx-auto" src="/images/ph_Client3.png" />
+                </a>
+                <a class="ckb w-1/2 my-4 sm:w-auto" data-tippy-content="Read Case Study">
+                    <img class="mx-auto" src="/images/ph_Client1.png" />
+                </a>
+            </div> -->
+            <!-- END Client Know Best -->
+    </div>
+</div>
+<!-- END Index Hero -->
+{% endif %}
