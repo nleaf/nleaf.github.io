@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/exp_head.jpg"
 layout: landing-page
-heading: Tomorrow’s  Cloud, Today 123.
+heading: Tomorrow’s  Cloud, Today.
 sub_heading: Expedient combines data centers, network access and managed services
   to deliver information technology infrastructure as a service (IaaS) solutions.
 index_quicknavigation:
