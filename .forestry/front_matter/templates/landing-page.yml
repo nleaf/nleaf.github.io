@@ -34,9 +34,6 @@ fields:
     name: icon
     label: icon
 - type: text
-  name: sub_heading
-  label: sub_heading
-- type: text
   name: textline
   label: textline
 - type: field_group
