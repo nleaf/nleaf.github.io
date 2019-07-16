@@ -10,7 +10,7 @@ page_sections:
   sub_heading: Expedient combines data centers, network access and managed services
     to deliver information technology infrastructure as a service (IaaS) solutions.
   index_quicknavigation:
-  - link_title: Cloud980
+  - link_title: Cloud123
     icon: "/uploads/ico_cloud.svg"
     description: Leverage your organization’s existing VMware skill sets while taking
       advantage of a fully integrated VMware stack of technologies.
@@ -30,7 +30,7 @@ page_sections:
     description: Leverage your organization’s existing VMware skill sets while taking
       advantage of a fully integrated VMware stack of technologies.
     link: "/about"
-  index_caseStudies:
+  index_casestudies:
   - client_logo: "/uploads/ph_Client1.png"
     link: "/casestudy/1"
   - client_logo: "/uploads/ph_Client2.png"
@@ -39,5 +39,4 @@ page_sections:
     link: "/casestudy/1"
   - client_logo: "/uploads/ph_Client1.png"
     link: "/casestudy/1"
-
 ---
