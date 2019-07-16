@@ -16,9 +16,9 @@
                 {% for item in section.index_quicknavigation %}
                     <!-- Element -->
                     <a href="{{ item.link | absolute_url }}" class="w-full block bg-bwhite my-4 p-4 px-6 relative quickNav {% if item.link == '/services/cloud' %}active{% endif %}">
-                        <h2 class="text-2xl sm:text-3xl md:text-xl font-semibold font-sans">{{ item.title }}</h2>
+                        <h2 class="text-2xl sm:text-3xl md:text-xl font-semibold font-sans">{{ item.link_title }}</h2>
                         <div class="icon absolute top-0 right-0 mx-6 my-4 ">       
-                            <img src="{{ item.icon | absolute_url }}" alt="{{ item.title }}" />                     
+                            <img src="{{ item.icon | absolute_url }}" alt="{{ item.link_title }}" />                     
                         </div>
                         <div class="sup">
                             <p class="font-light w-full sm:w-3/4 text-lg sm:text-base mb-3">{{ item.description }}</p>
