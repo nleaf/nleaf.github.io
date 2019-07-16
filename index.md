@@ -85,6 +85,10 @@ hero_button:
 show_news: false
 show_staff: false
 partners: []
+text_column:
+- template: text-column
+  headline: Some headline
+  content: Heres some content for block
 menu:
   navigation:
     identifier: _index
