@@ -9,14 +9,14 @@ fields:
   name: heading
   label: Headline
   config:
-    wysiwyg: true
+    wysiwyg: false
     schema:
       format: html
 - type: textarea
   name: sub_heading
   label: Sub Heading
   config:
-    wysiwyg: true
+    wysiwyg: false
     schema:
       format: html
 - type: field_group_list
