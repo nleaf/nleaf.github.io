@@ -1,6 +1,6 @@
 ---
 label: index-hero
-hide_body: true
+hide_body: false
 fields:
 - type: file
   name: banner_image
