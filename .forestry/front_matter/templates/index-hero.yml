@@ -24,14 +24,11 @@ fields:
   label: Quick-Navigation
   fields:
   - type: text
-    name: title
-    label: description
+    name: link_title
+    label: title
+  - type: file
+    name: icon
+    label: icon
   - type: text
-    name: title
-    label: description
-  - type: text
-    name: title
-    label: description
-  - type: text
-    name: title
+    name: description
     label: description
