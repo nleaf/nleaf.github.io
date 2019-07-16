@@ -21,7 +21,7 @@ fields:
       format: html
 - type: field_group_list
   name: index_quicknavigation
-  label: Quick-Navigation
+  label: Quick Navigation
   fields:
   - type: text
     name: link_title
@@ -35,3 +35,28 @@ fields:
   - type: text
     name: link
     label: link
+- name: index_casestudies
+  type: field_group_list
+  fields:
+  - name: client_logo
+    type: file
+    config:
+      maxSize: 250
+    label: Client Logo
+  - name: link
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: jekyll-pages
+        file: 
+        path: 
+    label: Case Study Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Case Studies
