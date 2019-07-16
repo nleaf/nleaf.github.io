@@ -1,16 +1,16 @@
 ---
 layout: blocks
 title: Home
-date: '2017-11-22T23:00:00.000+00:00'
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: index-hero
   block: index-hero
   banner_image: "/uploads/exp_head.jpg"
   heading: Tomorrow’s  Cloud, Today.
-  sub_heading: Expedient combines data centers, network access and managed services 
+  sub_heading: Expedient combines data centers, network access and managed services
     to deliver information technology infrastructure as a service (IaaS) solutions.
   index_quicknavigation:
-  - link_title: Cloud
+  - link_title: Cloud123
     icon: "/uploads/ico_cloud.svg"
     description: Leverage your organization’s existing VMware skill sets while taking
       advantage of a fully integrated VMware stack of technologies.
@@ -39,4 +39,5 @@ page_sections:
     link: "/casestudy/1"
   - client_logo: "/uploads/ph_Client1.png"
     link: "/casestudy/1"
+
 ---
