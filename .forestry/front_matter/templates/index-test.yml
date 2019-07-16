@@ -8,9 +8,9 @@ fields:
 - type: text
   name: title
   label: title
-- name: header_block
+- name: page_sections
   type: blocks
-  label: Header Block
+  label: Page Sections
   template_types:
   - index-hero
   config:
