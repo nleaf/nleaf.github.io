@@ -52,6 +52,14 @@ fields:
 - type: boolean
   name: show_staff
   label: show_staff
+- name: text_column
+  type: blocks
+  label: Text Column
+  template_types:
+  - text-column
+  config:
+    min: 
+    max: 
 pages:
 - index.md
 - about.md
