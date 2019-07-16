@@ -8,51 +8,11 @@ fields:
 - type: text
   name: title
   label: title
-- type: boolean
-  name: hide_body
-  label: hide_body
-- type: field_group_list
-  name: page_sections
-  label: page_sections
-  fields:
-  - type: text
-    name: template
-    label: template
-  - type: text
-    name: block
-    label: block
-  - type: file
-    name: banner_image
-    label: banner_image
-  - type: text
-    name: heading
-    label: heading
-  - type: textarea
-    name: sub_heading
-    label: sub_heading
-  - type: field_group_list
-    name: index_quicknavigation
-    label: index_quicknavigation
-    fields:
-    - type: text
-      name: link_title
-      label: link_title
-    - type: file
-      name: icon
-      label: icon
-    - type: textarea
-      name: description
-      label: description
-    - type: text
-      name: link
-      label: link
-  - type: field_group_list
-    name: index_caseStudies
-    label: index_caseStudies
-    fields:
-    - type: file
-      name: client_logo
-      label: client_logo
-    - type: text
-      name: link
-      label: link
+- name: header_block
+  type: blocks
+  label: Header Block
+  template_types:
+  - index-hero
+  config:
+    min: 
+    max: 
