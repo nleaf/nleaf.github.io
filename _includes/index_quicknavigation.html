@@ -1,7 +1,6 @@
-{% if page.index_quicknavigation %}
 <!-- Quick Navigation -->
 <div class="w-full md:w-1/2 flex-grow sm:pl-24 mt-10">
-    {% for item in page.index_quicknavigation %}
+    {% for item in section.index_quicknavigation %}
         <!-- Element -->
         <a href="{{ item.link | absolute_url }}" class="w-full block bg-bwhite my-4 p-4 px-6 relative quickNav {% if item.link == '/services/cloud' %}active{% endif %}">
             <h2 class="text-2xl sm:text-3xl md:text-xl font-semibold font-sans">{{ item.title }}</h2>
@@ -31,4 +30,3 @@
         });
     }
 </script>
-{% endif %}
