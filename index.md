@@ -32,11 +32,12 @@ page_sections:
     link: "/about"
   index_casestudies:
   - client_logo: "/uploads/ph_Client1.png"
-    link: "/casestudy/1"
+    link: contact.md
   - client_logo: "/uploads/ph_Client2.png"
-    link: "/casestudy/1"
+    link: contact.md
   - client_logo: "/uploads/ph_Client3.png"
-    link: "/casestudy/1"
+    link: index.md
   - client_logo: "/uploads/ph_Client1.png"
-    link: "/casestudy/1"
+    link: 404.md
+
 ---
