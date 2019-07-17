@@ -34,9 +34,15 @@
                 // Homepage Quick Naviagtion
                 var qNav = document.querySelectorAll('.quickNav');
 
+                //Check for class active
+                if(!qNav[0].classList.contains('active')){
+                    qNav[0].classList.toggle("active");
+                };
+
                 for (i = 0; i < qNav.length; i++) { 
                     qNav[i].addEventListener("mouseover", function( event ) {
                         var aQuickNav = document.querySelectorAll('.quickNav.active');
+
                         aQuickNav[0].classList.remove('active');
 
                         this.classList.toggle("active");
