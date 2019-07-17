@@ -53,7 +53,7 @@ page_sections:
     description: 444Leverage your organization’s existing VMware skill sets while
       taking advantage of a fully integrated VMware stack of technologies.
   - title: 3Test Title
-    icon: "/uploads/ico_cloud.svg"
+    icon: "/uploads/ico_play.svg"
     link: index.md
     description: 444Leverage your organization’s existing VMware skill sets while
       taking advantage of a fully integrated VMware stack of technologies.
