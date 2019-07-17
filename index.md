@@ -17,18 +17,18 @@ page_sections:
     link: "/services/cloud"
   - link_title: Colocation
     icon: "/uploads/ico_dc.svg"
-    description: Leverage your organization’s existing VMware skill sets while taking
-      advantage of a fully integrated VMware stack of technologies.
+    description: 222Leverage your organization’s existing VMware skill sets while
+      taking advantage of a fully integrated VMware stack of technologies.
     link: "/about"
   - link_title: Security & Compliance
     icon: "/uploads/ico_sheilds.svg"
-    description: Leverage your organization’s existing VMware skill sets while taking
-      advantage of a fully integrated VMware stack of technologies.
+    description: 333Leverage your organization’s existing VMware skill sets while
+      taking advantage of a fully integrated VMware stack of technologies.
     link: "/about"
   - link_title: Disaster Recovery
     icon: "/uploads/ico_dr.svg"
-    description: Leverage your organization’s existing VMware skill sets while taking
-      advantage of a fully integrated VMware stack of technologies.
+    description: 444Leverage your organization’s existing VMware skill sets while
+      taking advantage of a fully integrated VMware stack of technologies.
     link: "/about"
   index_casestudies:
   - client_logo: "/uploads/ph_Client1.png"
