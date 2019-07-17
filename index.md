@@ -39,5 +39,19 @@ page_sections:
     link: index.md
   - client_logo: "/uploads/ph_Client1.png"
     link: 404.md
-
+- template: newswire
+  block: newswire
+  news:
+  - title: Test Title
+    icon: "/uploads/ico_cloud.svg"
+    description: 444Leverage your organization’s existing VMware skill sets while
+      taking advantage of a fully integrated VMware stack of technologies.
+  - title: 2Test Title
+    icon: "/uploads/ico_cloud.svg"
+    description: 444Leverage your organization’s existing VMware skill sets while
+      taking advantage of a fully integrated VMware stack of technologies.
+  - title: 3Test Title
+    icon: "/uploads/ico_cloud.svg"
+    description: 444Leverage your organization’s existing VMware skill sets while
+      taking advantage of a fully integrated VMware stack of technologies.
 ---
