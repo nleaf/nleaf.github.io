@@ -57,7 +57,7 @@ page_sections:
     description: 2Expedient Named VMware’s Americas Regional Cloud Partner of the
       Year
 type: include
-template: SEO   # The slug of the included front matter template
+template: seo 
 label: SEO
 name: seo
 ---
