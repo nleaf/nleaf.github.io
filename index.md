@@ -57,7 +57,12 @@ page_sections:
     description: 2Expedient Named VMware’s Americas Regional Cloud Partner of the
       Year
 type: include
-template: seo 
+template: seo
 label: SEO
 name: seo
+seo_title: Cloud Computing and Data Center Infrastructure as a Service
+description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
+  Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
+image: ''
+
 ---
