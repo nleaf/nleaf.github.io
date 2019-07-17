@@ -45,8 +45,7 @@ page_sections:
   - title: Test Title
     icon: "/uploads/ico_trophy.svg"
     link: index.md
-    description: 444Leverage your organization’s existing VMware skill sets while
-      taking advantage of a fully integrated VMware stack of technologies.
+    description: Expedient Named VMware’s Americas Regional Cloud Partner of the Year
   - title: 2Test Title
     icon: "/uploads/ico_arrowDown.svg"
     link: index.md
