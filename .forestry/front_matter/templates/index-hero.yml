@@ -32,8 +32,17 @@ fields:
   - type: text
     name: description
     label: description
-  - type: text
-    name: link
+  - name: link
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: jekyll-pages
+        file: 
+        path: 
     label: link
 - name: index_casestudies
   type: field_group_list
