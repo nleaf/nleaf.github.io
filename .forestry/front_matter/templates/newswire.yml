@@ -5,6 +5,11 @@ fields:
 - name: news
   type: field_group_list
   fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
   - name: icon
     type: file
     config:
@@ -21,7 +26,12 @@ fields:
         section: jekyll-pages
         file: 
         path: 
-    label: Case Study Link
+    label: Link
+  - name: description
+    type: text
+    config:
+      required: false
+    label: description
   config:
     min: 
     max: 
