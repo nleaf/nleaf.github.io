@@ -2,9 +2,15 @@
 label: Index Page
 hide_body: true
 fields:
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: title
   label: title
