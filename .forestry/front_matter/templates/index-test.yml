@@ -2,6 +2,9 @@
 label: Index Page
 hide_body: true
 fields:
+- type: text
+  name: title
+  label: title
 - name: seo
   type: include
   config: {}
@@ -11,9 +14,6 @@ fields:
   name: layout
   label: layout
   hidden: true
-- type: text
-  name: title
-  label: title
 - name: page_sections
   type: blocks
   label: Page Sections
