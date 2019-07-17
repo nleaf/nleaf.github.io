@@ -14,22 +14,22 @@ page_sections:
     icon: "/uploads/ico_cloud.svg"
     description: 123Leverage your organization’s existing VMware skill sets while
       taking advantage of a fully integrated VMware stack of technologies.
-    link: "/services/cloud"
+    link: contact.md
   - link_title: Colocation
     icon: "/uploads/ico_dc.svg"
     description: 222Leverage your organization’s existing VMware skill sets while
       taking advantage of a fully integrated VMware stack of technologies.
-    link: "/about"
+    link: about.md
   - link_title: Security & Compliance
     icon: "/uploads/ico_sheilds.svg"
     description: 333Leverage your organization’s existing VMware skill sets while
       taking advantage of a fully integrated VMware stack of technologies.
-    link: "/about"
+    link: contact.md
   - link_title: Disaster Recovery
     icon: "/uploads/ico_dr.svg"
     description: 444Leverage your organization’s existing VMware skill sets while
       taking advantage of a fully integrated VMware stack of technologies.
-    link: "/about"
+    link: contact.md
   index_casestudies:
   - client_logo: "/uploads/ph_Client1.png"
     link: contact.md
