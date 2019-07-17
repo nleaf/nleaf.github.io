@@ -37,4 +37,5 @@ gem 'jekyll-tagging'
 gem "jekyll-feed", "~> 0.6"
 gem "jekyll-menus"
 gem "jekyll-archives"
+gem 'jekyll-seo-tag'
 
