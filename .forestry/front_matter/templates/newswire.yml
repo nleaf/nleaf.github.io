@@ -1,3 +1,29 @@
 ---
 label: newswire
 hide_body: true
+fields:
+- name: news
+  type: field_group_list
+  fields:
+  - name: icon
+    type: file
+    config:
+      maxSize: 250
+    label: Icon
+  - name: link
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: jekyll-pages
+        file: 
+        path: 
+    label: Case Study Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Case Studies
