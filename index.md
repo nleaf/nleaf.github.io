@@ -54,6 +54,7 @@ page_sections:
   - title: 3Test Title
     icon: "/uploads/ico_play.svg"
     link: index.md
-    description: Expedient Named VMware’s Americas Regional Cloud Partner of the Year
+    description: 2Expedient Named VMware’s Americas Regional Cloud Partner of the
+      Year
 
 ---
