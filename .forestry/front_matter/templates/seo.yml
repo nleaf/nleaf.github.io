@@ -7,6 +7,7 @@ fields:
   config:
     required: false
   label: SEO Title
+  description: You can override the page title by entering value here
 - name: description
   type: text
   config:
