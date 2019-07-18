@@ -2,10 +2,39 @@
 label: featured
 hide_body: false
 fields:
-- name: featured
-  type: blocks
-  label: featured
-  template_types: []
+- name: featured_category
+  type: text
   config:
-    min: 
-    max: 
+    required: false
+  label: Featured Category
+- name: featured_title
+  type: text
+  config:
+    required: false
+  label: Featured Title
+- name: featured_intro
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Featured Intro
+- name: featured_cta_link
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: jekyll-pages
+      file: 
+      path: 
+  label: Featured CTA Link
+- name: featured_cta_text
+  type: text
+  config:
+    required: false
+  label: Featured CTA Text
