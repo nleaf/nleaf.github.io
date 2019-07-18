@@ -65,7 +65,7 @@ page_sections:
     learn entirely new platforms, demands potential refactoring of your applications,
     and doesn’t provide you with the inherent security and white-glove managed services
     you need to keep your business risk-free and running.
-  featured_cta_link: contact.md
+  featured_cta_link: projects.md
   featured_cta_text: Learn More
 type: include
 template: seo
