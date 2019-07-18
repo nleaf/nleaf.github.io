@@ -88,6 +88,10 @@ page_sections:
   block: gartner
 - template: newswire
   news:
+  - title: 'Some highlight '
+    icon: "/uploads/ico_play.svg"
+    link: contact.md
+    description: Some description
   - title: New Hightlight
     icon: "/uploads/ico_play.svg"
     link: index.md
