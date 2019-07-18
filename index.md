@@ -56,7 +56,6 @@ page_sections:
     link: index.md
     description: 2Expedient Named VMware’s Americas Regional Cloud Partner of the
       Year
-- template: gartner
 - template: featured
   block: featured
   featured_category: Featured Service
