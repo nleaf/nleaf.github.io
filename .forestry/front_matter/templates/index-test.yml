@@ -19,6 +19,8 @@ fields:
   label: Page Sections
   template_types:
   - index-hero
+  - featured
+  - newswire
   config:
     min: 
     max: 
