@@ -6,4 +6,5 @@ fields:
   name: cite
   label: cite
 pages:
+- _gartner/slide1.md
 - _gartner/slide2.md
