@@ -20,6 +20,8 @@ sections:
   label: Gartner
   create: all
   match: "**/*"
+  templates:
+  - gartner-slide
 - type: directory
   path: _people
   label: People
