@@ -5,3 +5,5 @@ fields:
 - type: text
   name: cite
   label: cite
+pages:
+- _gartner/slide2.md
