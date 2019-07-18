@@ -11,7 +11,7 @@
             {% assign slides = site.gartner %}
             {% for slide in slides %}
                 <!-- SLIDE -->
-                <div class="slide current">
+                <div class="slide {% if slide.current %}current{% endif %}">
                     <blockquote class="text-bwhite text-4xl font-sans font-semibold leading-snug mb-10">{{ slide.content }}</blockquote>
                     <cite class="text-bwhite text-2xl sm:text-3xl md:text-xl font-bold font-sans not-italic">— {{ slide.cite }}</cite>
                     <a href="https://www.gartner.com/reviews/market/disaster-recovery-as-a-service/vendor/expedient" target="_blank" class="w-56 block bg-yellow px-5 py-3 text-bwhite font-bold text-base font-sans mt-8 ctaButton relative align-middle relative">
