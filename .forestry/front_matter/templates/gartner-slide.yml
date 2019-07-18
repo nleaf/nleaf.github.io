@@ -1,0 +1,7 @@
+---
+label: Gartner Slide
+hide_body: false
+fields:
+- type: text
+  name: cite
+  label: cite
