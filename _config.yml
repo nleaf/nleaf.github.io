@@ -14,6 +14,8 @@ defaults:
     values:
       layout: post
 collections:
+  gartner:
+    output: false
   people:
     output: true
     permalink: "/about/:path/"
