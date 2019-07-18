@@ -91,5 +91,4 @@ seo_title: Cloud Computing and Data Center Infrastructure as a Service
 description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
   Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
 image: ''
-
 ---
