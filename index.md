@@ -96,7 +96,7 @@ page_sections:
     icon: "/uploads/ico_play.svg"
     link: index.md
     description: Some link description
-  block: ''
+  block: newswire
 type: include
 template: seo
 label: SEO
