@@ -4,22 +4,22 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: _gartner
-  label: Gartner
-  create: documents
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
+  create: all
+- type: jekyll-posts
+  label: Posts
   create: all
 - type: directory
   path: _projects
   label: Projects
   create: all
   match: "**/*"
-- type: jekyll-posts
-  label: Posts
-  create: all
+- type: directory
+  path: _gartner
+  label: Gartner
+  create: documents
+  match: "**/*"
 - type: directory
   path: _people
   label: People
