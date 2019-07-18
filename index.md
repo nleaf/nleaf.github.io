@@ -84,6 +84,8 @@ page_sections:
     title: Lasting impact, for our clients business in the cloud, today.
     description: Read more case studies
     img: ''
+- template: gartner
+  block: gartner
 type: include
 template: seo
 label: SEO
