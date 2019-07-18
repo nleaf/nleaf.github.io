@@ -21,6 +21,7 @@ fields:
   - index-hero
   - featured
   - newswire
+  - gartner
   config:
     min: 
     max: 
