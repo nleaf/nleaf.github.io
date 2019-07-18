@@ -1,4 +1,11 @@
 ---
 label: gartner
 hide_body: false
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: gartner
