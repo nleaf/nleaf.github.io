@@ -5,6 +5,10 @@ fields:
 - type: text
   name: cite
   label: cite
+- name: current
+  type: boolean
+  label: Current
+  description: Toggle which slide shows first
 pages:
 - _gartner/slide1.md
 - _gartner/slide2.md
