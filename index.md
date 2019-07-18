@@ -39,7 +39,6 @@ page_sections:
     link: index.md
   - client_logo: "/uploads/ph_Client1.png"
     link: 404.md
-- template: gartner
 - template: newswire
   block: newswire
   news:
