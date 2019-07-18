@@ -38,3 +38,32 @@ fields:
   config:
     required: false
   label: Featured CTA Text
+- name: related_products
+  type: field_group_list
+  fields:
+  - name: category
+    type: text
+    config:
+      required: false
+    label: Category
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: description
+    type: text
+    config:
+      required: false
+    label: Description
+  - name: img
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+    description: Optional
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Related Products
