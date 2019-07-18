@@ -39,23 +39,6 @@ page_sections:
     link: index.md
   - client_logo: "/uploads/ph_Client1.png"
     link: 404.md
-- template: newswire
-  block: newswire
-  news:
-  - title: Test Title
-    icon: "/uploads/ico_trophy.svg"
-    link: index.md
-    description: Expedient Named VMware’s Americas Regional Cloud Partner of the Year
-  - title: 2Test Title
-    icon: "/uploads/ico_arrowDown.svg"
-    link: index.md
-    description: 2Expedient Named VMware’s Americas Regional Cloud Partner of the
-      Year
-  - title: 3Test Title
-    icon: "/uploads/ico_play.svg"
-    link: index.md
-    description: 2Expedient Named VMware’s Americas Regional Cloud Partner of the
-      Year
 - template: featured
   block: featured
   featured_category: Featured Service
@@ -80,9 +63,27 @@ page_sections:
     title: Example
     description: Some description
     img: uploads/ph_Related.jpg
-  - category: 
+  - category: ''
     title: Lasting impact, for our clients business in the cloud, today.
     description: Read more case studies
+    img: ''
+- template: newswire
+  block: newswire
+  news:
+  - title: Test Title
+    icon: "/uploads/ico_trophy.svg"
+    link: index.md
+    description: Expedient Named VMware’s Americas Regional Cloud Partner of the Year
+  - title: 2Test Title
+    icon: "/uploads/ico_arrowDown.svg"
+    link: index.md
+    description: 2Expedient Named VMware’s Americas Regional Cloud Partner of the
+      Year
+  - title: 3Test Title
+    icon: "/uploads/ico_play.svg"
+    link: index.md
+    description: 2Expedient Named VMware’s Americas Regional Cloud Partner of the
+      Year
 type: include
 template: seo
 label: SEO
@@ -91,4 +92,5 @@ seo_title: Cloud Computing and Data Center Infrastructure as a Service
 description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
   Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
 image: ''
+
 ---
