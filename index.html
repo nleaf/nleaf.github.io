@@ -525,6 +525,70 @@
     </div>
 </section>
 <!-- END Gartner Pull Out -->
+<script type="text/javascript">
+// GARTNER Slider
+    var intervalID = window.setInterval(moveRight, 5000);
+    //clearInterval(nIntervId);
+    var gartnerSlider = document.querySelectorAll('.gartner')[0];
+    gartnerSlider.addEventListener("mouseenter", function( event ) {
+    clearInterval(intervalID);
+    });
+    gartnerSlider.addEventListener("mouseleave", function( event ) {
+                intervalID = window.setInterval(moveRight, 5000);
+    });
+                var slides = document.querySelectorAll('#gSlide .slide');
+                var buttons = document.querySelectorAll('#gSlide .selections > div');
+                var rArrow = document.getElementsByClassName('gSlideRight');
+                var lArrow = document.getElementsByClassName('gSlideLeft');
+
+                var currentSlide = 0;
+        
+    lArrow[0].addEventListener("click", function() {
+
+        var slide = currentSlide;
+
+        if(currentSlide == 0){
+            slide = slides.length-1;
+        }else{
+            currentSlide--;
+            slide = currentSlide;
+        }
+
+        //remove current slide and button
+        var cSlide = document.querySelectorAll('#gSlide .slide.current');
+        cSlide[0].classList.remove('current');
+        //cSlide[0].className = 'slide hidden';
+
+
+        //show next
+        slides[slide].className = 'slide current';
+        currentSlide = slide;
+    });   
+
+    rArrow[0].addEventListener("click", function() {
+        moveRight();
+    });
+    
+    function moveRight() {
+        var slide = currentSlide;
+
+        if(currentSlide == slides.length-1){
+            slide = 0;
+        }else{
+            currentSlide++;
+            slide = currentSlide;
+        }
+
+        //remove current slide and button
+        var cSlide = document.querySelectorAll('#gSlide .slide.current');
+        cSlide[0].classList.remove('current');
+        //cSlide[0].className = 'slide hidden';
+
+        //show next
+        slides[slide].className = 'slide current';
+        currentSlide = slide;
+    }
+</script>
 
 
 <script type="text/javascript">
