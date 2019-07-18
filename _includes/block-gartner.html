@@ -1,0 +1,31 @@
+<!-- Gartner Pull Out -->
+<section class="relative py-16 bg-purple gartner">
+    <div class="flex flex-wrap mx-auto md:max-w-expBody relative px-4 align-middle justify-center items-center hiddensc">
+        <!-- Arrow -->
+        <a class="hidden sm:block w-1/12 px-4 gSlideLeft">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102.924 107.488"><g transform="translate(-390 -3243)"><path d="M31.724,53.744,84.815,0,102.2,17.519,66.427,53.744,102.2,89.969,84.815,107.488Z" transform="translate(358.276 3243)" fill="#f5f5f5"/><g transform="translate(492.924 3316.488) rotate(180)" fill="#fff" stroke="#f5f5f5" stroke-width="2"><circle cx="19.5" cy="19.5" r="19.5" stroke="none"/><circle cx="19.5" cy="19.5" r="18.5" fill="none"/></g></g></svg>
+        </a>
+        <!-- Column -->
+        <div class="w-full sm:w-10/12 px-4" id="gSlide">
+            <img src="/images/GartnerPeerInsights.png" class="mb-8" />
+            {% assign slides = site.gartner %}
+            {% for slide in slides %}
+                <!-- SLIDE -->
+                <div class="slide current">
+                    <blockquote class="text-bwhite text-4xl font-sans font-semibold leading-snug mb-10">{{ slide.content }}</blockquote>
+                    <cite class="text-bwhite text-2xl sm:text-3xl md:text-xl font-bold font-sans not-italic">— {{ slide.cite }}</cite>
+                    <a href="https://www.gartner.com/reviews/market/disaster-recovery-as-a-service/vendor/expedient" target="_blank" class="w-56 block bg-yellow px-5 py-3 text-bwhite font-bold text-base font-sans mt-8 ctaButton relative align-middle relative">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="7.737" height="11.791" viewBox="0 0 7.737 11.791" class="absolute right-0 mr-4 mt-2"><path d="M250.582,37.634l-5.829,5.9-1.908-1.92,3.925-3.976-3.925-3.975,1.908-1.92Z" transform="translate(-242.845 -31.738)" fill="#fdfdfd"></path></svg>
+                        Read All Reviews
+                    </a>
+                </div>
+                <!-- END SLIDE -->
+            {% endfor %}
+        </div>
+        <!-- Arrow -->
+        <a class="hidden sm:block w-1/12 px-4 gSlideRight">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102.924 107.488"><g transform="translate(-1419 -3243)"><path d="M31.724,53.744,84.815,0,102.2,17.519,66.427,53.744,102.2,89.969,84.815,107.488Z" transform="translate(1553.648 3350.488) rotate(180)" fill="#f5f5f5"/><g transform="translate(1419 3277)" fill="#fff" stroke="#f5f5f5" stroke-width="2"><circle cx="19.5" cy="19.5" r="19.5" stroke="none"/><circle cx="19.5" cy="19.5" r="18.5" fill="none"/></g></g></svg>
+        </a>
+    </div>
+</section>
+<!-- END Gartner Pull Out -->
