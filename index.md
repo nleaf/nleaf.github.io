@@ -63,6 +63,22 @@ page_sections:
   featured_intro: Your enterprise workloads and applications are ready for a migration to the cloud, but a move to a hyperscale cloud provider requires your teams to learn entirely new platforms, demands potential refactoring of your applications, and doesn’t provide you with the inherent security and white-glove managed services you need to keep your business risk-free and running.
   featured_cta_link: index.md
   featured_cta_text: Learn More
+  related_products:
+  - category: Featured Case Study
+    title: Example
+    description: Some description
+    img: uploads/ph_Related.jpg
+  - category: Featured Case Study
+    title: Example
+    description: Some description
+    img: uploads/ph_Related.jpg
+  - category: Featured Case Study
+    title: Example
+    description: Some description
+    img: uploads/ph_Related.jpg
+  - category: 
+    title: Lasting impact, for our clients business in the cloud, today.
+    description: Read more case studies
 type: include
 template: seo
 label: SEO

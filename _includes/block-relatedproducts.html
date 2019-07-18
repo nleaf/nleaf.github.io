@@ -1,8 +1,7 @@
-{% if page.related_products %}
 <!-- Related Products -->
 <div class="px-4 md:max-w-expBody justify-between mx-auto hiddensc">
     <div class="flex -mx-4 flex-wrap">
-        {% for item in page.related_products %}
+        {% for item in section.related_products %}
             {% if item.category %}
                 <!-- Column -->
                 <div class="flex-1 px-4 related">
@@ -27,4 +26,3 @@
     </div>
 </div>
 <!-- END Related Products -->
-{% endif %}

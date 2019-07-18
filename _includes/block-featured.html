@@ -21,5 +21,33 @@
         </div>
     </div>
 
+    <!-- Related Products -->
+    <div class="px-4 md:max-w-expBody justify-between mx-auto hiddensc">
+            <div class="flex -mx-4 flex-wrap">
+                {% for item in section.related_products %}
+                    {% if item.category %}
+                        <!-- Column -->
+                        <div class="flex-1 px-4 related">
+                            <h3 class="text-red font-bold text-base mb-6">{{ item.category }}</h3>
+                            <img src="/uploads/ph_Related.jpg" class="w-full"/>
+                            <div class="bg-bwhite p-6">
+                                <h4 class="text-black text-2xl sm:text-3xl md:text-xl font-bold font-sans">{{ item.title }}</h4>
+                                <p class="text-base font-light my-4">{{ item.description }}</p>
+                                <a href="#" class="text-red ctaLink text-base font-bold font-sans inline pb-1">Learn More</a>
+                            </div>
+                        </div>
+                    {% else %}
+                        <!-- Column Read More -->
+                        <div class="w-1/4 px-4 md:flex-wrap align-middle justify-center items-center md:flex-col hidden sm:flex">
+                            <h3 class="w-full block text-black text-2xl sm:text-3xl md:text-xl font-bold font-sans">{{ item.title }}</h3>
+                            <a href="#" class="w-full block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans ctaButton mt-8 text-center">
+                                    {{ item.description }}
+                                </a>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+        <!-- END Related Products -->
 </section>
 <!-- END Featured Service -->
