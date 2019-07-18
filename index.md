@@ -84,12 +84,6 @@ page_sections:
     title: Lasting impact, for our clients business in the cloud, today.
     description: Read more case studies
     img: ''
-- template: newswire
-  news:
-  - title: Some new Title
-    icon: ''
-    link: index.md
-    description: ''
 type: include
 template: seo
 label: SEO
