@@ -86,6 +86,13 @@ page_sections:
     img: ''
 - template: gartner
   block: gartner
+- template: newswire
+  news:
+  - title: New Hightlight
+    icon: "/uploads/ico_play.svg"
+    link: index.md
+    description: Some link description
+  block: ''
 type: include
 template: seo
 label: SEO
