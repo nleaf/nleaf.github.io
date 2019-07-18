@@ -1,4 +1,11 @@
 ---
 label: featured
 hide_body: false
-fields: []
+fields:
+- name: featured
+  type: blocks
+  label: featured
+  template_types: []
+  config:
+    min: 
+    max: 
