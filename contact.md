@@ -1,14 +1,18 @@
 ---
 title: Contact
-date: 2017-11-01 03:00:00 +0000
+date: 2017-11-01T03:00:00.000+00:00
 banner_image: "/uploads/2018/02/17/building2.jpg"
 heading: Contact Expedient
-publish_date: 2017-12-01 04:00:00 +0000
+publish_date: 2017-12-01T04:00:00.000+00:00
 show_staff: true
 menu:
+  header:
+    title: Let's Talk
+    identifier: datascenters
+    weight: 1
   navigation:
     identifier: _contact
-    weight: 4
+    weight: 3
 
 ---
 ## Hours of Operation

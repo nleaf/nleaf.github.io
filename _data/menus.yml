@@ -1,31 +1,35 @@
 ---
-subnav:
-  - url: /about
-    title: About
-    identifier: services
-  - url: /about
-    title: Careers
-    identifier: services
-  - url: /about
-    title: Knowledgebase
-    identifier: services
-  - url: /about
-    title: Partners
-    identifier: services
-  - url: /about
-    title: Support
-    identifier: services
 header:
-  - url: /about
-    title: Services
-    identifier: services
-  - url: /contact
-    title: Datacenters
-    identifier: datascenters
-  - url: /contact
-    title: Why Expedient
-    identifier: datascenters
-  - url: /contact
-    title: Let's Talk
-    identifier: datascenters
----
+- url: "/contact"
+  title: Why Expedient
+  identifier: datascenters
+  weight: 2
+- url: "/contact"
+  title: Datacenters
+  identifier: datascenters
+  weight: 3
+- url: "/about"
+  title: Services
+  identifier: services
+  weight: 4
+subnav:
+- url: "/about"
+  title: Support
+  identifier: services
+  weight: 1
+- url: "/about"
+  title: Partners
+  identifier: services
+  weight: 2
+- url: "/about"
+  title: Knowledgebase
+  identifier: services
+  weight: 3
+- url: "/about"
+  title: Careers
+  identifier: services
+  weight: 4
+- url: "/about"
+  title: About
+  identifier: services
+  weight: 5
