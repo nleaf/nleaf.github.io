@@ -9,7 +9,7 @@ menu:
   header:
     title: Let's Talk
     identifier: datascenters
-    weight: 1
+    weight: 4
   navigation:
     identifier: _contact
     weight: 3
