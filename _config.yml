@@ -2,7 +2,7 @@ title: Expedient
 short_title: Expedient
 description: Expedient Demo Site for Forestry.io
 baseurl: 
-permalink: "/:path/"
+permalink: pretty
 defaults:
   - scope:
       path: ""
