@@ -14,7 +14,7 @@ page_sections:
     icon: "/uploads/ico_cloud.svg"
     description: 123Leverage your organization’s existing VMware skill sets while
       taking advantage of a fully integrated VMware stack of technologies.
-    link: contact.md
+    link: index.md
   - link_title: Colocation
     icon: "/uploads/ico_dc.svg"
     description: 222Leverage your organization’s existing VMware skill sets while
