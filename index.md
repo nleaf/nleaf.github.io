@@ -86,6 +86,14 @@ page_sections:
     img: ''
 - template: gartner
   block: gartner
+- template: callout
+  block: callout
+  link: contact.md
+  cta: Learn More
+  heading: Cloud Build vs. Buy Calculator
+  content: Determine the cost of building your own private <br/>cloud vs. the cost
+    of a hosted solution.
+  icon: "/uploads/ph_CloudCalc.svg"
 type: include
 template: seo
 label: SEO
