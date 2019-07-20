@@ -1,4 +1,51 @@
 ---
 label: moreyouknow
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  default: moreyouknow
+  hidden: true
+- name: heading
+  type: text
+  config:
+    required: false
+  label: heading
+- name: subheading
+  type: text
+  config:
+    required: false
+  label: subheading
+- name: featured
+  type: field_group_list
+  fields:
+  - name: link
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: jekyll-pages
+        file: 
+        path: 
+    label: link
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: heading
+  - name: content
+    type: text
+    config:
+      required: false
+    label: content
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: featured
