@@ -1,0 +1,8 @@
+---
+title: 'Announcing: Expedient Data Centers’ Brand New Website'
+date: Mon, 08 Sep 2014 12:47:00 +0000
+draft: false
+tags: [Bryan Smith, Data Centers]
+---
+
+We’re pleased to announce the launch of our brand new website! In an effort to create an authentic representation of our organization, values and services, as well as a central hub for interacting with customers, partners and members of the community, we have worked to develop an interactive website with a fresh design to represent the face of Expedient. While working through the development of our website, our team has taken a great deal of time to carefully consider all aspects of our company, including how and why we do business, and how we can help our customers. Our interactions with our prospects and customers were at the root of defining how we communicate our visual identity while encouraging interaction with those visiting the site. Integrating the new look and feel of Expedient’s website hasn’t changed what is core to Expedient. Our focus continues to be the S.M.A.R.T. company predicated on uptime, flexibility and scalability of infrastructure related service, while constantly working to support our customers, provide expert insight and build lasting relationships. Our goal in establishing this new site was to convey our passion, excitement and dedication to our customers and employees alike. As such, we’d welcome your feedback. At your convenience, please review our new website. We’d appreciate your reflections on our efforts. [www.expedient.com](https://www.expedient.com) Please stay tuned for further announcements on the details of our upcoming expansions and open house events.
