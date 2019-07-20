@@ -33,3 +33,20 @@ subnav:
   title: Support
   identifier: services
   weight: 1
+footer:
+- url: "/about"
+  title: Cloud
+  identifier: cloud
+  weight: 5
+- url: "/about"
+  title: Colocation
+  identifier: colocation
+  weight: 4
+- url: "/about"
+  title: Security and Compliance
+  identifier: security
+  weight: 3
+- url: "/about"
+  title: Disaster Recovery
+  identifier: dr
+  weight: 2
