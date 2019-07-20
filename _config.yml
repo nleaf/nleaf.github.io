@@ -2,7 +2,7 @@ title: Expedient
 short_title: Expedient
 description: Expedient Demo Site for Forestry.io
 baseurl: 
-permalink: pretty
+permalink: /:path
 defaults:
   - scope:
       path: ""
@@ -21,6 +21,7 @@ collections:
     permalink: "/about/:path/"
   posts:
     output: true
+    permalink: "knowledgebase/blog/:title/"
   projects:
     output: true
     permalink: "/projects/:path/"
