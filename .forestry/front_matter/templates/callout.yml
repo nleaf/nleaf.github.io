@@ -1,4 +1,36 @@
 ---
 label: callout
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: callout
+- name: heading
+  type: text
+  config:
+    required: false
+  label: heading
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: content
+- name: cta
+  type: text
+  config:
+    required: false
+  label: cta
+  default: Learn More
+- name: icon
+  type: file
+  config:
+    maxSize: 250
+  label: icon
