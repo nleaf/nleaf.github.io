@@ -23,6 +23,18 @@ fields:
     schema:
       format: markdown
   label: content
+- name: link
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: jekyll-pages
+      file: 
+      path: 
+  label: link
 - name: cta
   type: text
   config:
