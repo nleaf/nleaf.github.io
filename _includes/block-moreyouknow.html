@@ -1,0 +1,31 @@
+<!-- The More you know -->
+<section class="bg-lgrey relative">
+
+    <div class="px-4 md:max-w-expBody justify-between mx-auto py-16 relative hiddensc">
+        
+        <h4 class="w-full text-black font-bold text-base mb-0 font-sans text-center align-middle justify-center">{{ section.heading }}</h4>
+        <div class="w-full text-black font-bold text-6xl mb-6 font-sans text-center align-middle justify-center">
+            {{ section.subheading }}
+        </div>
+        <div class="flex -mx-4">
+                <img src="/images/ph_EXP_DC.png" class="absolute top-0 left-0 mt-20 z-0 hidden sm:block" style="margin-left: -67%;width: inherit;max-width: initial;">
+            <!-- Column -->
+            <div class="w-6/12 px-4 relative hidden sm:flex">
+                <!-- Spacer -->
+            </div>
+
+            <!-- Column -->
+            <div class="w-full sm:w-6/12 px-4 mt-4">
+                {% for item in section.featured %}
+                    <!-- Col -->
+                    <a href="{{ item.link | absolute_url }}" class="w-full bg-bwhite my-4 pt-4 pb-6 px-6 relative quickNav">
+                        <h3 class="text-2xl sm:text-3xl md:text-xl font-semibold font-sans mb-3 text-red">{{ item.heading }}</h3>
+                        <p class="text-xl font-light leading-normal my-2">{{ item.content }}</p>
+                    </a>
+                    <!-- END Col -->
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+<!-- END The More you know -->
