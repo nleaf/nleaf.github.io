@@ -99,6 +99,16 @@ page_sections:
   heading: Expedient quick facts
   subheading: The more you know.
   featured:
+  - link: index.md
+    heading: Disaster Recovery
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam malesuada
+      leo ut malesuada mollis. Sed lectus turpis, cursus sit amet dapibus vel, dictum
+      non nibh.
+  - link: contact.md
+    heading: Services
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam malesuada
+      leo ut malesuada mollis. Sed lectus turpis, cursus sit amet dapibus vel, dictum
+      non nibh.
   - link: contact.md
     heading: Data Centers
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam malesuada
