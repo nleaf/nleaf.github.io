@@ -1,4 +1,30 @@
 ---
 label: newsletter
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: newsletter
+- name: heading
+  type: text
+  config:
+    required: false
+  label: heading
+- name: subheading
+  type: text
+  config:
+    required: false
+  label: subheading
+- name: cta
+  type: text
+  config:
+    required: false
+  label: CTA
+- name: show_social
+  type: boolean
+  label: Show Social
+  description: Show Expedient's social outlets (Linkedin, Twitter, YouTube, RSS Feed)
