@@ -843,14 +843,14 @@ body::-webkit-scrollbar-thumb {
 }
 
 .hpFeaturedRev {
-  background: url(../images/ph_arrow2.svg);
+  background: url(../img/ph_arrow2.svg);
   background-size: 100%;
   background-position: 100% 55%;
   background-repeat: no-repeat;
 }
 
 .hpFeaturedSub {
-  background: url(../images/bg_arrowSub.svg);
+  background: url(../img/bg_arrowSub.svg);
   background-size: 100%;
   background-position: 100% 12%;
   background-repeat: no-repeat;
@@ -865,7 +865,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .callOut.hurricane {
-  background-image: url(../images/bg_hurricane.png);
+  background-image: url(../img/bg_hurricane.png);
 }
 
 /* Related Products */
