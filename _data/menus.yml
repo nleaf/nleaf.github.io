@@ -35,18 +35,10 @@ subnav:
   weight: 1
 footer:
 - url: "/about"
-  title: Cloud
-  identifier: cloud
-  weight: 6
-- url: "/about"
   title: Disaster Recovery
   identifier: dr
-  weight: 2
+  weight: 4
 - url: "/about"
   title: Security and Compliance
   identifier: security
-  weight: 4
-- url: "/about"
-  title: Colocation
-  identifier: colocation
-  weight: 5
+  weight: 3
