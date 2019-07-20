@@ -24,6 +24,7 @@ fields:
   - gartner
   - callout
   - moreyouknow
+  - newsletter
   config:
     min: 
     max: 
