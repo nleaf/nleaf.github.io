@@ -11,7 +11,7 @@ tags:
 slug: ''
 menu:
   footer:
-    weight: 2
+    weight: 3
     title: Colocation
 
 ---
