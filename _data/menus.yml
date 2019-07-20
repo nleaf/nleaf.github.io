@@ -43,3 +43,15 @@ footer:
   identifier: security
   weight: 3
 subfooter:
+- url: "/about"
+  title: Services
+  identifier: services2
+  weight: 1
+- url: "/contact"
+  title: Datacenters
+  identifier: datascenters3
+  weight: 2
+- url: "/contact"
+  title: Why Expedient
+  identifier: datascenters4
+  weight: 3
