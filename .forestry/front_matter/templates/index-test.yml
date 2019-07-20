@@ -23,6 +23,7 @@ fields:
   - newswire
   - gartner
   - callout
+  - moreyouknow
   config:
     min: 
     max: 
