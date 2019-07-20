@@ -94,6 +94,16 @@ page_sections:
   content: Determine the cost of building your own private <br/>cloud vs. the cost
     of a hosted solution.
   icon: "/uploads/ph_CloudCalc.svg"
+- template: moreyouknow
+  block: moreyouknow
+  heading: Expedient quick facts
+  subheading: The more you know.
+  featured:
+  - link: contact.md
+    heading: Data Centers
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam malesuada
+      leo ut malesuada mollis. Sed lectus turpis, cursus sit amet dapibus vel, dictum
+      non nibh.
 type: include
 template: seo
 label: SEO
