@@ -114,6 +114,13 @@ page_sections:
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam malesuada
       leo ut malesuada mollis. Sed lectus turpis, cursus sit amet dapibus vel, dictum
       non nibh.
+- template: newsletter
+  block: newsletter
+  heading: The best of Expedient delivered to your inbox.
+  subheading: Sign up for more technical briefs, stories, and special offers from
+    Expedient.
+  cta: Subscribe Now
+  show_social: true
 type: include
 template: seo
 label: SEO
