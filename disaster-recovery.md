@@ -27,6 +27,18 @@ page_sections:
     supported tests. And if disaster strikes, you can rely upon our 24x7x365 Operations
     Support Center team to be available if — and when — you need us.
   icon: "/uploads/EXP_PushButtonDR.svg"
+- template: featured-service
+  block: featured-service
+  title: On-Site Private Cloud with Disaster Recovery as a Service
+  headline: Ease your transition to the  cloud with a dedicated  on-premises cloud.
+  description: Expedient’s On-Site Private Cloud with Disaster Recovery as a Service
+    is designed to ease your transition to the cloud through dedicated on-premises
+    cloud resources coupled with managed disaster recovery from your location to any
+    one of Expedient’s 11 data centers using Push Button DR. The On-Site Private Cloud
+    with DRaaS is ideal for customers who want to transform their IT operations without
+    sacrificing the benefits or control of an on-premises environment.
+  icon: "/uploads/EXP_OnSiteDraaS.svg"
+  align-left: false
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
