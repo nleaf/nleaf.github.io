@@ -36,6 +36,17 @@ page_sections:
   cite: "- IT Director, Professional Services Company"
   link: ''
   cta: ''
+- template: highlights-2-column
+  block: highlights-2col
+  heading: Flexible and Extensible
+  subheading: Push Button DR  Highlights
+  highlights:
+  - align-left: true
+    icon: "/uploads/EXP_RiskMitigation.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: Risk Mitigation
+    description: Protect information technology workloads with disaster recovery solutions
+      that offer the fastest recovery time objectives.
 - template: featured-service
   block: featured-service
   title: On-Site Private Cloud with Disaster Recovery as a Service
