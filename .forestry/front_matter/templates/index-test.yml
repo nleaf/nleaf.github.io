@@ -28,6 +28,7 @@ fields:
   - page-hero
   - subscribe-bar
   - featured-service
+  - quote
   config:
     min: 
     max: 
