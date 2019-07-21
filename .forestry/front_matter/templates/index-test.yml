@@ -29,6 +29,7 @@ fields:
   - subscribe-bar
   - featured-service
   - quote
+  - highlights-2-column
   config:
     min: 
     max: 
