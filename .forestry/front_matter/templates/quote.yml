@@ -1,4 +1,42 @@
 ---
 label: Quote
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: quote
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+- name: image-alt
+  type: text
+  config:
+    required: false
+  label: Image Alt text
+- name: quote
+  type: text
+  config:
+    required: false
+  label: quote
+- name: cite
+  type: text
+  config:
+    required: false
+  label: Cite
+- name: link
+  type: text
+  config:
+    required: false
+  label: Link
+  description: Optional
+- name: cta
+  type: text
+  config:
+    required: false
+  label: Link CTA Text
