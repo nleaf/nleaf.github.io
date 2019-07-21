@@ -60,6 +60,15 @@ page_sections:
     headline: Risk Mitigation
     description: Protect information technology workloads with disaster recovery solutions
       that offer the fastest recovery time objectives.
+- template: callout
+  block: callout
+  link: contact.md
+  cta: Learn More
+  heading: Interested in saving $100,000 a day?
+  content: Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
+    Push Button DR.
+  icon: ''
+  background: "/uploads/bg_hurricane.png"
 - template: featured-service
   block: featured-service
   title: On-Site Private Cloud with Disaster Recovery as a Service
@@ -72,15 +81,6 @@ page_sections:
     sacrificing the benefits or control of an on-premises environment.
   icon: "/uploads/EXP_OnSiteDraaS.svg"
   align-left: false
-- template: callout
-  block: callout
-  link: contact.md
-  cta: Learn More
-  heading: Interested in saving $100,000 a day?
-  content: Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
-    Push Button DR.
-  icon: ''
-  background: "/uploads/bg_hurricane.png"
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
