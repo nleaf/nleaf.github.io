@@ -30,7 +30,7 @@ page_sections:
 - template: featured-service
   block: featured-service
   title: On-Site Private Cloud with Disaster Recovery as a Service
-  headline: Ease your transition to the  cloud with a dedicated  on-premises cloud.
+  headline: 'Ease your transition to the  cloud with a dedicated  on-premises cloud. '
   description: Expedient’s On-Site Private Cloud with Disaster Recovery as a Service
     is designed to ease your transition to the cloud through dedicated on-premises
     cloud resources coupled with managed disaster recovery from your location to any
