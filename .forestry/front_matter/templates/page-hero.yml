@@ -1,4 +1,21 @@
 ---
 label: Page-hero
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: page-hero
+- name: banner_image
+  type: file
+  config:
+    maxSize: 250
+  label: Banner Image
+- name: subheadline
+  type: text
+  config:
+    required: false
+  label: Sub Headline
