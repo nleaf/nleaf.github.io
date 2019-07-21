@@ -11,6 +11,7 @@
 
         <!-- Standard Two-Col -->
         {% for item in section.highlights %}
+
             {% if item.align-left %} 
                 <div class="flex -mx-4"> 
                     <!-- Left -->
@@ -28,7 +29,7 @@
                         </div> 
                     </div>
                 </div>
-            {% else &}
+            {% else %}
                 <div class="flex -mx-4"> 
                     <!-- Left -->
                     <div class="w-full sm:w-6/12 px-4 mt-4">
@@ -46,6 +47,7 @@
                     </div>
                 </div>
             {% endif %}
+
         {% endfor %}
         <!-- END Standard Two-Col -->
     </div>
