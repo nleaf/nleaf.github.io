@@ -72,6 +72,14 @@ page_sections:
     sacrificing the benefits or control of an on-premises environment.
   icon: "/uploads/EXP_OnSiteDraaS.svg"
   align-left: false
+- template: callout
+  block: callout
+  link: contact.md
+  cta: Learn More
+  heading: Interested in saving $100,000 a day?
+  content: Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
+    Push Button DR.
+  icon: ''
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
