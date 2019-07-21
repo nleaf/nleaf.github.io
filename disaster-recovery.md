@@ -41,6 +41,12 @@ page_sections:
   heading: Flexible and Extensible
   subheading: Push Button DR  Highlights
   highlights:
+  - align-left: true
+    icon: "/uploads/EXP_Agility.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: Agility
+    description: Failover at the push of a button and have the ability to operate
+      applications in multiple data centers or your own site.
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
     background: "/uploads/ph_hurricane.jpg"
