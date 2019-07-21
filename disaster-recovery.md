@@ -16,7 +16,7 @@ page_sections:
   cta: Subscribe Now
 - template: featured-service
   block: featured-service
-  align-left: true
+  align-left: false
   title: Push Button DR
   headline: Rapid Speed, Complete Confidence, Resilience at the push of a button
   description: Expedient’s Push Button DR offers rapid, total network failover between
