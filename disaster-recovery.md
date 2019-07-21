@@ -27,6 +27,15 @@ page_sections:
     supported tests. And if disaster strikes, you can rely upon our 24x7x365 Operations
     Support Center team to be available if — and when — you need us.
   icon: "/uploads/EXP_PushButtonDR.svg"
+- template: quote
+  block: quote
+  image: "/uploads/EXP_Circle-Mark.svg"
+  image-alt: Expedient
+  quote: "“Our experience watching Push Button DR in action for our applications was
+    like magic. It simplified our business continuity plan.”"
+  cite: "- IT Director, Professional Services Company"
+  link: ''
+  cta: ''
 - template: featured-service
   block: featured-service
   title: On-Site Private Cloud with Disaster Recovery as a Service
