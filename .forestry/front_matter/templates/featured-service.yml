@@ -1,4 +1,42 @@
 ---
 label: Featured Service
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: featured-service
+- name: align-left
+  type: boolean
+  label: Alignment
+  description: Default text alignment is left
+  hidden: false
+  default: true
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: headline
+  type: text
+  config:
+    required: false
+  label: Headline
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: icon
+  type: file
+  config:
+    maxSize: 250
+  label: Icon
+  description: Featured Service Icon
