@@ -25,6 +25,7 @@ fields:
   - callout
   - moreyouknow
   - newsletter
+  - page-hero
   config:
     min: 
     max: 
