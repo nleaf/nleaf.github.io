@@ -891,7 +891,7 @@ body::-webkit-scrollbar-thumb {
 /* BG Quote */
 
 .bgQuote {
-  background: url(../images/bg_quote.png);
+  background: url(../img/bg_quote.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
