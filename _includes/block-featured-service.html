@@ -8,7 +8,7 @@
             <p class="text-xl font-light leading-normal my-4">{{section.description}}</p>
         </div>
         <div class="w-full hidden sm:w-5/12 sm:pl-4 sm:flex flex-wrap justify-center">
-            <img src="{{ item.icon | absolute_url }}" alt="{{ item.link_title }}" class="w-full" />   
+            <img src="{{ section.icon | absolute_url }}" alt="{{ section.title }}" class="w-full" />   
             <img src="/images/EXP_Gartner-PushBtn.svg"  class="w-3/4"/>
         </div>
     </div>
@@ -17,7 +17,7 @@
 <section class="relative sm:py-12 hpFeaturedSub sm:pb-12">
     <div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12">
         <div class="w-full hidden sm:w-6/12 sm:pl-0 sm:flex flex-wrap justify-center relative">
-            <img src="{{ item.icon | absolute_url }}" alt="{{ item.link_title }}" class="absolute top-0 mt-16 -ml-24" />
+            <img src="{{ section.icon | absolute_url }}" alt="{{ section.title }}" class="absolute top-0 mt-16 -ml-24" />
         </div>
         <div class="w-full sm:w-6/12 mt-12 sm:pl-0 sm:mt-24">
             <h3 class="text-red text-xl font-bold font-sans">{{section.title}}</h3>
