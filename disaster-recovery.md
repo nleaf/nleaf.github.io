@@ -14,6 +14,19 @@ page_sections:
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
   cta: Subscribe Now
+- template: featured-service
+  block: featured-service
+  align-left: true
+  title: Push Button DR
+  headline: Rapid Speed, Complete Confidence, Resilience at the push of a button
+  description: Expedient’s Push Button DR offers rapid, total network failover between
+    disparate locations at the push of a button, without IP or DNS changes. Our Recovery
+    Time Objectives (RTOs) and Recovery Point Objectives (RPOs) are measured in minutes,
+    not hours or days, giving you confidence in business continuity. Testing your
+    DR plan is a breeze with dedicated infrastructure and unlimited self-service or
+    supported tests. And if disaster strikes, you can rely upon our 24x7x365 Operations
+    Support Center team to be available if — and when — you need us.
+  icon: "/uploads/EXP_PushButtonDR.svg"
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
