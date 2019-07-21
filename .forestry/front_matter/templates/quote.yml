@@ -40,3 +40,4 @@ fields:
   config:
     required: false
   label: Link CTA Text
+  description: Optional
