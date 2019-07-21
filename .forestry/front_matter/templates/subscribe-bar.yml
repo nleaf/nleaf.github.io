@@ -1,4 +1,21 @@
 ---
 label: Subscribe Bar
 hide_body: false
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: subbar
+- name: headline
+  type: text
+  config:
+    required: false
+  label: headline
+- name: cta
+  type: text
+  config:
+    required: false
+  label: cta
