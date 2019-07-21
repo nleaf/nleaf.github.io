@@ -46,3 +46,8 @@ fields:
   config:
     maxSize: 250
   label: icon
+- name: background
+  type: file
+  config:
+    maxSize: 250
+  label: Background
