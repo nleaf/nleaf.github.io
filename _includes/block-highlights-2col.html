@@ -1,0 +1,54 @@
+<!-- Highlights 2 Col -->
+<section class="bg-llgrey relative">
+
+    <div class="px-4 md:max-w-expBody justify-between mx-auto py-16 relative">
+        
+        <!-- Title Section -->
+        <h4 class="w-full text-black font-bold text-base mb-4 font-sans text-center align-middle justify-center">{{ section.heading }}</h4>
+        <div class="w-full text-black font-bold text-6xl mb-12 font-sans text-center align-middle justify-center leading-exp">
+                {{ section.subheading }}
+        </div>
+
+        <!-- Standard Two-Col -->
+        {% for item in section.highlights %}
+            {% if item.align-left %} 
+                <div class="flex -mx-4"> 
+                    <!-- Left -->
+                    <div class="w-full sm:w-6/12 px-4 mt-4">
+                        <div class="w-full relative">
+                            <img src="{{ item.icon | absolute_url }}" class="absolute pt-3 right-0">
+                            <img src="{{ item.background | absolute_url }}" class="w-10/12">
+                        </div> 
+                    </div>
+                    <!-- Right -->
+                    <div class="w-full sm:w-6/12 px-4 mt-4">
+                        <div class="w-full my-4 pt-4 pb-6 px-6 relative">
+                            <h3 class="text-2xl sm:text-3xl md:text-xl font-semibold font-sans mb-3 text-red">{{ item.headline }}</h3>
+                            <p class="text-xl font-light leading-normal my-2">{{ item.description }}</p>
+                        </div> 
+                    </div>
+                </div>
+            {% else &}
+                <div class="flex -mx-4"> 
+                    <!-- Left -->
+                    <div class="w-full sm:w-6/12 px-4 mt-4">
+                        <div class="w-full my-4 pt-4 pb-6 px-6 relative">
+                            <h3 class="text-2xl sm:text-3xl md:text-xl font-semibold font-sans mb-3 text-red">{{ item.headline }}</h3>
+                            <p class="text-xl font-light leading-normal my-2">{{ item.description }}/p>
+                        </div> 
+                    </div>
+                    <!-- Right -->
+                    <div class="w-full sm:w-6/12 px-4 mt-4">
+                        <div class="w-full relative text-right">
+                            <img src="{{ item.icon | absolute_url }}" class="absolute pt-3 left-0">
+                            <img src="{{ item.background | absolute_url }}" class="w-10/12 float-right">
+                        </div> 
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+        <!-- END Standard Two-Col -->
+    </div>
+
+</section>
+<!-- END Highlights 2 Col -->
