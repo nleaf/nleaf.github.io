@@ -14,7 +14,7 @@ fields:
   label: Alignment
   description: Default text alignment is left
   hidden: false
-  default: true
+  default: false
 - name: title
   type: text
   config:
