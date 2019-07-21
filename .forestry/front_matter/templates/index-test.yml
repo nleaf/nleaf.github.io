@@ -27,6 +27,7 @@ fields:
   - newsletter
   - page-hero
   - subscribe-bar
+  - featured-service
   config:
     min: 
     max: 
