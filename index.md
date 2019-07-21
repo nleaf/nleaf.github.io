@@ -93,7 +93,7 @@ page_sections:
   heading: Cloud Build vs. Buy Calculator
   content: Determine the cost of building your own private <br/>cloud vs. the cost
     of a hosted solution.
-  icon: "/uploads/ph_CloudCalc.svg"
+  icon: "/uploads/ico_cloud.svg"
   background: "/uploads/ph_arrow2.svg"
 - template: moreyouknow
   block: moreyouknow
