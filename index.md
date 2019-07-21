@@ -94,6 +94,7 @@ page_sections:
   content: Determine the cost of building your own private <br/>cloud vs. the cost
     of a hosted solution.
   icon: "/uploads/ph_CloudCalc.svg"
+  background: "/uploads/ph_arrow2.svg"
 - template: moreyouknow
   block: moreyouknow
   heading: Expedient quick facts
