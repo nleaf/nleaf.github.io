@@ -41,6 +41,13 @@ page_sections:
   heading: Flexible and Extensible
   subheading: Push Button DR  Highlights
   highlights:
+  - align-left: false
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: Availability
+    description: Replicate computing workloads of critical importance in two or more
+      data centers or your own site and rely upon automatic recovery by interconnected
+      locations.
   - align-left: true
     icon: "/uploads/EXP_RiskMitigation.svg"
     background: "/uploads/ph_hurricane.jpg"
