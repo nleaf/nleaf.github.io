@@ -26,6 +26,7 @@ fields:
   - moreyouknow
   - newsletter
   - page-hero
+  - subscribe-bar
   config:
     min: 
     max: 
