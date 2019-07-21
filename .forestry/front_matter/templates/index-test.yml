@@ -30,4 +30,5 @@ fields:
     min: 
     max: 
 pages:
+- disaster-recovery.md
 - index.md

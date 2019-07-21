@@ -2,8 +2,14 @@
 layout: blocks
 title: Disaster Recovery as a Service
 hide_body: true
-permalink: /services/disaster-recovery
+permalink: "/services/disaster-recovery"
 page_sections:
+- template: page-hero
+  block: page-hero
+  banner_image: "/uploads/bg_servies.jpg"
+  subheadline: Expedient’s Disaster Recovery as a Service solutions have been recognized
+    in the Gartner Magic Quadrant for DRaaS and offer fast, total network failover
+    without IP and DNS changes.
 - template: featured
   block: featured
   featured_category: Featured Service
