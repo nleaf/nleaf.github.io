@@ -39,5 +39,6 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/Prodigo-Solutions.md
 - disaster-recovery.md
 - index.md
