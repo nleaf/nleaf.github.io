@@ -102,6 +102,8 @@ page_sections:
     description_right: Stop purchasing hardware and accurately forecast monthly operational
       infrastructure expense while taking advantage of the latest technology.
     icon_right: "/uploads/EXP_CostControl.svg"
+- template: recent-posts
+  block: recentposts
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
@@ -118,13 +120,13 @@ description: Expedient is the local cloud, colocation, IaaS and DRaaS provider i
   Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
 image: ''
 menu:
-  header:
-    title: Services
-    identifier: services
-    weight: 1
   subfooter:
     title: Services
     identifier: services2
+    weight: 1
+  header:
+    title: Services
+    identifier: services
     weight: 1
 
 ---
