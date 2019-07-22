@@ -19,9 +19,12 @@ collections:
   people:
     output: true
     permalink: "/about/:path/"
+  casestudies:
+    output: true
+    permalink: "/knowledgebase/blog/:title/"
   posts:
     output: true
-    permalink: "knowledgebase/blog/:title/"
+    permalink: "/knowledgebase/blog/:title/"
   projects:
     output: true
     permalink: "/projects/:path/"
