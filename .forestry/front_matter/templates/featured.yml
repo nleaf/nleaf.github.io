@@ -62,6 +62,18 @@ fields:
       maxSize: 250
     label: Image
     description: Optional
+  - name: link
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: jekyll-pages
+        file: 
+        path: 
+    label: link
   config:
     min: 
     max: 
