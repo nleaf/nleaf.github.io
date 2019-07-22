@@ -25,7 +25,15 @@
     <div class="px-4 md:max-w-expBody justify-between mx-auto hiddensc">
             <div class="flex -mx-4 flex-wrap">
                 {% for item in section.related_products %}
-                    {% if !item.category == blank %}
+                    {% if item.category == blank %}
+                        <!-- Column Read More -->
+                        <div class="w-1/4 px-4 md:flex-wrap align-middle justify-center items-center md:flex-col hidden sm:flex">
+                            <h3 class="w-full block text-black text-2xl sm:text-3xl md:text-xl font-bold font-sans">{{ item.title }}</h3>
+                            <a href="{{ item.link | absolute_url }}" class="w-full block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans ctaButton mt-8 text-center">
+                                    {{ item.description }}
+                                </a>
+                        </div>
+                    {% else %}
                         <!-- Column -->
                         <div class="flex-1 px-4 related">
                             <h3 class="text-red font-bold text-base mb-6">{{ item.category }}</h3>
@@ -35,14 +43,6 @@
                                 <p class="text-base font-light my-4">{{ item.description }}</p>
                                 <a href="{{ item.link | absolute_url }}" class="text-red ctaLink text-base font-bold font-sans inline pb-1">Learn More</a>
                             </div>
-                        </div>
-                    {% else %}
-                        <!-- Column Read More -->
-                        <div class="w-1/4 px-4 md:flex-wrap align-middle justify-center items-center md:flex-col hidden sm:flex">
-                            <h3 class="w-full block text-black text-2xl sm:text-3xl md:text-xl font-bold font-sans">{{ item.title }}</h3>
-                            <a href="{{ item.link | absolute_url }}" class="w-full block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans ctaButton mt-8 text-center">
-                                    {{ item.description }}
-                                </a>
                         </div>
                     {% endif %}
                 {% endfor %}
