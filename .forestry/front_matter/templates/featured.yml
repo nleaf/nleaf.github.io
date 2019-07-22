@@ -29,7 +29,7 @@ fields:
     options: []
     source:
       type: pages
-      section: jekyll-pages
+      section: pages
       file: 
       path: 
   label: Featured CTA Link
@@ -70,7 +70,7 @@ fields:
       options: []
       source:
         type: pages
-        section: jekyll-pages
+        section: pages
         file: 
         path: 
     label: link
