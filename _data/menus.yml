@@ -9,10 +9,6 @@ subfooter:
   identifier: datascenters3
   weight: 2
 header:
-- url: "/about"
-  title: Services
-  identifier: services
-  weight: 1
 - url: "/contact"
   title: Datacenters
   identifier: datascenters
