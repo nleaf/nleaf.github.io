@@ -41,7 +41,10 @@
                             <div class="bg-bwhite p-6">
                                 <h4 class="text-black text-2xl sm:text-3xl md:text-xl font-bold font-sans">{{ item.title }}</h4>
                                 <p class="text-base font-light my-4">{{ item.description }}</p>
-                                <a href="{{ item.link | relative_url }}" class="text-red ctaLink text-base font-bold font-sans inline pb-1">Learn More</a>
+                                {% if item.link %}
+                                    {% assign apost = site.pages | where:"path",item.link  | first %}
+                                    <a href="{{apost.url}}" class="text-red ctaLink text-base font-bold font-sans inline pb-1">Learn More</a>
+                                {% endif %} 
                             </div>
                         </div>
                     {% endif %}

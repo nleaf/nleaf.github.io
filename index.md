@@ -77,12 +77,12 @@ page_sections:
     title: Example
     description: Some description
     img: uploads/ph_Related.jpg
-    link: ''
+    link: disaster-recovery.md
   - category: Featured Case Study
     title: Example
     description: Some description
     img: uploads/ph_Related.jpg
-    link: ''
+    link: disaster-recovery.md
   - category: ''
     title: Lasting impact, for our clients business in the cloud, today.
     description: Read more case studies
