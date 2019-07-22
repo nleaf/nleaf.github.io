@@ -42,6 +42,14 @@ page_sections:
   heading: Tomorrow’s cloud, today.
   subheading: Lorem ipsum dolor sit  amet, consectetur.
   highlights:
+  - align-left: false
+    icon: "/uploads/EXP_Server.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Challenge
+    description: 'As a startup, Prodigo’s lean in-house technical operations group
+      was challenged by keeping up with the escalating demands of the business and
+      its growing number of large customers. The organization’s infrastructure was
+      hosted in a '
   - align-left: true
     icon: "/uploads/EXP_Agility.svg"
     background: "/uploads/ph_hurricane.jpg"
