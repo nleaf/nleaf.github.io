@@ -21,7 +21,7 @@ collections:
     permalink: "/about/:path/"
   casestudies:
     output: true
-    permalink: "/knowledgebase/blog/:title/"
+    permalink: "/knowledgebase/resources/:title/"
   posts:
     output: true
     permalink: "/knowledgebase/blog/:title/"
