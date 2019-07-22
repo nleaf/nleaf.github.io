@@ -17,6 +17,26 @@ page_sections:
     experience, who provides us with a turnkey solution at a predictable monthly cost."'
   cite: "- Tony Bollinger, Operations Manager, Prodigo Solutions"
   icon: "/uploads/ph_CasestudyProfile-1.jpg"
+- template: case-study-intro
+  block: casestudy-top
+  header: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  description: Spun out of the University of Pittsburgh’s Medical Center (UPMC) in
+    July 2014 to enable healthcare providers to optimize spend and supply chain processes
+    via contract automation, Prodigo Solutions, Inc. now counts some of the nation’s
+    leading hospitals as its customers. The software provider develops solutions that
+    address several acute challenges in healthcare procurement such as contract management,
+    contract compliance, request & purchase order management, and automation of digital
+    supply chain transactions. The utility of Prodigo’s solutions is especially attractive
+    to the largest-scale integrated delivery network (IDNs) in the country, as Prodigo
+    counts more than 20% of these massive healthcare systems as customers.
+  services:
+  - tag: Colocation
+  - tag: Cloud
+  managedservices:
+  - tag: Dedicated Firewall
+  - tag: DDoS Mitigation
+  - tag: Disaster Recovery as a Service
+  - tag: Server Management and Monitoring
 published: false
 
 ---
