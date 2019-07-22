@@ -1,9 +1,9 @@
 ---
-title: ''
+title: 'Prodigo Solutions'
 seo_title: ''
 description: ''
 image: ''
-layout: ''
+layout: blocks
 page_sections:
 - template: case-study-header
   block: casestudy-hero
