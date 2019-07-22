@@ -8,8 +8,8 @@ page_sections:
 - template: case-study-header
   block: casestudy-hero
   heading: VMWare Cloud migration
-  subheading: Prodigo Solutions realizes substantial business process improvements  through
-    cloud migration with Expedient
+  subheading: Prodigo Solutions realizes substantial business process improvements    
+    through cloud migration with Expedient
   icon: "/uploads/ph_CaseStudyLogo-1.jpg"
 - template: case-study-quote
   block: casestudy-quote
@@ -75,5 +75,4 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: false
-
 ---
