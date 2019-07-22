@@ -1,56 +1,23 @@
----
-subfooter:
-- url: "/contact"
-  title: Datacenters
-  identifier: datascenters3
-  weight: 2
-- url: "/contact"
-  title: Why Expedient
-  identifier: datascenters4
-  weight: 3
 header:
-- title: Let's Talk
-  identifier: datascenters
-  weight: 4
-  url: "/lets-talk"
-- url: "/why-expedient"
-  title: Why Expedient
-  identifier: datascenters
-  weight: 3
-- title: Services
-  identifier: services
-  weight: 1
-- url: "/datacenters"
-  title: Datacenters
-  identifier: datascenters
-  weight: 2
-subnav:
-- url: "/about"
-  title: About
-  identifier: services
-  weight: 5
-- url: "/about"
-  title: Careers
-  identifier: services
-  weight: 4
-- url: "/about"
-  title: Knowledgebase
-  identifier: services
-  weight: 3
-- url: "/about"
-  title: Partners
-  identifier: services
-  weight: 2
-- url: "/about"
-  title: Support
-  identifier: services
-  weight: 1
-footer:
-- url: "/about"
-  title: Disaster Recovery
-  identifier: dr
-  weight: 4
-- url: "/about"
-  title: Security and Compliance
-  identifier: security
-  weight: 3
+  - title: Services
+    childern:
+      - page: Disaster Recovery
+        url: /services/disaster-recovery/
+      - page: Thing 2
+        url: /thing2.html
+      - page: Thing 3
+        url: /thing3.html
+  - title: Datacenter
+    url: /datacenters
+  - title: Why Expedient
+    childern:
+      - page: Our Customers
+        url: /widget1.html
+      - page: Success Stories
+        url: /widget2.html
+      - page: Technology Partners
+        url: /widget3.html
+      - page: Awards
+        url: /widget3.html
+  - title: Let's Talk
+    url: /contact

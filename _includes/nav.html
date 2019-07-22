@@ -3,56 +3,6 @@
 {% endcomment %}
 
 {% assign url = page.url | remove:'index.html' %}
-
-  <!-- <div class="container">
-      <h1 class="logo">
-        <a href="{{ "/" | absolute_url }}">{{ site.name }}</a>
-      </h1>
-      <nav class="main-nav">
-        <ul class="navigation">
-          {% for link in site.menus.navigation %}
-          <li class="{% if link.children %}nested {% endif %}{% if url == link.url %}current{% endif %}">
-            {% if link.children %}
-            <ul class="first-level">
-              {% for child in link.children %}
-              <li>
-                {% if child.children %}
-                <ul class="second-level">
-                  {% for child in child.children %}
-                  <li>
-                    <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>
-                  </li>
-                  {% endfor %}
-                </ul>
-                {% endif %}
-                <a href="{{ child.url | absolute_url }}"{% if child.target %} target="_blank" {% endif %}>
-                  {{ child.title }}
-                  {% if child.childen %}
-                    <i class='icon-right-dir-2'></i>
-                  {% endif %}
-                </a>
-              </li>
-              {% endfor %}
-            </ul>
-            {% endif %}
-            <a href="{{ link.url | absolute_url }}"{% if link.target %} target="_blank" {% endif %}>
-                  {{ link.title }}
-                  {% if link.childen %}
-                    <i class='icon-chevron-down'></i>
-                  {% endif %}
-                </a>
-          </li>
-          {% endfor %}
-        </ul>
-    </nav>
-  </div> -->
-  <!-- <ul>
-  {% for item in site.menus.header %}
-    <li class="menu-item-{{ loop.index }}">
-      <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
-    </li>
-  {% endfor %}
-  </ul> -->
   <div id="subNav" class="hidden lg:block">
       <header>
           <nav class="flex bg-lgrey fixed top-0 inset-x-0 z-100 h-20 lg:h-10 items-center text-sm z-20">
@@ -123,8 +73,21 @@
                         <li class="lg:mx-8 menu-item-{{ loop.index }}">
                             <a class="relative xl:py-10 xl:px-4" href="{{ item.url }}" title="Go to {{ item.title }}">
                                 {{ item.title }}
-                                <svg xmlns="http://www.w3.org/2000/svg" width="7.737" height="11.791" viewBox="0 0 7.737 11.791" class=""><path d="M250.582,37.634l-5.829,5.9-1.908-1.92,3.925-3.976-3.925-3.975,1.908-1.92Z" transform="translate(-242.845 -31.738)" fill="#fdfdfd"/></svg>
+                                {% if item.childern %}
+                                  <svg xmlns="http://www.w3.org/2000/svg" width="7.737" height="11.791" viewBox="0 0 7.737 11.791" class=""><path d="M250.582,37.634l-5.829,5.9-1.908-1.92,3.925-3.976-3.925-3.975,1.908-1.92Z" transform="translate(-242.845 -31.738)" fill="#fdfdfd"/></svg>
+                                {% endif %}
                             </a>
+                            {% if item.childern %}
+                              <ul class="first-level">
+                                {% for child in item.childern %}
+                                <li>
+                                  <a href="{{ child.url | absolute_url }}"{% if child.target %} target="_blank" {% endif %}>
+                                    {{ child.title }}
+                                  </a>
+                                </li>
+                                {% endfor %}
+                              </ul>
+                            {% endif %}
                         </li>
                         {% endfor %}
                         <!-- <li class="lg:mx-8">
