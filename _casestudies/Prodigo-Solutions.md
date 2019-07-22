@@ -37,5 +37,17 @@ page_sections:
   - tag: DDoS Mitigation
   - tag: Disaster Recovery as a Service
   - tag: Server Management and Monitoring
+- template: highlights-2-column
+  block: highlights-2col
+  heading: Tomorrow’s cloud, today.
+  subheading: Lorem ipsum dolor sit  amet, consectetur.
+  highlights:
+  - align-left: true
+    icon: "/uploads/EXP_Agility.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    description: 'The nucleus of what would become the Prodigo Marketplace product
+      was created through an internal initiative of UPMC’s supply chain department
+      in 2008, which was tasked with '
+    headline: The Scenario
 
 ---
