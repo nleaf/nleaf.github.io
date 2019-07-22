@@ -9,13 +9,6 @@ menu:
   footer:
     weight: 1
     title: Cloud
-  header:
-    title: Let's Talk
-    identifier: datascenters
-    weight: 4
-  navigation:
-    identifier: _contact
-    weight: 3
 
 ---
 ## Hours of Operation

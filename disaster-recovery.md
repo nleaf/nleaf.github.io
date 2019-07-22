@@ -121,9 +121,9 @@ description: Expedient is the local cloud, colocation, IaaS and DRaaS provider i
 image: ''
 menu:
   header:
-    title: Services
-    identifier: services
     weight: 1
+    parent: services
+    title: Disaster Recovery
   subfooter:
     title: Services
     identifier: services2

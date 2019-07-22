@@ -9,14 +9,21 @@ subfooter:
   identifier: datascenters4
   weight: 3
 header:
-- url: "/contact"
-  title: Datacenters
+- title: Let's Talk
   identifier: datascenters
-  weight: 2
-- url: "/contact"
+  weight: 4
+  url: "/lets-talk"
+- url: "/why-expedient"
   title: Why Expedient
   identifier: datascenters
   weight: 3
+- title: Services
+  identifier: services
+  weight: 1
+- url: "/datacenters"
+  title: Datacenters
+  identifier: datascenters
+  weight: 2
 subnav:
 - url: "/about"
   title: About

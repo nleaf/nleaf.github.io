@@ -19,10 +19,6 @@ hero_button:
   text: ''
   href: ''
 show_news: false
-menu:
-  navigation:
-    identifier: _about
-    weight: 1
 
 ---
 Expedient combines data centers, network access and managed services to deliver information technology infrastructure as a service (IaaS) solutions. With a physical presence in seven (7) cities, local experts ensure continuous service availability at eleven (11) locations where client data is secured in both physical and virtual platforms, including colocation cabinets, cages and public and private clouds. The company ensures application and data availability through the delivery of a variety of complementary products, predictable monthly expense forecasting, mitigation of the risks associated with industry and government compliance mandates and collaboration with teams of local experts, who are focused on maintaining an environment of operational excellence–freeing clients to focus on strengthening their own differentiators to effectively compete.
