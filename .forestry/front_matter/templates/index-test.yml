@@ -30,6 +30,7 @@ fields:
   - featured-service
   - quote
   - highlights-2-column
+  - highlights-2-column-2-row
   config:
     min: 
     max: 
