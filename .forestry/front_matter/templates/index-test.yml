@@ -31,6 +31,7 @@ fields:
   - quote
   - highlights-2-column
   - highlights-2-column-2-row
+  - recent-posts
   config:
     min: 
     max: 
