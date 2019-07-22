@@ -34,11 +34,11 @@ page_sections:
   - client_logo: "/uploads/ph_Client1.png"
     link: disaster-recovery.md
   - client_logo: "/uploads/ph_Client2.png"
-    link: contact.md
+    link: disaster-recovery.md
   - client_logo: "/uploads/ph_Client3.png"
-    link: index.md
+    link: disaster-recovery.md
   - client_logo: "/uploads/ph_Client1.png"
-    link: 404.md
+    link: disaster-recovery.md
 - template: newswire
   block: newswire
   news:
