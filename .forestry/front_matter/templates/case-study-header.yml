@@ -1,4 +1,27 @@
 ---
-label: Case Study Header
+label: Case Study Hero
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: casestudy-hero
+- name: icon
+  type: file
+  config:
+    maxSize: 250
+  label: icon
+  description: Usually Company logo
+- name: heading
+  type: text
+  config:
+    required: false
+  label: heading
+- name: subheading
+  type: text
+  config:
+    required: false
+  label: subheading
