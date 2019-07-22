@@ -81,6 +81,19 @@ page_sections:
     sacrificing the benefits or control of an on-premises environment.
   icon: "/uploads/EXP_OnSiteDraaS.svg"
   align-left: false
+- template: highlights-2-column-2-row
+  block: highlights-2col-2row
+  heading: Robust and Secure
+  subheading: On-Site Private Cloud  Provides
+  highlights:
+  - headline_left: Risk Mitigation
+    description_left: Protect data and comply with mandates like the Payment Card
+      Industry Data Security Standard (PCI DSS)
+    icon_left: "/uploads/EXP_RiskMitigation.svg"
+    headline_right: Agility
+    description_right: Operate applications in multiple data centers concurrently
+      for active/active  workload protection.
+    icon_right: "/uploads/EXP_Agility.svg"
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
