@@ -1,4 +1,11 @@
 ---
 label: Case Study Intro
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: casestudy-top
