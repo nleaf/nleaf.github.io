@@ -8,7 +8,7 @@ fields:
     required: false
   label: block
   hidden: true
-  default: casestudy-top
+  default: casestudy-quote
 - name: icon
   type: file
   config:
