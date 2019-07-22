@@ -42,6 +42,13 @@ page_sections:
   heading: Tomorrow’s cloud, today.
   subheading: Lorem ipsum dolor sit  amet, consectetur.
   highlights:
+  - align-left: true
+    icon: "/uploads/EXP_Scenario.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    description: 'The nucleus of what would become the Prodigo Marketplace product
+      was created through an internal initiative of UPMC’s supply chain department
+      in 2008, which was tasked with '
+    headline: The Scenario
   - align-left: false
     icon: "/uploads/EXP_Server.svg"
     background: "/uploads/ph_hurricane.jpg"
@@ -50,12 +57,5 @@ page_sections:
       was challenged by keeping up with the escalating demands of the business and
       its growing number of large customers. The organization’s infrastructure was
       hosted in a '
-  - align-left: true
-    icon: "/uploads/EXP_Agility.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    description: 'The nucleus of what would become the Prodigo Marketplace product
-      was created through an internal initiative of UPMC’s supply chain department
-      in 2008, which was tasked with '
-    headline: The Scenario
 
 ---
