@@ -57,5 +57,13 @@ page_sections:
       was challenged by keeping up with the escalating demands of the business and
       its growing number of large customers. The organization’s infrastructure was
       hosted in a '
+  - align-left: true
+    icon: "/uploads/EXP_Solution.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Solution
+    description: 'Once Prodigo made the decision to virtualize its data center using
+      VMware, Bollinger knew he wanted a cloud services provider with demonstrated
+      experience supported by proven processes and procedures. Prodigo began its evaluation
+      with '
 
 ---
