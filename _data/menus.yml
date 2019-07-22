@@ -3,11 +3,12 @@ subfooter:
 - url: "/contact"
   title: Why Expedient
   identifier: datascenters4
-  weight: 3
+  weight: 2
 - url: "/contact"
   title: Datacenters
   identifier: datascenters3
-  weight: 2
+  weight: 1
+  parent: services2
 header:
 - url: "/contact"
   title: Datacenters
