@@ -1,5 +1,5 @@
 ---
-title: 'Prodigo Solutions'
+title: Prodigo Solutions
 seo_title: ''
 description: ''
 image: ''
@@ -17,6 +17,7 @@ page_sections:
     experience, who provides us with a turnkey solution at a predictable monthly cost."'
   cite: "- Tony Bollinger, Operations Manager, Prodigo Solutions"
   icon: "/uploads/ph_CasestudyProfile-1.jpg"
+  quote_background: "/uploads/ph_CaseStudybg-1.jpg"
 - template: case-study-intro
   block: casestudy-top
   header: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
