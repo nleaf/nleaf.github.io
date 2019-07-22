@@ -83,7 +83,7 @@ page_sections:
     description: Some description
     img: uploads/ph_Related.jpg
     link: disaster-recovery.md
-  - category: ''
+  - category: " "
     title: Lasting impact, for our clients business in the cloud, today.
     description: Read more case studies
     img: ''
