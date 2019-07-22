@@ -94,6 +94,14 @@ page_sections:
     description_right: Operate applications in multiple data centers concurrently
       for active/active  workload protection.
     icon_right: "/uploads/EXP_Agility.svg"
+  - headline_left: Availability
+    description_left: Replicate computing workloads of critical importance in two
+      or more data centers and rely upon automatic recovery if the unexpected happens.
+    icon_left: "/uploads/EXP_Availability.svg"
+    headline_right: Cost Control
+    description_right: Stop purchasing hardware and accurately forecast monthly operational
+      infrastructure expense while taking advantage of the latest technology.
+    icon_right: "/uploads/EXP_CostControl.svg"
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
