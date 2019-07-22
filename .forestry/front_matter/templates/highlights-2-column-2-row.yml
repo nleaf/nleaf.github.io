@@ -1,4 +1,63 @@
 ---
 label: Highlights 2 Column, 2 Row
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: highlights-2col-2row
+- name: heading
+  type: text
+  config:
+    required: false
+  label: heading
+- name: subheading
+  type: text
+  config:
+    required: false
+  label: subheading
+- name: highlights
+  type: field_group_list
+  fields:
+  - name: headline_left
+    type: text
+    config:
+      required: false
+    label: Headline Left
+  - name: description_left
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Description Left
+  - name: icon_left
+    type: file
+    config:
+      maxSize: 250
+    label: Icon Left
+  - name: headline_right
+    type: text
+    config:
+      required: false
+    label: Headline Right
+  - name: description_right
+    type: text
+    config:
+      required: false
+    label: Description Right
+  - name: icon_right
+    type: file
+    config:
+      maxSize: 250
+    label: Icon Right
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: highlights
