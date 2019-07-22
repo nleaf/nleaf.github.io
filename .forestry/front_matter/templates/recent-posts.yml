@@ -1,4 +1,15 @@
 ---
 label: Recent Posts
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: recentposts
+- name: published_posts
+  type: boolean
+  label: Published Posts
+  description: Turning this on will show three of the most recent published posts.
