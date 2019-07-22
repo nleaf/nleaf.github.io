@@ -15,6 +15,11 @@ fields:
     maxSize: 250
   label: icon
   description: Company logo / Or users linkedin preferred
+- name: quote_background
+  type: file
+  config:
+    maxSize: 250
+  label: quote background
 - name: quote
   type: text
   config:
