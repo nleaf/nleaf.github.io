@@ -65,5 +65,13 @@ page_sections:
       VMware, Bollinger knew he wanted a cloud services provider with demonstrated
       experience supported by proven processes and procedures. Prodigo began its evaluation
       with '
+- template: recent-posts
+  block: recentposts
+- template: newsletter
+  block: newsletter
+  heading: ''
+  subheading: ''
+  cta: ''
+  show_social: false
 
 ---
