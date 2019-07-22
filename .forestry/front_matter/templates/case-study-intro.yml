@@ -9,3 +9,43 @@ fields:
   label: block
   hidden: true
   default: casestudy-top
+- name: header
+  type: text
+  config:
+    required: false
+  label: header
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: services
+  type: field_group_list
+  fields:
+  - name: tag
+    type: text
+    config:
+      required: false
+    label: Tag
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Services
+- name: managedservices
+  type: field_group_list
+  fields:
+  - name: tag
+    type: text
+    config:
+      required: false
+    label: tag
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Managed Services
