@@ -32,7 +32,7 @@ page_sections:
     link: contact.md
   index_casestudies:
   - client_logo: "/uploads/ph_Client1.png"
-    link: contact.md
+    link: disaster-recovery.md
   - client_logo: "/uploads/ph_Client2.png"
     link: contact.md
   - client_logo: "/uploads/ph_Client3.png"
