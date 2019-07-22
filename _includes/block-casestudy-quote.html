@@ -1,0 +1,17 @@
+<!-- Quote Call Out -->
+<section class="bg-black bgQuote" style="background-image: url('{{ section.quote_background | absolute_url }}');">>
+    <div class="px-4 md:max-w-expBody justify-between mx-auto py-40 flex flex-wrap">
+        <!-- Column -->
+        <div class="w-full sm:w-3/12 px-4 mx-auto text-center">
+            <img src="{{ section.icon | absolute_url }}"  class="mx-auto"/>
+        </div>
+        <!-- Column -->
+        <div class="w-full sm:w-8/12 px-4">
+            <div class="slide current">
+                <blockquote class="text-bwhite text-4xl font-sans font-semibold leading-snug mb-10">{{ section.quote }}</blockquote>
+                <cite class="text-bwhite text-2xl sm:text-3xl md:text-xl font-bold font-sans not-italic">{{ section.cite }}</cite>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- END Quote Call Out -->

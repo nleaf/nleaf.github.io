@@ -1,0 +1,25 @@
+<!-- Featured Service -->
+<section class="relative sm:py-2 bg-lgrey sm:pb-12">
+    <div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12">
+        <div class="w-full sm:w-6/12 mt-12 sm:mt-24">
+            <h3 class="text-red text-xl font-bold font-sans">Market Opportunity</h3>
+            <h2 class="text-4xl leading-tight font-black font-sans mt-1 mb-4">{{ section.header }}</h2>
+            <p class="text-xl font-light leading-normal my-4">{{ section.description }}</p>
+        </div>
+        <div class="w-full sm:w-5/12 mt-12 sm:mt-24 pl-4">
+            <h3 class="text-red text-xl font-bold font-sans mb-4">Services</h3>
+            {% for item in section.services %}
+                <a href="#" class="w-full block bg-bwhite my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
+                    {{ item.tag}}
+                </a>
+            {% endfor %}
+            <h3 class="text-red text-xl font-bold font-sans mb-4 mt-8">Managed Services</h3>
+            {% for item in section.managedservices %}
+                <a href="#" class="w-full block bg-bwhite my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
+                    {{ item.tag}}
+                </a>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- END Featured Service -->
