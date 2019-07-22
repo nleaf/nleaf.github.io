@@ -32,6 +32,9 @@ fields:
   - highlights-2-column
   - highlights-2-column-2-row
   - recent-posts
+  - case-study-intro
+  - case-study-quote
+  - case-study-header
   config:
     min: 
     max: 
