@@ -72,18 +72,22 @@ page_sections:
     title: Example
     description: Some description
     img: uploads/ph_Related.jpg
+    link: ''
   - category: Featured Case Study
     title: Example
     description: Some description
     img: uploads/ph_Related.jpg
+    link: ''
   - category: Featured Case Study
     title: Example
     description: Some description
     img: uploads/ph_Related.jpg
+    link: ''
   - category: ''
     title: Lasting impact, for our clients business in the cloud, today.
     description: Read more case studies
     img: ''
+    link: disaster-recovery.md
 - template: gartner
   block: gartner
 - template: callout
