@@ -1,4 +1,27 @@
 ---
 label: Case Study Quote
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: casestudy-top
+- name: icon
+  type: file
+  config:
+    maxSize: 250
+  label: icon
+  description: Company logo / Or users linkedin preferred
+- name: quote
+  type: text
+  config:
+    required: false
+  label: quote
+- name: cite
+  type: text
+  config:
+    required: false
+  label: cite
