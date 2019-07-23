@@ -39,6 +39,7 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/nonni-s-foods.md
 - _casestudies/stanley-steemer.md
 - _casestudies/Prodigo-Solutions.md
 - disaster-recovery.md
