@@ -31,10 +31,10 @@ page_sections:
     franchises and company-owned locations.
   header: Mobilizing a national field services team
   services:
-  - tag: ''
-  - tag: ''
+  - tag: Colocation
+  - tag: Cloud
   managedservices:
-  - tag: ''
+  - tag: Disaster Recovery as a Service
 - template: highlights-2-column
   block: highlights-2col
   highlights:
