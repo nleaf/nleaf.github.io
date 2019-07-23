@@ -25,15 +25,46 @@ page_sections:
   quote_background: ''
 - template: case-study-intro
   block: casestudy-top
-  header: ''
-  description: ''
-  services: []
-  managedservices: []
+  header: Baking up Success
+  description: Nonni’s Foods LLC is the nation’s leading baker of premium biscotti,
+    inspired by grandma’s recipes. With nearly 350 employees across four facilities
+    in the United States and Canada, Nonni’s is the only nationally distributed biscotti
+    brand in the United States and can be found in mass retailers, grocery stores
+    and club stores.
+  services:
+  - tag: Cloud
+  - tag: Colocation
+  managedservices:
+  - tag: Server Management and Monitoring
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
   subheading: ''
-  highlights: []
+  highlights:
+  - align-left: true
+    icon: "/uploads/EXP_Scenario.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Scenario
+    description: When Nonni’s embarked on an Enterprise Resource Planning (ERP) software
+      implementation, it’s lean IT team needed an infrastructure as a service (IaaS)
+      provider that had national reach, multiple facilities and database-level hosting
+      abilities. The company found that with Expedient.
+  - align-left: false
+    icon: "/uploads/EXP_Server.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Challenge
+    description: As a national company with a small IT team, Nonni’s needed a hosting
+      provider that it could trust and rely on so it could stay focused on the important,
+      big picture tasks associated with expanding the business while maintaining its
+      reputation for high-quality, premium cookie products.
+  - align-left: true
+    icon: "/uploads/EXP_Solution.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Solution
+    description: Expedient's 100% uptime service level agreement gives Nonni's IT
+      staff the peace of mind and agility to focus on bettering business processes
+      and empowering the greater Nonni's organization to deliver the right product
+      at the right time and the right price point.
 - template: recent-posts
   block: recentposts
 - template: newsletter
