@@ -39,6 +39,7 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/stanley-steemer.md
 - _casestudies/Prodigo-Solutions.md
 - disaster-recovery.md
 - index.md
