@@ -39,6 +39,7 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/ultimate-home-services.md
 - _casestudies/tic-gums.md
 - _casestudies/bouchard-insurance.md
 - _casestudies/shapiro.md
