@@ -39,6 +39,7 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/bouchard-insurance.md
 - _casestudies/shapiro.md
 - _casestudies/nonni-s-foods.md
 - _casestudies/stanley-steemer.md
