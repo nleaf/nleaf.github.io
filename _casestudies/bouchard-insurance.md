@@ -35,7 +35,32 @@ page_sections:
   block: highlights-2col
   heading: ''
   subheading: ''
-  highlights: []
+  highlights:
+  - align-left: true
+    icon: "/uploads/EXP_Scenario.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Scenario
+    description: When Brian Polak joined Bouchard Insurance in 2015, one of his first
+      orders of business as Director of Information Technology was to select a disaster
+      recovery solution for Bouchard’s virtual desktop infrastructure – a critical
+      capability for an organization with a mission to be available anytime a client
+      claim event occurs.
+  - align-left: false
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Challenge
+    description: Headquartered in Clearwater, FL, but with offices in Tampa, Ft. Myers,
+      Kissimmee, Orlando, and Sarasota, Bouchard Insurance is no stranger to its share
+      of hurricanes; Polak knew that Bouchard’s existing disaster recovery plan was
+      not up to the standards Bouchard, and its clients, deserved.
+  - align-left: true
+    icon: "/uploads/EXP_Solution.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Solution
+    description: Expedient’s Push Button DR solution gave Bouchard Insurance the ability
+      to failover from its production environment in Florida to an Expedient data
+      center nearly 1,000 miles away, while ensuring that the failover was as turnkey
+      as possible by dynamically maintaining Bouchard’s IP scheme at the backup site.
 - template: recent-posts
   block: recentposts
 - template: newsletter
