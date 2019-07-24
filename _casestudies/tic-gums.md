@@ -39,7 +39,30 @@ page_sections:
   block: highlights-2col
   heading: ''
   subheading: ''
-  highlights: []
+  highlights:
+  - align-left: true
+    icon: "/uploads/EXP_Scenario.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Scenario
+    description: Two big considerations for Hensley and his team were technology lock-in
+      and cost control. Like many organizations, TIC Gums was faced with an aging
+      infrastructure that required hardware refresh and software upgrades.
+  - align-left: false
+    icon: "/uploads/EXP_Agility.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Challenge
+    description: When Brian Hensley joined TIC Gums as Director of IT in 2015, he
+      discovered some underlying challenges including IT infrastructure that comingled
+      applications, limited capacity for systems to scale, and a struggle with resource
+      and capacity allocation for test environments.
+  - align-left: true
+    icon: "/uploads/EXP_Solution.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Solution
+    description: To ensure continuous operations for TIC Gums during what was proving
+      to be an involved project to modernize its IT infrastructure, Expedient designed
+      a solution to “lift and shift” existing workloads to a private cloud point of
+      delivery (POD) installed and managed at their location by Expedient.
 - template: recent-posts
   block: recentposts
 - template: newsletter
