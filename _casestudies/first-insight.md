@@ -15,8 +15,10 @@ page_sections:
   block: casestudy-quote
   icon: ''
   quote_background: ''
-  quote: ''
-  cite: ''
+  quote: Right now, I view [Expedient] as one of our go-to partners. You're dependable.
+    You've got technological flexibility, and I find Expedient to be very responsive
+    whenever I need anything.
+  cite: "- John Santore, Manager of Hosting Operations, First Insight"
 - template: case-study-intro
   block: casestudy-top
   header: ''
