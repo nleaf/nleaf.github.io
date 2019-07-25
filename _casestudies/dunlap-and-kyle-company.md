@@ -8,14 +8,16 @@ page_sections:
 - template: case-study-header
   block: casestudy-hero
   icon: ''
-  heading: ''
-  subheading: ''
+  heading: IT Uptime is Where the Rubber Meets the Road!
+  subheading: Dunlap and Kyle Tire Company maximizes the uptime and performance of
+    its mission-critical applications with IaaS and DRaaS from Expedient
 - template: case-study-quote
   block: casestudy-quote
   icon: ''
   quote_background: ''
-  quote: ''
-  cite: ''
+  quote: Because of our cloud and DR solution with Expedient, our ability to meet
+    customer demand and grow the various aspects of our business has noticeably increased.
+  cite: "- Stuart Hill, CIO, Dunlap and Kyle Company"
 - template: case-study-intro
   block: casestudy-top
   services:
