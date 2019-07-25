@@ -22,7 +22,11 @@ page_sections:
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
-  description: ''
+  description: Columbus Metropolitan Library (CML) began operating in 1873 and is
+    one of the most-used library systems in the country. CML strives to inspire reading,
+    share resources, and connect people through its numerous programs and services.
+    More than 650,000 cardholders rely on one of CML’s 23 locations for resources,
+    including its collection of books and other materials.
   services: []
   managedservices: []
 - template: highlights-2-column
