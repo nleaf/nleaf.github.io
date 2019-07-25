@@ -21,7 +21,7 @@ page_sections:
   cite: "- Brian Polak, Director of Information Technology, Bouchard Insurance"
 - template: case-study-intro
   block: casestudy-top
-  header: '"Client-First" Commitment'
+  header: Market Opportunity
   description: For more than 60 years, Bouchard has been providing Florida residents
     with home, auto, and various commercial insurance policies, including employee
     benefits, workers' compensation, commercial auto, property insurance, and more.
