@@ -15,8 +15,10 @@ page_sections:
   block: casestudy-quote
   icon: ''
   quote_background: ''
-  quote: ''
-  cite: ''
+  quote: Thanks to the support of Expedient, we have been able to focus on building
+    strategic applications that enhance the entire value chain of the contract flooring
+    business.
+  cite: "- Michael Teets, CIO, Ultimate Home Services"
 - template: case-study-intro
   block: casestudy-top
   services:
@@ -28,7 +30,7 @@ page_sections:
   - tag: Dedicated Firewall Management
   - tag: Disaster Recovery as a Service
   - tag: Virtual Private Network (VPN)
-  header: ''
+  header: Market Opportunity
   description: ''
 - template: highlights-2-column
   block: highlights-2col
