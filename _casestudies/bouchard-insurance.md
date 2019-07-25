@@ -26,11 +26,11 @@ page_sections:
     with home, auto, and various commercial insurance policies, including employee
     benefits, workers' compensation, commercial auto, property insurance, and more.
   services:
+  - tag: Connectivity
   - tag: Private Cloud
   managedservices:
   - tag: Dedicated Firewall Management
-  - tag: Storage
-  - tag: Push Button DR
+  - tag: Disaster Recovery as a Service
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
