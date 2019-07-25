@@ -34,11 +34,6 @@ page_sections:
   subheading: ''
   highlights:
   - align-left: true
-    icon: ''
-    background: ''
-    headline: The Solution
-    description: ''
-  - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
     background: "/uploads/ph_hurricane.jpg"
     headline: The Scenario
@@ -55,6 +50,13 @@ page_sections:
       the educational system. The organization wanted to move from purchasing its
       own hardware through capital expenditures to paying for managed services through
       operational expenses.
+  - align-left: true
+    icon: "/uploads/EXP_Solution.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Solution
+    description: Battelle for Kids found the solution it was looking for with Expedient’s
+      hybrid cloud offering, a combination of public cloud infrastructure as a service
+      (IaaS) and physical colocation.
 - template: recent-posts
   block: recentposts
 - template: newsletter
