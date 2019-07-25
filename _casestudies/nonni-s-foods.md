@@ -33,9 +33,12 @@ page_sections:
     and club stores.
   services:
   - tag: Cloud
-  - tag: Colocation
+  - tag: Connectivity
   managedservices:
+  - tag: Backups
+  - tag: Dedicated Firewall Management
   - tag: Server Management and Monitoring
+  - tag: Virtual Private Network (VPN)
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
