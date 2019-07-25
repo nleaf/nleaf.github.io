@@ -31,7 +31,9 @@ page_sections:
   - tag: Disaster Recovery as a Service
   - tag: Virtual Private Network (VPN)
   header: Market Opportunity
-  description: ''
+  description: Ultimate Home Services, a provider of contract flooring installation
+    services, is the dedicated flooring contractor for 170 bricks-and-mortar outposts
+    of one of the largest home improvement stores in the United States.
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
