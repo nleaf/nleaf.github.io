@@ -20,8 +20,15 @@ page_sections:
   block: casestudy-top
   header: ''
   description: ''
-  services: []
-  managedservices: []
+  services:
+  - tag: Cloud
+  - tag: Connectivity
+  managedservices:
+  - tag: Backups
+  - tag: Dedicated Firewall Management
+  - tag: Dedicated Load Balancing
+  - tag: GDPR Data Protection Agreement
+  - tag: Intrusion Detection Service (IDS)
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
