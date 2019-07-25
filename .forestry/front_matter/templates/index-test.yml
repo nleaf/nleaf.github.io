@@ -39,17 +39,17 @@ fields:
     min: 
     max: 
 pages:
-- _casestudies/battelle-for-kids.md
-- _casestudies/medcom-solutions.md
-- _casestudies/dunlap-and-kyle-company.md
+- _casestudies/nonni-s-foods.md
+- _casestudies/first-insight.md
+- _casestudies/ultimate-home-services.md
 - _casestudies/tic-gums.md
+- _casestudies/medcom-solutions.md
+- _casestudies/battelle-for-kids.md
+- _casestudies/dunlap-and-kyle-company.md
 - _casestudies/columbus-metropolitan-library.md
 - _casestudies/careworks-tech.md
-- _casestudies/ultimate-home-services.md
-- _casestudies/first-insight.md
 - _casestudies/bouchard-insurance.md
 - _casestudies/shapiro.md
-- _casestudies/nonni-s-foods.md
 - _casestudies/stanley-steemer.md
 - _casestudies/Prodigo-Solutions.md
 - disaster-recovery.md
