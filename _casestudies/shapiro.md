@@ -29,9 +29,14 @@ page_sections:
     fulfillment services.
   services:
   - tag: Cloud
-  - tag: Colocation
+  - tag: Connectivity
+  - tag: Private Cloud
   managedservices:
+  - tag: Backups
+  - tag: Dedicated Firewall Management
   - tag: Disaster Recovery as a Service
+  - tag: Two-Factor Authentication
+  - tag: Virtual Private Network (VPN)
 - template: highlights-2-column
   block: highlights-2col
   highlights:
