@@ -3,19 +3,19 @@ header:
     childern:
       - page: Disaster Recovery
         title: Disaster Recovery
-        url: /services/disaster-recovery/
+        url: /services/disaster-recovery
   - title: Datacenter
     url: /datacenters
   - title: Why Expedient
     childern:
       - page: Disaster Recovery
         title: Disaster Recovery
-        url: /services/disaster-recovery/
+        url: /services/disaster-recovery
       - page: Disaster Recovery
         title: Disaster Recovery
-        url: /services/disaster-recovery/
+        url: /services/disaster-recovery
       - page: Disaster Recovery
         title: Disaster Recovery
-        url: /services/disaster-recovery/
+        url: /services/disaster-recovery
   - title: Let's Talk
     url: /contact
