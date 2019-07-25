@@ -27,14 +27,18 @@ page_sections:
     at the molecular level and how to apply them to add value to foods and beverages
     -- have made TIC Gums an industry leader for more than 100 years.
   services:
+  - tag: Connectivity
   - tag: On-Site Private Cloud
-  - tag: Private Connectivity
+  - tag: Private Colocation
   managedservices:
   - tag: Backups
-  - tag: Firewall
-  - tag: Push Button DR
+  - tag: Dedicated Firewall Management
+  - tag: Disaster Recovery as a Service
+  - tag: Server Management and Monitoring
   - tag: Two-Factor Authentication
+  - tag: Unified Threat Management
   - tag: Virtual Private Network (VPN)
+  - tag: Vulnerability Scanning
 - template: highlights-2-column
   block: highlights-2col
   heading: ''

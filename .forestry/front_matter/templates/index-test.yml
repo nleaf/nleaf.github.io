@@ -39,10 +39,10 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/tic-gums.md
 - _casestudies/bouchard-insurance.md
 - _casestudies/dunlap-and-kyle-company.md
 - _casestudies/ultimate-home-services.md
-- _casestudies/tic-gums.md
 - _casestudies/shapiro.md
 - _casestudies/nonni-s-foods.md
 - _casestudies/stanley-steemer.md
