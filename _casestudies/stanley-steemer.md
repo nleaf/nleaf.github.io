@@ -31,10 +31,18 @@ page_sections:
     franchises and company-owned locations.
   header: Mobilizing a national field services team
   services:
-  - tag: Colocation
   - tag: Cloud
+  - tag: Colocation
+  - tag: Connectivity
+  - tag: Private Cloud
   managedservices:
+  - tag: Backups
+  - tag: Dedicated Load Balancing
+  - tag: Dedicated Firewall Management
   - tag: Disaster Recovery as a Service
+  - tag: Server Management and Monitoring
+  - tag: Unified Log Management
+  - tag: Virtual Private Network (VPN)
 - template: highlights-2-column
   block: highlights-2col
   highlights:
