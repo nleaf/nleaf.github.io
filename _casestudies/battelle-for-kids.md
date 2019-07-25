@@ -32,7 +32,29 @@ page_sections:
   block: highlights-2col
   heading: ''
   subheading: ''
-  highlights: []
+  highlights:
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: The Solution
+    description: ''
+  - align-left: true
+    icon: "/uploads/EXP_Scenario.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Scenario
+    description: Battelle for Kids was seeking a hosting partner it could trust to
+      allow its internal team to stay focused on its organizational mission and developing
+      technology solutions that accelerate efforts of school districts and state departments
+      of education to improve educational equity and opportunity for all students.
+  - align-left: false
+    icon: "/uploads/EXP_Agility.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Challenge
+    description: To deliver its software solutions to educators, Battelle for Kids
+      must have a reliable IT infrastructure that can handle the variable demand of
+      the educational system. The organization wanted to move from purchasing its
+      own hardware through capital expenditures to paying for managed services through
+      operational expenses.
 - template: recent-posts
   block: recentposts
 - template: newsletter
