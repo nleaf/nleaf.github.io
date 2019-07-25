@@ -39,6 +39,7 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/medcom-solutions.md
 - _casestudies/dunlap-and-kyle-company.md
 - _casestudies/tic-gums.md
 - _casestudies/columbus-metropolitan-library.md
