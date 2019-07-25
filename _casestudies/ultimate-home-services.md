@@ -20,11 +20,12 @@ page_sections:
   block: casestudy-top
   services:
   - tag: Cloud
-  - tag: Colocation
+  - tag: Connectivity
   managedservices:
   - tag: Backups
+  - tag: Cloud File Storage
   - tag: Dedicated Firewall Management
-  - tag: Push Button DR
+  - tag: Disaster Recovery as a Service
   - tag: Virtual Private Network (VPN)
   header: ''
   description: ''
