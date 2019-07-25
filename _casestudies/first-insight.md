@@ -21,8 +21,13 @@ page_sections:
   cite: "- John Santore, Manager of Hosting Operations, First Insight"
 - template: case-study-intro
   block: casestudy-top
-  header: ''
-  description: ''
+  header: IT infrastructure powering consumer insights
+  description: Retailers are always on the hunt for the “next big thing” or the on-trend
+    product that will really resonate with customers. First Insight, a cloud-based
+    technology company, helps many retailers with this quest through its predictive
+    analytics software as a service. First Insight engages with consumers to glean
+    insights about new products that brands and retailers are considering putting
+    on the shelf or online.
   services:
   - tag: Cloud
   - tag: Connectivity
