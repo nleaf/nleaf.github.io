@@ -8,7 +8,7 @@
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 
-html {
+ html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
@@ -667,6 +667,14 @@ body::-webkit-scrollbar-thumb {
   color: #F20505;
 }
 
+#mainNav header nav .links .first-level li:last-of-type a {
+  color: #333132;
+}
+
+#mainNav header nav .links .first-level li:last-of-type a:hover {
+  color: #F20505;
+}
+
 #mainNav header nav .links a::after {
   content: '';
   transition: all .3s;
@@ -688,6 +696,11 @@ body::-webkit-scrollbar-thumb {
   height: 8px;
 }
 
+#mainNav header nav .links .first-level a:hover:after, #mainNav header nav .links .first-level a:active:after, #mainNav header nav .links .first-level a:focus:after {
+  opacity: 0;
+  height: 0px;
+}
+
 #mainNav nav .links a svg {
   display: inline-block;
   margin-left: 0.45rem;
@@ -701,6 +714,27 @@ body::-webkit-scrollbar-thumb {
 
 #mainNav header nav .links a:hover svg path {
   fill: #F20505;
+}
+
+#mainNav .first-level {
+  margin-top: 35px;
+}
+
+/* mainNav Drop-Down */
+
+#mainNav header nav ul li ul {
+  visibility: hidden;
+  opacity: 0;
+  display: none;
+}
+
+#mainNav header nav ul li:hover > ul,
+#mainNav header nav ul li:focus-within > ul,
+#mainNav header nav ul li ul:hover,
+#mainNav header nav ul li ul:focus {
+  visibility: visible;
+  opacity: 1;
+  display: block;
 }
 
 .quickNav.active {
@@ -811,7 +845,7 @@ body::-webkit-scrollbar-thumb {
   border-radius: 0px;
   padding: 0.5rem 1rem;
   font-size: 1.25rem;
-  font-weight: 400;
+  font-weight: 600;
   font-family: Raleway, sans-serif;
 }
 
