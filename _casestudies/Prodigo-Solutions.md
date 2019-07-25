@@ -8,7 +8,7 @@ page_sections:
 - template: case-study-header
   block: casestudy-hero
   heading: VMWare Cloud migration
-  subheading: Prodigo Solutions realizes substantial business process improvements    
+  subheading: Prodigo Solutions realizes substantial business process improvements
     through cloud migration with Expedient
   icon: "/uploads/ph_CaseStudyLogo-1.jpg"
 - template: case-study-quote
@@ -31,13 +31,18 @@ page_sections:
     to the largest-scale integrated delivery network (IDNs) in the country, as Prodigo
     counts more than 20% of these massive healthcare systems as customers.
   services:
-  - tag: Colocation
-  - tag: Cloud
+  - tag: Connectivity
+  - tag: Expedient Enterprise Cloud
   managedservices:
-  - tag: Dedicated Firewall
-  - tag: DDoS Mitigation
+  - tag: Cloud Data Protection
+  - tag: Dedicated Firewall Management
+  - tag: Dedicated Load Balancing
   - tag: Disaster Recovery as a Service
   - tag: Server Management and Monitoring
+  - tag: Unified Log Management
+  - tag: Unified Threat Management
+  - tag: Virtual Private Network (VPN)
+  - tag: Vulnerability Scanning
 - template: highlights-2-column
   block: highlights-2col
   heading: Tomorrow’s cloud, today.
@@ -75,4 +80,5 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: false
+
 ---
