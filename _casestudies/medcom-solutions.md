@@ -20,15 +20,45 @@ page_sections:
   cite: Ziwei Yi, Director of Data and Technologies, MedCom Solutions
 - template: case-study-intro
   block: casestudy-top
-  header: ''
-  description: ''
+  header: Market Opportunity
+  description: 'Hospitals, doctors and medical offices that want to focus on providing
+    optimal healthcare for their patients rely on MedCom Solutions to handle their
+    technology needs. MedCom Solutions is a full-service consulting and software technology
+    company that offers integrated solutions for hospital billing and pricing needs
+    and has a consulting staff of coding, finance and Medicare compliance experts
+    who have extensive knowledge in programming, software development, large hospital
+    IT systems and web- based technologies.
+
+'
   services: []
   managedservices: []
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
   subheading: ''
-  highlights: []
+  highlights:
+  - align-left: true
+    icon: "/uploads/EXP_Solution.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Solution
+    description: As the company expands and seeks to further define its niche in the
+      healthcare IT consulting industry, it will need to rely heavily upon [Expedient]
+      to scale with it and help MedCom respond to an evolving landscape of technology
+      and compliance needs.
+  - align-left: false
+    icon: "/uploads/EXP_Server.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Challenge
+    description: MedCom also required a full-scale solution that could be managed
+      by its hosting provider so that its focused in-house staff did not have to oversee
+      the day-to-day IT environment.
+  - align-left: true
+    icon: "/uploads/EXP_Scenario.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Scenario
+    description: To deliver its software solutions to healthcare professionals, MedCom
+      must have a reliable IT infrastructure that is compliant with stringent HIPAA
+      standards and can scale with the company as size and capacity needs increase.
 - template: recent-posts
   block: recentposts
 - template: newsletter
