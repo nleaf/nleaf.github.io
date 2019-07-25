@@ -21,7 +21,7 @@ page_sections:
   quote_background: ''
 - template: case-study-intro
   block: casestudy-top
-  header: Turnkey IT services enables strategic focus
+  header: Market Opportunity
   description: For more than 100 years, Shapiro has been developing innovative supply
     chain and customs brokerage solutions for organizations ranging from traditional
     commercial importers and exporters in the retail, pharmaceutical, consumer goods,
