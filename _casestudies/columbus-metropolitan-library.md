@@ -33,20 +33,34 @@ page_sections:
   block: highlights-2col
   highlights:
   - align-left: true
-    icon: ''
-    background: ''
-    headline: The Solution
-    description: ''
-  - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Scenario.svg"
+    background: "/uploads/ph_hurricane.jpg"
     headline: The Scenario
-    description: ''
+    description: Columbus Metropolitan Library’s Information Technology team, led
+      by Senior Director of Information Technology Burton Bardus, knew it was time
+      for some changes. The library’s infrastructure, including its entire production
+      environment, was in-house at the library data center and approaching end of
+      life.
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/ph_hurricane.jpg"
     headline: The Challenge
-    description: ''
+    description: Further, CML’s disaster recovery plan was outdated and hadn’t recently
+      been put through the rigors of full testing; the team lacked confidence in its
+      ability to recover critical applications in the face of a disaster. And with
+      more than 650,000 cardholders relying on CML for a variety of services and resources,
+      it was imperative to the team that they find a stable solution for its undersized
+      infrastructure and moderate disaster recovery plan.
+  - align-left: true
+    icon: "/uploads/EXP_Solution.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Solution
+    description: "“We looked very briefly at a rebuild, but there were a lot of things
+      that made sense about moving to the cloud,” said Bardus. “We were able to expand
+      everything we were doing with the Expedient partnership, including having a
+      retention policy in place that allowed our files to be backed up while expanding
+      what we were putting in our storage environment by moving to a disk-based backup
+      solution.”"
   heading: ''
   subheading: ''
 - template: recent-posts
