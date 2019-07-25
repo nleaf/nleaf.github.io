@@ -31,17 +31,24 @@ page_sections:
   - tag: Disaster Recovery as a Service
   - tag: PCI-DSS Compliance
   header: Market Opportunity
-  description: ''
+  description: Dunlap and Kyle Company, Inc. is a leading wholesale and retail tire
+    dealer doing business as Gateway Tire & Service Center, with 70 locations (52
+    retail and 18 wholesale distribution centers) in nine states spanning from the
+    Ohio/Pennsylvania border to the Rio Grande in Texas.
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
   subheading: ''
   highlights:
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Scenario.svg"
+    background: "/uploads/ph_hurricane.jpg"
     headline: The Scenario
-    description: ''
+    description: Dunlap and Kyle relies upon a small internal IT staff to keep both
+      its retail and wholesale distribution businesses up and running. Before migrating
+      its production environment to Expedient, the company supported the IT needs
+      of its employees and various locations with centralized IT infrastructure hosted
+      at its headquarters.
   - align-left: false
     icon: ''
     background: ''
