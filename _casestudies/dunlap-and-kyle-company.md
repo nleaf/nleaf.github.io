@@ -50,15 +50,20 @@ page_sections:
       of its employees and various locations with centralized IT infrastructure hosted
       at its headquarters.
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/ph_hurricane.jpg"
     headline: The Challenge
-    description: ''
+    description: While Dunlap and Kyle had implemented a DIY disaster recovery solution
+      to protect its IT environment, the centralized nature of its legacy RS/6000-based
+      system left the company vulnerable to IT downtime.
   - align-left: true
     icon: ''
     background: ''
     headline: The Solution
-    description: ''
+    description: While Hill was originally going to enlist Expedient only as a colocation
+      provider for the company’s new DR infrastructure, he decided to migrate Dunlap
+      and Kyle’s entire production environment to Expedient’s cloud and then use a
+      second Expedient site as the replication target for failover.
 - template: recent-posts
   block: recentposts
 - template: newsletter
