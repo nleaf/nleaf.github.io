@@ -21,7 +21,7 @@ page_sections:
   cite: "- John Santore, Manager of Hosting Operations, First Insight"
 - template: case-study-intro
   block: casestudy-top
-  header: IT infrastructure powering consumer insights
+  header: Market Opportunity
   description: Retailers are always on the hunt for the “next big thing” or the on-trend
     product that will really resonate with customers. First Insight, a cloud-based
     technology company, helps many retailers with this quest through its predictive

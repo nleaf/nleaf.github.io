@@ -28,7 +28,7 @@ page_sections:
   - tag: Dedicated Load Balancing
   - tag: Disaster Recovery as a Service
   - tag: PCI-DSS Compliance
-  header: ''
+  header: Market Opportunity
   description: ''
 - template: highlights-2-column
   block: highlights-2col
