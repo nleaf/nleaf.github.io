@@ -26,9 +26,8 @@ page_sections:
   - tag: Backups
   - tag: Dedicated Firewall Management
   - tag: Dedicated Load Balancing
-  - tag: Hosted Firewall Failover
-  - tag: Hosted Load Balancer Failover
-  - tag: Push Button DR
+  - tag: Disaster Recovery as a Service
+  - tag: PCI-DSS Compliance
   header: ''
   description: ''
 - template: highlights-2-column
