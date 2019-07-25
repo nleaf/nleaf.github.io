@@ -8,8 +8,9 @@ page_sections:
 - template: case-study-header
   block: casestudy-hero
   icon: ''
-  heading: ''
-  subheading: ''
+  heading: High Availability, Absolute Data Protection
+  subheading: Expedient’s Reliable Infrastructure Enables First Insight to Help Retailers
+    Pick Products that Deliver Profits
 - template: case-study-quote
   block: casestudy-quote
   icon: ''
