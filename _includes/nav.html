@@ -68,7 +68,7 @@
 
                 <!-- Desktop Links -->
                 <div class="hidden lg:flex lg:items-center lg:justify-between links">
-                    <ul class="flex">
+                    <ul class="flex dt-nav">
                         {% for item in site.menus.header %}
                         <li class="lg:mx-8 menu-item-{{ loop.index }}">
                             <a class="relative xl:py-10 xl:px-4" href="{{ item.url }}" title="Go to {{ item.title }}">
@@ -78,10 +78,10 @@
                                 {% endif %}
                             </a>
                             {% if item.childern %}
-                              <ul class="first-level">
+                              <ul class="first-level absolute mt-10 bg-lgrey">
                                 {% for child in item.childern %}
                                 <li>
-                                  <a href="{{ child.url | absolute_url }}"{% if child.target %} target="_blank" {% endif %}>
+                                  <a href="{{ child.url | absolute_url }}"{% if child.target %} target="_blank" {% endif %} class="px-3 py-4 block bg-bwhite">
                                     {{ child.title }}
                                   </a>
                                 </li>

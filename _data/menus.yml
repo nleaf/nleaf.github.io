@@ -2,22 +2,20 @@ header:
   - title: Services
     childern:
       - page: Disaster Recovery
+        title: Disaster Recovery
         url: /services/disaster-recovery/
-      - page: Thing 2
-        url: /thing2.html
-      - page: Thing 3
-        url: /thing3.html
   - title: Datacenter
     url: /datacenters
   - title: Why Expedient
     childern:
-      - page: Our Customers
-        url: /widget1.html
-      - page: Success Stories
-        url: /widget2.html
-      - page: Technology Partners
-        url: /widget3.html
-      - page: Awards
-        url: /widget3.html
+      - page: Disaster Recovery
+        title: Disaster Recovery
+        url: /services/disaster-recovery/
+      - page: Disaster Recovery
+        title: Disaster Recovery
+        url: /services/disaster-recovery/
+      - page: Disaster Recovery
+        title: Disaster Recovery
+        url: /services/disaster-recovery/
   - title: Let's Talk
     url: /contact
