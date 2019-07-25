@@ -41,7 +41,28 @@ page_sections:
   block: highlights-2col
   heading: ''
   subheading: ''
-  highlights: []
+  highlights:
+  - align-left: true
+    icon: "/uploads/EXP_Scenario.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Scenario
+    description: With thousands of new data points entering and exiting their systems
+      on a daily basis, First Insight depends on Expedient to keep that data accessible
+      and secure at all times.
+  - align-left: false
+    icon: "/uploads/EXP_Server.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Challenge
+    description: First Insight is growing in size, scope, reach and revenue. Also
+      included in that growth is new software, new products and new customers. All
+      of which will require more compute capacity.
+  - align-left: true
+    icon: "/uploads/EXP_Solution.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Solution
+    description: Expedient allows First Insight to scale its infrastructure without
+      missing a beat and to meet the needs of its retailer customers by connecting
+      with consumers through its software products.
 - template: recent-posts
   block: recentposts
 - template: newsletter
