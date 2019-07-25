@@ -34,7 +34,22 @@ page_sections:
   block: highlights-2col
   heading: ''
   subheading: ''
-  highlights: []
+  highlights:
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: The Scenario
+    description: ''
+  - align-left: false
+    icon: ''
+    background: ''
+    headline: The Challenge
+    description: ''
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: The Solution
+    description: ''
 - template: recent-posts
   block: recentposts
 - template: newsletter
