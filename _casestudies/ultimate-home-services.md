@@ -38,7 +38,29 @@ page_sections:
   block: highlights-2col
   heading: ''
   subheading: ''
-  highlights: []
+  highlights:
+  - align-left: true
+    icon: "/uploads/EXP_Scenario.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Scenario
+    description: To facilitate process improvement, enhance customer experience, and
+      position the business for future strategic endeavors, Ultimate Home Services
+      selected Expedient as its Infrastructure as a Service and Managed Services partner.
+  - align-left: false
+    icon: ''
+    background: ''
+    headline: The Challenge
+    description: Ultimate Home Services' growth rate was accelerating as its customer
+      intensified vendor consolidation efforts to streamline business operations...
+      however the company knew that its legacy internal processes and foundational
+      IT infrastructure required a major upgrade to keep pace with the rapid growth.
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: The Solution
+    description: To build the necessary orchestration and automation systems to support
+      the company's growth, Ultimate Home Services' CIO needed to offload day-to-day
+      IT infrastructure management to a trusted partner - Expedient.
 - template: recent-posts
   block: recentposts
 - template: newsletter
