@@ -9,10 +9,6 @@ tags:
 - engineering
 - research
 slug: ''
-menu:
-  footer:
-    weight: 2
-    title: Colocation
 
 ---
 ## Overview

@@ -1,26 +1,33 @@
+---
 header:
-  - title: Services
-    childern:
-      - page: Disaster Recovery
-        title: Disaster Recovery
-        url: /services/disaster-recovery
-  - title: Datacenter
-    url: /datacenters
-  - title: Why Expedient
-    childern:
-      - page: Disaster Recovery
-        title: Disaster Recovery
-        url: /services/disaster-recovery
-      - page: Disaster Recovery
-        title: Disaster Recovery
-        url: /services/disaster-recovery
-      - page: Disaster Recovery
-        title: Disaster Recovery
-        url: /services/disaster-recovery
-  - title: Let's Talk
-    url: /contact
+- title: Why Expedient
+  childern:
+  - page: Disaster Recovery
+    title: Disaster Recovery
+    url: "/services/disaster-recovery"
+  - page: Disaster Recovery
+    title: Disaster Recovery
+    url: "/services/disaster-recovery"
+  - page: Disaster Recovery
+    title: Disaster Recovery
+    url: "/services/disaster-recovery"
+  weight: 1
+- title: Services
+  childern:
+  - page: Disaster Recovery
+    title: Disaster Recovery
+    url: "/services/disaster-recovery"
+  weight: 2
+- title: Let's Talk
+  url: "/contact"
+  weight: 3
+- title: Datacenter
+  url: "/datacenters"
+  weight: 4
 footer:
-  - title: Datacenters
-    url: /datacenters
-  - title: Let's Talk
-    url: /contact
+- title: Let's Talk
+  url: "/contact"
+  weight: 1
+- title: Datacenters
+  url: "/datacenters"
+  weight: 2
