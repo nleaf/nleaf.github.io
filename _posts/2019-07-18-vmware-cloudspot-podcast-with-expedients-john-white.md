@@ -1,6 +1,7 @@
 ---
 title: 'VMware CloudSpot Podcast with Expedient''s John White'
 date: Thu, 18 Jul 2019 14:45:58 +0000
+author: John White
 draft: false
 tags: [Cloud Computing, John White, VMware, Expedient Enterprise Cloud, VMware, VMware CloudSpot Podcast, VMware Cloud Provider Partner, John White Expedient, Guy Bartram VMware]
 ---

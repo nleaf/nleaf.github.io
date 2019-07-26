@@ -7,25 +7,19 @@ layout: default
 
 {% include breadcrumbs.html class="content-narrow" %}
 
-<div class="flex flex-wrap mb-4 lg:items-top mx-auto md:max-w-expBody pt-32 lg:pt-64 px-4 justify-between z-10 relative">
-    <!-- Text Intro -->
-    <div class="w-full md:w-1/2 flex-grow pr-2">
-        <h1 class="text-5xl sm:text-3xl md:text-exphl font-semibold leading-exp font-black font-sans my-6 text-center">Disaster Recovery as a Service</h1>
-        <p class="text-hp font-light leading-snug text-center">Expedient’s Disaster Recovery as a Service solutions have been recognized in  the Gartner Magic Quadrant for DRaaS and offer fast, total network failover  without IP and DNS changes.</p>
-        <div class="h-2 bg-red w-24 mt-12 mx-auto"></div>
-    </div>
-</div>
-
-<div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-5">
+<div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12 mt-40">
   <div class="pure-u-1">
     <div class="content content-narrow">
       <div class="meta">
         {% if page.date %}
         <div class="post-date">{{ page.date | date_to_string }}</div>
         {% endif %}
+        {% if page.author %}
+          <div class="post-date">{{ page.author }}</div>
+        {% endif %}
         {% if page.tags.size > 0 %}
         <span class="meta-separator">&bull;</span>
-        <ul class="tags-list">
+        <ul class="tags-list mb-2">
           <li class="inline tag_list_item">
 						Tags:
 					</li>
@@ -43,7 +37,6 @@ layout: default
 
       {{ content }}
 
-      <!-- NOT NEED AT THE MOMENT -->
       {% if page.related_posts.size > 0 %}
 			<hr>
         <h2> Related Posts </h2>
@@ -72,8 +65,6 @@ layout: default
           </div>
         </div>
       {% endif %}
-      <!-- NOT NEED AT THE MOMENT -->
-
     </div>
   </div>
 </div>

@@ -24,7 +24,7 @@ collections:
     permalink: "/knowledgebase/resources/:title/"
   posts:
     output: true
-    permalink: "/knowledgebase/blog/:title/"
+    permalink: "/knowledgebase/blog/:path/"
   projects:
     output: true
     permalink: "/projects/:path/"
