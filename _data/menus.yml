@@ -1,5 +1,9 @@
 ---
 header:
+- title: Datacenter
+  url: "/datacenters"
+  weight: 1
+  parent: item_dxjp3EH
 - title: Why Expedient
   childern:
   - page: Disaster Recovery
@@ -21,9 +25,6 @@ header:
 - title: Let's Talk
   url: "/contact"
   weight: 3
-- title: Datacenter
-  url: "/datacenters"
-  weight: 4
 footer:
 - title: Let's Talk
   url: "/contact"
