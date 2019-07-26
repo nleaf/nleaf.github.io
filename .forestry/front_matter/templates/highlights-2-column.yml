@@ -19,9 +19,13 @@ fields:
       format: markdown
   label: heading
 - name: subheading
-  type: text
+  type: textarea
+  default: ''
   config:
     required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: subheading
 - name: highlights
   type: field_group_list
