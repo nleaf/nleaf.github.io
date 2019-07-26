@@ -14,3 +14,14 @@ fields:
 - type: list
   name: tags
   label: tags
+  config:
+    use_select: true
+    source:
+      type: simple
+      section: case-studies
+      file: _casestudies/nonni-s-foods.md
+    options:
+    - Disaster Recovery
+    - Cloud
+    - Colocation
+    - Security and Compliance
