@@ -39,7 +39,7 @@ page_sections:
 - template: highlights-2-column
   block: highlights-2col
   heading: Flexible and Extensible
-  subheading: Push Button DR  Highlights
+  subheading: "Push Button DR  \nHighlights "
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Agility.svg"
@@ -119,4 +119,5 @@ seo_title: Cloud Computing and Data Center Infrastructure as a Service
 description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
   Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
 image: ''
+
 ---
