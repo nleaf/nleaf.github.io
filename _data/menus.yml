@@ -19,3 +19,8 @@ header:
         url: /services/disaster-recovery
   - title: Let's Talk
     url: /contact
+footer:
+  - title: Datacenters
+    url: /datacenters
+  - title: Let's Talk
+    url: /contact
