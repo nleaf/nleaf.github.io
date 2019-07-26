@@ -14,17 +14,21 @@ fields:
   config:
     required: false
   label: heading
+  default: The best of Expedient delivered to your inbox.
 - name: subheading
   type: text
   config:
     required: false
   label: subheading
+  default: Sign up for more technical briefs, stories, and special offers from Expedient.
 - name: cta
   type: text
   config:
     required: false
   label: CTA
+  default: Subscribe Now
 - name: show_social
   type: boolean
   label: Show Social
   description: Show Expedient's social outlets (Linkedin, Twitter, YouTube, RSS Feed)
+  default: true
