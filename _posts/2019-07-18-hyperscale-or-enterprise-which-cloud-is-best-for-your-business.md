@@ -24,3 +24,5 @@ The cloud provider landscape is complex and constantly evolving. To meet the per
 #### **Watch the full replay of the webinar now:**
 
 {% include youtube.html ytid="owgkJHsMcRY?start=190" %}
+
+ 
