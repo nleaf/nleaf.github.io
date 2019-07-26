@@ -10,9 +10,13 @@ fields:
   hidden: true
   default: highlights-2col
 - name: heading
-  type: text
+  type: textarea
+  default: ''
   config:
     required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: heading
 - name: subheading
   type: text
