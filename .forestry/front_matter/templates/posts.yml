@@ -8,9 +8,20 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: text
-  name: author
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - John White
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: author
+  description: 'Post Author '
 - type: list
   name: tags
   label: tags
