@@ -3,6 +3,7 @@ title: VMware CloudSpot Podcast with Expedient's John White
 date: Thu, 18 Jul 2019 14:45:58 +0000
 author: John White
 tags:
+- Cloud
 - Cloud Computing
 - John White
 - VMware
