@@ -3,6 +3,7 @@ layout: blocks
 title: Disaster Recovery as a Service
 hide_body: true
 permalink: "/services/disaster-recovery"
+tags: [Disaster Recovery, VMware, DRAAS, Cloud Computing]
 page_sections:
 - template: page-hero
   block: page-hero
