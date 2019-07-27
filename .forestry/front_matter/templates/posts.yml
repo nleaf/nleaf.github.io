@@ -14,7 +14,39 @@ fields:
   config:
     required: false
     options:
+    - Brent Meadows
+    - Leslie Gubish
+    - Mike Garuccio
+    - Brian Dors
+    - Sam Larkin
+    - Kristin Puzon
+    - Bryan Smith	
+    - Aaron Schmidt
+    - Joe Palian
+    - Evan Loftus
+    - Will Farmer
+    - Jim Kothe
+    - Ed Dzurko
+    - Steve Gruetter
+    - Dan Bechtold
+    - Erin Masterson
+    - Ken Hill
+    - Craig Klatt
+    - Bobby Vu
+    - Matthew Deramo
+    - Nick Villa
+    - Anthony Estelle
+    - Curtis Depass
+    - Dallas Yuhasz
+    - Devon Cole
     - John White
+    - Colleen Plank
+    - Mark Eygabroad
+    - David Saliba
+    - Jon Rosenson
+    - Phil Stockmal
+    - Derek Hahn
+    - Doug Theis
     source:
       type: simple
       section: 
