@@ -143,7 +143,7 @@ sup {
    ========================================================================== */
 
 /**
- * Remove the border on images inside links in IE 10.
+ * Remove the border on img inside links in IE 10.
  */
 
 img {
@@ -458,7 +458,7 @@ html {
 }
 
 /**
- * Undo the `border-style: none` reset that Normalize applies to images so that
+ * Undo the `border-style: none` reset that Normalize applies to img so that
  * our `border-{width}` utilities have the expected effect.
  *
  * The Normalize reset is unnecessary for us since we default the border-width
@@ -587,7 +587,7 @@ object {
 }
 
 /**
- * Constrain images and videos to the parent width and preserve
+ * Constrain img and videos to the parent width and preserve
  * their instrinsic aspect ratio.
  *
  * https://github.com/mozdevs/cssremedy/issues/14
@@ -628,6 +628,13 @@ body::-webkit-scrollbar-track {
 body::-webkit-scrollbar-thumb {
   background-color:#FDFDFD;
   outline: 1px solid slategrey;
+}
+
+p {
+  font-size: 1.25rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-weight: 300;
 }
 
 #subNav nav .links a {
@@ -801,6 +808,7 @@ body::-webkit-scrollbar-thumb {
 
 .ctaLink {
   border-bottom: dashed 1px none;
+  cursor: pointer;
 }
 
 .ctaLink:hover {
@@ -1041,6 +1049,31 @@ body::-webkit-scrollbar-thumb {
 
 .hiddensc {
   opacity: 0;
+}
+
+/* Blog Landing */
+
+h2 .ctaLink:hover {
+  border-bottom: solid 4px #F20505;
+}
+
+h2 .ctaLink::after {
+  height: 4px;
+  background-color: aqua;
+}
+
+.featuredBlog .postDetail {
+  width: 62%;
+}
+
+/* Top Banner */
+
+.bg-cover {
+  height: 575px;
+}
+
+.bg-cover.indexHero {
+  height: auto;
 }
 
 .container {
@@ -20458,3 +20491,4 @@ body::-webkit-scrollbar-thumb {
     z-index: auto;
   }
 }
+
