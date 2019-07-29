@@ -29,7 +29,7 @@ page_sections:
     icon: "/uploads/ico_dr.svg"
     description: 444Leverage your organization’s existing VMware skill sets while
       taking advantage of a fully integrated VMware stack of technologies.
-    link: contact.md
+    link: disaster-recovery.md
   index_casestudies:
   - client_logo: "/uploads/ph_Client1.png"
     link: disaster-recovery.md
