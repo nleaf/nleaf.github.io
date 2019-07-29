@@ -1,5 +1,5 @@
 <!-- Index Hero -->
-<div class="bg-cover bg-center pb-8" style="background-image: url('{{ section.banner_image | absolute_url }}');">
+<div class="bg-cover bg-center pb-8 indexHero" style="background-image: url('{{ section.banner_image | absolute_url }}');">
     <div class="flex flex-wrap mb-4 lg:items-top mx-auto md:max-w-expBody pt-32 lg:pt-64 px-4 justify-between">
 
             <!-- Text Intro -->
@@ -21,7 +21,7 @@
                             <img src="{{ item.icon | absolute_url }}" alt="{{ item.link_title }}" />                     
                         </div>
                         <div class="sup">
-                            <p class="font-light w-full sm:w-3/4 text-lg sm:text-base mb-3">{{ item.description }}</p>
+                            <p class="font-light w-full sm:w-3/4 text-lg sm:text-base mb-3 mt-0">{{ item.description }}</p>
                             <div class="text-red ctaLink text-base font-bold font-sans inline pb-1">Learn More</div>
                         </div>
                     </a>
