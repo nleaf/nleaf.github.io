@@ -70,7 +70,7 @@ page_sections:
   related_products:
   - category: Featured Case Study
     title: Example
-    description: Some description
+    description: Some description12
     img: uploads/ph_Related.jpg
     link: disaster-recovery.md
   - category: Featured Case Study

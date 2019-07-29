@@ -18,16 +18,19 @@
             <!-- Column -->
             <div class="w-full sm:w-6/12 px-4 mt-4">
                 {% for item in section.featured %}
+                {% if item.link %}
+                    {% assign apost = site.pages | where:"path",item.link  | first %}
+                {% endif %}
                     {% if forloop.first == true %}  
                         <!-- Col -->
-                        <a href="{{ item.link | absolute_url }}" class="w-full bg-bwhite my-4 pt-4 pb-6 px-6 relative quickNav block">
+                        <a href="{{apost.url}}" class="w-full bg-bwhite my-4 pt-4 pb-6 px-6 relative quickNav block">
                             <h3 class="text-2xl sm:text-3xl md:text-xl font-semibold font-sans mb-3 text-red">{{ item.heading }}</h3>
                             <p class="text-xl font-light leading-normal my-2">{{ item.content }}</p>
                         </a>
                         <!-- END Col -->
                     {% else %}
                         <!-- Col -->
-                        <a href="{{ item.link | absolute_url }}" class="w-full my-4 pt-4 pb-6 px-6 relative quickNav block">
+                        <a href="{{apost.url}}" class="w-full my-4 pt-4 pb-6 px-6 relative quickNav block">
                             <h3 class="text-2xl sm:text-3xl md:text-xl font-semibold font-sans mb-3 text-red">{{ item.heading }}</h3>
                             <p class="text-xl font-light leading-normal my-2">{{ item.content }}</p>
                         </a>
