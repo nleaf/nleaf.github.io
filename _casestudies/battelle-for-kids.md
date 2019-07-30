@@ -26,8 +26,14 @@ page_sections:
   description: |-
     Battelle for Kids (BFK) is a national not-for-profit organization focused on developing innovative services and solutions that empower teachers,
     leaders and school systems to advance educational equity and opportunity for all students. BFK collaborates with state departments of education, urban, suburban and rural schools, and other education-focused organizations in more than 30 states to move education forward.
-  services: []
-  managedservices: []
+  services:
+  - tag: Cloud
+  - tag: Colocation
+  - tag: Connectivity
+  managedservices:
+  - tag: Backups
+  - tag: Dedicated Firewall Management
+  - tag: Server Management & Monitoring
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
@@ -62,7 +68,8 @@ page_sections:
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
-  subheading: Sign up for more technical briefs, stories, and special offers from Expedient.
+  subheading: Sign up for more technical briefs, stories, and special offers from
+    Expedient.
   cta: Subscribe Now
   show_social: true
 published: false
