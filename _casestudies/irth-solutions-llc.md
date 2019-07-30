@@ -25,8 +25,16 @@ page_sections:
   description: irth Solutions is the leading provider of enterprise cloud solutions
     that dramatically decrease costs, increase revenue and reduce risk in the utility,
     energy and telecom industries, serving large national brands across the country.
-  services: []
-  managedservices: []
+  services:
+  - tag: Cloud
+  - tag: Colocation
+  - tag: Connectivity
+  managedservices:
+  - tag: Backups
+  - tag: Dedicated Firewall Management
+  - tag: Intrusion Detection Service (IDS)
+  - tag: Two-Factor Authentication
+  - tag: Virtual Private Network (VPN)
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
