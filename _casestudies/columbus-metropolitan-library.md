@@ -27,8 +27,17 @@ page_sections:
     share resources, and connect people through its numerous programs and services.
     More than 650,000 cardholders rely on one of CML’s 23 locations for resources,
     including its collection of books and other materials.
-  services: []
-  managedservices: []
+  services:
+  - tag: Cloud
+  - tag: Connectivity
+  managedservices:
+  - tag: Backups
+  - tag: Dedicated Firewall Management
+  - tag: Dedicated Load Balancing
+  - tag: Disaster Recovery as a Service
+  - tag: Two-Factor Authentication
+  - tag: Unified Threat Management
+  - tag: Virtual Private Network (VPN)
 - template: highlights-2-column
   block: highlights-2col
   highlights:
@@ -68,7 +77,8 @@ page_sections:
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
-  subheading: Sign up for more technical briefs, stories, and special offers from Expedient.
+  subheading: Sign up for more technical briefs, stories, and special offers from
+    Expedient.
   cta: Subscribe Now
   show_social: true
 published: false
