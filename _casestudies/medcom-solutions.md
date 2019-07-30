@@ -30,8 +30,16 @@ page_sections:
     IT systems and web- based technologies.
 
 '
-  services: []
-  managedservices: []
+  services:
+  - tag: Cloud
+  - tag: Connectivity
+  managedservices:
+  - tag: Backups
+  - tag: Dedicated Firewall Management
+  - tag: Disaster Recovery as a Service
+  - tag: Server Management & Monitoring
+  - tag: Virtual Private Network (VPN)
+  - tag: Vulnerability Scanning
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
@@ -64,7 +72,8 @@ page_sections:
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
-  subheading: Sign up for more technical briefs, stories, and special offers from Expedient.
+  subheading: Sign up for more technical briefs, stories, and special offers from
+    Expedient.
   cta: Subscribe Now
   show_social: true
 published: false
