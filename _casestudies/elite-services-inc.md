@@ -26,8 +26,19 @@ page_sections:
   description: Elite Services has expanded rapidly over the past few years, and to
     continue its growth trajectory - and meet the needs of larger and more sophisticated
     clients - it needs an IT partner it can trust.
-  services: []
-  managedservices: []
+  services:
+  - tag: Cloud
+  - tag: Connectivity
+  managedservices:
+  - tag: Backups
+  - tag: Dedicated Firewall Management
+  - tag: Disaster Recovery as a Service
+  - tag: Server Management and Monitoring
+  - tag: Two-Factor Authentication
+  - tag: Unified Log Management
+  - tag: Unified Threat Management
+  - tag: Virtual Private Network (VPN)
+  - tag: Vulnerability Scanning
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
