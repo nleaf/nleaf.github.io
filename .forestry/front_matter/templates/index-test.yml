@@ -40,6 +40,7 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/careworks-tech.md
 - _casestudies/medcom-solutions.md
 - _casestudies/battelle-for-kids.md
 - _casestudies/tic-gums.md
@@ -55,4 +56,3 @@ pages:
 - disaster-recovery.md
 - _casestudies/Prodigo-Solutions.md
 - _casestudies/bouchard-insurance.md
-- _casestudies/careworks-tech.md
