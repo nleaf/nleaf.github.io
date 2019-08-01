@@ -1,6 +1,7 @@
 ---
 title: Hyperscale or Enterprise - Which Cloud is Best for Your Business?
 date: Thu, 18 Jul 2019 20:36:56 +0000
+author: John White
 tags:
 - Cloud Computing
 - John White

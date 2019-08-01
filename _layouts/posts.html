@@ -109,7 +109,7 @@ layout: default
                       </div> 
                   </div>
                   <p>{{ post.content | truncatewords: 30 | strip_html }}</p>
-                  <div class="text-red ctaLink text-base font-bold font-sans inline pb-1">Read Article</div>
+                  <div class="text-red text-base font-bold font-sans inline pb-1"><a href="{{ post.url | absolute_url }}" class="ctaLink">Read Article</a></div>
               </div>
           </div>
       </section>
