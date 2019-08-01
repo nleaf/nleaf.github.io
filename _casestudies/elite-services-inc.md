@@ -32,7 +32,29 @@ page_sections:
   block: highlights-2col
   heading: ''
   subheading: ''
-  highlights: []
+  highlights:
+  - align-left: true
+    icon: "/uploads/EXP_Scenario.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Scenario
+    description: In order to offer the best experience, Elite must stay focused on
+      improving its practices on a daily basis, so the company relies on Expedient
+      to handle all of its day-to-day IT functions.
+  - align-left: false
+    icon: "/uploads/EXP_Server.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Challenge
+    description: The nature of Elite's business has it competing against much larger
+      corporations for customers, so while it can offer the same services with a more
+      personal touch, it must be able to prove to potential customers that it can
+      compete with the "big boys" on technology and service.
+  - align-left: true
+    icon: "/uploads/EXP_Solution.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Solution
+    description: '"We want to continue to gain more market share and to advance technically,
+      from a software development standpoint, so we will need Expedient from a scalability
+      standpoint so as we grow, we just order more resources," Watson said.'
 - template: recent-posts
   block: recentposts
 - template: newsletter
