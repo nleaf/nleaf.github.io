@@ -68,9 +68,9 @@ page_sections:
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
-  subheading: Sign up for more technical briefs, stories, and special offers from Expedient.
+  subheading: Sign up for more technical briefs, stories, and special offers from
+    Expedient.
   cta: Subscribe Now
   show_social: true
-published: false
 
 ---

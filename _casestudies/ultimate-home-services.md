@@ -69,6 +69,5 @@ page_sections:
   subheading: ''
   cta: ''
   show_social: false
-published: false
 
 ---
