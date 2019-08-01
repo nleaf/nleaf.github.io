@@ -40,19 +40,19 @@ fields:
     min: 
     max: 
 pages:
-- _casestudies/irth-solutions-llc.md
-- _casestudies/careworks-tech.md
-- _casestudies/medcom-solutions.md
-- _casestudies/battelle-for-kids.md
-- _casestudies/tic-gums.md
-- _casestudies/nonni-s-foods.md
-- _casestudies/first-insight.md
-- _casestudies/ultimate-home-services.md
-- _casestudies/dunlap-and-kyle-company.md
-- _casestudies/columbus-metropolitan-library.md
-- _casestudies/bouchard-insurance.md
-- _casestudies/shapiro.md
-- _casestudies/stanley-steemer.md
-- _casestudies/Prodigo-Solutions.md
-- disaster-recovery.md
 - index.md
+- disaster-recovery.md
+- _casestudies/Prodigo-Solutions.md
+- _casestudies/stanley-steemer.md
+- _casestudies/shapiro.md
+- _casestudies/bouchard-insurance.md
+- _casestudies/columbus-metropolitan-library.md
+- _casestudies/dunlap-and-kyle-company.md
+- _casestudies/ultimate-home-services.md
+- _casestudies/first-insight.md
+- _casestudies/nonni-s-foods.md
+- _casestudies/tic-gums.md
+- _casestudies/battelle-for-kids.md
+- _casestudies/medcom-solutions.md
+- _casestudies/careworks-tech.md
+- _casestudies/irth-solutions-llc.md
