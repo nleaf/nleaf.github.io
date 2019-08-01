@@ -40,17 +40,16 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/battelle-for-kids.md
+- _casestudies/shapiro.md
 - _casestudies/careworks-tech.md
 - _casestudies/medcom-solutions.md
-- _casestudies/battelle-for-kids.md
 - _casestudies/tic-gums.md
 - _casestudies/nonni-s-foods.md
 - _casestudies/first-insight.md
 - _casestudies/ultimate-home-services.md
 - _casestudies/dunlap-and-kyle-company.md
 - _casestudies/columbus-metropolitan-library.md
-- _casestudies/shapiro.md
-- _casestudies/stanley-steemer.md
 - _casestudies/irth-solutions-llc.md
 - index.md
 - disaster-recovery.md
