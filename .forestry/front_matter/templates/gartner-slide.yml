@@ -10,5 +10,5 @@ fields:
   label: Current
   description: Toggle which slide shows first
 pages:
-- _gartner/slide1.md
 - _gartner/slide2.md
+- _gartner/slide1.md
