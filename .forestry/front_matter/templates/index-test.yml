@@ -40,6 +40,7 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/irth-solutions-llc.md
 - index.md
 - disaster-recovery.md
 - _casestudies/Prodigo-Solutions.md
@@ -55,4 +56,3 @@ pages:
 - _casestudies/battelle-for-kids.md
 - _casestudies/medcom-solutions.md
 - _casestudies/careworks-tech.md
-- _casestudies/irth-solutions-llc.md
