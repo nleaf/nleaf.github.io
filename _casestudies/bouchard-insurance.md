@@ -69,6 +69,4 @@ page_sections:
   subheading: Sign up for more technical briefs, stories, and special offers from Expedient.
   cta: Subscribe Now
   show_social: true
-published: true
-
 ---

@@ -71,11 +71,10 @@ page_sections:
 - template: recent-posts
   block: recentposts
 - template: newsletter
+  block: newsletter
   heading: The best of Expedient delivered to your inbox.
   subheading: Sign up for more technical briefs, stories, and special offers from
     Expedient.
   cta: Subscribe Now
   show_social: true
-  block: ''
-
 ---
