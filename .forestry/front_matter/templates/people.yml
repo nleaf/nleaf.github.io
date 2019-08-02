@@ -25,6 +25,7 @@ fields:
   default: person
   hidden: true
 pages:
+- _people/devon-cole.md
 - _people/jim-kothe.md
 - _people/anthony-estelle.md
 - _people/charlie-watkins.md
