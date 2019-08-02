@@ -10,7 +10,7 @@ page_sections:
   subheading: Expedient's Infrastructure Enables irth Solutions to Embrace Mobile
     Innovation for its Flagship Application
   heading: Ensuring Security, Maintaining Availability
-  icon: ''
+  icon: "/uploads/irth-news.png"
 - template: case-study-quote
   block: casestudy-quote
   quote: The greatest benefit to partnering with Expedient is the ability to scale
