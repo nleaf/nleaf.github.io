@@ -5,9 +5,6 @@ fields:
 - type: text
   name: name
   label: name
-- type: text
-  name: title
-  label: title
 - type: file
   name: thumbnail
   label: thumbnail
@@ -20,6 +17,9 @@ fields:
 - type: text
   name: linkedin
   label: linkedin
+- type: text
+  name: title
+  label: title
 - type: text
   name: layout
   label: layout
