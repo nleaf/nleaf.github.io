@@ -25,5 +25,6 @@ fields:
   default: person
   hidden: true
 pages:
+- _people/doug-theis.md
 - _people/mike-garuccio.md
 - _people/john-white.md
