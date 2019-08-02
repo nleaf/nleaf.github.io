@@ -10,7 +10,7 @@ page_sections:
   subheading: Columbus Metropolitan Library Keeps the Community Connected with Expedient's
     Infrastructure as a Service and Disaster Recovery Solutions
   heading: Building a Community with top-notch IT Infrastructure
-  icon: ''
+  icon: "/uploads/CML_Logo_Stacked_Color.png"
 - template: case-study-quote
   block: casestudy-quote
   icon: ''
