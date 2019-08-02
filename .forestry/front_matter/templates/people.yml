@@ -24,3 +24,5 @@ fields:
   label: layout
   default: person
   hidden: true
+pages:
+- _people/john-white.md
