@@ -10,7 +10,7 @@ page_sections:
   heading: IT Resilience at the Push of a Button
   subheading: Shapiro Delivers Imports and Exports Around the World with Expedient’s
     Infrastructure and Disaster Recovery Solutions
-  icon: ''
+  icon: "/uploads/shapiro logo.png"
 - template: case-study-quote
   block: casestudy-quote
   quote: Some of the things we dreamed with the cloud have come true. My team doesn't
@@ -77,4 +77,5 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
+
 ---
