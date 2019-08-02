@@ -25,6 +25,7 @@ fields:
   default: person
   hidden: true
 pages:
+- _people/sam-larkin.md
 - _people/derek-hahn.md
 - _people/david-saliba.md
 - _people/devon-cole.md
