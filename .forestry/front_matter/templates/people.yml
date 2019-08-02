@@ -5,12 +5,14 @@ fields:
 - type: text
   name: title
   label: title
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 250
+  label: thumbnail
 - type: text
   name: job_title
   label: job_title
-- type: text
-  name: thumbnail
-  label: thumbnail
 - type: text
   name: email
   label: email
