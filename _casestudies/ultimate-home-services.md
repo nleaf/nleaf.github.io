@@ -7,7 +7,7 @@ layout: blocks
 page_sections:
 - template: case-study-header
   block: casestudy-hero
-  icon: ''
+  icon: "/uploads/ultimate-home-services.png"
   heading: Setting the Stage for Future Growth
   subheading: Ultimate Home Services revolutionizes business processes with Expedient's
     Infrastructure as a Service and Managed Services
