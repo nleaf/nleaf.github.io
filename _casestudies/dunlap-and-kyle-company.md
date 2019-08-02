@@ -7,7 +7,7 @@ layout: blocks
 page_sections:
 - template: case-study-header
   block: casestudy-hero
-  icon: ''
+  icon: "/uploads/NEWS_170209983_V3_-1_XYULIAHKIDVZ.png"
   heading: IT Uptime is Where the Rubber Meets the Road!
   subheading: Dunlap and Kyle Tire Company maximizes the uptime and performance of
     its mission-critical applications with IaaS and DRaaS from Expedient
