@@ -3,11 +3,14 @@ label: People
 hide_body: false
 fields:
 - type: text
-  name: name
-  label: name
+  name: title
+  label: title
 - type: text
-  name: sub_heading
-  label: sub_heading
+  name: job_title
+  label: job_title
+- type: text
+  name: thumbnail
+  label: thumbnail
 - type: text
   name: email
   label: email
@@ -15,13 +18,5 @@ fields:
   name: linkedin
   label: linkedin
 - type: text
-  name: title
-  label: title
-- type: text
   name: layout
   label: layout
-- name: thumbnail
-  type: file
-  config:
-    maxSize: 250
-  label: thumbnail
