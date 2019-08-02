@@ -10,7 +10,7 @@ page_sections:
   subheading: Nonni’s Foods Bakes Biscotti at National Scale with Managed Infrastructure
     for Hosted ERP
   heading: 'IT Infrastructure as a Strategic Differentiator '
-  icon: ''
+  icon: "/uploads/Nonnis Food - logo - red.png"
 - template: subscribe-bar
   block: subbar
   headline: ''
