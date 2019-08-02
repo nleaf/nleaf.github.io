@@ -25,9 +25,9 @@ fields:
   default: person
   hidden: true
 pages:
+- _people/joe-palian.md
 - _people/kristin-puzon.md
 - _people/leslie-gubish.md
-- _people/joe-palian.md
 - _people/ed-dzurko.md
 - _people/shawn-mcgorry.md
 - _people/jon-rosenson.md
