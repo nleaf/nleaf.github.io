@@ -10,7 +10,7 @@ page_sections:
   subheading: Battelle for Kids Maintains its Focus on Moving Education Forward by
     Leveraging Expedient's Advanced Solutions
   heading: Empowering Educators with Innovative Services and Solutions
-  icon: ''
+  icon: "/uploads/BFK_logo_stackedblue.png"
 - template: case-study-quote
   block: casestudy-quote
   quote: Since we began partnering with Expedient, Battle for Kids has reduced our
@@ -23,8 +23,12 @@ page_sections:
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
-  description: Battelle for Kids (BFK) is a national not-for-profit organization focused on developing innovative services and solutions that empower teachers,
-    leaders and school systems to advance educational equity and opportunity for all students. BFK collaborates with state departments of education, urban, suburban and rural schools, and other education-focused organizations in more than 30 states to move education forward.
+  description: Battelle for Kids (BFK) is a national not-for-profit organization focused
+    on developing innovative services and solutions that empower teachers, leaders
+    and school systems to advance educational equity and opportunity for all students.
+    BFK collaborates with state departments of education, urban, suburban and rural
+    schools, and other education-focused organizations in more than 30 states to move
+    education forward.
   services:
   - tag: Cloud
   - tag: Colocation
