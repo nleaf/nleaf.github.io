@@ -25,6 +25,7 @@ fields:
   default: person
   hidden: true
 pages:
+- _people/ed-dzurko.md
 - _people/shawn-mcgorry.md
 - _people/jon-rosenson.md
 - _people/doug-theis.md
