@@ -25,6 +25,7 @@ fields:
   default: person
   hidden: true
 pages:
+- _people/steve-harrell.md
 - _people/bryan-smith.md
 - _people/ken-hill.md
 - _people/brent-meadows.md
