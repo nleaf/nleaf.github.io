@@ -10,7 +10,7 @@ page_sections:
   subheading: Expedient Helps Elite Services Provide Results-Driven Business Communication
     Solutions to Customers
   heading: Putting IT in the hands of Experts
-  icon: ''
+  icon: "/uploads/elite-services.jpg"
 - template: case-study-quote
   block: casestudy-quote
   quote: The bottom line is trying to get those scary tasks of handling data securely
