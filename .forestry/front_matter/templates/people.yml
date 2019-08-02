@@ -25,6 +25,7 @@ fields:
   default: person
   hidden: true
 pages:
+- _people/ed-dzurko.md
 - _people/sam-larkin.md
 - _people/derek-hahn.md
 - _people/david-saliba.md
@@ -44,5 +45,4 @@ pages:
 - _people/leslie-gubish.md
 - _people/joe-palian.md
 - _people/kristin-puzon.md
-- _people/ed-dzurko.md
 - _people/john-white.md
