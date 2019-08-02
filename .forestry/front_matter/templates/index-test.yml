@@ -40,6 +40,7 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/first-insight.md
 - _casestudies/dunlap-and-kyle-company.md
 - _casestudies/battelle-for-kids.md
 - _casestudies/bouchard-insurance.md
@@ -50,7 +51,6 @@ pages:
 - _casestudies/elite-services-inc.md
 - _casestudies/shapiro.md
 - _casestudies/careworks-tech.md
-- _casestudies/first-insight.md
 - _casestudies/ultimate-home-services.md
 - _casestudies/irth-solutions-llc.md
 - index.md

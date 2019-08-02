@@ -7,7 +7,7 @@ layout: blocks
 page_sections:
 - template: case-study-header
   block: casestudy-hero
-  icon: ''
+  icon: "/uploads/c9e4b75-FIRSTINSIGHT-LOGO-notag_1_1.png"
   heading: High Availability, Absolute Data Protection
   subheading: Expedient’s Reliable Infrastructure Enables First Insight to Help Retailers
     Pick Products that Deliver Profits
