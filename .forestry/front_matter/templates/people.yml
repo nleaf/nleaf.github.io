@@ -25,6 +25,7 @@ fields:
   default: person
   hidden: true
 pages:
+- _people/charlie-watkins.md
 - _people/david-saliba.md
 - _people/susan-mills.md
 - _people/doug-theis.md
