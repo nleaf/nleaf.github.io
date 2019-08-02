@@ -10,7 +10,7 @@ page_sections:
   heading: Cloud Transformation Enables Workforce Mobilization
   subheading: Stanley Steemer Launches Mobile Applications as Part of Business Transformation
     with Expedient’s Infrastructure as a Service and Disaster Recovery Solutions
-  icon: ''
+  icon: "/uploads/stanley-steemer-1.svg"
 - template: subscribe-bar
   block: subbar
   headline: ''
@@ -76,4 +76,5 @@ page_sections:
   cta: ''
   show_social: false
 published: false
+
 ---
