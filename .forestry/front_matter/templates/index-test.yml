@@ -40,6 +40,7 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/bouchard-insurance.md
 - _casestudies/columbus-metropolitan-library.md
 - _casestudies/medcom-solutions.md
 - _casestudies/tic-gums.md
@@ -55,4 +56,3 @@ pages:
 - index.md
 - disaster-recovery.md
 - _casestudies/Prodigo-Solutions.md
-- _casestudies/bouchard-insurance.md

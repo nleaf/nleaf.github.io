@@ -7,7 +7,7 @@ layout: blocks
 page_sections:
 - template: case-study-header
   block: casestudy-hero
-  icon: ''
+  icon: "/uploads/Bouchard-Insurance-1.jpg"
   heading: Continuous Uptime during a Hurricane
   subheading: Bouchard Insurance Uses Push Button DR for Proactive Business Resilience
     from Natural Disaster
@@ -66,7 +66,9 @@ page_sections:
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
-  subheading: Sign up for more technical briefs, stories, and special offers from Expedient.
+  subheading: Sign up for more technical briefs, stories, and special offers from
+    Expedient.
   cta: Subscribe Now
   show_social: true
+
 ---
