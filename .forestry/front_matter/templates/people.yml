@@ -25,6 +25,7 @@ fields:
   default: person
   hidden: true
 pages:
+- _people/bryan-smith.md
 - _people/ken-hill.md
 - _people/brent-meadows.md
 - _people/leslie-gubish.md
