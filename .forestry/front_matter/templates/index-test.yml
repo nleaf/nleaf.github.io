@@ -40,8 +40,8 @@ fields:
     min: 
     max: 
 pages:
-- _casestudies/tic-gums.md
 - _casestudies/medcom-solutions.md
+- _casestudies/tic-gums.md
 - _casestudies/nonni-s-foods.md
 - _casestudies/elite-services-inc.md
 - _casestudies/battelle-for-kids.md
