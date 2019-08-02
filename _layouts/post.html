@@ -20,6 +20,35 @@ layout: default
 <!-- END Blog Hero -->
 {% include breadcrumbs.html class="content-narrow" %}
 
+<br/>
+<!-- NEEDED POST INFO -->
+<h1>{{page.title}}</h1>
+
+<!-- Page Author info -->
+{% assign author = site.people[page.author] %}
+{% if author %}
+  <span>
+    Written by {{ author.title }}
+  </span>
+{% else %}
+  <span>
+    Written by Toby Osbourn
+  </span>
+{% endif %}
+
+{% if author.thumbnail %}
+    <img alt="{{ author.title }}" src="{{ author.thumbnail | absolute_url }}">
+{% endif %}
+
+<h1>Here12</h1>
+{% assign staff_member = site.people | where: 'title', page.author | first %}
+{% if staff_member %}
+  <h2>{{ staff_member.title }}</h2>
+  <img alt="{{ staff_member.title }}" src="{{ staff_member.thumbnail | absolute_url }}">
+{% endif %}
+<!-- END Page author info -->
+
+<!-- END POST INFO -->
 <div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12 mt-40">
   <div class="pure-u-1">
     <div class="content content-narrow">
