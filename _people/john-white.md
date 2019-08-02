@@ -1,7 +1,7 @@
 ---
 title: John White
 job_title: Senior Vice President and Chief Innovation Officer
-thumbnail: "/uploads/2017/11/14/william-stitt-162611.jpg"
+thumbnail: ''
 email: ''
 linkedin: https://www.linkedin.com/in/iamjohn/
 layout: person
