@@ -25,4 +25,5 @@ fields:
   default: person
   hidden: true
 pages:
+- _people/mike-garuccio.md
 - _people/john-white.md
