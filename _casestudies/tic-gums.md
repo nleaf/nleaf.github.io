@@ -7,7 +7,7 @@ layout: blocks
 page_sections:
 - template: case-study-header
   block: casestudy-hero
-  icon: ''
+  icon: "/uploads/ticlogo.png"
   heading: Hybrid IT for Ultimate Flexibility
   subheading: TIC Gums Uses Expedient's On-Site Private Cloud to Ensure Food Quality
     and Consistency for the Nation's Leading Consumer Packaged Goods Companies
