@@ -10,7 +10,7 @@ page_sections:
   subheading: MedCom Solutions Improves Healthcare Provider Revenue with Expedient
     Infrastructure as a Service
   heading: Stable, Secure, and HIPAA-Compliant IT Infrastructure
-  icon: ''
+  icon: "/uploads/medcom-solutions.jpg"
 - template: case-study-quote
   block: casestudy-quote
   icon: ''
