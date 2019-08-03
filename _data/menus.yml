@@ -1,7 +1,7 @@
 ---
 header:
-- title: Datacenter
-  url: "/datacenters"
+- title: Data Centers
+  url: "/data-centers"
   weight: 2
 - title: Why Expedient
   childern:
