@@ -67,5 +67,26 @@ subfooter:
   title: Awards 
   url: "/why-expedient/awards-and-accolades"
 subnav:
-- title: Let's Talk
-  url: "/contact"
+- title: About
+  childern:
+  - page: Overview
+    title: CREATE Overview
+    url: "/services/cloud"
+  - page: Executive Team
+    title: Executive Team
+    url: "/about/executive-team"
+  - page: Media 
+    title: Media
+    url: "/about/media"
+- title: Knowledgebase
+  childern:
+  - page: Blog
+    title: Blog
+    url: "/knowledgebase/blog/"
+  - page: Resources
+    title: Resources
+    url: "/knowledgebase/resources"
+  - page: Tools and Calculators
+    title: Tools and Calculators
+    url: "/knowledgebase/tools-and-calculators"
+

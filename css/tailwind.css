@@ -639,6 +639,7 @@ p {
 
 #subNav nav .links a {
   color: #57575D;
+  cursor: pointer;
 }
 
 #subNav nav .links a::after {
@@ -661,6 +662,22 @@ p {
 #subNav nav .links a:hover, #subNav nav .links a:active, #subNav nav .links a:focus {
   color: #F20505;
   outline: none;
+}
+
+/* Tertiary Navigation */
+#subNav header nav ul li ul {
+  visibility: hidden;
+  opacity: 0;
+  display: none;
+}
+
+#subNav header nav ul li:hover > ul,
+#subNav header nav ul li:focus-within > ul,
+#subNav header nav ul li ul:hover,
+#subNav header nav ul li ul:focus {
+  visibility: visible;
+  opacity: 1;
+  display: block;
 }
 
 #mainNav nav .links a {
