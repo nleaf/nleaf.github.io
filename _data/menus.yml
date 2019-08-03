@@ -28,7 +28,7 @@ header:
     url: "/services/colocation"
   - page: Security and Compliance 
     title: Security and Compliance
-    url: "/services/security-and-compliance "
+    url: "/services/security-and-compliance"
   - page: Disaster Recovery
     title: Disaster Recovery
     url: "/services/disaster-recovery"
@@ -38,12 +38,34 @@ header:
   weight: 4
   identifier: item_dxjp3EH
 footer:
-- title: Let's Talk
-  url: "/contact"
-  weight: 1
-- title: Datacenters
-  url: "/datacenters"
-  weight: 2
+- page: Cloud
+  title: Cloud
+  url: "/services/cloud"
+- page: Colocation
+  title: Colocation
+  url: "/services/colocation"
+- page: Security and Compliance 
+  title: Security and Compliance
+  url: "/services/security-and-compliance"
+- page: Disaster Recovery
+  title: Disaster Recovery
+  url: "/services/disaster-recovery"
+subfooter:
+- page: Data Centers
+  title: Data Centers
+  url: "/data-centers"
+- page: Our Clients
+  title: Our Clients
+  url: "/why-expedient/our-customers"
+- page: Success Stories
+  title: Success Stories
+  url: "/why-expedient/success-stories"
+- page: Technology Partners
+  title: Technology Partners
+  url: "/why-expedient/technology-partners"
+- page: Awards
+  title: Awards 
+  url: "/why-expedient/awards-and-accolades"
 subnav:
 - title: Let's Talk
   url: "/contact"
