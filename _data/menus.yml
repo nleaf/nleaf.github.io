@@ -5,18 +5,30 @@ header:
   weight: 2
 - title: Why Expedient
   childern:
-  - page: Disaster Recovery
-    title: Disaster Recovery
-    url: "/services/disaster-recovery"
-  - page: Disaster Recovery
-    title: Disaster Recovery
-    url: "/services/disaster-recovery"
-  - page: Disaster Recovery
-    title: Disaster Recovery
-    url: "/services/disaster-recovery"
+  - page: Our Customers
+    title: Our Customers
+    url: "/why-expedient/our-customers"
+  - page: Success Stories
+    title: Success Stories
+    url: "/why-expedient/success-stories"
+  - page: Technology Partners
+    title: Technology Partners
+    url: "/why-expedient/technology-partners"
+  - page: Awards and Accolades 
+    title: Awards and Accolades 
+    url: "/why-expedient/awards-and-accolades"
   weight: 3
 - title: Services
   childern:
+  - page: Cloud
+    title: Cloud
+    url: "/services/cloud"
+  - page: Colocation
+    title: Colocation
+    url: "/services/colocation"
+  - page: Security and Compliance 
+    title: Security and Compliance
+    url: "/services/security-and-compliance "
   - page: Disaster Recovery
     title: Disaster Recovery
     url: "/services/disaster-recovery"
