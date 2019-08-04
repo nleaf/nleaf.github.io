@@ -89,4 +89,10 @@ subnav:
   - page: Tools and Calculators
     title: Tools and Calculators
     url: "/knowledgebase/tools-and-calculators"
+- page: Partner
+  title: Partner
+  url: "http://partner.expedient.com"
+- page: Support
+  title: Support
+  url: "https://support.expedient.com"
 

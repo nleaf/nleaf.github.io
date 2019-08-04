@@ -5,7 +5,7 @@
 {% assign url = page.url | remove:'index.html' %}
   <div id="subNav" class="hidden lg:block">
       <header>
-          <nav class="flex bg-lgrey fixed top-0 inset-x-0 z-100 h-20 lg:h-10 items-center text-sm z-20">
+          <nav class="flex bg-lgrey fixed top-0 inset-x-0 z-100 h-20 lg:h-10 items-center text-sm z-30">
                   <div class="relative mx-auto px-6 w-full md:max-w-exp">
                       <div class="flex items-center -mx-6">
                           <!-- Desktop Links -->
@@ -19,7 +19,7 @@
                                     {% if item.childern %}
                                     <ul class="first-level absolute -mt-1 bg-lgrey">
                                         {% for child in item.childern %}
-                                        <li>
+                                        <li> 
                                         <a href="{{ child.url | absolute_url }}"{% if child.target %} target="_blank" {% endif %} class="px-8 py-6 block bg-bwhite">
                                             {{ child.title }}
                                         </a>
@@ -39,7 +39,7 @@
   </div>
   <div id="mainNav">
     <header>
-        <nav class="flex bg-bwhite border-b border-lgrey fixed top-0 lg:mt-10 inset-x-0 z-100 h-20 lg:h-24 items-center font-semibold font-sans z-10">
+        <nav class="flex bg-bwhite border-b border-lgrey fixed top-0 lg:mt-10 inset-x-0 z-100 h-20 lg:h-24 items-center font-semibold font-sans z-20">
         <div class="relative mx-auto px-6 w-full md:max-w-exp">
             <div class="flex items-center -mx-6">
 
