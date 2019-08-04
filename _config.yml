@@ -13,6 +13,11 @@ defaults:
       type: posts
     values:
       layout: post
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: "post"
 collections:
   gartner:
     output: false
@@ -28,6 +33,9 @@ collections:
   projects:
     output: true
     permalink: "/projects/:path/"
+  resources:
+    output: true
+    permalink: "/knowledgebase/resources/:title/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:

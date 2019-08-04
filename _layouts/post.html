@@ -26,7 +26,7 @@ layout: default
 
 <!-- Page Author info -->
 {% assign author = site.people[page.author] %}
-{% if author %}
+{% if page.author %}
   <span>
     Written by {{ author.title }}
   </span>
@@ -40,12 +40,14 @@ layout: default
     <img alt="{{ author.title }}" src="{{ author.thumbnail | absolute_url }}">
 {% endif %}
 
-<h1>Here12</h1>
-{% assign staff_member = site.people | where: 'title', page.author | first %}
-{% if staff_member %}
-  <h2>{{ staff_member.title }}</h2>
-  <img alt="{{ staff_member.title }}" src="{{ staff_member.thumbnail | absolute_url }}">
+{% if page.author %}
+  {% assign staff_member = site.people | where: 'title', page.author | first %}
+  {% if staff_member %}
+    <h2>{{ staff_member.title }}</h2>
+    <img alt="{{ staff_member.title }}" src="{{ staff_member.thumbnail | absolute_url }}">
+  {% endif %}
 {% endif %}
+
 <!-- END Page Author info -->
 
 <!-- END POST INFO -->
