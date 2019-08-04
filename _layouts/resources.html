@@ -1,0 +1,77 @@
+---
+layout: default
+---
+{% comment %}
+	This layout is used to by posts.md to display all of documents in
+	the _posts/ collection
+{% endcomment %}
+
+    <!-- Blog Hero -->
+    <div class="bg-cover bg-center pb-8 relative" style="background-image: url(/uploads/bg_blog.jpg)">
+      <div class="absolute h-full w-full z-0 top-0 mt-20" style="background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%); "></div>
+      <div class="flex flex-wrap mb-4 lg:items-top mx-auto md:max-w-expBody pt-32 lg:pt-48 lg:pb-16 px-4 justify-between z-10 relative">
+              <!-- Text Intro -->
+              <div class="w-full md:w-1/2 flex-grow pr-2">
+                  <h1 class="text-5xl sm:text-3xl md:text-exphl font-semibold leading-exp font-black font-sans my-6 text-center">Resources ALL</h1>
+                  <p class="text-hp font-light leading-snug text-center">“Expedient delivers real value—solutions our customers can’t run their <br/>business without. Here, an individual can make a real difference, each day, in <br/>defining and delivering those solutions. A dynamic, hands-on world <br/>of technology awaits behind the scenes of IT.”</p>
+                  <div class="h-2 bg-red w-24 mt-12 mx-auto"></div>
+              </div>
+      </div>
+    </div>
+    <!-- END Blog Hero -->
+
+    {% for post in site.resources %}
+      <!-- POST -->
+      <section class="relative sm:py-2 bg-bwhite sm:pb-12">
+          <div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12">
+              
+              <div class="w-full sm:w-4/12 pr-5">
+                  {% if post.banner_image and post.banner_image != "" %}
+                    <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="h-auto w-full">
+                  {% else %}
+                    <img src="{{ "/uploads/ph_blogPost.png" | absolute_url }}" alt="{{ post.title }}" class="h-auto w-full">
+                  {% endif %}
+              </div>
+
+              <div class="w-full sm:w-8/12 pl-8">
+                  
+                  <h2 class="text-4xl leading-tight font-black font-sans mt-1 mb-4">
+                    <a href="{{ post.url | absolute_url }}" class="ctaLink">{{ post.title }}</a>
+                  </h2>
+                  
+                  <div class="flex flex-wrap flex-wrap w-3/4 my-8 align-middle items-center">
+                      <div class="mr-8">
+                          <!-- Profile Picture -->
+                          <img src="/images/ph_profile.jpg" class="">
+                      </div> 
+                      <div class="mr-8 post-info align-middle">
+                          <span class="addInfo block">Author</span>
+                          <a href="#" class="authorName">{{ post.author }}</span></a>
+                      </div> 
+                      <div class="mr-8">
+                              <span class="addInfo block">Read Time</span>
+                              {% include readtime.html content=post.content %}
+                      </div> 
+                  </div>
+                  <p>{{ post.content | truncatewords: 30 | strip_html }}</p>
+                  <div class="text-red text-base font-bold font-sans inline pb-1"><a href="{{ post.url | absolute_url }}" class="ctaLink">Read Article</a></div>
+              </div>
+          </div>
+      </section>
+      <!-- END POST -->
+    {% endfor %}
+
+    {% if paginator.total_pages > 1 %}
+    <ul class="pager">
+        {% if paginator.previous_page %}
+        <li class="previous">
+            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+        </li>
+        {% endif %}
+        {% if paginator.next_page %}
+        <li class="next">
+            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+        </li>
+        {% endif %}
+    </ul>
+    {% endif %}
