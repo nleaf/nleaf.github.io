@@ -17,7 +17,7 @@ defaults:
       path: ""
       type: resources
     values:
-      layout: "post"
+      layout: resource
 collections:
   gartner:
     output: false
@@ -40,12 +40,12 @@ autopages:
   enabled: true
   tags: 
     layouts: 
-      - autopage_collections_tags.html
+     # - autopage_collections_tags.html
      # - autopage_tags.html
     enabled: true
   categories:
     layouts:
-      - autopage_cat.html
+      #- autopage_cat.html
     enabled: true
   collections:
     enabled: true
