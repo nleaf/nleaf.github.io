@@ -21,8 +21,11 @@ page_sections:
   cite: Seth Bosworth, Associate Director of Information Services, Orchard Software
 - template: case-study-intro
   block: casestudy-top
-  header: ''
-  description: ''
+  header: Market Opportunity
+  description: Orchard Software has been a leader in the laboratory information system
+    industry for more than 20 years. The company has implemented award-winning automation
+    and interface tools to address regulatory and integration issues as well as simplify
+    workflow in more than 1,400 laboratories across the country.
   services: []
   managedservices: []
 - template: highlights-2-column
