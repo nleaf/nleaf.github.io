@@ -5,6 +5,5 @@ thumbnail: ''
 job_title: Director, Facility Engineering
 email: ''
 linkedin: ''
-published: false
 
 ---
