@@ -7,7 +7,7 @@ image: ''
 page_sections:
 - template: case-study-header
   block: casestudy-hero
-  icon: ''
+  icon: "/uploads/Orchard-Software-Logo-WEB.png"
   heading: Turnkey IT Services = Strategic Focus
   subheading: Reliable Infrastructure as a Service Keeps Orchard Software Focused
     on Seamless Integration of Laboratory Information Systems Since 2004
