@@ -8,19 +8,24 @@ page_sections:
 - template: case-study-header
   block: casestudy-hero
   icon: "/uploads/omnyx-logo.png"
-  heading: ''
+  heading: Transformative IT Infrastructure
   subheading: Expedient Delivers the Capacity, Service and Reliability that Omnyx
     Needs to Help Transform Cancer Care
 - template: case-study-quote
   block: casestudy-quote
   icon: ''
   quote_background: ''
-  quote: ''
-  cite: ''
+  quote: With our production servers housed in Expedient's scalable, virtualized environment,
+    we're able to add a server for new applications quickly, without a heavy upfront
+    hardware investment.
+  cite: Kirk Howard, Director of IT, Omnyx
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
-  description: ''
+  description: Omnyx, LLC, a joint venture between GE Healthcare and UPMC, is committed
+    to helping transform cancer care through advances in digital pathology... For
+    the past eight years, Expedient has been able to deliver high availability, scalability
+    and reliability of IT infrastructure that keeps Omnyx focused on its mission.
   services: []
   managedservices: []
 - template: highlights-2-column
