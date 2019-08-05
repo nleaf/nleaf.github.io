@@ -25,8 +25,9 @@ fields:
   default: person
   hidden: true
 pages:
-- _people/charlie-watkins.md
+- _people/steve-harrell.md
 - _people/susan-mills.md
+- _people/charlie-watkins.md
 - _people/anthony-estelle.md
 - _people/ed-dzurko.md
 - _people/sam-larkin.md
@@ -40,7 +41,6 @@ pages:
 - _people/ken-hill.md
 - _people/shawn-mcgorry.md
 - _people/bryan-smith.md
-- _people/steve-harrell.md
 - _people/brent-meadows.md
 - _people/leslie-gubish.md
 - _people/joe-palian.md
