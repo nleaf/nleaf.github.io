@@ -39,7 +39,7 @@ page_sections:
       service provider made much more financial sense than investing capital to build
       out an in-house data center for Omnyx.
   - align-left: false
-    icon: "/uploads/EXP_Availability.svg"
+    icon: "/uploads/EXP_CostControl.svg"
     background: "/uploads/ph_hurricane.jpg"
     headline: The Challenge
     description: '"The cost of maintaining production-ready data center infrastructure
@@ -49,7 +49,10 @@ page_sections:
     icon: "/uploads/EXP_Solution.svg"
     background: "/uploads/ph_hurricane.jpg"
     headline: The Solution
-    description: ''
+    description: Omnyx is growing in size, scope, reach and revenue, which requires
+      more compute capacity. Expedient allows Omnyx to scale its infrastructure without
+      missing a beat, allowing it to meet the needs of the pathologists using its
+      software and products.
   heading: ''
   subheading: ''
 - template: recent-posts
