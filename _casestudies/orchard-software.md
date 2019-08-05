@@ -35,17 +35,23 @@ page_sections:
     icon: "/uploads/EXP_Scenario.svg"
     background: "/uploads/ph_hurricane.jpg"
     headline: The Scenario
-    description: ''
+    description: Orchard has experienced tremendous growth attributable to its customer-driven
+      product enhancement and development that has resulted in hundreds of interfaces
+      with instruments, reference libraries and EMR/EHR systems.
   - align-left: false
     icon: "/uploads/EXP_Server.svg"
     background: "/uploads/ph_hurricane.jpg"
     headline: The Challenge
-    description: ''
+    description: 'As Orchard''s applications grew, managing the underlying technology
+      infrastructure became a distraction from evolving software features leading
+      them to Expedient for a data center and managed services solution. '
   - align-left: true
     icon: "/uploads/EXP_Solution.svg"
     background: "/uploads/ph_hurricane.jpg"
     headline: The Solution
-    description: ''
+    description: Orchard consumes infrastructure services among three Expedient data
+      centers in order to ensure the reliability of seamless integration linking multiple
+      sites. A multigigabit network makes this possible.
   heading: ''
   subheading: ''
 - template: recent-posts
