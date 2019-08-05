@@ -40,6 +40,7 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/omnyx.md
 - _casestudies/orchard-software.md
 - index.md
 - _casestudies/elite-services-inc.md
