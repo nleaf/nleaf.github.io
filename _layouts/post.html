@@ -36,8 +36,11 @@ layout: default
   </span>
 {% endif %}
 
-{% if author.thumbnail %}
-    <img alt="{{ author.title }}" src="{{ author.thumbnail | absolute_url }}">
+{% if page.video %}
+{% capture video_id %}
+{{ page.video }}
+{% endcapture %}
+{% include youtube.html ytid=video_id %}
 {% endif %}
 
 {% if page.author %}
