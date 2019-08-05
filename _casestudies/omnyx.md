@@ -7,9 +7,10 @@ image: ''
 page_sections:
 - template: case-study-header
   block: casestudy-hero
-  icon: ''
+  icon: "/uploads/omnyx-logo.png"
   heading: ''
-  subheading: ''
+  subheading: Expedient Delivers the Capacity, Service and Reliability that Omnyx
+    Needs to Help Transform Cancer Care
 - template: case-study-quote
   block: casestudy-quote
   icon: ''
