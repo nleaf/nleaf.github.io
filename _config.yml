@@ -36,8 +36,22 @@ collections:
   resources:
     output: true
     permalink: "/knowledgebase/resources/:title/"
-# tag_page_layout: tag_page
-# tag_page_dir: tag
+autopages:
+  enabled: true
+  tags: 
+    layouts: 
+      - autopage_collections_tags.html
+     # - autopage_tags.html
+    enabled: true
+  categories:
+    layouts:
+      - autopage_cat.html
+    enabled: true
+  collections:
+    enabled: true
+    slugify:
+      mode: 'ascii'
+      cased: true  # Causes B+W tag to show up as it is written on the terry-pratchet-diary-2017.md page and not lowercase
 jekyll-archives:
   enabled: all
   layout: "archive"

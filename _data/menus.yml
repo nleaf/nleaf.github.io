@@ -78,6 +78,9 @@ subnav:
   - page: Media 
     title: Media
     url: "/about/media"
+- page: Careers
+  title: Careers
+  url: "https://www.expedient.com/company/careers-opportunities/"
 - title: Knowledgebase
   childern:
   - page: Blog
