@@ -35,12 +35,16 @@ page_sections:
     icon: "/uploads/EXP_Scenario.svg"
     background: "/uploads/ph_hurricane.jpg"
     headline: The Scenario
-    description: ''
+    description: Trusting Expedient as its infrastructure as a service (IaaS) hosting
+      service provider made much more financial sense than investing capital to build
+      out an in-house data center for Omnyx.
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
     background: "/uploads/ph_hurricane.jpg"
     headline: The Challenge
-    description: ''
+    description: '"The cost of maintaining production-ready data center infrastructure
+      - redundant power, proper fire suppression and multi-homed backbone connectivity
+      - for a company of our size would be daunting," Howard said.'
   - align-left: true
     icon: "/uploads/EXP_Solution.svg"
     background: "/uploads/ph_hurricane.jpg"
