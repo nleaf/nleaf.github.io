@@ -40,6 +40,7 @@ fields:
     min: 
     max: 
 pages:
+- let-s-talk.md
 - thank-you-newsletter.md
 - _casestudies/omnyx.md
 - _casestudies/orchard-software.md
