@@ -26,8 +26,15 @@ page_sections:
     industry for more than 20 years. The company has implemented award-winning automation
     and interface tools to address regulatory and integration issues as well as simplify
     workflow in more than 1,400 laboratories across the country.
-  services: []
-  managedservices: []
+  services:
+  - tag: Cloud
+  - tag: Colocation
+  - tag: Connectivity
+  managedservices:
+  - tag: Backups
+  - tag: Dedicated Firewall Management
+  - tag: Server Management and Monitoring
+  - tag: Virtual Private Network (VPN)
 - template: highlights-2-column
   block: highlights-2col
   highlights:
