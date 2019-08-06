@@ -789,43 +789,6 @@ Highlights
         
     </div>
 </section>
-<script>
-window.addEventListener("load", function () {
-  function sendData(formAction) {
-    var XHR = new XMLHttpRequest();
-
-    // Bind the FormData object and the form element
-    var FD = new FormData(form);
-
-    // Define what happens on successful data submission
-    XHR.addEventListener("load", function(event) {
-        console.log(event.target.responseText);
-    });
-
-    // Define what happens in case of error
-    XHR.addEventListener("error", function(event) {
-        console.log('Oops! Something went wrong.');
-    });
-
-    // Set up our request
-    XHR.open("POST", formAction);
-
-    // The data sent is what the user provided in the form
-    XHR.send(FD);
-  }
- 
-  // Access the form element...
-  var form = document.getElementById("myForm");
-  
-  // ...and take over its submit event.
-  form.addEventListener("submit", function (event) {
-    event.preventDefault();
-
-    var formAction = this.getAttribute('action');
-    sendData(formAction);
-  });
-});
-</script>
 <!-- END Newsletter -->
 
 <!-- FOOTER -->
