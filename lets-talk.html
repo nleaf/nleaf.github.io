@@ -287,6 +287,40 @@
 </div>
 <!-- END Page Hero -->
 
+<!-- FORM -->
+<section class="bg-bwhite relative">
+
+    <div class="px-4 md:max-w-expBody justify-between mx-auto py-16 relative">
+        
+        <form class="newsletterForm mb-12 mt-4" action="http://go.expedient.com/l/12902/2019-08-06/dbzszs" type="POST">
+            
+            <div class="w-full mb-4 text-center align-middle justify-center m-auto">
+                <input class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="fullname" type="text" placeholder="Full Name">
+            </div>
+            <div class="w-full mb-4 text-center align-middle justify-center m-auto">
+                <input class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="bizemail" type="text" name="email" placeholder="Buiness Email">
+            </div>
+            <div class="w-full mb-4 text-center align-middle justify-center m-auto">
+                <textarea name="comments" id="comments" class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" tabindex="7" aria-invalid="false" rows="10" cols="50" placeholder="Comments" spellcheck="true"></textarea>
+            </div>
+            <div class="w-full mb-4 text-center align-middle justify-center m-auto">
+                <button class="w-2/6 m-auto block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans ctaButton mt-8 text-center" type="button">
+                    Send Message
+                </button>
+            </div>
+
+            <div>
+                <input name="fname" >
+                <input name="lname" >
+                <input name="lname" >
+                <input name="company" >
+            </div>
+            </form>
+        </form>
+    </div>
+
+</section>
+<!-- END FORM -->
 <!-- FOOTER -->
 <footer class="bg-black relative">
     <div class="px-4 md:max-w-expBody justify-between mx-auto py-16 relative">
@@ -501,35 +535,3 @@
 <script src="/js/main.js" type="text/javascript"></script>
 </body>
 </html>
-<script type="text/javascript">
-	// Fade-In Animations
-	var animateHTML = function() {
-	var elems;
-	var windowHeight;
-	function init() {
-		elems = document.querySelectorAll('.hiddensc');
-		windowHeight = window.innerHeight;
-		addEventHandlers();
-		checkPosition();
-	}
-	function addEventHandlers() {
-		window.addEventListener('scroll', checkPosition);
-		window.addEventListener('resize', init);
-	}
-	function checkPosition() {
-		for (var i = 0; i < elems.length; i++) {
-		var positionFromTop = elems[i].getBoundingClientRect().top;
-		if (positionFromTop - windowHeight <= 0) {
-			elems[i].className = elems[i].className.replace(
-			'hiddensc',
-			'fade-in-element'
-			);
-		}
-		}
-	}
-	return {
-		init: init
-	};
-	};
-	animateHTML().init();
-</script>
