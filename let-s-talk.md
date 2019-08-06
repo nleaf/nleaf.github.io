@@ -1,5 +1,5 @@
 ---
-layout: blocks
+layout: contact
 title: Let’s Talk
 seo_title: ''
 description: ''
