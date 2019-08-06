@@ -26,8 +26,16 @@ page_sections:
     to helping transform cancer care through advances in digital pathology... For
     the past eight years, Expedient has been able to deliver high availability, scalability
     and reliability of IT infrastructure that keeps Omnyx focused on its mission.
-  services: []
-  managedservices: []
+  services:
+  - tag: Cloud
+  - tag: Colocation
+  - tag: Connectivity
+  managedservices:
+  - tag: Backups
+  - tag: Dedicated Firewall Management
+  - tag: Remote Hands
+  - tag: Server Management and Monitoring
+  - tag: Virtual Private Network (VPN)
 - template: highlights-2-column
   block: highlights-2col
   highlights:
