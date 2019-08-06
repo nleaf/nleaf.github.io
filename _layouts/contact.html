@@ -37,12 +37,6 @@
 </section>
 <!-- END FORM -->
 {% include footer.html %}
-{% include head.html %}
-{% include nav.html %}
-{% for section in page.page_sections %}
-{% include block-{{ section.block }}.html %}
-{% endfor %}
-{% include footer.html %}
 <script type="text/javascript">
     function popForm() {
             // Get shown inputs
