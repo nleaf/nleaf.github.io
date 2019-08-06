@@ -17,7 +17,7 @@
                 <input class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="email" type="text" name="email" placeholder="Buiness Email">
             </div>
             <div class="w-full mb-4 text-center align-middle justify-center m-auto">
-                <textarea name="comments" id="comments" class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" tabindex="7" aria-invalid="false" rows="10" cols="50" placeholder="Comments" spellcheck="true"></textarea>
+                <textarea name="comments" id="comments" class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" aria-invalid="false" rows="10" cols="50" placeholder="Comments" spellcheck="true"></textarea>
             </div>
             <div class="w-full mb-4 text-center align-middle justify-center m-auto">
                 <button class="w-2/6 m-auto block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans ctaButton mt-8 text-center" type="submit" value="Submit" id="Form-submit">
@@ -25,7 +25,7 @@
                 </button>
             </div>
 
-            <div>
+            <div class="hidden">
                 <input name="fname" id="fname">
                 <input name="lname" id="lname">
                 <input name="company" id="company">
@@ -45,17 +45,22 @@
 {% include footer.html %}
 <script type="text/javascript">
     function popForm() {
-        // Get shown inputs
-        var fullname = document.getElementById('fullname').value;
-        var nameArray = fullname.split(/(\s+)/);
-        //Inject
-        document.getElementById('fname').value = nameArray[0];
-        document.getElementById('lname').value = nameArray[2];
-        var email = document.getElementById('email').value;
-        var bizname = email.split('@');
-        //Inject
-        document.getElementById('company').value = bizname[1];
-    }
-
-    document.getElementById("Form-submit").addEventListener("hover", popForm);
+            // Get shown inputs
+            var fullname = document.getElementById('fullname').value;
+            var nameArray = fullname.split(/(\s+)/);
+            //Inject
+            document.getElementById('fname').value = nameArray[0];
+            document.getElementById('lname').value = nameArray[2];
+            var email = document.getElementById('email').value;
+            var bizname = email.split('@');
+            //Inject
+            document.getElementById('company').value = bizname[1];
+        }
+        
+        $("#Form-submit").hover(function() {
+            popForm();
+        });
+        $( "#Form-submit" ).focus(function() {
+            popForm();
+        });
 </script>
