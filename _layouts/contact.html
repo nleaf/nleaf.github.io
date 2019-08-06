@@ -14,22 +14,21 @@
                 <input class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="fullname" type="text" placeholder="Full Name">
             </div>
             <div class="w-full mb-4 text-center align-middle justify-center m-auto">
-                <input class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="bizemail" type="text" name="email" placeholder="Buiness Email">
+                <input class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="email" type="text" name="email" placeholder="Buiness Email">
             </div>
             <div class="w-full mb-4 text-center align-middle justify-center m-auto">
                 <textarea name="comments" id="comments" class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" tabindex="7" aria-invalid="false" rows="10" cols="50" placeholder="Comments" spellcheck="true"></textarea>
             </div>
             <div class="w-full mb-4 text-center align-middle justify-center m-auto">
-                <button class="w-2/6 m-auto block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans ctaButton mt-8 text-center" type="button">
+                <button class="w-2/6 m-auto block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans ctaButton mt-8 text-center" type="submit" value="Submit" id="Form-submit">
                     Send Message
                 </button>
             </div>
 
             <div>
-                <input name="fname" >
-                <input name="lname" >
-                <input name="lname" >
-                <input name="company" >
+                <input name="fname" id="fname">
+                <input name="lname" id="lname">
+                <input name="company" id="company">
             </div>
             </form>
         </form>
@@ -38,3 +37,25 @@
 </section>
 <!-- END FORM -->
 {% include footer.html %}
+{% include head.html %}
+{% include nav.html %}
+{% for section in page.page_sections %}
+{% include block-{{ section.block }}.html %}
+{% endfor %}
+{% include footer.html %}
+<script type="text/javascript">
+    function popForm() {
+        // Get shown inputs
+        var fullname = document.getElementById('fullname').value;
+        var nameArray = fullname.split(/(\s+)/);
+        //Inject
+        document.getElementById('fname').value = nameArray[0];
+        document.getElementById('lname').value = nameArray[2];
+        var email = document.getElementById('email').value;
+        var bizname = email.split('@');
+        //Inject
+        document.getElementById('company').value = bizname[1];
+    }
+
+    document.getElementById("Form-submit").addEventListener("hover", popForm);
+</script>
