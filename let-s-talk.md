@@ -4,6 +4,7 @@ title: Let’s Talk
 seo_title: ''
 description: ''
 image: ''
+permalink: /lets-talk
 page_sections:
 - template: page-hero
   block: page-hero
