@@ -22,6 +22,8 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  templates:
+  - posts
 - type: directory
   path: _projects
   label: Projects
