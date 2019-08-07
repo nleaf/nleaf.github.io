@@ -39,7 +39,21 @@ page_sections:
   block: highlights-2col
   heading: ''
   subheading: ''
-  highlights: []
+  highlights:
+  - align-left: true
+    icon: "/uploads/EXP_Scenario.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Scenario
+    description: Finding a cloud and data center provider that was able to help the
+      company find a scalable environment in its budget brought InteractiveBlue to
+      Expedient.
+  - align-left: false
+    icon: "/uploads/EXP_Server.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Challenge
+    description: Staying up to date with the latest technology was very important
+      to InteractiveBlue because the company was not happy with the bare metal servers
+      it had at its last provider.
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
