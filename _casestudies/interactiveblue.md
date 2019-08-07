@@ -7,9 +7,10 @@ image: ''
 page_sections:
 - template: case-study-header
   block: casestudy-hero
-  icon: ''
+  icon: "/uploads/interactive-blue_logo.png"
   heading: ''
-  subheading: ''
+  subheading: Expedient Meets InteractiveBlue's Need for Upgraded Technology and Plan
+    for Future Growth
 - template: case-study-quote
   block: casestudy-quote
   icon: ''
