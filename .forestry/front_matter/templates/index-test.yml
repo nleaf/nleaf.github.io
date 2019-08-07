@@ -40,9 +40,9 @@ fields:
     min: 
     max: 
 pages:
-- _casestudies/omnyx.md
 - _casestudies/softlinx-inc.md
 - _casestudies/interactiveblue.md
+- _casestudies/omnyx.md
 - _casestudies/elite-services-inc.md
 - let-s-talk.md
 - thank-you-newsletter.md
