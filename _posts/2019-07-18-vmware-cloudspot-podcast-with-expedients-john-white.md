@@ -11,8 +11,10 @@ tags:
 - VMware
 - VMware CloudSpot Podcast
 - VMware Cloud Provider Partner
-- John White Expedient
 - Guy Bartram VMware
+seo_title: ''
+description: ''
+image: ''
 
 ---
 [Listen to John White](http://bit.ly/30EuoDS), Expedient's Chief Innovation Officer, and Guy Bartram, Director of Product Marketing at VMware, discuss Expedient's evolution as a VMware Cloud Provider Partner on VMware's CloudSpot Podcast. More information on the podcast is available on [VMware's blog here](http://bit.ly/2XYXPPg). Test
