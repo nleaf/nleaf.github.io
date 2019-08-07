@@ -33,7 +33,22 @@ page_sections:
   block: highlights-2col
   heading: ''
   subheading: ''
-  highlights: []
+  highlights:
+  - align-left: false
+    icon: "/uploads/EXP_RiskMitigation.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Challenge
+    description: With the majority of Softlinx customers being in the healthcare or
+      financial industries, the company has to be compliant to HIPAA and PCI-DSS.
+      Finding a provider that was ready and able to complement Softlinx's efforts
+      to complete successful audit reports pursuant to regulations was necessary.
+  - align-left: true
+    icon: "/uploads/EXP_Scenario.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Scenario
+    description: For Softlinx, value was important. The company needed a full-service
+      provider that offered solid solutions with guaranteed performance but without
+      breaking the bank.
 - template: recent-posts
   block: recentposts
 - template: newsletter
