@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Softlinx, Inc.
+title: Softlinx Inc.
 seo_title: ''
 description: ''
 image: ''
