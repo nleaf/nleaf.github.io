@@ -40,12 +40,12 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/omnyx.md
+- _casestudies/softlinx-inc.md
 - _casestudies/interactiveblue.md
 - _casestudies/elite-services-inc.md
-- _casestudies/softlinx-inc.md
 - let-s-talk.md
 - thank-you-newsletter.md
-- _casestudies/omnyx.md
 - _casestudies/orchard-software.md
 - index.md
 - _casestudies/ultimate-home-services.md

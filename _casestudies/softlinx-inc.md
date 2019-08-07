@@ -75,6 +75,5 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
-published: false
 
 ---
