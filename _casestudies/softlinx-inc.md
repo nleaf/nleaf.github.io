@@ -15,8 +15,11 @@ page_sections:
   block: casestudy-quote
   icon: ''
   quote_background: ''
-  quote: ''
-  cite: ''
+  quote: We have been growing very fast. As a result, we talked to at least half a
+    dozen big providers, as big as Amazon and Microsoft, and then small ones and the
+    local ones; Expedient met all of our requirements as they were the perfect mix
+    of scale and personal touch."
+  cite: "- Dr. Hikyu Lee, President and CEO of Softlinx Inc."
 - template: case-study-intro
   block: casestudy-top
   header: ''
