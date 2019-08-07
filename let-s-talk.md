@@ -4,13 +4,14 @@ title: Let’s Talk
 seo_title: ''
 description: ''
 image: ''
-permalink: /lets-talk
+permalink: "/lets-talk"
 page_sections:
 - template: page-hero
   block: page-hero
-  subheadline: Expedient’s Disaster Recovery as a Service solutions have been recognized
-    in  the Gartner Magic Quadrant for DRaaS and offer fast, total network failover  without
-    IP and DNS changes.
+  subheadline: Want to learn more about how Expedient’s Infrastructure as a Service
+    solutions can help your business stay focused on its core objectives and strategic
+    innovations? Complete the form below, and a local expert will get back to you
+    within one business day.
   banner_image: ''
 
 ---
