@@ -22,8 +22,11 @@ page_sections:
   cite: "- Dr. Hikyu Lee, President and CEO of Softlinx Inc."
 - template: case-study-intro
   block: casestudy-top
-  header: ''
-  description: ''
+  header: Market Opportunity
+  description: Softlinx, a provider of HIPAA-compliant cloud fax services and enterprise
+    fax solutions, needed a colocation and hosting provider that offered guaranteed
+    uptime, had a nationwide presence but with a local data center, and offered compliance
+    support for healthcare and financial industries, all at an affordable price point.
   services: []
   managedservices: []
 - template: highlights-2-column
