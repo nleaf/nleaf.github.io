@@ -25,6 +25,7 @@ fields:
   default: person
   hidden: true
 pages:
+- _people/steve-gruetter.md
 - _people/bryan-smith.md
 - _people/charlie-watkins.md
 - _people/jon-rosenson.md
