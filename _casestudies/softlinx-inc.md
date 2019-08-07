@@ -27,8 +27,15 @@ page_sections:
     fax solutions, needed a colocation and hosting provider that offered guaranteed
     uptime, had a nationwide presence but with a local data center, and offered compliance
     support for healthcare and financial industries, all at an affordable price point.
-  services: []
-  managedservices: []
+  services:
+  - tag: Cloud
+  - tag: Connectivity
+  managedservices:
+  - tag: Backups
+  - tag: Dedicated Firewall Management
+  - tag: Dedicated Load Balancing
+  - tag: Disaster Recovery as a Service
+  - tag: Virtual Private Network (VPN)
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
