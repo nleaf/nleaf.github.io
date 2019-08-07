@@ -288,12 +288,12 @@
   <div class="flex flex-wrap mb-4 lg:items-top mx-auto md:max-w-expBody pt-32 lg:pt-48 lg:pb-16 px-4 justify-between z-10 relative">
           <!-- Text Intro -->
           <div class="w-full md:w-1/2 flex-grow pr-2">
-              <h1 class="text-5xl sm:text-3xl md:text-exphl font-semibold leading-exp font-black font-sans my-6 text-center">Blog</h1>
-              <p class="text-hp font-light leading-snug text-center">“Expedient delivers real value—solutions our customers can’t run their <br/>business without. Here, an individual can make a real difference, each day, in <br/>defining and delivering those solutions. A dynamic, hands-on world <br/>of technology awaits behind the scenes of IT.”</p>
+              <h1 class="text-5xl sm:text-3xl md:text-exphl font-semibold leading-exp font-black font-sans my-6 text-center">Designing Expedient Enterprise Cloud</h1>
               <div class="h-2 bg-red w-24 mt-12 mx-auto"></div>
           </div>
   </div>
 </div>
+<div class="hidden">
 <!-- END Blog Hero -->
 
 
@@ -349,9 +349,10 @@
 
 
 <!-- END Page Author info -->
+</div>
 
 <!-- END POST INFO -->
-<div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12 mt-40 post">
+<div class="lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12 mt-40">
   <div class="pure-u-1">
     <div class="content content-narrow">
       <div class="meta">
@@ -406,7 +407,7 @@
         </div>
         
       </div>
-
+      <div class="post">
       <p>September 2018 marks a milestone for Expedient. The release of <strong>Expedient Enterprise Cloud</strong> is the culmination of thousands of hours in evaluations, education, training, beta testing, product roadmap shaping, advisory boards, design sessions, and acceptance testing from Expedient Support and Delivery engineers.  As I reflect on the past several years of work, I want to provide perspective on the challenges we were having, the design process, and our end state, of course without giving away all the secret sauce. <strong>Challenge:</strong> Offering virtualization since 2007, Expedient was running into challenges running its virtualization platform at scale and meeting new customer demand. Larger customers and workloads were driving the need for larger PODs of infrastructure. New security and compliance demands were requiring granular borders and firewalling between machines inside of a customer’s environment. Role-based access control policies we utilized to multi-tenant vCenter were being deprecated in upcoming releases. More customers were purchasing two or more sites for services and having individual access to each site was becoming cumbersome for daily management. Customers wanted to use deployment tools to build infrastructure via code, and needed a rich API to do so.  Managed Services like OS Management and <a href="https://www.expedient.com/services/managed-services/disaster-recovery/">DRaaS</a> were growing the platform at a 24% CAGR, requiring new levels of scale. This prompted a complete reevaluation of every element of cloud services including both software and hardware. Expedient has enjoyed strong partnerships with Dell, VMware, and Juniper, who are the incumbent vendors of our existing virtualization product and the selected vendors for Expedient Enterprise Cloud. <strong>Design Details</strong> <strong>Hardware: </strong>The existing environment used a traditional three-tier architecture consisting of Dell R740 servers with dual 12 core processors and 384GB of RAM, Juniper 10Gb spine and leaf switching, and Dell Compellent 7020 SANs consisting of 30 3.84TB SSD drives. The scope of this POD was 20 hosts, n+n switch stack, and 2 storage units creating a POD of 480 pCPUs, 7,680 GB of RAM, and 230TB of storage.</p>
 
 <ul>
@@ -454,7 +455,7 @@
 
 <p><strong>End State:</strong> The final platform consists of a full VMware stack of products <strong>providing a single ecosystem simplifying management, monitoring, and support</strong>. This includes ESXi as the hypervisor, NSX-V for the software defined network, vSAN for the storage layer, vCloud Director as a management console, and the vRealize suite of services consisting of Operations, Automation, and Log Insight. This software is deployed on 64 node clusters of Dell R740xd hardware. Each server contains dual Intel 6140 processors, 768GB of memory, and 12 1.92TB SSD drives. Getting the Expedient Enterprise Cloud to this point was a critical first step toward the future of Expedient services. Managed Service customers will continue to be deployed and eventually migrated to this cloud as well as new cloud workloads that don’t fit the constraints of Hyperscale Public Clouds. The ease of use, API extensibility, and portability of the platform are poised to keep pace with rival cloud service providers and deliver on our local and high touch key differentiators as we set off toward a multi-cloud world. <strong>To learn more about the vision behind Expedient Enterprise Cloud, <a href="https://www.expedient.com/blog/expedient-cloud-evolution-a-vision-5-years-in-the-making/">read this blog post</a> by John White.</strong> <em>As Chief Innovation Officer, John White is the lead executive at Expedient responsible for the company’s product and technology vision. In addition to leading Expedient’s product strategy, John also serves as the lead technology evangelist for the company, works closely with the sales team on closing complex/high brand deals, and acts as Expedient’s primary interface with existing technology partners. Follow him on <a href="https://twitter.com/johna_white">Twitter</a>.</em></p>
 
-
+      </div>
       
     </div>
   </div>
