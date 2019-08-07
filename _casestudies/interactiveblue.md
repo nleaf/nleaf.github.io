@@ -21,10 +21,20 @@ page_sections:
   cite: "-Bill O'Neil, CTO of InteractiveBlue"
 - template: case-study-intro
   block: casestudy-top
-  header: ''
-  description: ''
-  services: []
-  managedservices: []
+  header: Market Opportunity
+  description: InteractiveBlue, a full-service web and database design software development
+    company, wanted to establish its own independent architecture as opposed to the
+    shared cloud platform with outdated hardware that it had at its previous facility.
+  services:
+  - tag: Cloud
+  - tag: Connectivity
+  managedservices:
+  - tag: Backups
+  - tag: Dedicated Firewall Management
+  - tag: Dedicated Load Balancing
+  - tag: Disaster Recovery as a Service
+  - tag: Server Management and Monitoring
+  - tag: Virtual Private Network (VPN)
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
