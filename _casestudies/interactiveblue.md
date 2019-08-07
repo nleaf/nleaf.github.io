@@ -70,6 +70,5 @@ page_sections:
   show_social: true
 - template: recent-posts
   block: recentposts
-published: false
 
 ---
