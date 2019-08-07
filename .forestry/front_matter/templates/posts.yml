@@ -5,6 +5,14 @@ fields:
 - type: text
   name: title
   label: title
+- name: seo
+  type: blocks
+  label: SEO
+  template_types:
+  - seo
+  config:
+    min: 
+    max: 
 - type: datetime
   name: date
   label: date
