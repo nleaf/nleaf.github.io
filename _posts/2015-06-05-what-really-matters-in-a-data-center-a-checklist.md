@@ -1,5 +1,5 @@
 ---
-title: 'What Really Matters in a Data Center?—A Checklist'
+title: 'What Really Matters in a Data Center? A Checklist'
 date: Fri, 05 Jun 2015 14:00:12 +0000
 draft: false
 tags: [Bryan Smith, Data Centers]
