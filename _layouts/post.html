@@ -58,20 +58,14 @@ layout: default
           <div class="post-date">{{ page.author }}</div>
         {% endif %}
         {% if page.tags.size > 0 %}
-        <span class="meta-separator">&bull;</span>
-        <ul class="tags-list mb-2">
-          <li class="inline tag_list_item">
-						Tags:
-					</li>
-					{% for tag in page.tags %}
-          <li class="inline tag_list_item">
-            {{ tag }}
-            {% if forloop.last == true %}{% else %}
-              <span>,</span>
-            {% endif %}
-          </li>
-          {% endfor %}
-        </ul>
+        <div class="tags-list mb-2 absolute top-0 right-0 w-3/12 sm:w-4/12 mt-0 sm:mt-0 pl-4">
+          <h3 class="text-red text-xl font-bold font-sans mb-4">Tags</h3>
+            {% for tag in page.tags %}
+            <a href="#" class="tag_list_item block bg-bwhite my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
+              {{ tag }}
+            </a>
+            {% endfor %}
+        </div>
         {% endif %}
       </div>
 
