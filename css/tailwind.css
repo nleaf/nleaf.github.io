@@ -646,7 +646,7 @@ p {
   width: 680px;
 }
 
-.post h4 {
+.post h2, .post h3, .post h4 {
   font-size: 30.125px;
   font-weight: 600;
   margin-top: 2.4rem;
@@ -682,6 +682,21 @@ p {
   width: 1em;
   margin-left: -1em;
   line-height: 0px;
+}
+
+/* Youtube */
+.video-responsive{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+.video-responsive iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
 }
 
 #subNav nav .links a {
