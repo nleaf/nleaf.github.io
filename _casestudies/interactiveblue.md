@@ -8,15 +8,17 @@ page_sections:
 - template: case-study-header
   block: casestudy-hero
   icon: "/uploads/interactive-blue_logo.png"
-  heading: ''
+  heading: Meeting Infrastructure Needs Now and in the Future
   subheading: Expedient Meets InteractiveBlue's Need for Upgraded Technology and Plan
     for Future Growth
 - template: case-study-quote
   block: casestudy-quote
   icon: ''
   quote_background: ''
-  quote: ''
-  cite: ''
+  quote: The whole point of moving to a virtual, cloud-based situation is that we're
+    not going to fall behind. Having someone who is continually updating and continually
+    staying on top of [new hardware] means that we don't have to.
+  cite: "-Bill O'Neil, CTO of InteractiveBlue"
 - template: case-study-intro
   block: casestudy-top
   header: ''
