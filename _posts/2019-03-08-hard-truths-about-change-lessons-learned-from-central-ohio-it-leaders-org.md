@@ -1,10 +1,15 @@
 ---
-title: 'Hard Truths about Change - Lessons Learned from Central Ohio IT Leaders.org'
+title: Hard Truths about Change - Lessons Learned from Central Ohio IT Leaders.org
 date: Fri, 08 Mar 2019 14:00:42 +0000
-draft: false
-tags: [Steve Gruetter, IT Leadership, Central Ohio IT Leaders.org, Bruce Barnes, CIO Solutions Gallery]
----
+tags:
+- Steve Gruetter
+- IT Leadership
+- Central Ohio IT Leaders.org
+- Bruce Barnes
+- CIO Solutions Gallery
+author: Steve Gruetter
 
+---
 With a great deal of help, I put together an IT leadership development program – [Central Ohio IT Leaders.org](https://itleaders.org/central-ohio/) – in 2017 for aspiring CIOs in Central Ohio.  The following message is my effort to share what I've learned from the tremendous CIO guest speakers that have presented as part of the program. **Central Ohio IT Leaders.org** is a peer group that meets monthly to network, discuss ideas, learn from experienced speakers, and establish collaborative relationships with the goal of nurturing the next generation of Columbus IT leadership. Several times throughout the year, the peer group will host CIOs as guest speakers to discuss various aspects of IT leadership. The following lesson learned is based off of my interpretation of a recent presentation by [Bruce Barnes](https://www.linkedin.com/in/bruce-barnes-653211/), a very well respected educator in Central Ohio, most well-known for his continuing professional development series [CIO Solutions Gallery](https://professionals.engineering.osu.edu/cio-solutions-gallery).  I met Bruce in 2005 while I was at Platform Lab, but got involved with his CIO Practicum/Solutions Gallery events about the time I moved to Expedient in 2011. The content and the speakers at the CIO Solutions Gallery are outstanding, and I learn each time I attend.  If you are in IT leadership, it is well worth investing your time in participating in these sessions. His presenting partner, [Thornton May](https://www.linkedin.com/in/thornton-may-a224b2/), will often ask very difficult questions that the attendees will work through in small groups.  The working groups are very different from event to event and that is one of the best parts about attending – working on hard questions with very smart people with different viewpoints. During 2018, the theme of the CIO Solutions Gallery series was **Leadership**, which worked very well for Bruce’s presentation.
 
 #### Change is hard, it is daily, and it is constant. It causes stress and it is essential to survive.
