@@ -41,6 +41,13 @@ page_sections:
   subheading: ''
   highlights:
   - align-left: true
+    icon: "/uploads/EXP_Solution.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: The Solution
+    description: By hosting with an enterprise cloud provider, InteractiveBlue benefits
+      from constantly improving performance by utilizing Intel's latest technology
+      through Expedient rather than implementing the hardware on its own.
+  - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
     background: "/uploads/ph_hurricane.jpg"
     headline: The Scenario
