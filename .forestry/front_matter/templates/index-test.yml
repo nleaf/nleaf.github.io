@@ -40,6 +40,7 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/interactiveblue.md
 - _casestudies/softlinx-inc.md
 - let-s-talk.md
 - thank-you-newsletter.md
