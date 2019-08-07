@@ -1,37 +1,62 @@
 ---
-title: 'Five Strategies to Mitigate Cloud Risk'
+title: Five Strategies to Mitigate Cloud Risk
 date: Mon, 01 Oct 2018 13:43:24 +0000
-draft: false
-tags: [Cloud Computing, cloud computing, Data Centers, compliance, cloud security, hybrid cloud, Jon Rosenson, Data Security, IaaS, compliance, multi cloud, data security, two-factor authentication, cloud risk mitigation, data encryption at rest]
----
+tags:
+- cloud computing
+- Data Centers
+- cloud security
+- hybrid cloud
+- Data Security
+- IaaS
+- compliance
+- multi cloud
+- data security
+author: Jon Rosenson
 
-In a recent [Gartner survey](https://www.gartner.com/en/newsroom/press-releases/2018-08-15-gartner-says-cloud-computing-remains-top-emerging-business-risk) of risk, audit, and compliance executives, cloud computing ranked as the top risk concern. More specifically, these executives emphasized the potential of unauthorized access to sensitive or restricted information stored in the cloud, and the possibility that cloud-hosted data could be rendered inaccessible due to a service disruption on the cloud provider’s end. While these and other cloud-related risks are very real and must be taken into consideration before migrating physically hosted IT operations to a virtual environment, the operational and bottom-line benefits that can be realized via cloud migration outweigh these risks.
+---
+In a recent [Gartner survey](https://www.gartner.com/en/newsroom/press-releases/2018-08-15-gartner-says-cloud-computing-remains-top-emerging-business-risk) of risk, audit, and compliance executives, cloud computing ranked as the top risk concern. More specifically, these executives emphasized the potential of unauthorized access to sensitive or restricted information stored in the cloud, and the possibility that cloud-hosted data could be rendered inaccessible due to a service disruption on the cloud provider’s end. 
+
+While these and other cloud-related risks are very real and must be taken into consideration before migrating physically hosted IT operations to a virtual environment, the operational and bottom-line benefits that can be realized via cloud migration outweigh these risks.
+
+{% include youtube.html ytid="cCLQg6e2mHo" %}
 
 ### Security and Compliance Risks Inherent to Cloud Migration
 
 There are several ways for IT executives to mitigate the risks associated with cloud computing; however, before we explore these strategies, let’s dive a little deeper into the security and compliance issues one must consider before migrating IT operations to a hosted cloud environment. According to a recent 451 Research Report, IT organizations most frequently cite the following compliance and security questions and challenges when it comes to cloud migration:
 
-*   **Data Confidentiality –** When your IT environment is in a hosted cloud environment, how do you ensure the confidentiality of sensitive information?
-*   **Compliance-related issues, including 3rd party compliance-related requests –** Is a cloud service provider compliant with applicable regulations for your business? If necessary, are they able to provide attestation of compliance? In terms of the May 2018 enacted GDPR, [this blog post explores](https://www.expedient.com/blog/expedient-support-for-gdpr-compliance/) the responsibilities of a managed service provider.
-*   **Data Residency –** In what geographic location(s) will your data be hosted? What are the legal and regulatory obligations implied by these locations?
-*   **Auditability** – When a data integrity audit is necessary, how accessible is cloud-hosted data? How is data auditability addressed in the cloud SLA?
-*   **Data breach –** What safeguards and processes does the cloud provider have in place to ensure the security and privacy of hosted data?
+* **Data Confidentiality –** When your IT environment is in a hosted cloud environment, how do you ensure the confidentiality of sensitive information?
+* **Compliance-related issues, including 3rd party compliance-related requests –** Is a cloud service provider compliant with applicable regulations for your business? If necessary, are they able to provide attestation of compliance? In terms of the May 2018 enacted GDPR, [this blog post explores](https://www.expedient.com/blog/expedient-support-for-gdpr-compliance/) the responsibilities of a managed service provider.
+* **Data Residency –** In what geographic location(s) will your data be hosted? What are the legal and regulatory obligations implied by these locations?
+* **Auditability** – When a data integrity audit is necessary, how accessible is cloud-hosted data? How is data auditability addressed in the cloud SLA?
+* **Data breach –** What safeguards and processes does the cloud provider have in place to ensure the security and privacy of hosted data?
 
 ### Strategies to Mitigate Cloud Risk
 
-While the list of implied security and compliance considerations for cloud migration is extensive, the benefits gained easily outweigh these risks if they are managed properly. Utilize these methods to mitigate cloud migration risk: **1\. Data Encryption at Rest**: Encryption at rest protects data that is not in use or in transit. As data at rest is typically protected by firewalls and monitoring, it can be tempting to believe that is secure without encryption. However, if the password of an authorized user is compromised, the privacy of this data is no longer secure. When sensitive data is moved to a third-party cloud provider, the risk of unauthorized access increases. [Data encryption at rest](https://www.expedient.com/services/managed-services/compliance-security/data-encryption-at-rest/) minimizes this risk by ensuring data security even if unauthorized access via stolen credentials occurs. Additionally, data encryption at rest is important to maintain compliance with government and industry mandates such as [HIPAA](https://www.expedient.com/services/managed-services/compliance-security/hipaa-compliance/), [PCI DSS](https://www.expedient.com/services/managed-services/compliance-security/pci-dss-compliance/), and SOX. To mitigate risk and support compliance mandates, both Data Encryption at Rest and Two-Factor Authentication (2FA) are baked into Expedient’s newest multi-cloud solution, **[Expedient Enterprise Cloud](https://www.expedient.com/services/infrastructure-as-a-service/cloud/)**. **2\. Two-Factor Authentication (2FA):** By combining a password with a second authentication component such as a one-time password generated by a personal PIN, IT executives can add an important extra layer of security to their cloud hosted environments. Not only is [two-factor authentication](https://www.expedient.com/services/managed-services/compliance-security/two-factor-authentication/) much more secure than just relying on username/password combinations, it is also supports ease-of-use from an end user perspective. Like data encryption at rest, 2FA also nicely complements industry and government compliance mandates. **3\. Eliminate Shared Accounts:** As with other web-based services, sharing cloud platform credentials with coworkers is common practice. While most professionals don’t think twice about employing a shared account model with services that require multiple cooks in the kitchen, it can be a recipe for cloud disaster. Even if it’s more convenient/cost-effective than requiring a unique account for each user, sharing cloud accounts injects unnecessary risk into cloud operations. To maintain accountability and preserve data auditability and integrity, cloud services accounts should not be shared between users for any reason. **4\. Insist on a well-defined shared responsibility model:** Whether it’s for Infrastructure as a Service (IaaS), Platform as a Service (PaaS), or Software as a Service (SaaS), a well-defined and reciprocal shared responsibility agreement with each cloud services provider is critical to mitigating the risks associated with cloud-hosted services. Additionally, ensure that everyone on your staff (whether they are full-time employees or consultants) is crystal clear about the various shared responsibility models in use by your various cloud providers. As [the complexity of enterprise cloud environments](https://www.infoworld.com/article/3305779/cloud-management/cloud-complexity-management-is-the-next-big-thing.html) continue to increase, implementing the methods outlined above will continue to increase in importance to mitigate the inherent risk associated with the cloud. **5\. Use Standardized Cloud Assessment Questions: **In addition, having a set of up-to-date cloud provider assessment questions that are representative of your organization’s cybersecurity and compliance goals is important as well. With cloud services coming in all shapes and sizes, asking a standardized set of questions to each potential vendor will help you establish a comparison baseline to understand which cloud provider/service will be best for your business’s needs. Below is a list of suggested assessment questions to ask a prospective cloud provider:
+While the list of implied security and compliance considerations for cloud migration is extensive, the benefits gained easily outweigh these risks if they are managed properly. Utilize these methods to mitigate cloud migration risk: 
 
-*   Do you own your data center or are you co-located in a third-party facility?
-*   Do you leverage any third parties for your services? If so, do any of these providers have access to your systems and customer data?
-*   Background checks for staff?
-*   What are your data encryption solutions? How do you manage the encryption keys?
-*   How are backups maintained and protected? Is Disaster Recovery being provided?
-*   Does the storage solution meet our data retention requirements (think SOX, HIPAA, PCI, etc.)?
-*   How do I get notified of alerts and potential issues with my services?
-*   How do I retain control over my data?
-*   How do you isolate my data from other clients?
-*   What types of attestations do you provide to support my compliance efforts (i.e. SOX, PCI, HIPAA, HITRUST, etc.)?
-*   Can I review your attestation reports prior to signing a service agreement?
-*   Can I have independent auditors visit your data center?
+**1. Data Encryption at Rest**: Encryption at rest protects data that is not in use or in transit. As data at rest is typically protected by firewalls and monitoring, it can be tempting to believe that is secure without encryption. However, if the password of an authorized user is compromised, the privacy of this data is no longer secure. When sensitive data is moved to a third-party cloud provider, the risk of unauthorized access increases. [Data encryption at rest](https://www.expedient.com/services/managed-services/compliance-security/data-encryption-at-rest/) minimizes this risk by ensuring data security even if unauthorized access via stolen credentials occurs. Additionally, data encryption at rest is important to maintain compliance with government and industry mandates such as [HIPAA](https://www.expedient.com/services/managed-services/compliance-security/hipaa-compliance/), [PCI DSS](https://www.expedient.com/services/managed-services/compliance-security/pci-dss-compliance/), and SOX. To mitigate risk and support compliance mandates, both Data Encryption at Rest and Two-Factor Authentication (2FA) are baked into Expedient’s newest multi-cloud solution, [**Expedient Enterprise Cloud**](https://www.expedient.com/services/infrastructure-as-a-service/cloud/). 
 
-Hopefully after reading this blog post, you’re feeling more confident regarding cloud migration. Expedient specializes in providing cloud and infrastructure as a service (IaaS) solutions that complement the compliance and security requirements of businesses in any industry through a combination of security services and audited attestation documentation. **Check out [this infographic](http://go.expedient.com/compliance_security) to learn more.** _As Senior Vice President and Chief Operating Officer, Jonathan Rosenson is responsible for overseeing organizational functions that drive growth at Expedient. Jon additionally acts as an external spokesperson conveying the Expedient story. [Follow him](https://twitter.com/rosenson) on Twitter._ \[gravityform id="24" title="true" description="true"\]
+**2. Two-Factor Authentication (2FA):** By combining a password with a second authentication component such as a one-time password generated by a personal PIN, IT executives can add an important extra layer of security to their cloud hosted environments. Not only is [two-factor authentication](https://www.expedient.com/services/managed-services/compliance-security/two-factor-authentication/) much more secure than just relying on username/password combinations, it is also supports ease-of-use from an end user perspective. Like data encryption at rest, 2FA also nicely complements industry and government compliance mandates. 
+
+**3. Eliminate Shared Accounts:** As with other web-based services, sharing cloud platform credentials with coworkers is common practice. While most professionals don’t think twice about employing a shared account model with services that require multiple cooks in the kitchen, it can be a recipe for cloud disaster. Even if it’s more convenient/cost-effective than requiring a unique account for each user, sharing cloud accounts injects unnecessary risk into cloud operations. To maintain accountability and preserve data auditability and integrity, cloud services accounts should not be shared between users for any reason. 
+
+**4. Insist on a well-defined shared responsibility model:** Whether it’s for Infrastructure as a Service (IaaS), Platform as a Service (PaaS), or Software as a Service (SaaS), a well-defined and reciprocal shared responsibility agreement with each cloud services provider is critical to mitigating the risks associated with cloud-hosted services. Additionally, ensure that everyone on your staff (whether they are full-time employees or consultants) is crystal clear about the various shared responsibility models in use by your various cloud providers. As [the complexity of enterprise cloud environments](https://www.infoworld.com/article/3305779/cloud-management/cloud-complexity-management-is-the-next-big-thing.html) continue to increase, implementing the methods outlined above will continue to increase in importance to mitigate the inherent risk associated with the cloud. 
+
+**5. Use Standardized Cloud Assessment Questions:** In addition, having a set of up-to-date cloud provider assessment questions that are representative of your organization’s cybersecurity and compliance goals is important as well. With cloud services coming in all shapes and sizes, asking a standardized set of questions to each potential vendor will help you establish a comparison baseline to understand which cloud provider/service will be best for your business’s needs. Below is a list of suggested assessment questions to ask a prospective cloud provider:
+
+* Do you own your data center or are you co-located in a third-party facility?
+* Do you leverage any third parties for your services? If so, do any of these providers have access to your systems and customer data?
+* Background checks for staff?
+* What are your data encryption solutions? How do you manage the encryption keys?
+* How are backups maintained and protected? Is Disaster Recovery being provided?
+* Does the storage solution meet our data retention requirements (think SOX, HIPAA, PCI, etc.)?
+* How do I get notified of alerts and potential issues with my services?
+* How do I retain control over my data?
+* How do you isolate my data from other clients?
+* What types of attestations do you provide to support my compliance efforts (i.e. SOX, PCI, HIPAA, HITRUST, etc.)?
+* Can I review your attestation reports prior to signing a service agreement?
+* Can I have independent auditors visit your data center?
+
+Hopefully after reading this blog post, you’re feeling more confident regarding cloud migration. Expedient specializes in providing cloud and infrastructure as a service (IaaS) solutions that complement the compliance and security requirements of businesses in any industry through a combination of security services and audited attestation documentation. **Check out** [**this infographic**](http://go.expedient.com/compliance_security) **to learn more.** 
+
+_As Senior Vice President and Chief Operating Officer, Jonathan Rosenson is responsible for overseeing organizational functions that drive growth at Expedient. Jon additionally acts as an external spokesperson conveying the Expedient story._ [_Follow him_](https://twitter.com/rosenson) _on Twitter._
