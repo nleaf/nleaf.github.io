@@ -1,10 +1,26 @@
 ---
-title: 'Repurposing IT - How cloud-based VMware infrastructure enables better strategic focus'
+title: Repurposing IT - How cloud-based VMware infrastructure enables better strategic
+  focus
 date: Fri, 12 Jul 2019 20:22:07 +0000
-draft: false
-tags: [Cloud Computing, cloud strategy, business outcomes, Infrastructure as a service, Doug Theis, enterprise cloud, hyperscale cloud, VMware Cloud, digital transformation, IT Leadership, IT strategy, SaaS applications, cloud transformation, IT workload, multi-cloud complexity]
----
+tags:
+- Cloud Computing
+- cloud strategy
+- business outcomes
+- Infrastructure as a service
+- Doug Theis
+- enterprise cloud
+- hyperscale cloud
+- VMware Cloud
+- digital transformation
+- IT Leadership
+- IT strategy
+- SaaS applications
+- cloud transformation
+- IT workload
+- multi-cloud complexity
+author: Doug Theis
 
+---
 How strategic is your IT team? Ask two questions to get a sense of your strategic value:
 
 1.  Ask the employees in your organization **whether they feel like Information Technology makes the organization run more effectively.**
