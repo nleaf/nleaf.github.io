@@ -102,6 +102,8 @@ layout: default
                                 {% if staff_member %}
                                     <img alt="{{ staff_member.title }}" src="{{ staff_member.thumbnail | absolute_url }}" class="h-24">
                                 {% endif %}
+                            {% else %}
+                                <img alt="Expedient" src="/uploads/EXP_Circle-Mark.svg" class="h-24">
                             {% endif %}
                       </div> 
                       <div class="mr-8 post-info align-middle">
