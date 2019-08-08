@@ -9,6 +9,7 @@ tags:
 - multi cloud
 - VMware
 author: John White
+image: "/uploads/EXP_Social-Blog-CloudEvo_LinkedIN.png"
 
 ---
 In 2013, Pat Gelsinger walked on stage at a capacity VMworld general session and introduced a vision for the next evolution of virtualization: the [Software-Defined Data Center](https://www.datacenterknowledge.com/archives/2013/08/27/vmware-drives-software-defined-data-center-vision-forward). A model where infrastructure provisioning would be disaggregated from the underlying hardware and defined simply by code. 
