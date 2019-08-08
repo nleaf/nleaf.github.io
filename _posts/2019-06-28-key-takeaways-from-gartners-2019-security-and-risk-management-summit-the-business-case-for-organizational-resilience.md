@@ -1,10 +1,23 @@
 ---
-title: 'Key Takeaways from Gartner''s 2019 Security and Risk Management Summit – The Business Case for Organizational Resilience'
+title: Key Takeaways from Gartner's 2019 Security and Risk Management Summit – The
+  Business Case for Organizational Resilience
 date: Fri, 28 Jun 2019 19:20:08 +0000
-draft: false
-tags: [Disaster Recovery, compliance, Jon Rosenson, Data Security, compliance, managed services, cybersecurity, cybersecurity standards, risk management, Gartner Security and Risk Management Summit, organizational resilience, ContinuousNEXT]
----
+tags:
+- Disaster Recovery
+- compliance
+- Jon Rosenson
+- Data Security
+- compliance
+- managed services
+- cybersecurity
+- cybersecurity standards
+- risk management
+- Gartner Security and Risk Management Summit
+- organizational resilience
+- ContinuousNEXT
+author: Jon Rosenson
 
+---
 More than 3,500 IT risk and security professionals congregated outside of Washington, D.C., recently to attend the [2019 Gartner Security and Risk Management Summit](https://www.gartner.com/en/conferences/na/security-risk-management-us) to gain the latest insights on evolving security trends and the ever-changing threat landscape. I was among the team from Expedient who were there to meet with vendors, partners, clients, and analysts. Throughout the week, several topic areas were comprehensively covered with respect to some of today’s top priorities for security and risk in digital business. These were key areas where I focused my engagement:
 
 *   **Choosing Cybersecurity Standards and Frameworks** – continuously improving an effective posture that meets the broadest needs of organization that rely on Expedient services to achieve business resilience
