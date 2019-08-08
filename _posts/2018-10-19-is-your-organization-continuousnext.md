@@ -5,6 +5,7 @@ tags:
 - Data Security
 - digital transformation
 author: Jon Rosenson
+image: "/uploads/WP-Social-GartnerITExpo-1024x538.png"
 
 ---
 More than 9,000 CIOs and IT leaders converged on Orlando, FL this week to attend [Gartner Symposium/ITxpo 2018](https://www.gartner.com/en/conferences/na/symposium-us) to improve IT strategy with knowledge gained from global business thought leaders and leading technology industry research. I’m happy to say, we weren’t disappointed! Throughout the week, several trends were ever-present including:
