@@ -7,6 +7,7 @@ tags:
 - hybrid cloud
 - digital transformation
 author: Doug Theis
+image: "/uploads/EXP_Social-KeyDecision_Twitter.png"
 
 ---
 ## What are the key decision points for selecting your cloud computing platform? 
