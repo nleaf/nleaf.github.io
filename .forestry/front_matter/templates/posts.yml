@@ -10,6 +10,11 @@ fields:
   config: {}
   template: seo
   label: SEO
+- name: banner_image
+  type: file
+  config:
+    maxSize: 250
+  label: Banner Image
 - type: datetime
   name: date
   label: date
