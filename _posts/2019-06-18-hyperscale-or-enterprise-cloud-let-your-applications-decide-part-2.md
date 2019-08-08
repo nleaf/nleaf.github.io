@@ -1,10 +1,20 @@
 ---
-title: 'Hyperscale or Enterprise Cloud? Let Your Applications Decide – Part 2'
+title: Hyperscale or Enterprise Cloud? Let Your Applications Decide – Part 2
 date: Tue, 18 Jun 2019 15:33:35 +0000
-draft: false
-tags: [private cloud, hybrid cloud, Doug Theis, Multi-cloud, enterprise cloud, hyperscale cloud, VMware, Expedient Enterprise Cloud, Enterprise Cloud, hosted private cloud]
----
+tags:
+- private cloud
+- hybrid cloud
+- Doug Theis
+- Multi-cloud
+- enterprise cloud
+- hyperscale cloud
+- VMware
+- Expedient Enterprise Cloud
+- Enterprise Cloud
+- hosted private cloud
+author: Doug Theis
 
+---
 This is the second installment of a two-part blog post on the difference between “smart” and “dumb” applications. Part 2 covers the characteristics of “dumb applications” that are best suited to run on “smart hardware.” To learn more about “smart applications” (aka cloud native applications) running on “dumb hardware,” **[read Part 1](https://www.expedient.com/blog/hyperscale-or-enterprise-cloud-let-your-applications-decide-part-i/).**
 
 #### **Dumb Applications on Smart Hardware**
