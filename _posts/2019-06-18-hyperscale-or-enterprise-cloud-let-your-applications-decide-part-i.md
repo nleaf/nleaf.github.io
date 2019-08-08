@@ -1,10 +1,20 @@
 ---
-title: 'Hyperscale or Enterprise Cloud? Let Your Applications Decide – Part I'
+title: Hyperscale or Enterprise Cloud? Let Your Applications Decide – Part I
 date: Tue, 18 Jun 2019 15:31:53 +0000
-draft: false
-tags: [Infrastructure as a service, public cloud, hybrid cloud, Doug Theis, Multi-cloud, enterprise cloud, hyperscale cloud, AWS, Microsoft Azure, Google Cloud Platform]
----
+tags:
+- Infrastructure as a service
+- public cloud
+- hybrid cloud
+- Doug Theis
+- Multi-cloud
+- enterprise cloud
+- hyperscale cloud
+- AWS
+- Microsoft Azure
+- Google Cloud Platform
+author: Doug Theis
 
+---
 While many think buying cloud services is as easy as choosing between AWS or Azure, educated buyers explore all the options – both hyperscale and enterprise clouds - and choose the environment that will maximize application performance while optimizing cloud spend. Often, this best-of-breed approach [leads to complex multi-cloud and hybrid IT environments](https://www.expedient.com/blog/how-are-you-addressing-the-10-complexities-of-your-multi-cloud-environment/) that consist of hyperscale clouds, private hosted clouds, on-premises and colocated infrastructure. So, what’s the key to multi-cloud success? You guessed it – choosing the right IT infrastructure for each specific use case. Taking a best-of-breed approach to workload placement starts [with analyzing your applications](https://www.expedient.com/blog/should-your-organizations-applications-influence-which-cloud-platforms-you-use/) to determine which cloud(s) would work best for each application. In the first section of this two-part article, we will explore the types of applications best suited for the hyperscale cloud and review what factors you should consider when choosing a hyperscale cloud provider. [In the second part of this article](https://www.expedient.com/blog/hyperscale-or-enterprise-cloud-let-your-applications-decide-part-2/), I will consider applications that typically work best in enterprise cloud environments.
 
 #### **Smart Applications on Dumb Hardware**
