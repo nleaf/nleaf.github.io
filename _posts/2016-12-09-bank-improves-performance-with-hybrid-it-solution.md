@@ -1,10 +1,15 @@
 ---
-title: 'Bank Improves Performance with Hybrid IT Solution'
+title: Bank Improves Performance with Hybrid IT Solution
 date: Fri, 09 Dec 2016 20:30:31 +0000
-draft: false
-tags: [Virtual Colocation, Disaster Recovery, Anthony Estelle, DRaaS, business outcomes]
----
+tags:
+- Virtual Colocation
+- Disaster Recovery
+- Anthony Estelle
+- DRaaS
+- business outcomes
+author: Anthony Estelle
 
+---
 Desired Business Outcome
 ========================
 
