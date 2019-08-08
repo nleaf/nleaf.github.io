@@ -16,6 +16,7 @@
 <title>Business Continuity Planning | Expedient</title>
 <meta name="generator" content="Jekyll v3.8.6" />
 <meta property="og:title" content="Business Continuity Planning" />
+<meta name="author" content="Bryan Smith" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Creating a Business Continuity Plan for Disasters" />
 <meta property="og:description" content="Creating a Business Continuity Plan for Disasters" />
@@ -23,7 +24,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-03-25T15:22:07+00:00" />
 <script type="application/ld+json">
-{"description":"Creating a Business Continuity Plan for Disasters","headline":"Business Continuity Planning","dateModified":"2015-03-25T15:22:07+00:00","datePublished":"2015-03-25T15:22:07+00:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"/knowledgebase/blog/2015-03-25-create-a-business-continuity-plan-for-data-disasters/"},"url":"/knowledgebase/blog/2015-03-25-create-a-business-continuity-plan-for-data-disasters/","@context":"https://schema.org"}</script>
+{"description":"Creating a Business Continuity Plan for Disasters","headline":"Business Continuity Planning","dateModified":"2015-03-25T15:22:07+00:00","datePublished":"2015-03-25T15:22:07+00:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"/knowledgebase/blog/2015-03-25-create-a-business-continuity-plan-for-data-disasters/"},"url":"/knowledgebase/blog/2015-03-25-create-a-business-continuity-plan-for-data-disasters/","author":{"@type":"Person","name":"Bryan Smith"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -344,10 +345,16 @@
 
 
   <span>
-    Written by Toby Osbourn
+    Written by 
   </span>
 
 
+
+  
+  
+    <h2>Bryan Smith</h2>
+    <img alt="Bryan Smith" src="/uploads/bryan-smith.jpg">
+  
 
 
 <!-- END Page Author info -->
@@ -362,13 +369,11 @@
         <div class="post-date">25 Mar 2015</div>
         
         
+          <div class="post-date">Bryan Smith</div>
+        
         
         <div class="tags-list mb-2 absolute top-0 right-0 w-3/12 sm:w-4/12 mt-0 sm:mt-0 pl-4">
           <h3 class="text-red text-xl font-bold font-sans mb-4">Tags</h3>
-            
-            <a href="#" class="tag_list_item block bg-bwhite my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
-              Bryan Smith
-            </a>
             
             <a href="#" class="tag_list_item block bg-bwhite my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
               Disaster Recovery
@@ -378,56 +383,65 @@
         
       </div>
       <div class="post">
-      <h1 id="creating-a-business-continuity-plan-for-disasters"><strong>Creating a Business Continuity Plan for Disasters</strong></h1>
+      <h2 id="creating-a-business-continuity-plan-for-disasters">Creating a Business Continuity Plan for Disasters</h2>
 
 <p>The creation and implementation of a Disaster Recovery Plan (DRP) can be a complex undertaking; however, it doesn’t need to be. The necessary steps, which may seem overwhelming, are easily broken down into a basic process that’s applicable to any industry. Not having a DRP or worse, not implementing a DRP can be a catastrophic mistake to your business. The cost of downtime can be insurmountable, so creating and implementing an effective DRP should be a priority for any organization. To illustrate, I’ll assume the role of CIO for an eCommerce firm responsible for managing the implementation of a DRP. This plan will be one component of my company’s overall Business Continuity Plan, with other teams working to establish procedures for facilities disasters, personnel disasters, and so forth.</p>
 
 <ol>
-  <li>
-    <h3 id="establishing-data-and-infrastructure-priorities"><strong>Establishing Data and Infrastructure Priorities</strong></h3>
-  </li>
+  <li><strong>Establishing Data and Infrastructure Priorities</strong></li>
 </ol>
 
-<p>My first priority will be to l work with each department in my company to determine what applications should be classified as mission critical. This allows me to focus my efforts on the environments required to ensure business continuity, and avoid the planning pitfalls that can arise when a company tries to save everything all at once. A second step in this process includes the establishment of tiers of priority – Tier 1 having the highest criticality, Tier 2, being second highest, and so on. During the classification of applications, discussions will be centered on correlating applications with specific tiers. As an example, the primary website applications will be classified as Tier 1 applications. As an eCommerce company, our mission critical environments will likely include the website code, customer payment systems, accounts payable and receivable, inventory records, and vendor data, along with the applications used in those systems. Next, my team will identify the hardware and infrastructure assets necessary to recover, replace, and protect the mission critical environment. This will most likely include servers, storage, load balancing and network infrastructure as well as replication technologies and the potential secondary site locations to host the DR environment.,</p>
+<p>My first priority will be to l work with each department in my company to determine what applications should be classified as mission critical. This allows me to focus my efforts on the environments required to ensure business continuity, and avoid the planning pitfalls that can arise when a company tries to save everything all at once.</p>
+
+<p>A second step in this process includes the establishment of tiers of priority – with Tier 1 being the most critical, Tier 2, being second highest, and so on. During the classification of applications, discussions will be centered on correlating applications with specific tiers. As an example, the primary website applications will be classified as Tier 1 applications.</p>
+
+<p>As an eCommerce company, our mission critical environments will likely include the website code, customer payment systems, accounts payable and receivable, inventory records, and vendor data, along with the applications used in those systems.</p>
+
+<p>Next, my team will identify the hardware and infrastructure assets necessary to recover, replace, and protect the mission critical environment. This will most likely include servers, storage, load balancing and network infrastructure as well as replication technologies and the potential secondary site locations to host the DR environment.,</p>
 
 <ol>
-  <li>
-    <h3 id="determining-recovery-objectives"><strong>Determining Recovery Objectives</strong></h3>
-  </li>
+  <li><strong>Determining Recovery Objectives</strong></li>
 </ol>
 
-<p>Now for each tier, we’ll need to decide what our Recovery Point Objective (RPO) is, which describes the maximum amount of data we’re willing to lose. This is usually expressed in hours, e.g., we can’t afford to lose more than 10 hours of data related to our customer and vendor transactions. Then for each tier, we’ll choose our Recovery Time Objective (RTO), specifying the maximum amount of downtime we can tolerate before recovery is completed and normal operations resume.</p>
+<p>Now for each tier, we’ll need to decide what our Recovery Point Objective (RPO) is, which describes the maximum amount of data we’re willing to lose. This is usually expressed in hours, e.g., we can’t afford to lose more than 10 hours of data related to our customer and vendor transactions.</p>
+
+<p>Then for each tier, we’ll choose our Recovery Time Objective (RTO), specifying the maximum amount of downtime we can tolerate before recovery is completed and normal operations resume.</p>
 
 <ol>
-  <li>
-    <h3 id="choosing-a-recovery-strategy"><strong>Choosing a Recovery Strategy</strong></h3>
-  </li>
+  <li><strong>Choosing a Recovery Strategy</strong></li>
 </ol>
 
 <p>Now my team will choose a strategy to recover and replace those assets. The first decision will be whether to pursue an internal recovery strategy, or a provider supported strategy. The process is the same for both, but internal recovery will require us to maintain our own backup facilities and equipment, as opposed to working with a third-party partner that will provide the secondary environment for us. Minimizing financial outlay for this plan is necessary, as such, we will choose a provider supported strategy, which curtails capital expenditures and reduces operating expenditures. We must then work with our partner to establish procedures for the following areas.</p>
 
-<ul>
-  <li><strong>Replication:</strong> What applications will we replicate, based on what tier, to what location and on what medium (our hardware, their public cloud, their private cloud, etc.)</li>
-  <li><strong>Failover:</strong> Who is responsible for establishing the DR process, how does this occur and what is needed from the partner, and from us?</li>
-  <li><strong>Network Failover:</strong> Who is responsible for failing over the network elements, how does this occur and what is needed from the partner, and from us?</li>
-  <li><strong>Testing:</strong> What do we test, how often do we test and who controls the testing process?</li>
-</ul>
+<h4 id="replication">Replication</h4>
+
+<p>What applications will we replicate, based on what tier, to what location and on what medium (our hardware, their public cloud, their private cloud, etc.)?</p>
+
+<h4 id="failover">Failover</h4>
+
+<p>Who is responsible for establishing the DR process, how does this occur and what is needed from the partner, and from us?</p>
+
+<h4 id="network-failover">Network Failover</h4>
+
+<p>Who is responsible for failing over the network elements, how does this occur and what is needed from the partner, and from us?</p>
+
+<h4 id="testing">Testing</h4>
+
+<p>What do we test, how often do we test and who controls the testing process?</p>
 
 <ol>
-  <li>
-    <h3 id="assigning-personnel-and-procedures"><strong>Assigning Personnel and Procedures</strong></h3>
-  </li>
+  <li><strong>Assigning Personnel and Procedures</strong></li>
 </ol>
 
 <p>With the infrastructure decisions made, we need to integrate our company’s personnel into the process and establish the procedures they’ll follow during a disaster. This includes assigning personnel to monitor our systems, determining who has the authority to initiate the DRP, and finalizing each department’s responsibilities during the recovery.</p>
 
 <ol>
-  <li>
-    <h3 id="testing-the-data-disaster-recovery-plan"><strong>Testing the Data Disaster Recovery Plan</strong></h3>
-  </li>
+  <li><strong>Testing the Data Disaster Recovery Plan</strong></li>
 </ol>
 
 <p>Once the DRP has been finalized, we’ll establish a schedule for regular tests of the DR procedures. This should include “mock disasters” where our company will simulate a disaster or service interruption, from monitoring and identification of affected assets, all the way through to recovery.</p>
+
+<p><a href="https://www.linkedin.com/in/bryankeithsmith/"><em>Bryan Smith</em></a> <em>serves as Chief Strategy Officer at Expedient and brings more than 21 years of experience in the Telecommunications and Technology industries to his role. He oversees strategic growth planning and business development for Expedient. Bryan was one of the initial employees of Expedient in 2001 and has been instrumental in identifying expansion/acquisition opportunities within the Pittsburgh, Boston, Columbus, and Memphis markets.</em></p>
 
       </div>
       
