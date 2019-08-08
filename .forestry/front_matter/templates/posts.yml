@@ -15,6 +15,8 @@ fields:
   config:
     maxSize: 250
   label: Banner Image
+  description: This image will be pulled onto the top header image of the post, and
+    side panel in all posts
 - type: datetime
   name: date
   label: date
