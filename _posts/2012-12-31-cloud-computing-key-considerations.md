@@ -2,6 +2,7 @@
 title: 'Cloud Computing: Key Considerations'
 date: Mon, 31 Dec 2012 17:25:02 +0000
 tags:
+- Security and Compliance
 - Cloud Computing
 author: Bryan Smith
 
