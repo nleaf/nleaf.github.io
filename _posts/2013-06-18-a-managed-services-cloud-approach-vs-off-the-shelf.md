@@ -16,11 +16,17 @@ When buying your cloud solution “off the shelf” and settling for a “one-si
 
 ## Taking a closer look at the managed cloud approach
 
-On the surface, choosing from one of the big name public cloud providers on the market may seem like a more cost effective option. But after taking a closer look, you may soon realize that you are giving up more than you ever expected: **Security:** In a world where data loss can swiftly turn into millions of dollars in lost revenue, cause major regulatory headaches, and turn into a public relations nightmare, your cloud provider must be able to demonstrate that they their systems are built to guarantee the safety of your mission critical data – which is something most of those “off the shelf solutions” are lacking.
+On the surface, choosing from one of the big name public cloud providers on the market may seem like a more cost effective option. But after taking a closer look, you may soon realize that you are giving up more than you ever expected: 
+
+#### Security
+
+In a world where data loss can swiftly turn into millions of dollars in lost revenue, cause major regulatory headaches, and turn into a public relations nightmare, your cloud provider must be able to demonstrate that they their systems are built to guarantee the safety of your mission critical data – which is something most of those “off the shelf solutions” are lacking.
 
 * **_The security of a managed services cloud solution:_** A managed services provider, like Expedient, will be able to directly address your security concerns. With more than 220,000 square feet of nationwide data center space, Expedient maintains a multi-layered, integrated approach to the physical and virtual security of your data. Read more about what to look for when choosing a cloud provider. Download our [**Security Uncompromised Whitepaper**](http://bit.ly/10icJfH) for more information.
 
-**Compliance:** Compliance regulations are continually evolving, and depending on your industry’s demands, you need a cloud solution that offers the flexibility to match.
+#### Compliance
+
+Compliance regulations are continually evolving, and depending on your industry’s demands, you need a cloud solution that offers the flexibility to match.
 
 * **A managed services approach to compliance:** SSAE-18 compliant, Expedient’s data centers align with the demands of the major regulatory regimes, including HIPAA and PCI DSS.
 
