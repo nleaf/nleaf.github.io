@@ -27,7 +27,7 @@
                     {% include readtime.html content=post.content %}
                 </div> 
             </div>
-            <p class="text-xl font-light leading-normal my-4">{{ post.content | truncatewords: 30 | strip_html }}</p>
+            <p class="text-xl font-light leading-normal my-4">{{ post.content | truncatewords: 50 | strip_html }}</p>
             <div class="text-red text-base font-bold font-sans inline pb-1"><a href="{{ post.url | absolute_url }}" class="ctaLink">Read Article</a></div>
         </div>
         <div class="absolute bottom-0 left-0 w-full" style="border-bottom: 8px solid #F6F6F6; margin-left:-150%; width: 200%"></div>
