@@ -432,7 +432,7 @@
       <div class="post">
       <p>Modern IT departments need to be able to protect their mission-critical data and quickly respond in the event of a problem in their environment.   This capability hinges on maintaining a strategy for both backups and disaster recovery.  These two capabilities <a href="https://www.expedient.com/blog/what-are-the-differences-between-backups-and-disaster-recovery/">are often conflated with each other</a> but this blog post will explore the differences between the two and explain the situations they are needed for.</p>
 
-<h4 id="backups"><strong>Backups</strong></h4>
+<h4 id="backups">Backups</h4>
 
 <p>Backups have been around almost as long as computers themselves and revolve around making point-in-time copies of all data on a given system.  A good backup solution should be capable of restoring anything from a single file to an entire system to a recently known-good state.  These backups are crucial in several situations:</p>
 
@@ -440,30 +440,24 @@
   <li>A developer accidentally drops a table from a production database and it needs to be restored.</li>
   <li>A user accidentally deletes a file from a shared drive.</li>
   <li>A single server fails due to a bad software update and must be restored to the state it was in prior to the change.</li>
-  <li>A server is impacted by ransomware or other malware renders it unusable.</li>
-</ul>
+  <li>
+    <p>A server is impacted by ransomware or other malware renders it unusable.</p>
 
-<p>When deciding on a backup solution, a number of factors must be considered.</p>
+    <h5 id="infrastructure-integrations">Infrastructure Integrations</h5>
 
-<ul>
-  <li><strong>Infrastructure Integrations</strong>
-    <ul>
-      <li>Whether you’re running workloads on physical servers, a local hypervisor (vCenter) or in the cloud, your backup solution should work with the underlying infrastructure to leverage capabilities like snapshots, which will enable performant backups and rapid restores of entire systems.</li>
-    </ul>
-  </li>
-  <li><strong>Application Compatibility</strong>
-    <ul>
-      <li>Applications, particularly databases, often have their own requirements for performing successful backups and restores. Before settling on a backup solution, you should ensure that it is compatible with your existing applications and be aware of any special procedures that are required to perform successful backup that can be restored.</li>
-    </ul>
-  </li>
-  <li><strong>RPO/RTO</strong>
-    <ul>
-      <li>If any of the issues listed above occurs, how long of an outage is acceptable (defined by Recovery Time Objective (RTO)), and how much data loss is acceptable (defined by Recovery Point Objective (RPO)).</li>
-    </ul>
+    <p>Whether you’re running workloads on physical servers, a local hypervisor (vCenter) or in the cloud, your backup solution should work with the underlying infrastructure to leverage capabilities like snapshots, which will enable performant backups and rapid restores of entire systems.</p>
+
+    <h5 id="application-compatibility">Application Compatibility</h5>
+
+    <p>Applications, particularly databases, often have their own requirements for performing successful backups and restores. Before settling on a backup solution, you should ensure that it is compatible with your existing applications and be aware of any special procedures that are required to perform successful backup that can be restored.</p>
+
+    <h5 id="rporto">RPO/RTO</h5>
+
+    <p>If any of the issues listed above occurs, how long of an outage is acceptable (defined by Recovery Time Objective (RTO)), and how much data loss is acceptable (defined by Recovery Point Objective (RPO)).</p>
   </li>
 </ul>
 
-<h4 id="disaster-recovery"><strong>Disaster Recovery</strong></h4>
+<h4 id="disaster-recovery">Disaster Recovery</h4>
 
 <p>10 years ago, the disaster recovery plans of most organizations involved moving a set of their backup tapes off-site at the end of every week and calling it a day.  That is fine as long as the business is OK with the idea of potentially losing a week’s worth of work and being offline until a new data center is set up and all of the systems are restored.  Of course, most businesses in 2019 simply can’t survive that sort of operational disruption, so new solutions must be devised to deliver the desired level of IT availability. <strong>Here are a few scenarios that your disaster recovery solution should be able to handle:</strong></p>
 
@@ -510,7 +504,7 @@
   </li>
   <li><strong>RPO/RTO</strong>
     <ul>
-      <li>Many modern DR solutions enable near-real-time RPOs, however this is heavily dependent on your network link to the recovery site and your data change rate</li>
+      <li>Many modern DR solutions enable near-real-time RPOs, however this is heavily dependent on your network link to the recovery site and your data change rate.</li>
       <li>Due to differences in how cloud providers work internally, different backup solutions offer a range of RTO’s on different platforms. It is important to look at the expected RTO for the source site/recovery site/DR software combination you plan to use and ensure that the RTO for this combination meets the requirements of your business.</li>
     </ul>
   </li>
@@ -529,7 +523,11 @@
   </li>
 </ul>
 
-<p>While these DR capabilities are wonderful, it’s important to remember that as of right now most DR solutions are optimized for the recovery of VMs but are lacking in important backup features like the ability to rapidly restore a single file deleted by a user or bringing back a database table that was mistakenly dropped. Since your business will most likely require a combination of DR and backup functionality, a hybrid solution that supports both is typically recommended. Need help translating business requirements into a cohesive business continuity strategy that addresses both backups and disaster recovery? Expedient Solution Architects are adept at creating custom IT resilience solutions to match the specific needs of your business. Feel free to <a href="mailto:mike.garuccio@expedient.com">email me</a> and I can put you in touch with an Expedient SA. <em>Mike Garuccio is a Product Strategy Engineer at Expedient focused on researching new software and hardware to find ways to productize this technology into new solutions for Expedient clients. As a ‘full stack’ engineer, Mike works with all layers of infrastructure architecture - from the hypervisor all the way up to front-end applications. Mike has played a leading role in the deployment and implementation of Expedient’s next-generation cloud platform, Expedient Enterprise Cloud. His professional interests include automation, containers, Kubernetes, CI/CD, and developer experience optimization. Follow Mike on <a href="https://twitter.com/mgaruccio">Twitter</a>.</em></p>
+<p>While these DR capabilities are wonderful, it’s important to remember that as of right now most DR solutions are optimized for the recovery of VMs but are lacking in important backup features like the ability to rapidly restore a single file deleted by a user or bringing back a database table that was mistakenly dropped. Since your business will most likely require a combination of DR and backup functionality, a hybrid solution that supports both is typically recommended.</p>
+
+<p>Need help translating business requirements into a cohesive business continuity strategy that addresses both backups and disaster recovery? Expedient Solution Architects are adept at creating custom IT resilience solutions to match the specific needs of your business. Feel free to <a href="mailto:mike.garuccio@expedient.com">email me</a> and I can put you in touch with an Expedient SA.</p>
+
+<p><em>Mike Garuccio is a Product Strategy Engineer at Expedient focused on researching new software and hardware to find ways to productize this technology into new solutions for Expedient clients. As a ‘full stack’ engineer, Mike works with all layers of infrastructure architecture - from the hypervisor all the way up to front-end applications. Mike has played a leading role in the deployment and implementation of Expedient’s next-generation cloud platform, Expedient Enterprise Cloud. His professional interests include automation, containers, Kubernetes, CI/CD, and developer experience optimization. Follow Mike on</em> <a href="https://twitter.com/mgaruccio"><em>Twitter</em></a><em>.</em></p>
 
       </div>
       
