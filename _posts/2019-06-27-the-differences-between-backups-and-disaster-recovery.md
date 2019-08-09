@@ -3,20 +3,9 @@ title: The Differences Between Backups and Disaster Recovery
 date: Thu, 27 Jun 2019 13:55:50 +0000
 tags:
 - Disaster Recovery
-- disaster recovery
-- DRaaS
-- DRaaS
-- backups
 - managed services
-- business continuity
-- virtual machine replication
-- Mike Garuccio
-- backups
-- disaster recovery as a service
-- recovery point objective
-- recovery time objective
-- RTO
-- RPO
+author: Mike Garuccio
+image: "/uploads/EXP-Garuccio_Blog--Backups-vs-DR_1.png"
 
 ---
 Modern IT departments need to be able to protect their mission-critical data and quickly respond in the event of a problem in their environment.   This capability hinges on maintaining a strategy for both backups and disaster recovery.  These two capabilities [are often conflated with each other](https://www.expedient.com/blog/what-are-the-differences-between-backups-and-disaster-recovery/) but this blog post will explore the differences between the two and explain the situations they are needed for.
