@@ -30,7 +30,9 @@ Compliance regulations are continually evolving, and depending on your industry�
 
 * **A managed services approach to compliance:** SSAE-18 compliant, Expedient’s data centers align with the demands of the major regulatory regimes, including HIPAA and PCI DSS.
 
-**Flexibility:** Off the shelf cloud solutions do offer the promise of scalability. With plans that include limits for data storage and users, it’s possible to find a solution that closely matches your current computing needs. But what happens when your demands evolve beyond those simple metrics?
+#### Flexibility
+
+Off the shelf cloud solutions do offer the promise of scalability. With plans that include limits for data storage and users, it’s possible to find a solution that closely matches your current computing needs. But what happens when your demands evolve beyond those simple metrics?
 
 * **Designing a cloud solution to match your needs** Whether you are attracted to the scalability of the [public cloud](https://www.expedient.com/cloud-computing/public-cloud-computing/ "Public"), the security of the [private cloud](https://www.expedient.com/cloud-computing/private-cloud-computing/ "Private"), or the flexibility of the [hybrid cloud](https://www.expedient.com/cloud-computing/hybrid-cloud-computing/ "Hybrid"), Expedient can engineer a cloud solution to meet your company’s needs.
 
