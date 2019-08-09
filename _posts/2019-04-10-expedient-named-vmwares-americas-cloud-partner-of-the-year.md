@@ -7,6 +7,7 @@ tags:
 - VMware
 - Expedient Enterprise Cloud
 author: Jon Rosenson
+image: "/uploads/EXP-Social-VMPartneroftheYear-2.png"
 
 ---
 At [**VMware’s 2019 Partner Leadership Summit**](https://www.vmware.com/partner-leadership-summit), Expedient was named VMware’s 2018 Americas Regional Cloud Partner of the Year. Expedient was honored alongside other VMware partners from around the world during the 2018 VMware Partner Innovation Award ceremony, which recognizes partner excellence in using VMware technology to drive digital transformation for customers. 
