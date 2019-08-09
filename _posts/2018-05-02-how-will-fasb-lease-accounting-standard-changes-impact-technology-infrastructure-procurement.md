@@ -6,6 +6,7 @@ tags:
 - Cloud Computing
 - IaaS
 author: Doug Theis
+image: "/uploads/WP-Social-FASB.png"
 
 ---
 Off-balance-sheet operating lease financing is used by many companies to manage spend on IT infrastructure.  Many companies use this vehicle, also known as an operating lease, to flatten IT infrastructure spend and minimize risk of asset ownership. 
