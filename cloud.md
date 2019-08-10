@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Cloud
+title: Enterprise Cloud
 hide_body: true
 permalink: "/services/cloud"
 tags:
@@ -19,6 +19,7 @@ page_sections:
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
   cta: Subscribe Now
+  heading: Keep yourself ahead of the cloud curve with updates from Expedient
 - template: featured-service
   block: featured-service
   align-left: true
@@ -121,8 +122,9 @@ template: seo
 label: SEO
 name: seo
 seo_title: Cloud Computing and Data Center Infrastructure as a Service
-description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
-  Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
+description: 'Expedient delivers a VMware-based enterprise cloud from availability
+  zones across the United States, and differentiates its infrastructure with award-winning
+  managed services. '
 image: ''
 
 ---
