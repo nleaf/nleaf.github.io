@@ -32,5 +32,3 @@ At Expedient, virtualization ensures that all incoming and outgoing traffic is m
 {% include youtube.html ytid="cCLQg6e2mHo" %}
 
 _As Senior Vice President and Chief Operating Officer, Jonathan Rosenson is responsible for overseeing organizational functions that drive growth at Expedient. Jon additionally acts as an external spokesperson conveying the Expedient story._ [_Follow him_](https://twitter.com/rosenson) _on Twitter._
-
-<a href="http://example.com/" target="_blank">Hello, world!</a>
