@@ -3,14 +3,18 @@ layout: blocks
 title: Cloud
 hide_body: true
 permalink: "/services/cloud"
-tags: [Disaster Recovery, VMware, DRAAS, Cloud Computing]
+tags:
+- Disaster Recovery
+- VMware
+- DRAAS
+- Cloud Computing
+- enterprise cloud
 page_sections:
 - template: page-hero
   block: page-hero
   banner_image: "/uploads/bg_servies.jpg"
-  subheadline: Expedient’s Disaster Recovery as a Service solutions have been recognized
-    in  the Gartner Magic Quadrant for DRaaS and offer fast, total network failover  without
-    IP and DNS changes.
+  subheadline: Expedient Enterprise Cloud offers robust security, containers, automation,
+    and simplified management and monitoring in a user-friendly interface.
 - template: subscribe-bar
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
