@@ -1,7 +1,9 @@
 ---
 title: Expedient Day in Pittsburgh!
 date: Thu, 01 Feb 2018 21:47:35 +0000
-tags: []
+tags:
+- Disaster Recovery
+- Cloud
 author: Jon Rosenson
 
 ---
