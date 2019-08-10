@@ -3,7 +3,7 @@ title: Key Leadership Attributes, Part 1 - Lessons Learned from Central Ohio IT 
 date: Fri, 15 Mar 2019 13:17:41 +0000
 tags:
 - IT Leadership
-image: "/uploads/Central_Ohio.png"
+image: "/uploads/Central_Ohio-Key-Leadership-Attributes.png"
 author: Steve Gruetter
 
 ---
