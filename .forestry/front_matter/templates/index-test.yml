@@ -40,6 +40,10 @@ fields:
     min: 
     max: 
 pages:
+- colocation.md
+- security-and-compliance.md
+- why-expedient.md
+- executive-team.md
 - our-customers.md
 - success-stories.md
 - awards-and-accolades.md

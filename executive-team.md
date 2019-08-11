@@ -3,7 +3,11 @@ layout: blocks
 title: Executive Team
 hide_body: true
 permalink: "/about/executive-team"
-tags: [Disaster Recovery, VMware, DRAAS, Cloud Computing]
+tags:
+- Disaster Recovery
+- VMware
+- DRAAS
+- Cloud Computing
 page_sections:
 - template: page-hero
   block: page-hero
