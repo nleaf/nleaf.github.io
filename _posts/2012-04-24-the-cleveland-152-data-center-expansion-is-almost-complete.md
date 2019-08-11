@@ -1,8 +1,0 @@
----
-title: 'The Cleveland 152 Data Center Expansion is Almost Complete!'
-date: Tue, 24 Apr 2012 15:57:02 +0000
-draft: false
-tags: [Uncategorized, Kristin Puzon]
----
-
-We have completed the installation of our 6,000 square feet of raised floor, which will make a total of 13,000 square ft. of raised floor data center as a whole.  We have also launched our 4th generation of virtual platform and managed hosting suite. The expanded Data Center will open immediately following our Open House.  Speaking of Open House, please take the time to register if you haven’t done so yet.  **May 10th is fast approaching! ** As a [Premier Managed Hosting Provider,](https://www.expedient.com) we are committed to ensuring the availability of your critical computing environment. With Expedient as your IT foundation, you can reduce your total cost of IT ownership and free up your internal team to focus on the applications that are important to the success of your business. Whether you have a physical IT environment, a virtual IT environment or a hybrid, Expedient is a reliable partner that can meet your needs today and grow with you as they change for the future.  Please take a moment to view the 3D virtual tour of our newest data center at [https://www.expedient.com/the-data-centers](https://www.expedient.com/the-data-centers/) I can’t wait to see you on May 10th!  You can see what the real me looks like as opposed to just seeing me in pictures!
