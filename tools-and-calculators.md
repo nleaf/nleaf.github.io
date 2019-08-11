@@ -3,7 +3,11 @@ layout: blocks
 title: Tools and Calculators
 hide_body: true
 permalink: "/knowledgebase/tools-and-calculators"
-tags: [Disaster Recovery, VMware, DRAAS, Cloud Computing]
+tags:
+- Disaster Recovery
+- VMware
+- DRAAS
+- Cloud Computing
 page_sections:
 - template: page-hero
   block: page-hero
