@@ -1,10 +1,11 @@
 ---
-title: 'New Slim-Line 2.0 Cages = Great Space and Cost Savings'
+title: New Slim-Line 2.0 Cages = Great Space and Cost Savings
 date: Tue, 26 May 2015 14:11:09 +0000
-draft: false
-tags: [Data Centers, Ed Dzurko]
----
+tags:
+- Colocation
+author: Ed Dzurko
 
+---
 New Slim-Line 2.0 Cages = Great Space and Cost Savings
 ------------------------------------------------------
 
