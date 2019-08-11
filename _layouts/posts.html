@@ -13,7 +13,7 @@ layout: default
               <!-- Text Intro -->
               <div class="w-full md:w-1/2 flex-grow pr-2">
                   <h1 class="text-5xl sm:text-3xl md:text-exphl font-semibold leading-exp font-black font-sans my-6 text-center">Blog</h1>
-                  <p class="text-hp font-light leading-snug text-center">“Expedient delivers real value—solutions our customers can’t run their <br/>business without. Here, an individual can make a real difference, each day, in <br/>defining and delivering those solutions. A dynamic, hands-on world <br/>of technology awaits behind the scenes of IT.”</p>
+                  <p class="text-hp font-light leading-snug text-center">{{ page.sub_heading }}</p>
                   <div class="h-2 bg-red w-24 mt-12 mx-auto"></div>
               </div>
       </div>
@@ -34,9 +34,9 @@ layout: default
               
               <div class="w-full sm:w-4/12 pr-5" style=" overflow: hidden; position: relative; min-height: 488px;">
                   {% if post.banner_image and post.banner_image != "" %}
-                    <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="h-auto w-full absolute" style="min-height: 488px;">
+                    <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="h-auto w-auto absolute" style="min-height: 488px;">
                   {% else %}
-                    <img src="{{ "/uploads/ph_blogPost.png" | absolute_url }}" alt="{{ post.title }}" class="h-auto w-full absolute" style="min-height: 488px;">
+                    <img src="{{ "/uploads/ph_blogPost.png" | absolute_url }}" alt="{{ post.title }}" class="h-auto w-auto absolute" style="min-height: 488px;">
                   {% endif %}
               </div>
 
@@ -67,7 +67,7 @@ layout: default
                               {% include readtime.html content=post.content %}
                       </div> 
                   </div>
-                  <p>{{ post.content | truncatewords: 30 | strip_html }}</p>
+                  <p>{{ post.content | truncatewords: 60 | strip_html }}</p>
                   <div class="text-red text-base font-bold font-sans inline pb-1"><a href="{{ post.url | absolute_url }}" class="ctaLink">Read Article</a></div>
               </div>
           </div>
