@@ -3,7 +3,11 @@ layout: blocks
 title: Awards and Accolades
 hide_body: true
 permalink: "/why-expedient/awards-and-accolades"
-tags: [Disaster Recovery, VMware, DRAAS, Cloud Computing]
+tags:
+- Disaster Recovery
+- VMware
+- DRAAS
+- Cloud Computing
 page_sections:
 - template: page-hero
   block: page-hero

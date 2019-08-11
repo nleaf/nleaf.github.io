@@ -40,6 +40,9 @@ fields:
     min: 
     max: 
 pages:
+- our-customers.md
+- success-stories.md
+- awards-and-accolades.md
 - technology-partners.md
 - tools-and-calculators.md
 - cloud.md

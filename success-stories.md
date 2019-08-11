@@ -3,7 +3,11 @@ layout: blocks
 title: Success Stories
 hide_body: true
 permalink: "/why-expedient/success-stories"
-tags: [Disaster Recovery, VMware, DRAAS, Cloud Computing]
+tags:
+- Disaster Recovery
+- VMware
+- DRAAS
+- Cloud Computing
 page_sections:
 - template: page-hero
   block: page-hero
