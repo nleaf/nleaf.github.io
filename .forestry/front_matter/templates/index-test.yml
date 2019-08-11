@@ -40,6 +40,7 @@ fields:
     min: 
     max: 
 pages:
+- cloud.md
 - _casestudies/softlinx-inc.md
 - _casestudies/interactiveblue.md
 - _casestudies/omnyx.md
