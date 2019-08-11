@@ -7,7 +7,7 @@ tags:
 author: Devon Cole
 
 ---
-**White Paper: Is It Time to Start Thinking About Exiting the Data Center Business?** 
+#### White Paper: Is It Time to Start Thinking About Exiting the Data Center Business? 
 
 Companies make a choice to either redirect IT management functions to partners, or continue to maintain IT services internally, for a variety of reasons. From allowing staff to focus on what’s important to ensuring proper disaster recovery planning, turning to a third party provider typically begins with a business event that qualifies looking into alternative solutions for IT management. 
 
