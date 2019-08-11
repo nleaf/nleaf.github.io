@@ -55,13 +55,34 @@ layout: default
 <div class="lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12 mt-24">
   <div class="pure-u-1">
     <div class="content content-narrow">
+        <div class="flex flex-wrap flex-wrap w-3/4 my-8 align-middle items-center">
+          <div class="mr-8">
+              <!-- Profile Picture -->
+                {% if page.author %}
+                  {% assign staff_member = site.people | where: 'title', page.author | first %}
+                  {% if staff_member %}
+                    <img alt="{{ staff_member.title }}" src="{{ staff_member.thumbnail | absolute_url }}" class="h-24">
+                  {% endif %}
+                {% else %}
+                Not right
+                {{ post.author }}
+                    <img alt="Expedient" src="/uploads/EXP_Circle-Mark.svg" class="h-24">
+                {% endif %}
+          </div> 
+          <div class="mr-8 post-info align-middle">
+              <span class="addInfo block">Author</span>
+              <a href="#" class="authorName">{{ page.author }}</span></a>
+          </div> 
+          <div class="mr-8">
+                  <span class="addInfo block">Read Time</span>
+                  {% include readtime.html content=post.content %}
+          </div>
+          <div class="mr-8">
+              <span class="addInfo block">Published</span>
+              <div class="post-date">{{ page.date | date_to_string }}</div>
+        </div> 
+        </div>
       <div class="meta">
-        {% if page.date %}
-        <div class="post-date">{{ page.date | date_to_string }}</div>
-        {% endif %}
-        {% if page.author %}
-          <div class="post-date">{{ page.author }}</div>
-        {% endif %}
         {% if page.tags.size > 0 %}
         <div class="tags-list mb-2 absolute top-0 right-0 w-3/12 sm:w-4/12 mt-0 sm:mt-0 pl-4">
           <h3 class="text-red text-xl font-bold font-sans mb-4">Tags</h3>
@@ -108,5 +129,6 @@ layout: default
   </div>
 </div>
 
-{% include block-recentposts.html %}
+{% include block-relatedposts.html %}
+{% include block-newsletter.html %}
 

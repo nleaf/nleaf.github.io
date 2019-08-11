@@ -25,7 +25,7 @@
     <div class="px-4 md:max-w-expBody justify-between mx-auto hiddensc">
             <div class="flex -mx-4 flex-wrap">
                 {% for item in section.related_products %}
-                    {% if item.category == blank %}
+                    {% if item.category == nil or item.category == empty%}
                         <!-- Column Read More -->
                         <div class="w-1/4 px-4 md:flex-wrap align-middle justify-center items-center md:flex-col hidden sm:flex">
                             <h3 class="w-full block text-black text-2xl sm:text-3xl md:text-xl font-bold font-sans">{{ item.title }}</h3>
