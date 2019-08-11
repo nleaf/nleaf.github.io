@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Thank you newsletter
+title: 'Thank you newsletter '
 seo_title: ''
 description: ''
 image: ''
