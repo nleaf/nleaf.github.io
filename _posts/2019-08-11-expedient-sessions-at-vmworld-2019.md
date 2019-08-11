@@ -5,7 +5,7 @@ seo_title: ''
 description: ''
 image: "/uploads/EXP-Social--vmworld2019.png"
 banner_image: ''
-date: 
+date: Sun, 11 Aug 2019 14:45:58 +0000
 tags:
 - Cloud
 featured: false
