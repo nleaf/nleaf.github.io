@@ -40,6 +40,7 @@ fields:
     min: 
     max: 
 pages:
+- index.md
 - overview.md
 - colocation.md
 - security-and-compliance.md
@@ -58,7 +59,6 @@ pages:
 - let-s-talk.md
 - thank-you-newsletter.md
 - _casestudies/orchard-software.md
-- index.md
 - _casestudies/ultimate-home-services.md
 - _casestudies/shapiro.md
 - _casestudies/irth-solutions-llc.md
