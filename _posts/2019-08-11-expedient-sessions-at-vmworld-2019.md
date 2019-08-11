@@ -8,6 +8,7 @@ banner_image: ''
 date: 
 tags:
 - Cloud
+featured: false
 
 ---
 [VMworld](https://www.vmworld.com/en/us/index.html) is back in the Bay and the Expedient team is busier than ever! This year we have 5 sessions, booth duties with awesome Expedient demos focusing on our Enterprise Cloud product, multi-cloud management product, Push Button DR (DRaaS), and Backup as a Service, [a Cube interview](https://www.thecube.net/vmworld-2019) with our partner Cohesity, and an [EcoCast with ActualTech Media](https://www.actualtechmedia.com/event-schedule/?leads%5B%5D=400&topic%5B%5D=3#EventSchedule). Of course we have parties as well, more on that in another blog post, today we are going to focus on the [Expedient sessions](https://my.vmworld.com/widget/vmware/vmworld19us/us19catalog?search=expedient).
