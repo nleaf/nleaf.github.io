@@ -13,7 +13,7 @@ tags:
 - data security
 author: Jon Rosenson
 image: "/uploads/Private_cloud.png"
-
+popular: true
 ---
 In a recent [Gartner survey](https://www.gartner.com/en/newsroom/press-releases/2018-08-15-gartner-says-cloud-computing-remains-top-emerging-business-risk) of risk, audit, and compliance executives, cloud computing ranked as the top risk concern. More specifically, these executives emphasized the potential of unauthorized access to sensitive or restricted information stored in the cloud, and the possibility that cloud-hosted data could be rendered inaccessible due to a service disruption on the cloud provider’s end. 
 

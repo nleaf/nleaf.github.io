@@ -27,6 +27,49 @@ layout: default
         {% include post_detail.html %}
     {% endif %}
 
+    <!-- Popular Posts -->
+    <section class="relative sm:py-2 bg-bwhite sm:pb-12">
+        <div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12">
+            
+            <div class="w-full sm:w-4/12 p-10 relative" style="overflow: hidden;position: relative;min-height: 340px;width: 360px; background-color: #333132;">
+                <div class="absolute bottom-0 mb-6">
+                    <svg class="mb-4" xmlns="http://www.w3.org/2000/svg" width="71.901" height="28.771" viewBox="0 0 71.901 28.771"><path d="M915.5,260.49a5.992,5.992,0,1,1,5.991,6.043,6.018,6.018,0,0,1-5.991-6.043m-16.7,0,14.212-14.384,4.651,4.69-9.573,9.694,9.573,9.7-4.651,4.69Zm43.215,0a5.994,5.994,0,1,1,5.991,6.043,6.018,6.018,0,0,1-5.991-6.043m-13.258,0a5.994,5.994,0,1,1,5.991,6.043,6.018,6.018,0,0,1-5.991-6.043m41.944,0-14.212,14.388-4.651-4.69,9.569-9.7L951.84,250.8l4.651-4.69Z" transform="translate(-898.802 -246.106)" fill="#f20505"></path></svg>
+                    <h2 class="text-4xl leading-tight font-sans mt-1 mb-4 text-bwhite font-black">Popular posts <br/> this Quarter</h2>
+                </div>
+            </div>
+
+            <div class="w-full sm:w-8/12 pl-8 flex relative" style="overflow-x: auto;">
+                <div class="flex absolute mr-5" style="width: auto;">
+                    {% for post in site.posts %}
+                        {% if post.popular == true %}
+                            <div class="p-10 relative mr-4 bg-bwhite mr-4" style="overflow: hidden;position: relative; height: 311px;border:8px solid #333132; width: 360px;">
+                                <div class="bottom-0 mb-6">
+                                        <h2 class="text-2xl leading-tight font-black font-sans mt-1 mb-10"><a href="{{ root_url }}{{ post.url }}" class="ctaLink">{{ post.title }}</a></h2>
+                                        <div class="inline h-24 float-left mr-8">
+                                            <!-- Profile Picture -->
+                                            {% if post.author %}
+                                            {% assign staff_member = site.people | where: 'title', post.author | first %}
+                                            {% if staff_member %}
+                                                <img alt="{{ staff_member.title }}" src="{{ staff_member.thumbnail | absolute_url }}" class="h-24">
+                                            {% endif %}
+                                            {% else %}
+                                                <img alt="Expedient" src="/uploads/EXP_Circle-Mark.svg" class="h-24">
+                                            {% endif %}
+                                        </div> 
+                                        <div class="post-info align-middle w-1/2 float-left">
+                                            <span class="addInfo block">Author</span>
+                                            <a href="#" class="authorName">{{ post.author }}</span></a>
+                                        </div> 
+                                </div>
+                            </div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END Popular Posts -->
+
     {% for post in paginator.posts offset:1 %}
       <!-- POST -->
       <section class="relative sm:py-2 bg-bwhite sm:pb-12">
