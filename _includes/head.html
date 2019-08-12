@@ -12,7 +12,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   {% if page.image %}
     {% assign page.image = page.image | prepend: site.url %}
-    <meta property="og:image" content="{{ page.image | absolute_url }}">
+    <meta property="og:image" content="{{ site.url }}{{ page.image }}">
   {% endif %}
   {% seo %}
 </head>
