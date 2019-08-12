@@ -6,6 +6,7 @@ tags:
 - Joe Palian
 - Virtualization
 author: Joe Palian
+popular: true
 
 ---
 ## **How Do Cloud Providers Decide How Much to Charge?**
