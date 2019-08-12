@@ -12,9 +12,9 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   {% if page.image %}
     {% assign page.image = page.image | prepend: site.url %}
-    <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+    <meta property="og:image" content="https://nleaf.github.io{{ page.image }}">
   {% endif %}
-  <link rel="canonical" href="{{ site.baseurl }}{{ page.url}}" />
+  <link rel="canonical" href="https://nleaf.github.io{{ page.url }}" />
   {% seo %}
 </head>
 <body class="antialiased">
