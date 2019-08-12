@@ -645,7 +645,13 @@ p {
   line-height: 1.6;
   width: 680px;
 }
-
+.post a {
+  border-bottom: 1px dashed #F20505;
+  padding-bottom: 4px;
+}
+.post a:hover{
+  color: #F20505;
+}
 .post h2, .post h3, .post h4 {
   font-size: 30.125px;
   font-weight: 600;
@@ -746,6 +752,7 @@ p {
   text-decoration: none;
   font-size: 1.125rem;
   outline: none;
+  display: block;
 }
 
 #mainNav header nav .links li:last-of-type a {
@@ -764,7 +771,7 @@ p {
   content: '';
   transition: all .3s;
   position: absolute;
-  bottom: 2px;
+  bottom: 6px;
   left: 0;
   width: 100%;
   height: 0px;
@@ -802,7 +809,7 @@ p {
 }
 
 #mainNav .first-level {
-  margin-top: 35px;
+  
 }
 
 /* mainNav Drop-Down */
