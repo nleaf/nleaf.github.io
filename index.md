@@ -87,7 +87,7 @@ page_sections:
     title: Lasting impact, for our clients business in the cloud, today.
     description: Read more case studies
     img: ''
-    link: disaster-recovery.md
+    link: paginations/resources-casestudies.md
 - template: gartner
   block: gartner
 - template: callout
