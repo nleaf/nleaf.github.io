@@ -10,6 +10,7 @@ tags:
 - private cloud
 - public cloud
 - John White
+popular: true
 
 ---
 If you’ve been researching cloud computing, you’re probably well aware of the private vs. public cloud debate. Before you decide which end of the debate you side with, it’s important to know the difference between the two.
