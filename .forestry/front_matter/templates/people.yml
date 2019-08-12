@@ -23,7 +23,7 @@ fields:
   name: layout
   label: layout
   default: person
-  hidden: true
+  hidden: false
 pages:
 - _people/ed-dzurko.md
 - _people/steve-gruetter.md
