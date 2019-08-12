@@ -5,6 +5,7 @@ tags:
 - Virtual Colocation
 - Data Centers
 author: Ed Dzurko
+popular: true
 
 ---
 ## Data Center Colocation
