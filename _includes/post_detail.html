@@ -1,61 +1,78 @@
 <!-- Featured Blog -->
 <section class="relative sm:py-2 bg-bwhite sm:pb-12 featuredBlog">
-    <div class="absolute left-0 w-1/2" style="border-top: 8px solid #F6F6F6;"></div>
-    <div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12">
-            
-        <div class="w-full sm:w-7/12 pr-4 relative py-6 postDetail" style="border-top: 8px solid #F6F6F6; border-bottom: 8px solid #F6F6F6; border-right: 8px solid #F6F6F6;">
-            <h3 class="text-red text-xl font-bold font-sans">Latest Article</h3>
-            <h2 class="text-4xl leading-tight font-black font-sans mt-1 mb-4"><a href="{{ root_url }}{{ post.url }}" class="ctaLink">{{ post.title }}</a></h2>
-            <div class="flex flex-wrap flex-wrap w-3/4 my-8 align-middle items-center">
-                <div class="mr-8">
-                    <!-- Profile Picture -->
-                    {% if post.author %}
-                    {% assign staff_member = site.people | where: 'title', post.author | first %}
-                    {% if staff_member %}
-                        <img alt="{{ staff_member.title }}" src="{{ staff_member.thumbnail | absolute_url }}" class="h-24">
-                    {% endif %}
-                    {% else %}
-                        <img alt="Expedient" src="/uploads/EXP_Circle-Mark.svg" class="h-24">
-                    {% endif %}
-                </div> 
-                <div class="mr-8 post-info align-middle">
-                    <span class="addInfo block">Author</span>
-                    <a href="#" class="authorName">{{ post.author }}</span></a>
-                </div> 
-                <div class="mr-8">
-                    <span class="addInfo block">Read Time</span>
-                    {% include readtime.html content=post.content %}
-                </div> 
-            </div>
-            <p class="text-xl font-light leading-normal my-4">{{ post.content | truncatewords: 60 | strip_html }}</p>
-            <div class="text-red text-base font-bold font-sans inline pb-1"><a href="{{ post.url | absolute_url }}" class="ctaLink">Read Article</a></div>
+<div class="absolute left-0 w-1/2" style="border-top: 8px solid #F6F6F6;"></div>
+<div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12">
+        
+    <div class="w-full sm:w-7/12 pr-4 relative py-6 postDetail" style="border-top: 8px solid #F6F6F6; border-bottom: 8px solid #F6F6F6; border-right: 8px solid #F6F6F6;">
+        <h3 class="text-red text-xl font-bold font-sans">Latest Article</h3>
+        <h2 class="text-4xl leading-tight font-black font-sans mt-1 mb-4"><a href="{{ root_url }}{{ post.url }}" class="ctaLink">{{ post.title }}</a></h2>
+        <div class="flex flex-wrap flex-wrap w-3/4 my-8 align-middle items-center">
+            <div class="mr-8">
+                <!-- Profile Picture -->
+                {% if post.author %}
+                {% assign staff_member = site.people | where: 'title', post.author | first %}
+                {% if staff_member %}
+                    <img alt="{{ staff_member.title }}" src="{{ staff_member.thumbnail | absolute_url }}" class="h-24">
+                {% endif %}
+                {% else %}
+                    <img alt="Expedient" src="/uploads/EXP_Circle-Mark.svg" class="h-24">
+                {% endif %}
+            </div> 
+            <div class="mr-8 post-info align-middle">
+                <span class="addInfo block">Author</span>
+                <a href="#" class="authorName">{{ post.author }}</span></a>
+            </div> 
+            <div class="mr-8">
+                <span class="addInfo block">Read Time</span>
+                {% include readtime.html content=post.content %}
+            </div> 
         </div>
-        <div class="absolute bottom-0 left-0 w-full" style="border-bottom: 8px solid #F6F6F6; margin-left:-150%; width: 200%"></div>
-        <div class="w-full sm:w-4/12 pl-4">
-            <h3 class="text-red text-xl font-bold font-sans mb-4">Services</h3>
-            <a href="#" class="w-full block bg-lgrey my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
-                Cloud
-            </a>
-            <a href="#" class="w-full block bg-lgrey my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
-                Colocation
-            </a>
-            <a href="#" class="w-full block bg-lgrey my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
-                Disaster Recovery
-            </a>
-            <a href="#" class="w-full block bg-lgrey my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
-                Security and Compliance
-            </a>
-            <h3 class="text-red text-xl font-bold font-sans mb-4 mt-8">Popular</h3>
-            <a href="#" class="w-full block bg-lgrey my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
-                Server Management and Monitoring
-            </a>
-            <a href="#" class="w-full block bg-lgrey my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
-                Disaster Recovery as a Service
-            </a>
-            <a href="#" class="w-full block bg-lgrey my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
-                DDoS Mitigation
-            </a>
-        </div>
+        <p class="text-xl font-light leading-normal my-4">{{ post.content | truncatewords: 60 | strip_html }}</p>
+        <div class="text-red text-base font-bold font-sans inline pb-1"><a href="{{ post.url | absolute_url }}" class="ctaLink">Read Article</a></div>
     </div>
+    <div class="absolute bottom-0 left-0 w-full" style="border-bottom: 8px solid #F6F6F6; margin-left:-150%; width: 200%"></div>
+    <div class="w-full sm:w-4/12 pl-4">
+        <h3 class="text-red text-xl font-bold font-sans mb-4">Services</h3>
+        <a href="#" class="w-full block bg-lgrey my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
+            Cloud
+        </a>
+        <a href="#" class="w-full block bg-lgrey my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
+            Colocation
+        </a>
+        <a href="#" class="w-full block bg-lgrey my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
+            Disaster Recovery
+        </a>
+        <a href="#" class="w-full block bg-lgrey my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
+            Security and Compliance
+        </a>
+        <h3 class="text-red text-xl font-bold font-sans mb-4 mt-8">Popular</h3>
+        <a href="#" class="w-full block bg-lgrey my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
+            Server Management and Monitoring
+        </a>
+        <a href="#" class="w-full block bg-lgrey my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
+            Disaster Recovery as a Service
+        </a>
+        <a href="#" class="w-full block bg-lgrey my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
+            DDoS Mitigation
+        </a>
+    </div>
+</div>
+</section>
+<!-- END Featured Blog -->
+
+<!-- Popular Posts -->
+<section class="relative sm:py-2 bg-bwhite sm:pb-12">
+        <div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12">
+            
+            <div class="w-full sm:w-4/12 pr-5" style="overflow: hidden;position: relative;min-height: 391px;width: 360px; background-color: #333132;">
+                <div>
+                    <svg class="sm:mx-auto mb-8" xmlns="http://www.w3.org/2000/svg" width="71.901" height="28.771" viewBox="0 0 71.901 28.771"><path d="M915.5,260.49a5.992,5.992,0,1,1,5.991,6.043,6.018,6.018,0,0,1-5.991-6.043m-16.7,0,14.212-14.384,4.651,4.69-9.573,9.694,9.573,9.7-4.651,4.69Zm43.215,0a5.994,5.994,0,1,1,5.991,6.043,6.018,6.018,0,0,1-5.991-6.043m-13.258,0a5.994,5.994,0,1,1,5.991,6.043,6.018,6.018,0,0,1-5.991-6.043m41.944,0-14.212,14.388-4.651-4.69,9.569-9.7L951.84,250.8l4.651-4.69Z" transform="translate(-898.802 -246.106)" fill="#f20505"></path></svg>
+                    <h2>Popular this <br/> Quarter</h2>
+                </div>
+            </div>
+
+            <div class="w-full sm:w-8/12 pl-8">
+
+            </div>
+        </div>
     </section>
-    <!-- END Featured Blog -->
