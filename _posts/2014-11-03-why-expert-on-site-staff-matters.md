@@ -4,7 +4,7 @@ date: Mon, 03 Nov 2014 15:34:11 +0000
 tags:
 - Data Centers
 - Infrastructure Availability
-author: Jon Rosenson
+author: Phil Stockmal
 
 ---
 When utilizing the services of a hosting provider, you’re entrusting your critical systems to a third party. While working with a trustworthy hosting provider brings many benefits, it’s important that your partner can ensure your data will remain secure. Part of security means the ability to depend on expert staff who are on site, 24x7x365.
@@ -20,5 +20,3 @@ When utilizing the services of a hosting provider, you’re entrusting your crit
 * A thorough hiring policy is in place to make sure that only the best and most trustworthy join the team. This process covers all employees and contractors and includes mandatory drug testing and full background checks.
 
 Working with a provider that has expert, on-site staff will help alleviate unauthorized access issues. An around-the-clock support center will assure you that the data center facility housing your environment is under constant surveillance. In addition, you’ll be able to trust that experts are watching your environment and will be available when you need them and in the event of an emergency.
-
-_As Senior Vice President and Chief Operating Officer, Jonathan Rosenson is responsible for overseeing organizational functions that drive growth at Expedient. Jon additionally acts as an external spokesperson conveying the Expedient story._ [_Follow him_](https://twitter.com/rosenson) _on Twitter._
