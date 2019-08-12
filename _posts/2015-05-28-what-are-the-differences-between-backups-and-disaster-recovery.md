@@ -17,7 +17,7 @@ In the beginning stages of disaster recovery planning, decision makers are [ofte
 
 _“Customers often come to us seeking disaster recovery services without realizing that simply backing up their data is not enough,” says Joe Palian, Regional Account Executive at Expedient._
 
-While having a backup strategy is important, it is not the same as [a disaster recovery strategy](https://www.expedient.com/blog/what-steps-have-you-left-out-of-your-dr-strategy/); rather, the beginning stages of establishing a proper DR plan. **A backup is a copy of your data; a disaster recovery plan is insurance that guarantees its recovery.**
+While having a backup strategy is important, it is not the same as [a disaster recovery strategy](https://www.expedient.com/blog/what-steps-have-you-left-out-of-your-dr-strategy/); rather, the beginning stages of establishing a proper DR plan. **_A backup is a copy of your data; a disaster recovery plan is insurance that guarantees its recovery._**
 
 ### So, what makes backups and disaster recovery different?
 
