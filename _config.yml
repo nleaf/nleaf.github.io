@@ -59,6 +59,7 @@ plugins:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
+  - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate-v2
 ############################################################
