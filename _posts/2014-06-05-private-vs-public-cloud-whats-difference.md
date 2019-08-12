@@ -3,14 +3,8 @@ title: 'Private vs. Public Cloud: What’s the Difference?'
 date: Thu, 05 Jun 2014 14:29:09 +0000
 tags:
 - Cloud Computing
-- cloud computing
-- private cloud computing
-- public cloud computing
-- cloud security
-- private cloud
-- public cloud
-- John White
 popular: true
+author: John White
 
 ---
 If you’ve been researching cloud computing, you’re probably well aware of the private vs. public cloud debate. Before you decide which end of the debate you side with, it’s important to know the difference between the two.
