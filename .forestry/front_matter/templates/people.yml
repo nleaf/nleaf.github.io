@@ -25,6 +25,7 @@ fields:
   default: person
   hidden: true
 pages:
+- _people/ed-dzurko.md
 - _people/steve-gruetter.md
 - _people/bryan-smith.md
 - _people/charlie-watkins.md
@@ -35,7 +36,6 @@ pages:
 - _people/steve-harrell.md
 - _people/susan-mills.md
 - _people/anthony-estelle.md
-- _people/ed-dzurko.md
 - _people/sam-larkin.md
 - _people/derek-hahn.md
 - _people/david-saliba.md
