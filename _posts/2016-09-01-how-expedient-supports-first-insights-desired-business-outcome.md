@@ -10,6 +10,7 @@ tags:
 - business outcomes
 - colocation
 - firewall
+author: Jon Rosenson
 
 ---
 ## Desired Business Outcome
