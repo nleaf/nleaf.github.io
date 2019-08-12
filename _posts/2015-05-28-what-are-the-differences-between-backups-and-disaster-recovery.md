@@ -6,6 +6,7 @@ tags:
 - Data Centers
 - Infrastructure Availability
 author: John White
+popular: true
 
 ---
 ## What Are the Differences Between Backups and Disaster Recovery?
