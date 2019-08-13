@@ -12,8 +12,6 @@ featured: false
 popular: false
 
 ---
-#### Persistent Volume Options for Kubernetes Storage
-
 Kubernetes was originally developed as a platform for stateless applications with persistent data stored elsewhere. As the project matured, many organizations wanted to also begin leveraging it for their stateful applications and so persistent volume management was added. At first, this was generally provisioned using cloud-provider-specific interfaces that linked directly to underlying block storage on a given cloud platform. More recently, options have been made available that are functional within any cloud provider and in some cases offer additional features or enhanced performance over the cloud-provider-specific offerings. Rather than develop an Expedient-specific storage solution we are encouraging clients to leverage the cloud-agnostic storage solution or solutions that meet their needs for performance, manageability, compliance, and cost. As the number and variety of available options available in this rapidly changing space can be daunting, an overview of the main options can be found below.
 
 #### NFS
@@ -109,7 +107,6 @@ Cons:
 * No native snapshot or other DR support
 * Limited commercial-support options
 
-  
 As you can see, a lot of options exist for Persistent storage inside your Kubernetes cluster, each with their own pros/cons. The information in this blog post can give you an idea of where to start your search for the solution that fits your company/workload. if you’d like to talk further about for bringing your workloads into Expedient’s Enterprise Cloud platform feel free to [email me](mailto:mike.garuccio@expedient.com) or talk to your Expedient Client Adviser.
 
 _Mike Garuccio is a Product Strategy Engineer at Expedient focused on researching new software and hardware to find ways to productize this technology into new solutions for Expedient clients. As a ‘full stack’ engineer, Mike works with all layers of infrastructure architecture – from the hypervisor all the way up to front-end applications. Mike has played a leading role in the deployment and implementation of Expedient’s next-generation cloud platform, Expedient Enterprise Cloud. His professional interests include automation, containers, Kubernetes, CI/CD, and developer experience optimization. Follow Mike on_ [_Twitter_](https://twitter.com/mgaruccio)_._
