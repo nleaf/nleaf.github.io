@@ -168,18 +168,6 @@ page_sections:
     description: Use Veeam Cloud Connect to quickly and easily get physical and virtual
       backups offsite to an Expedient cloud
     headline: Veeam Cloud Connect
-- template: featured-service
-  block: featured-service
-  title: On-Site Private Cloud with Disaster Recovery as a Service
-  headline: 'Ease your transition to the  cloud with a dedicated  on-premises cloud. '
-  description: Expedient’s On-Site Private Cloud with Disaster Recovery as a Service
-    is designed to ease your transition to the cloud through dedicated on-premises
-    cloud resources coupled with managed disaster recovery from your location to any
-    one of Expedient’s 11 data centers using Push Button DR. The On-Site Private Cloud
-    with DRaaS is ideal for customers who want to transform their IT operations without
-    sacrificing the benefits or control of an on-premises environment.
-  icon: "/uploads/EXP_OnSiteDraaS.svg"
-  align-left: false
 - template: recent-posts
   block: recentposts
 - template: newsletter
