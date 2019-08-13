@@ -14,7 +14,7 @@ popular: false
 ---
 Kubernetes was originally developed as a platform for stateless applications with persistent data stored elsewhere. As the project matured, many organizations wanted to also begin leveraging it for their stateful applications and so persistent volume management was added. At first, this was generally provisioned using cloud-provider-specific interfaces that linked directly to underlying block storage on a given cloud platform. More recently, options have been made available that are functional within any cloud provider and in some cases offer additional features or enhanced performance over the cloud-provider-specific offerings. Rather than develop an Expedient-specific storage solution we are encouraging clients to leverage the cloud-agnostic storage solution or solutions that meet their needs for performance, manageability, compliance, and cost. As the number and variety of available options available in this rapidly changing space can be daunting, an overview of the main options can be found below.
 
-#### NFS
+## NFS
 
 For workloads with relatively low performance requirements, simple NFS volumes can be a great option. In general, NFS is already well understood by IT teams and can offer “good enough” performance in most cases. In the past, relying on NFS meant losing access to dynamic provisioning of persistent volumes. However, with the release of the [NFS client provisioner](https://github.com/kubernetes-incubator/external-storage/tree/master/nfs-client), enabling dynamic provisioning is as easy as deploying a helm chart and pointing it at an existing NFS share. If your team would also like to avoid managing a separate NFS server the client provisioner is fully compatible with , which provides resource quota support, off-site replication, and basic reporting functionality.
 
@@ -38,7 +38,7 @@ Good for:
 * Batch-processing applications
 * Log storage, especially as an archive tier
 
-#### OpenEBS
+## OpenEBS
 
 [OpenEBS](https://openebs.io/) is a CNCF project supporting Container Attached Storage which creates a unique controller and replica POD for every volume and uses these to present storage from block devices available on individual nodes. This provides enhanced scalability and enables platform management entirely within Kubernetes itself via Custom Resource Definitions. This solution also provides copy-on-write snapshots and integrations with backup and restore tools such as VMWare’s [velero](https://github.com/heptio/velero).
 
@@ -60,7 +60,7 @@ Good for:
 * Databases that do not require the absolute highest performance
 * CI/CD Servers
 
-#### Portworx
+## Portworx
 
 [Portworx](https://portworx.com/) is a storage solution that takes in block devices attached directly to your nodes and combines them into a cloud-native storage layer for your cluster. This option makes use of a custom scheduler to ensure that your stateful workloads run on the same node that houses the primary copy of the data they are operating on, providing a significant performance advantage that is further enhanced by the of Expedient Enterprise Cloud. Portworx also offers unique DR, management, and compliance features that enable many applications not generally considered well-suited for containerization to move to the cloud with ease. The DR orchestration capability in particular can offer extremely low RPO/RTO.
 
@@ -89,7 +89,7 @@ Good for:
   * RPOs of 15 minutes
   * RTOs of less than 1 minute
 
-#### Rook
+## Rook
 
 [Rook](https://rook.io/) is a CNCF project designed to provide an orchestration layer on top of other storage and database offerings, which allows management fully within Kubernetes via the addition of new Custom Resource Definitions. In addition to persistent volumes backed by NFS, EdgeFS (this can also be exposed outside of the cluster to provide a performant, geo-redundant filesystem), or Ceph Rook can provision and manage a Minio object store or databases backed by CockroachDB or Casssandra. The exact features that are available vary across the different providers, but via Ceph Rook is able to provide a relatively similar set of features as OpenEBS but with a slightly different architecture. The major advantage here is the ability to manage Persistent volumes, object stores, and databases from a single, Kubernetes-native, interface.
 
