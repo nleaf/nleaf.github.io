@@ -24,16 +24,13 @@ page_sections:
 - template: featured-service
   block: featured-service
   align-left: true
-  title: Push Button DR
-  headline: Rapid Speed, Complete Confidence, Resilience at the push of a button
-  description: Expedient’s Push Button DR offers rapid, total network failover between
-    disparate locations at the push of a button, without IP or DNS changes. Our Recovery
-    Time Objectives (RTOs) and Recovery Point Objectives (RPOs) are measured in minutes,
-    not hours or days, giving you confidence in business continuity. Testing your
-    DR plan is a breeze with dedicated infrastructure and unlimited self-service or
-    supported tests. And if disaster strikes, you can rely upon our 24x7x365 Operations
-    Support Center team to be available if — and when — you need us.
-  icon: "/uploads/EXP_PushButtonDR.svg"
+  title: 'Enterprise Cloud '
+  headline: 'The Cloud for Your Critical Applications '
+  description: |-
+    Your enterprise workloads and applications are ready for a migration to the cloud, but a move to a hyperscale cloud provider requires your teams to learn entirely new platforms, demands potential refactoring of your applications, and doesn’t provide you with the inherent security and white-glove managed services you need to keep your business risk-free and running.
+
+    Expedient Enterprise Cloud is cloud the way you want it to be. Leverage your organization’s existing VMware skill sets while taking advantage of a fully integrated VMware stack of technologies, including next-generation vCloud Director, vRealize Operations, LogInsight, NSX, and vSAN. Control your clouds through a beautifully designed, intuitive, and entirely self-service management console that lets you create VMs in as few as two clicks and offers automated provisioning and de-provisioning of resources. And rely upon the built-in, always-on security features of Enterprise Cloud, including Data Encryption at Rest, 2FA, and Active Directory integrations, and Expedient’s 100% SLA, which means your workloads and applications are always available.
+  icon: "/uploads/EXP-Enterprise-Sticker-1.png"
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
