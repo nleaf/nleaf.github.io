@@ -68,6 +68,13 @@ page_sections:
   subheading: 'Public, Private, and Hybrid cloud options to drive your business transformation
     forward '
   highlights:
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Public Cloud
+    description: Shared cloud instances and resource pools that offer predictable
+      performance and pricing, a 100% SLA, and the ability to leverage your team’s
+      existing VMware skill set – no application refactoring or new platforms to learn.
   - align-left: false
     icon: ''
     background: ''
@@ -80,10 +87,13 @@ page_sections:
   - align-left: true
     icon: ''
     background: ''
-    headline: Public Cloud
-    description: Shared cloud instances and resource pools that offer predictable
-      performance and pricing, a 100% SLA, and the ability to leverage your team’s
-      existing VMware skill set – no application refactoring or new platforms to learn.
+    headline: 'Hybrid Cloud '
+    description: When you seek the scalability and flexibility of the cloud, but also
+      have workloads not yet ready for a cloud migration, you need Expedient’s Hybrid
+      Cloud solutions. Whether combining physical infrastructure in one of our data
+      centers with our public and private cloud solutions, or marrying physical infrastructure
+      with a third-party cloud like AWS, our hybrid cloud solutions enable the seamless
+      coexistence of all of your physical and virtual infrastructures.
   heading: ''
 - template: quote
   block: quote
