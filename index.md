@@ -22,16 +22,17 @@ page_sections:
       States, and take advantage of our operational excellence, security, and 24x7x365
       staffing
     link: colocation.md
+  - link_title: Disaster Recovery
+    icon: "/uploads/ico_dr.svg"
+    description: A comprehensive suite of Disaster Recovery solutions for both virtual
+      and physical environments, with RPOs and RTOs that ensure your critical applications
+      are protected and available when you need them
+    link: disaster-recovery.md
   - link_title: Security & Compliance
     icon: "/uploads/ico_sheilds.svg"
     description: 333Leverage your organization’s existing VMware skill sets while
       taking advantage of a fully integrated VMware stack of technologies.
     link: security-and-compliance.md
-  - link_title: Disaster Recovery
-    icon: "/uploads/ico_dr.svg"
-    description: 444Leverage your organization’s existing VMware skill sets while
-      taking advantage of a fully integrated VMware stack of technologies.
-    link: disaster-recovery.md
   index_casestudies:
   - client_logo: "/uploads/ph_Client1.png"
     link: disaster-recovery.md
