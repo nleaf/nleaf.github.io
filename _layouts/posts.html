@@ -44,22 +44,24 @@ layout: default
                         {% if post.popular == true %}
                             <div class="p-10 relative mr-4 bg-bwhite mr-4" style="overflow: hidden;position: relative; height: 311px;border:8px solid #333132; width: 360px;">
                                 <div class="bottom-0 mb-6">
-                                        <h2 class="text-2xl leading-tight font-black font-sans mt-1 mb-10"><a href="{{ root_url }}{{ post.url }}" class="ctaLink">{{ post.title }}</a></h2>
-                                        <div class="inline h-24 float-left mr-8">
-                                            <!-- Profile Picture -->
-                                            {% if post.author %}
-                                            {% assign staff_member = site.people | where: 'title', post.author | first %}
-                                            {% if staff_member %}
-                                                <img alt="{{ staff_member.title }}" src="{{ staff_member.thumbnail | absolute_url }}" class="h-24">
-                                            {% endif %}
-                                            {% else %}
-                                                <img alt="Expedient" src="/uploads/EXP_Circle-Mark.svg" class="h-24">
-                                            {% endif %}
-                                        </div> 
-                                        <div class="post-info align-middle w-1/2 float-left">
-                                            <span class="addInfo block">Author</span>
-                                            <a href="#" class="authorName">{{ post.author }}</span></a>
-                                        </div> 
+                                        <h2 class="text-2xl leading-tight font-black font-sans mt-1 mb-10"><a href="{{ root_url }}{{ post.url }}" class="ctaLink">{{ post.title | truncatewords: 8 | strip_html }}</a></h2>
+                                        <div class="bottom-0 absolute clearfix w-auto mb-10">
+                                            <div class="flex float-left mr-8">
+                                                <!-- Profile Picture -->
+                                                {% if post.author %}
+                                                {% assign staff_member = site.people | where: 'title', post.author | first %}
+                                                {% if staff_member %}
+                                                    <img alt="{{ staff_member.title }}" src="{{ staff_member.thumbnail | absolute_url }}" class="h-24">
+                                                {% endif %}
+                                                {% else %}
+                                                    <img alt="Expedient" src="/uploads/EXP_Circle-Mark.svg" class="h-24">
+                                                {% endif %}
+                                            </div> 
+                                            <div class="post-info align-middle block float-left -mr-8">
+                                                <span class="addInfo block">Author</span>
+                                                <a href="#" class="authorName">{{ post.author }}</span></a>
+                                            </div> 
+                                        </div>
                                 </div>
                             </div>
                         {% endif %}
