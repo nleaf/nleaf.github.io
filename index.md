@@ -36,7 +36,7 @@ page_sections:
   index_casestudies:
   - client_logo: "/uploads/ph_Client1.png"
     link: disaster-recovery.md
-  - client_logo: "/uploads/ph_Client2.png"
+  - client_logo: ''
     link: disaster-recovery.md
   - client_logo: "/uploads/ph_Client3.png"
     link: disaster-recovery.md
