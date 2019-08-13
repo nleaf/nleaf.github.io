@@ -8,11 +8,11 @@ author: Ed Dzurko
 ---
 ## Data Center Build vs. Buy: What to Consider
 
-With the ever-changing enhancements taking place in today’s technological landscape, in-house data centers are continually met with the challenge of providing enough space, power and cooling. When data centers reach their limits, CIOs and IT managers are faced with that all-important decision: Does it make more sense to invest in an in-house data center, use a colocation center solution to house hardware, lease data space from a [data center provider](https://www.expedient.com/the-data-centers/ "Data Centers"), or start seeking the services of the cloud? 
+With the ever-changing enhancements taking place in today’s technological landscape, in-house data centers are continually met with the challenge of providing enough space, power and cooling. When data centers reach their limits, CIOs and IT managers are faced with that all-important decision: Does it make more sense to invest in an in-house data center, use a colocation center solution to house hardware, lease data space from a [data center provider](https://www.expedient.com/the-data-centers/ "Data Centers"), or start seeking the services of the cloud?
 
-[Download Expedient’s “Costs of Cloud Ownership” Whitepaper](http://bit.ly/13IHfox) for detailed insights. 
+[Download Expedient’s “Costs of Cloud Ownership” Whitepaper](http://bit.ly/13IHfox) for detailed insights.
 
-[Calculate the actual cost to build your own data center vs working with a data center provider](https://www.expedient.com/data-center-build-vs-buy-calculator/ "THE COMPLETE CLOUD BUILD VS BUY CALCULATOR") 
+[Calculate the actual cost to build your own data center vs working with a data center provider](https://www.expedient.com/data-center-build-vs-buy-calculator/ "THE COMPLETE CLOUD BUILD VS BUY CALCULATOR")
 
 If you are currently exploring this Build vs. Buy scenario, the following checklist can serve as a good starting point. Use this list as you weigh the pros and cons between building internally and seeking the services of an external data center provider.
 
@@ -40,4 +40,4 @@ Regardless of your business, your customers want to reach you when and how they 
 
 On average it costs about $1,500 per square foot of raised floor to build to a 100% inclusive, redundant work space. _Note:_ This does not include staffing.
 
-Searching for a data center solutions provider? [Contact Expedient](https://www.expedient.com/support/ "Support") today.
+**_Searching for a data center solutions provider?_** [**_Contact Expedient_**](https://www.expedient.com/support/ "Support") **_today._**
