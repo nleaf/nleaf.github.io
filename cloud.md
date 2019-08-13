@@ -31,26 +31,20 @@ page_sections:
 
     Expedient Enterprise Cloud is cloud the way you want it to be. Leverage your organization’s existing VMware skill sets while taking advantage of a fully integrated VMware stack of technologies, including next-generation vCloud Director, vRealize Operations, LogInsight, NSX, and vSAN. Control your clouds through a beautifully designed, intuitive, and entirely self-service management console that lets you create VMs in as few as two clicks and offers automated provisioning and de-provisioning of resources. And rely upon the built-in, always-on security features of Enterprise Cloud, including Data Encryption at Rest, 2FA, and Active Directory integrations, and Expedient’s 100% SLA, which means your workloads and applications are always available.
   icon: "/uploads/EXP_EnterpriseCloud.svg"
-- template: quote
-  block: quote
-  image: "/uploads/EXP_Circle-Mark.svg"
-  image-alt: Expedient
-  quote: "“Our experience watching Push Button DR in action for our applications was
-    like magic. It simplified our business continuity plan.”"
-  cite: "- IT Director, Professional Services Company"
-  link: ''
-  cta: ''
 - template: highlights-2-column
   block: highlights-2col
-  heading: Flexible and Extensible
-  subheading: "Push Button DR  \nHighlights "
+  subheading: The simplicity of Enterprise Cloud improves your efficiency and productivity
   highlights:
   - align-left: true
-    icon: "/uploads/EXP_Agility.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Agility
-    description: Failover at the push of a button and have the ability to operate
-      applications in multiple data centers or your own site.
+    headline: The most cloud-like experience available from a VMware cloud service
+      provider
+    description: Expedient Enterprise Cloud offers a single pane of glass management
+      interface with self-service network provisioning, intuitive monitoring and analytics
+      through vRealize Operations, and self-service multi-tenancy so you can easily
+      – and quickly – manage your customer environments with a policy-driven approach
+      that ensures fine-grained control.
+    icon: ''
+    background: ''
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
     background: "/uploads/ph_hurricane.jpg"
@@ -64,6 +58,16 @@ page_sections:
     headline: Risk Mitigation
     description: Protect information technology workloads with disaster recovery solutions
       that offer the fastest recovery time objectives.
+  heading: Experience the Enterprise Cloud
+- template: quote
+  block: quote
+  image: "/uploads/EXP_Circle-Mark.svg"
+  image-alt: Expedient
+  quote: "“Our experience watching Push Button DR in action for our applications was
+    like magic. It simplified our business continuity plan.”"
+  cite: "- IT Director, Professional Services Company"
+  link: ''
+  cta: ''
 - template: callout
   block: callout
   link: contact.md
