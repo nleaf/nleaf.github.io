@@ -5,7 +5,7 @@ seo_title: ''
 description: ''
 image: "/uploads/EXP-Social--volume_options_kubernetes.png"
 banner_image: ''
-date: 2019-08-13 16:20:00 +0000
+date: 2019-08-13T16:20:00.000+00:00
 tags:
 - Cloud
 featured: false
