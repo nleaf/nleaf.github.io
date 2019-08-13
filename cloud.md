@@ -17,7 +17,8 @@ page_sections:
     and simplified management and monitoring in a user-friendly interface.
 - template: subscribe-bar
   block: subbar
-  headline: Subscribe to receive the latest articles related to DRaaS
+  headline: 'Stay ahead of the cloud curve. Subscribe now to hear from the experts
+    at Expedient. '
   cta: Subscribe Now
   heading: Keep yourself ahead of the cloud curve with updates from Expedient
 - template: featured-service

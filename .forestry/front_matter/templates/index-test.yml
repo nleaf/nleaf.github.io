@@ -40,6 +40,7 @@ fields:
     min: 
     max: 
 pages:
+- cloud.md
 - index.md
 - overview.md
 - colocation.md
@@ -51,7 +52,6 @@ pages:
 - awards-and-accolades.md
 - technology-partners.md
 - tools-and-calculators.md
-- cloud.md
 - _casestudies/softlinx-inc.md
 - _casestudies/interactiveblue.md
 - _casestudies/omnyx.md
