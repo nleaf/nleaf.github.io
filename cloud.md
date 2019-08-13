@@ -115,6 +115,59 @@ page_sections:
     performance. '
   icon: ''
   background: ''
+- template: highlights-2-column
+  block: highlights-2col
+  heading: Paving Your Path to the Cloud
+  subheading: Our portfolio of cloud solutions makes overcoming your IT challenges
+    a breeze
+  highlights:
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: On-Site Private Cloud with Disaster Recovery as a Service
+    description: Ease your transition to the cloud through dedicated on-premises cloud
+      resources coupled with managed disaster recovery from your location to any one
+      of Expedient's 11 data centers using Push Button DR. The On-Site Private Cloud
+      with DRaaS is ideal for customers who want to transform their IT operations
+      without sacrificing the benefits or control of an on-premises environment.
+  - align-left: false
+    icon: ''
+    background: ''
+    headline: Hybrid Cloud Colocation for AWS
+    description: Implement your hybrid cloud strategy with Expedient’s Hybrid Cloud
+      colocation. A low latency connection to AWS East from Expedient’s Baltimore,
+      MD data center(s) enables your organization to establish a hybrid cloud architecture
+      that utilizes AWS for cloud-friendly applications and Expedient colocation for
+      workloads that are sensitive, critical, or not yet ready for the hyperscale
+      cloud.
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Multi-Cloud Connection
+    description: With nearly half of all IT organizations utilizing cloud infrastructure
+      across multiple cloud providers, direct and private connections between clouds
+      is a business necessity. Expedient’s Multi-Cloud Connection solution enables
+      bi-directional, dedicated connectivity to cloud providers like Azure, Amazon
+      Web Services, and Google Cloud -- making your mission-critical workloads available
+      anytime, anywhere.
+  - align-left: false
+    icon: ''
+    background: ''
+    headline: VMC on AWS
+    description: 'Deliver IaaS and DRaaS solutions using VMware technology from an
+      Expedient data center or in VMware Cloud on AWS. '
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Nutanix as a Service
+    description: 'Host Nutanix in our data centers or on-premises and take advantage
+      of managed services including disaster recovery, security, and backups. '
+  - align-left: false
+    icon: ''
+    background: ''
+    description: Use Veeam Cloud Connect to quickly and easily get physical and virtual
+      backups offsite to an Expedient cloud
+    headline: Veeam Cloud Connect
 - template: featured-service
   block: featured-service
   title: On-Site Private Cloud with Disaster Recovery as a Service
@@ -127,27 +180,6 @@ page_sections:
     sacrificing the benefits or control of an on-premises environment.
   icon: "/uploads/EXP_OnSiteDraaS.svg"
   align-left: false
-- template: highlights-2-column-2-row
-  block: highlights-2col-2row
-  heading: Robust and Secure
-  subheading: On-Site Private Cloud  Provides
-  highlights:
-  - headline_left: Risk Mitigation
-    description_left: Protect data and comply with mandates like the Payment Card
-      Industry Data Security Standard (PCI DSS)
-    icon_left: "/uploads/EXP_RiskMitigation.svg"
-    headline_right: Agility
-    description_right: Operate applications in multiple data centers concurrently
-      for active/active  workload protection.
-    icon_right: "/uploads/EXP_Agility.svg"
-  - headline_left: Availability
-    description_left: Replicate computing workloads of critical importance in two
-      or more data centers and rely upon automatic recovery if the unexpected happens.
-    icon_left: "/uploads/EXP_Availability.svg"
-    headline_right: Cost Control
-    description_right: Stop purchasing hardware and accurately forecast monthly operational
-      infrastructure expense while taking advantage of the latest technology.
-    icon_right: "/uploads/EXP_CostControl.svg"
 - template: recent-posts
   block: recentposts
 - template: newsletter
