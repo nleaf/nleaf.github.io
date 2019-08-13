@@ -30,8 +30,8 @@ page_sections:
     link: disaster-recovery.md
   - link_title: Security & Compliance
     icon: "/uploads/ico_sheilds.svg"
-    description: 333Leverage your organization’s existing VMware skill sets while
-      taking advantage of a fully integrated VMware stack of technologies.
+    description: Compliance and security solutions from Expedient enable organizations
+      to share risk, secure sensitive data, and streamline audit efforts
     link: security-and-compliance.md
   index_casestudies:
   - client_logo: "/uploads/ph_Client1.png"
