@@ -69,9 +69,9 @@ vCD is well supported by modern automation tooling such as [Ansible](https://www
 
 * This approach leverages existing expertise with configuration management tooling.
 * Allows for declarative configuration
-  * Easier for non-programmers to read and modify
-  * Facilitates much faster time to market due with the ability to create simpler automation workflows
-  * Automation playbooks can be given to auditors in place of SOP documentation.
+* Easier for non-programmers to read and modify
+* Facilitates much faster time to market due with the ability to create simpler automation workflows
+* Automation playbooks can be given to auditors in place of SOP documentation.
 
 **Disadvantages**
 
