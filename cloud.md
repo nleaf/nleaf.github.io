@@ -118,8 +118,7 @@ page_sections:
 - template: highlights-2-column
   block: highlights-2col
   heading: Paving Your Path to the Cloud
-  subheading: Our portfolio of cloud solutions makes overcoming your IT challenges
-    a breeze
+  subheading: Overcome your IT challenges with our portfolio of cloud solutions
   highlights:
   - align-left: true
     icon: ''
