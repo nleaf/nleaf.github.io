@@ -109,7 +109,7 @@ page_sections:
 - template: callout
   block: callout
   link: contact.md
-  cta: 'Read the report now. '
+  cta: Read the report now
   heading: A cloud that outperforms AWS, Azure, and Rackspace? It's true!
   content: 'Expedient Enterprise Cloud outperforms hyperscale clouds on price and
     performance. '
