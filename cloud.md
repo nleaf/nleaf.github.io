@@ -110,8 +110,9 @@ page_sections:
   block: callout
   link: contact.md
   cta: 'Read the report now. '
-  heading: 'It''s true! '
-  content: 'Enterprise Cloud outperforms comparable clouds from AWS, Azure, and Rackspace. '
+  heading: 'A cloud that outperforms AWS, Azure, and Rackspace? '
+  content: 'It''s true! Enterprise Cloud outperforms hyperscale clouds on price and
+    performance. '
   icon: ''
   background: ''
 - template: featured-service
