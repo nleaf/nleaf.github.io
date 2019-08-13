@@ -68,6 +68,15 @@ page_sections:
   subheading: 'Public, Private, and Hybrid cloud options to drive your business transformation
     forward '
   highlights:
+  - align-left: false
+    icon: ''
+    background: ''
+    headline: Private Cloud
+    description: Make your move to Expedient’s scalable, fully redundant cloud and
+      take advantage of dedicated cloud resources and industry-leading managed services,
+      including disaster recovery, backups, and a suite of compliance and security
+      solutions designed to help you mitigate risk and meet the strictest of compliance
+      mandates, including HIPAA, PCI DSS, and more.
   - align-left: true
     icon: ''
     background: ''
