@@ -16,7 +16,7 @@ With the ever-changing enhancements taking place in today’s technological land
 
 If you are currently exploring this Build vs. Buy scenario, the following checklist can serve as a good starting point. Use this list as you weigh the pros and cons between building internally and seeking the services of an external data center provider.
 
-#### What is the cost of 100% up time?
+#### What is the cost of 100% uptime?
 
 Everyone wants 100% uptime, but what is really involved to accomplish this internally? For a small to medium sized business, this can mean overinvesting in an internal staff of IT professionals and resources, causing you to reduce spending in other areas of your business.
 
