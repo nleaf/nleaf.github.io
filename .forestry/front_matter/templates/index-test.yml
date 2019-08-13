@@ -40,8 +40,8 @@ fields:
     min: 
     max: 
 pages:
-- cloud.md
 - index.md
+- cloud.md
 - overview.md
 - colocation.md
 - security-and-compliance.md

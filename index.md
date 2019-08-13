@@ -6,19 +6,21 @@ page_sections:
 - template: index-hero
   block: index-hero
   banner_image: "/uploads/exp_head.jpg"
-  heading: Tomorrow’s  Cloud, Today.
-  sub_heading: Expedient combines data centers, network access and managed services
-    to deliver information technology infrastructure as a service (IaaS) solutions.
+  heading: Tomorrow’s Cloud, Today.
+  sub_heading: Expedient helps companies transform their IT operations through award-winning
+    cloud solutions and managed services including disaster recovery, security and
+    compliance, and more.
   index_quicknavigation:
   - link_title: Cloud
     icon: "/uploads/ico_cloud.svg"
-    description: 123Leverage your organization’s existing VMware skill sets while
-      taking advantage of a fully integrated VMware stack of technologies.
+    description: Leverage your organization’s existing VMware skill sets while taking
+      advantage of a fully integrated VMware stack of technologies.
     link: cloud.md
   - link_title: Colocation
     icon: "/uploads/ico_dc.svg"
-    description: 222Leverage your organization’s existing VMware skill sets while
-      taking advantage of a fully integrated VMware stack of technologies.
+    description: Deploy your hardware in Expedient data centers across the United
+      States, and take advantage of our operational excellence, security, and 24x7x365
+      staffing
     link: colocation.md
   - link_title: Security & Compliance
     icon: "/uploads/ico_sheilds.svg"
@@ -131,8 +133,9 @@ template: seo
 label: SEO
 name: seo
 seo_title: Cloud Computing and Data Center Infrastructure as a Service
-description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
-  Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
+description: Expedient helps companies transform their IT operations through award-winning
+  cloud solutions and managed services including disaster recovery, security and compliance,
+  and more
 image: ''
 
 ---
