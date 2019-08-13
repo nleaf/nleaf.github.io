@@ -9,7 +9,7 @@ author: Devon Cole
 ---
 ## What Does ‘No Downtime’ Really Mean?
 
-Everyone knows that downtime is not good for business. But does guaranteeing “no downtime” really mean _no_ downtime? Ideally, yes, but we all know that service interruptions happen! So no downtime in reality means that customers will not pay for downtime and providers will do everything possible to keep your data accessible and your applications up and running 24x7x365. Before trusting your provider’s no downtime SLA, there are several things you will want to fully understand specific to your business  as well as on the part of the provider. 
+Everyone knows that downtime is not good for business. But does guaranteeing “no downtime” really mean _no_ downtime? Ideally, yes, but we all know that service interruptions happen! So no downtime in reality means that customers will not pay for downtime and providers will do everything possible to keep your data accessible and your applications up and running 24x7x365. Before trusting your provider’s no downtime SLA, there are several things you will want to fully understand specific to your business  as well as on the part of the provider.
 
 ### For your business:
 
