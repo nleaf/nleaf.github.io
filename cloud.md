@@ -63,6 +63,19 @@ page_sections:
       Quickly deploy Kubernetes clusters and add or remove nodes, saving you the time
       and manual work associated with logging into servers and running commands individually.
   heading: Experience the Enterprise Cloud
+- template: highlights-2-column
+  block: highlights-2col
+  subheading: 'Public, Private, and Hybrid cloud options to drive your business transformation
+    forward '
+  highlights:
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Public Cloud
+    description: Shared cloud instances and resource pools that offer predictable
+      performance and pricing, a 100% SLA, and the ability to leverage your team’s
+      existing VMware skill set – no application refactoring or new platforms to learn.
+  heading: ''
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
