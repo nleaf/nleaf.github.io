@@ -48,14 +48,14 @@ page_sections:
   - align-left: false
     icon: ''
     background: ''
-    headline: Gain peace of mind with always-on security
+    headline: Always-on security measures provide peace of mind
     description: Gain peace of mind and meet the strictest of compliance regulations
       with the built-in, always-on security features of Enterprise Cloud, including
       Data Encryption at Rest, 2FA, and Active Directory integrations, and Expedient’s
       100% SLA, which means your workloads and applications are always available.
   - align-left: true
-    icon: "/uploads/EXP_RiskMitigation.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: ''
+    background: ''
     headline: Gain development flexibility with self-service Kubernetes cluster deployment
     description: If you’re already using Kubernetes or are interested in gaining the
       development flexibility that accompanies container use, leverage Enterprise
