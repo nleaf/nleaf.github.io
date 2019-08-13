@@ -25,7 +25,6 @@ layout: default
         {% assign post = site.posts.first %}
         {% assign content = post.content %}
         {% include post_detail.html %}
-    {% endif %}
 
     <!-- Popular Posts -->
     <section class="relative sm:py-2 bg-bwhite sm:pb-12">
@@ -71,6 +70,8 @@ layout: default
         </div>
     </section>
     <!-- END Popular Posts -->
+
+    {% endif %}
 
     {% for post in paginator.posts offset:1 %}
       <!-- POST -->
@@ -121,15 +122,33 @@ layout: default
     {% endfor %}
 
     {% if paginator.total_pages > 1 %}
-    <ul class="pager">
+    <ul class="pager flex flex-row flex-wrap justify-center items-center sm:p-12">
+
+        <!-- Previous -->
         {% if paginator.previous_page %}
         <li class="previous">
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><img src="/uploads/EXP-left-arrow.svg" alt="Previous" class="h-16"></a>
         </li>
         {% endif %}
+
+        <!-- Trail -->
+        {% if paginator.page_trail %}
+            {% for trail in paginator.page_trail limit:2 %}
+                <li {% if page.url == trail.path %}class="selected"{% endif %}>
+                    <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}" class="rounded-full h-8 w-8 bg-red flex items-center justify-center font-sans font-black mr-2 text-bwhite -ml-1">{{ trail.num }}</a>
+                </li>
+            {% endfor %}
+        {% endif %}
+
+        <!-- Last Page -->
+        <li>
+            <a href="{{ paginator.last_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="rounded-full h-8 w-8 bg-red flex items-center justify-center font-sans font-black text-bwhite -ml-1">{{ paginator.last_page }}</a>
+        </li>
+
+        <!-- Next -->
         {% if paginator.next_page %}
         <li class="next">
-            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><img src="/uploads/EXP-right-arrow.svg" alt="Next" class="h-16 -ml-1"></a>
         </li>
         {% endif %}
     </ul>
