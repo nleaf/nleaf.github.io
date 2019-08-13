@@ -63,6 +63,17 @@ page_sections:
       Quickly deploy Kubernetes clusters and add or remove nodes, saving you the time
       and manual work associated with logging into servers and running commands individually.
   heading: Experience the Enterprise Cloud
+- template: quote
+  block: quote
+  image: "/uploads/EXP_Circle-Mark.svg"
+  image-alt: Expedient
+  quote: "“Expedient’s enterprise level cloud solution freed up our internal resources,
+    allowing us the time we needed to implement a best-in-class cloud services platform
+    to support a site that has over 123 million monthly page views and 2.6 billion
+    associated images. As a result, we gained efficiencies at all levels.”"
+  cite: "- David Mele, President, Homes.com"
+  link: ''
+  cta: ''
 - template: highlights-2-column
   block: highlights-2col
   subheading: 'Public, Private, and Hybrid cloud options to drive your business transformation
@@ -95,26 +106,14 @@ page_sections:
       with a third-party cloud like AWS, our hybrid cloud solutions enable the seamless
       coexistence of all of your physical and virtual infrastructures.
   heading: ''
-- template: quote
-  block: quote
-  image: "/uploads/EXP_Circle-Mark.svg"
-  image-alt: Expedient
-  quote: "“Expedient’s enterprise level cloud solution freed up our internal resources,
-    allowing us the time we needed to implement a best-in-class cloud services platform
-    to support a site that has over 123 million monthly page views and 2.6 billion
-    associated images. As a result, we gained efficiencies at all levels.”"
-  cite: "- David Mele, President, Homes.com"
-  link: ''
-  cta: ''
 - template: callout
   block: callout
   link: contact.md
-  cta: Learn More
-  heading: Interested in saving $100,000 a day?
-  content: Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
-    Push Button DR.
+  cta: 'Read the report now. '
+  heading: 'It''s true! '
+  content: 'Enterprise Cloud outperforms comparable clouds from AWS, Azure, and Rackspace. '
   icon: ''
-  background: "/uploads/bg_hurricane.png"
+  background: ''
 - template: featured-service
   block: featured-service
   title: On-Site Private Cloud with Disaster Recovery as a Service
