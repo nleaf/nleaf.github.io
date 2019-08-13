@@ -630,6 +630,7 @@ body::-webkit-scrollbar-thumb {
   outline: 1px solid slategrey;
 }
 
+
 p {
   font-size: 1.25rem;
   margin-top: 1rem;
@@ -689,7 +690,7 @@ p {
   content: counter(exp-counter) ". ";
   color: #F20505;
   font-weight: 800;
-  font-size: 1.6em;
+  font-size: 1.2em;
   display: inline-block;
   width: 1em;
   margin-left: -1em;
@@ -699,7 +700,7 @@ p {
   width: inherit;
   width: 33.333333%;
 }
-.post ul li {
+.post ul li,.post ol li {
   margin-top: 1.28rem;
   margin-bottom: 1.28rem;
 }
