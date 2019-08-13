@@ -30,8 +30,8 @@ page_sections:
     link: disaster-recovery.md
   - link_title: Security & Compliance
     icon: "/uploads/ico_sheilds.svg"
-    description: Compliance and security solutions from Expedient enable organizations
-      to share risk, secure sensitive data, and streamline audit efforts
+    description: 'Compliance and security solutions from Expedient enable organizations
+      to secure data at the network and application levels, and streamline audit efforts '
     link: security-and-compliance.md
   index_casestudies:
   - client_logo: "/uploads/ph_Client1.png"
