@@ -43,6 +43,6 @@ For many organizations, the key to reducing infrastructure is the intelligent us
 1. Work closely with the organization to evaluate, implement, support and change critical business applications.
 2. Lead the organization to better long-term technology planning and usage
 
-Skeptical?  [See how Prodigo Solutions](https://www.expedient.com/resources/video-prodigo-solutions-reduces-customer-onboarding-time-with-expedients-cloud-and-managed-services/) reduced their tactical IT infrastructure workload and refocused on new applications and better business outcomes.  Or contact me to discuss your organization’s specific situation. 
+Skeptical?  [See how Prodigo Solutions](https://www.expedient.com/resources/video-prodigo-solutions-reduces-customer-onboarding-time-with-expedients-cloud-and-managed-services/) reduced their tactical IT infrastructure workload and refocused on new applications and better business outcomes.  Or contact me to discuss your organization’s specific situation.
 
 **_Doug Theis_** _is the Director of Market Strategy in Expedient’s Indianapolis market focused on engaging with and improving the regional IT community through planning, sponsoring and attending community events, facilitating IT-focused continuing education opportunities, and sharing strategies, tactics, and research to help IT professionals stay abreast of best practices and industry trends. Connect with Doug at_ [_doug.theis@expedient.com_](mailto:doug.theis@expedient.com) _and follow him on_ [_Twitter_](https://twitter.com/dougtheis)_._
