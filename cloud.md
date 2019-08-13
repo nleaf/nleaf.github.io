@@ -56,9 +56,12 @@ page_sections:
   - align-left: true
     icon: "/uploads/EXP_RiskMitigation.svg"
     background: "/uploads/ph_hurricane.jpg"
-    headline: Risk Mitigation
-    description: Protect information technology workloads with disaster recovery solutions
-      that offer the fastest recovery time objectives.
+    headline: Gain development flexibility with self-service Kubernetes cluster deployment
+    description: If you’re already using Kubernetes or are interested in gaining the
+      development flexibility that accompanies container use, leverage Enterprise
+      Cloud’s self-service management interface to handle Kubernetes cluster management.
+      Quickly deploy Kubernetes clusters and add or remove nodes, saving you the time
+      and manual work associated with logging into servers and running commands individually.
   heading: Experience the Enterprise Cloud
 - template: quote
   block: quote
