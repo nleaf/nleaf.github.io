@@ -83,7 +83,7 @@ page_sections:
       of its BH-Works platform, mdLogix required a cloud infrastructure that was both
       scalable and highly available, ensuring that it was accessible to health screeners
       when and where it was needed. '
-    img: ''
+    img: "/uploads/ico_dr.svg"
     link: disaster-recovery.md
   - category: Featured Case Study
     title: Prodigo Solutions Reduces Customer Onboarding Time with Expedient
