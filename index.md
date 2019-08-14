@@ -41,7 +41,7 @@ page_sections:
   - client_logo: "/uploads/ph_Client3.png"
     link: "/knowledgebase/resources/Prodigo-Solutions/"
   - client_logo: "/uploads/EXP_StanleySteemer.png"
-    link: "/knowledgebase/resources/Stanley-Steemer/"
+    link: "/knowledgebase/resources/stanley-steemer/"
 - template: newswire
   block: newswire
   news:
