@@ -7,7 +7,7 @@ layout: blocks
 page_sections:
 - template: case-study-header
   block: casestudy-hero
-  heading: Cloud Transformation Enables Workforce Mobilization
+  heading: Cloud Workforce Mobilization
   subheading: Stanley Steemer Launches Mobile Applications as Part of Business Transformation
     with Expedient’s Infrastructure as a Service and Disaster Recovery Solutions
   icon: "/uploads/stanley-steemer-1.svg"
