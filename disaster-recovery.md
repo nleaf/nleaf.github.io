@@ -21,10 +21,7 @@ page_sections:
   cta: Subscribe Now
 - template: highlights-2-column
   block: highlights-2col
-  subheading: When disaster strikes, every moment counts. For more than 10 years,
-    Expedient's industry-leading Disaster Recovery as a Service solutions have given
-    our customers the ability and confidence to failover with speed and ease -- on
-    their own, or with our 24x7x365 support.
+  subheading: ''
   highlights:
   - align-left: true
     headline: Push Button DR powered by Zerto
@@ -50,7 +47,10 @@ page_sections:
     description: 'Push Button DR powered by Cohesity protects workloads with replication
       from your on-premises or virtual environments to Expedient Enterprise Cloud,
       with a  4-hour RPO and 1-hour RTO. '
-  heading: ''
+  heading: When disaster strikes, every moment counts. For more than 10 years, Expedient's
+    industry-leading Disaster Recovery as a Service solutions have given our customers
+    the ability and confidence to failover with speed and ease -- on their own, or
+    with our 24x7x365 support.
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
@@ -65,8 +65,8 @@ page_sections:
   link: contact.md
   cta: Learn More
   heading: Interested in saving $100,000 a day?
-  content: Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
-    Push Button DR.
+  content: 'Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
+    Push Button DR powered by Zerto. '
   icon: ''
   background: "/uploads/bg_hurricane.png"
 - template: featured-service
