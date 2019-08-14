@@ -83,14 +83,14 @@ page_sections:
       of its BH-Works platform, mdLogix required a cloud infrastructure that was both
       scalable and highly available, ensuring that it was accessible to health screeners
       when and where it was needed. '
-    img: "/uploads/ico_dr.svg"
+    img: "/uploads/EXP_MdLogix.png"
     link: "/knowledgebase/resources/Prodigo-Solutions/"
   - category: Featured Case Study
     title: Prodigo Solutions Reduces Customer Onboarding Time with Expedient
     description: 'As a healthcare supply chain software startup, Prodigo Solutions’
       lean in-house technical operations group was challenged by keeping up with the
       escalating demands of the business and its growing number of large customers. '
-    img: "/uploads/prod.png"
+    img: "/uploads/EXP_Prodigo.png"
     link: "/knowledgebase/resources/Prodigo-Solutions/"
   - category: ''
     title: ''
