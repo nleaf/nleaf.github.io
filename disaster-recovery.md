@@ -45,11 +45,12 @@ page_sections:
     icon: ''
     background: ''
   - align-left: true
-    icon: "/uploads/EXP_RiskMitigation.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Risk Mitigation
-    description: Protect information technology workloads with disaster recovery solutions
-      that offer the fastest recovery time objectives.
+    icon: ''
+    background: ''
+    headline: Push Button DR powered by Cohesity
+    description: 'Push Button DR powered by Cohesity protects workloads with replication
+      from your on-premises or virtual environments to Expedient Enterprise Cloud,
+      with a  4-hour RPO and 1-hour RTO. '
   heading: ''
 - template: featured-service
   block: featured-service
