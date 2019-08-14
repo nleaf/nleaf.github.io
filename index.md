@@ -78,9 +78,15 @@ page_sections:
     img: ''
     link: paginations/resources-video.md
   - category: Featured Case Study
-    title: Example
-    description: Some description
-    img: uploads/ph_Related.jpg
+    title: mdLogix Scales Behavioral Health Platform Nationally with Expedient
+    description: To accommodate its growth and advance its goal of the national adoption
+      of its BH-Works platform, mdLogix required a cloud infrastructure that was both
+      scalable and highly available, ensuring that it was accessible to health screeners
+      when and where it was needed. And because of the sensitive behavioral data being
+      collected and aggregated by the tool, mdLogix needed a partner who could safeguard
+      patient health information and provide attestations to ensure compliance with
+      HIPAA. It found all of that, and more, with Expedient’s private cloud.
+    img: ''
     link: disaster-recovery.md
   - category: Featured Case Study
     title: Example
