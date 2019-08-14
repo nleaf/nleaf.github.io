@@ -94,9 +94,9 @@ page_sections:
     link: "/knowledgebase/resources/Prodigo-Solutions/"
   - category: ''
     title: ''
-    description: Read more success stories with Expedient
+    description: Read more success stories
     img: ''
-    link: disaster-recovery.md
+    link: "/why-expedient/success-stories"
 - template: gartner
   block: gartner
 - template: callout
