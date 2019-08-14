@@ -75,7 +75,7 @@ page_sections:
       partnership with VMware and how we work with the virtualization leader to build
       cloud and infrastructure as a service (IaaS) solutions for our clients, including
       the next-generation Expedient Enterprise Cloud platform.
-    img: "/uploads/EXP-Enterprise-Sticker.png"
+    img: "/uploads/EXP-Enterprisecloud-tb.png"
     link: "/knowledgebase/resources/video-expedient-delivering-a-highly-performant-enterprise-cloud-with-vmware/"
   - category: Featured Case Study
     title: mdLogix Scales Behavioral Health Platform Nationally with Expedient
