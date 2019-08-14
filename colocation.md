@@ -21,25 +21,17 @@ page_sections:
 - template: featured-service
   block: featured-service
   align-left: true
-  title: Push Button DR
-  headline: Rapid Speed, Complete Confidence, Resilience at the push of a button
-  description: Expedient’s Push Button DR offers rapid, total network failover between
-    disparate locations at the push of a button, without IP or DNS changes. Our Recovery
-    Time Objectives (RTOs) and Recovery Point Objectives (RPOs) are measured in minutes,
-    not hours or days, giving you confidence in business continuity. Testing your
-    DR plan is a breeze with dedicated infrastructure and unlimited self-service or
-    supported tests. And if disaster strikes, you can rely upon our 24x7x365 Operations
-    Support Center team to be available if — and when — you need us.
-  icon: "/uploads/EXP_PushButtonDR.svg"
-- template: quote
-  block: quote
-  image: "/uploads/EXP_Circle-Mark.svg"
-  image-alt: Expedient
-  quote: "“Our experience watching Push Button DR in action for our applications was
-    like magic. It simplified our business continuity plan.”"
-  cite: "- IT Director, Professional Services Company"
-  link: ''
-  cta: ''
+  title: Expedient Data Centers
+  headline: 'Stop wasting resources managing a data center. '
+  description: "You need capacity, power, safety, and security. You don't need the
+    headaches and costs of managing a data center. \n\nExpedient's data centers across
+    the United States enable your organization to host your hardware while taking
+    advantage of features standard in each facility:\n\n- More than 300,000 square
+    feet of computer room space across all facilities \n- Redundant A/B Uninterruptable
+    Power Supply (UPS) conditioned power sources\n- Multiple emergency generators\n-
+    Gas fire suppression system\n- Surveillance cameras\n- Biometric access control\n-
+    Visitor access management\n- 24x7x365 staff on-site "
+  icon: "/uploads/EXP_Server.svg"
 - template: highlights-2-column
   block: highlights-2col
   heading: Flexible and Extensible
@@ -64,6 +56,15 @@ page_sections:
     headline: Risk Mitigation
     description: Protect information technology workloads with disaster recovery solutions
       that offer the fastest recovery time objectives.
+- template: quote
+  block: quote
+  image: "/uploads/EXP_Circle-Mark.svg"
+  image-alt: Expedient
+  quote: "“Our experience watching Push Button DR in action for our applications was
+    like magic. It simplified our business continuity plan.”"
+  cite: "- IT Director, Professional Services Company"
+  link: ''
+  cta: ''
 - template: callout
   block: callout
   link: contact.md
