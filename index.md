@@ -87,19 +87,14 @@ page_sections:
     link: disaster-recovery.md
   - category: Featured Case Study
     title: Prodigo Solutions Reduces Customer Onboarding Time with Expedient
-    description: As a healthcare supply chain software startup, Prodigo Solutions’
+    description: 'As a healthcare supply chain software startup, Prodigo Solutions’
       lean in-house technical operations group was challenged by keeping up with the
-      escalating demands of the business and its growing number of large customers.
-      To scale its business, the Prodigo IT team knew it needed an infrastructure
-      partner with turnkey service capabilities and top-tier technical expertise.
-      Prodigo turned to Expedient to gain the agility it needed, dramatically reducing
-      customer onboarding time from weeks to days, and adding resiliency to its business
-      through the addition of DRaaS capabilities.
+      escalating demands of the business and its growing number of large customers. '
     img: ''
     link: disaster-recovery.md
   - category: ''
-    title: Lasting impact, for our clients business in the cloud, today.
-    description: Read more case studies
+    title: ''
+    description: Read more success stories with Expedient
     img: ''
     link: disaster-recovery.md
 - template: gartner
