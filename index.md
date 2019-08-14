@@ -76,7 +76,7 @@ page_sections:
       cloud and infrastructure as a service (IaaS) solutions for our clients, including
       the next-generation Expedient Enterprise Cloud platform.
     img: "/uploads/EXP-Enterprise-Sticker.png"
-    link: paginations/resources-video.md
+    link: "/knowledgebase/resources/video-expedient-delivering-a-highly-performant-enterprise-cloud-with-vmware/"
   - category: Featured Case Study
     title: mdLogix Scales Behavioral Health Platform Nationally with Expedient
     description: 'To accommodate its growth and advance its goal of the national adoption
