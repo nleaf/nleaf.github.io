@@ -3,14 +3,18 @@ layout: blocks
 title: Disaster Recovery as a Service
 hide_body: true
 permalink: "/services/disaster-recovery"
-tags: [Disaster Recovery, VMware, DRAAS, Cloud Computing]
+tags:
+- Disaster Recovery
+- VMware
+- DRAAS
+- Cloud Computing
 page_sections:
 - template: page-hero
   block: page-hero
   banner_image: "/uploads/bg_servies.jpg"
-  subheadline: Expedient’s Disaster Recovery as a Service solutions have been recognized
-    in  the Gartner Magic Quadrant for DRaaS and offer fast, total network failover  without
-    IP and DNS changes.
+  subheadline: A comprehensive suite of Disaster Recovery solutions for both virtual
+    and physical environments, with RPOs and RTOs that ensure your critical applications
+    are protected and available when you need them.
 - template: subscribe-bar
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
@@ -117,8 +121,9 @@ template: seo
 label: SEO
 name: seo
 seo_title: Cloud Computing and Data Center Infrastructure as a Service
-description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
-  Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
+description: A comprehensive suite of Disaster Recovery solutions for both virtual
+  and physical environments, with RPOs and RTOs that ensure your critical applications
+  are protected and available when you need them
 image: ''
 
 ---
