@@ -53,16 +53,9 @@ fields:
       maxSize: 250
     label: Client Logo
   - name: link
-    type: select
-    default: []
+    type: text
     config:
       required: false
-      options: []
-      source:
-        type: pages
-        section: case-studies
-        file: 
-        path: 
     label: Case Study Link
   config:
     min: 
