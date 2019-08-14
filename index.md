@@ -49,14 +49,14 @@ page_sections:
     icon: "/uploads/ico_arrowDown.svg"
     link: index.md
     description: Expedient Announces VMworld 2019 Schedule of Events
-  - title: Expedient Named VMware Americas Cloud Partner of the Year
-    icon: "/uploads/ico_trophy.svg"
-    link: data-centers.md
-    description: Expedient Named VMware’s Americas Regional Cloud Partner of the Year
   - title: Homes.com
     icon: "/uploads/ico_play.svg"
     link: index.md
     description: Expedient Announces Largest Deployment of Enterprise Cloud Platform
+  - title: Expedient Named VMware Americas Cloud Partner of the Year
+    icon: "/uploads/ico_trophy.svg"
+    link: data-centers.md
+    description: Expedient Named VMware’s Americas Regional Cloud Partner of the Year
 - template: featured
   block: featured
   featured_category: Featured Service
@@ -69,11 +69,14 @@ page_sections:
   featured_cta_link: cloud.md
   featured_cta_text: Learn More
   related_products:
-  - category: Featured Case Study
-    title: Example
-    description: Some description12
-    img: uploads/ph_Related.jpg
-    link: disaster-recovery.md
+  - category: Featured Video
+    title: 'Delivering Expedient Enterprise Cloud '
+    description: Watch Chief Innovation Officer, John White, discuss Expedient’s long-standing
+      partnership with VMware and how we work with the virtualization leader to build
+      cloud and infrastructure as a service (IaaS) solutions for our clients, including
+      the next-generation Expedient Enterprise Cloud platform.
+    img: ''
+    link: paginations/resources-video.md
   - category: Featured Case Study
     title: Example
     description: Some description
