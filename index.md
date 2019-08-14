@@ -84,7 +84,7 @@ page_sections:
       scalable and highly available, ensuring that it was accessible to health screeners
       when and where it was needed. '
     img: "/uploads/ico_dr.svg"
-    link: disaster-recovery.md
+    link: "/knowledgebase/resources/Prodigo-Solutions/"
   - category: Featured Case Study
     title: Prodigo Solutions Reduces Customer Onboarding Time with Expedient
     description: 'As a healthcare supply chain software startup, Prodigo Solutions’
