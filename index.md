@@ -35,13 +35,13 @@ page_sections:
     link: security-and-compliance.md
   index_casestudies:
   - client_logo: "/uploads/ph_Client1.png"
-    link: _casestudies/columbus-metropolitan-library.md
+    link: "/knowledgebase/resources/columbus-metropolitan-library/"
   - client_logo: "/uploads/EXP_Careworks.png"
-    link: _casestudies/careworks-tech.md
+    link: "/knowledgebase/resources/careworks-tech/"
   - client_logo: "/uploads/ph_Client3.png"
-    link: _casestudies/Prodigo-Solutions.md
+    link: "/knowledgebase/resources/Prodigo-Solutions/"
   - client_logo: "/uploads/EXP_StanleySteemer.png"
-    link: _casestudies/stanley-steemer.md
+    link: /knowledgebase/resources/Stanley-Steemer/
 - template: newswire
   block: newswire
   news:
