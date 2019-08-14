@@ -55,7 +55,7 @@ page_sections:
     description: Expedient Announces Largest Deployment of Enterprise Cloud Platform
   - title: Expedient Named VMware Americas Cloud Partner of the Year
     icon: "/uploads/ico_trophy.svg"
-    link: data-centers.md
+    link: "/knowledgebase/blog/2019-04-10-expedient-named-vmwares-americas-cloud-partner-of-the-year/"
     description: Expedient Named VMware’s Americas Regional Cloud Partner of the Year
 - template: featured
   block: featured
