@@ -49,11 +49,10 @@ page_sections:
     icon: "/uploads/ico_trophy.svg"
     link: data-centers.md
     description: Expedient Named VMware’s Americas Regional Cloud Partner of the Year
-  - title: 2Test Title
+  - title: Expedient Debuts at VMworld 2019
     icon: "/uploads/ico_arrowDown.svg"
     link: index.md
-    description: 2Expedient Named VMware’s Americas Regional Cloud Partner of the
-      Year
+    description: Expedient Announces VMworld 2019 Schedule of Events
   - title: 3Test Title
     icon: "/uploads/ico_play.svg"
     link: index.md
