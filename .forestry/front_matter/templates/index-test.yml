@@ -40,6 +40,7 @@ fields:
     min: 
     max: 
 pages:
+- _casestudies/careworks-tech.md
 - colocation.md
 - index.md
 - cloud.md
@@ -71,5 +72,4 @@ pages:
 - _casestudies/medcom-solutions.md
 - _casestudies/tic-gums.md
 - _casestudies/nonni-s-foods.md
-- _casestudies/careworks-tech.md
 - _casestudies/Prodigo-Solutions.md
