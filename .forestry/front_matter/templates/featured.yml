@@ -63,16 +63,9 @@ fields:
     label: Image
     description: Optional
   - name: link
-    type: select
-    default: []
+    type: text
     config:
       required: false
-      options: []
-      source:
-        type: pages
-        section: jekyll-pages
-        file: 
-        path: 
     label: link
   config:
     min: 
