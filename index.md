@@ -35,11 +35,11 @@ page_sections:
     link: security-and-compliance.md
   index_casestudies:
   - client_logo: "/uploads/ph_Client1.png"
-    link: disaster-recovery.md
+    link: _casestudies/columbus-metropolitan-library.md
   - client_logo: ''
     link: disaster-recovery.md
   - client_logo: "/uploads/ph_Client3.png"
-    link: disaster-recovery.md
+    link: _casestudies/Prodigo-Solutions.md
   - client_logo: "/uploads/ph_Client1.png"
     link: disaster-recovery.md
 - template: newswire

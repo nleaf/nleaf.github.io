@@ -60,7 +60,7 @@ fields:
       options: []
       source:
         type: pages
-        section: jekyll-pages
+        section: case-studies
         file: 
         path: 
     label: Case Study Link

@@ -51,6 +51,13 @@ page_sections:
     headline: Geographic Diversity
     description: 'With data centers across the country, Expedient helps clients mitigate
       the risk of downtime and supports the implementation of diverse IT footprints. '
+  - align-left: false
+    icon: ''
+    background: ''
+    headline: Compliance & Security
+    description: Every Expedient data center maintains detailed Security and Control
+      Policies, and is audited in accordance with SSAE-18 SOC1 and SOC2, HIPAA and
+      PCI standards.
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
