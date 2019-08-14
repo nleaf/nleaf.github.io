@@ -90,7 +90,7 @@ page_sections:
     description: 'As a healthcare supply chain software startup, Prodigo Solutions’
       lean in-house technical operations group was challenged by keeping up with the
       escalating demands of the business and its growing number of large customers. '
-    img: ''
+    img: "/uploads/prod.png"
     link: disaster-recovery.md
   - category: ''
     title: ''
@@ -108,26 +108,6 @@ page_sections:
     of a hosted solution.
   icon: "/uploads/ico_cloud.svg"
   background: "/uploads/ph_arrow2.svg"
-- template: moreyouknow
-  block: moreyouknow
-  heading: Expedient quick facts
-  subheading: The more you know.
-  featured:
-  - link: disaster-recovery.md
-    heading: Disaster Recovery
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam malesuada
-      leo ut malesuada mollis. Sed lectus turpis, cursus sit amet dapibus vel, dictum
-      non nibh.
-  - link: cloud.md
-    heading: Cloud
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam malesuada
-      leo ut malesuada mollis. Sed lectus turpis, cursus sit amet dapibus vel, dictum
-      non nibh.
-  - link: data-centers.md
-    heading: Data Centers
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam malesuada
-      leo ut malesuada mollis. Sed lectus turpis, cursus sit amet dapibus vel, dictum
-      non nibh.
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
