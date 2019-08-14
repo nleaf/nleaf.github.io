@@ -47,7 +47,7 @@ page_sections:
   news:
   - title: Expedient Debuts at VMworld 2019
     icon: "/uploads/ico_arrowDown.svg"
-    link: index.md
+    link: https://go.expedient.com/vmworld2019
     description: Expedient Announces VMworld 2019 Schedule of Events
   - title: Homes.com
     icon: "/uploads/ico_play.svg"
