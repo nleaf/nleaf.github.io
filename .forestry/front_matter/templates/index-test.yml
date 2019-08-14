@@ -40,9 +40,9 @@ fields:
     min: 
     max: 
 pages:
+- index.md
 - _casestudies/careworks-tech.md
 - colocation.md
-- index.md
 - cloud.md
 - disaster-recovery.md
 - overview.md
