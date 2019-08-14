@@ -20,6 +20,37 @@ page_sections:
   headline: Don't fall behind on the latest in DR. Subscribe now to hear from the
     experts at Expedient.
   cta: Subscribe Now
+- template: highlights-2-column
+  block: highlights-2col
+  subheading: When disaster strikes, every moment counts. For more than 10 years,
+    Expedient's industry-leading Disaster Recovery as a Service solutions have given
+    our customers the ability and confidence to failover with speed and ease -- on
+    their own, or with our 24x7x365 support.
+  highlights:
+  - align-left: true
+    headline: Push Button DR powered by Zerto
+    description: 'Push Button DR powered by Zerto offers rapid, total network failover
+      between disparate locations at the push of a button, without IP or DNS changes.
+      With a real-time RPO and 15-minute RTO, PBDR-Zerto enables replication from
+      your on-premises environment to the Expedient cloud, or from cloud to cloud.
+      And, PBDR-Zerto offers some of the longest journaling available to ensure your
+      data is protected against ransomware. '
+    icon: ''
+    background: ''
+  - align-left: false
+    headline: 'Push Button DR powered by VMware '
+    description: 'Push Button DR powered by VMware offers a lightning-fast 5-minute
+      RPO and 15-minute RTO for workloads that need to be replicated between your
+      on-premises VMware environment to the Expedient cloud. '
+    icon: ''
+    background: ''
+  - align-left: true
+    icon: "/uploads/EXP_RiskMitigation.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: Risk Mitigation
+    description: Protect information technology workloads with disaster recovery solutions
+      that offer the fastest recovery time objectives.
+  heading: ''
 - template: featured-service
   block: featured-service
   align-left: true
@@ -42,30 +73,6 @@ page_sections:
   cite: "- IT Director, Professional Services Company"
   link: ''
   cta: ''
-- template: highlights-2-column
-  block: highlights-2col
-  heading: Flexible and Extensible
-  subheading: "Push Button DR  \nHighlights "
-  highlights:
-  - align-left: true
-    icon: "/uploads/EXP_Agility.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Agility
-    description: Failover at the push of a button and have the ability to operate
-      applications in multiple data centers or your own site.
-  - align-left: false
-    icon: "/uploads/EXP_Availability.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Availability
-    description: Replicate computing workloads of critical importance in two or more
-      data centers or your own site and rely upon automatic recovery by interconnected
-      locations.
-  - align-left: true
-    icon: "/uploads/EXP_RiskMitigation.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Risk Mitigation
-    description: Protect information technology workloads with disaster recovery solutions
-      that offer the fastest recovery time objectives.
 - template: callout
   block: callout
   link: contact.md
