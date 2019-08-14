@@ -25,6 +25,7 @@ fields:
   default: person
   hidden: true
 pages:
+- _people/john-white.md
 - _people/ed-dzurko.md
 - _people/steve-gruetter.md
 - _people/bryan-smith.md
@@ -46,4 +47,3 @@ pages:
 - _people/leslie-gubish.md
 - _people/joe-palian.md
 - _people/kristin-puzon.md
-- _people/john-white.md
