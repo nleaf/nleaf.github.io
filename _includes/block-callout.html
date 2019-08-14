@@ -15,10 +15,10 @@
                 </a>
             </div>
 
-            {% if !section.icon == blank %}
+            {% if section.icon != null and section.icon != "" %}
                 <!-- Column -->
                 <div class="w-4/12 px-4">
-                    <img src="{{ section.icon | absolute_url }}" alt="{{ section.heading }}" />
+                    <img src="{{ section.icon | absolute_url }}" alt="{{ section.heading }}" class="w-full" />
                 </div>
             {% endif %}
         </div>
