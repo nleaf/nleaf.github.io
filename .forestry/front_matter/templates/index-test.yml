@@ -40,9 +40,9 @@ fields:
     min: 
     max: 
 pages:
+- index.md
 - cloud.md
 - disaster-recovery.md
-- index.md
 - overview.md
 - colocation.md
 - security-and-compliance.md
