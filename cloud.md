@@ -54,7 +54,7 @@ page_sections:
       Data Encryption at Rest, 2FA, and Active Directory integrations, and Expedient’s
       100% SLA, which means your workloads and applications are always available.
   - align-left: true
-    icon: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
     background: "/uploads/Expedient-Containers.jpg"
     headline: Gain development flexibility with self-service Kubernetes cluster deployment
     description: If you’re already using Kubernetes or are interested in gaining the
