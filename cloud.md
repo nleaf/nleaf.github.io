@@ -55,7 +55,7 @@ page_sections:
       100% SLA, which means your workloads and applications are always available.
   - align-left: true
     icon: ''
-    background: ''
+    background: "/uploads/Expedient-Containers.jpg"
     headline: Gain development flexibility with self-service Kubernetes cluster deployment
     description: If you’re already using Kubernetes or are interested in gaining the
       development flexibility that accompanies container use, leverage Enterprise
