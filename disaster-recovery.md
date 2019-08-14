@@ -17,7 +17,8 @@ page_sections:
     are protected and available when you need them.
 - template: subscribe-bar
   block: subbar
-  headline: Subscribe to receive the latest articles related to DRaaS
+  headline: Don't fall behind on the latest in DR. Subscribe now to hear from the
+    experts at Expedient.
   cta: Subscribe Now
 - template: featured-service
   block: featured-service
