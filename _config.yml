@@ -57,10 +57,11 @@ autopages:
       #- autopage_cat.html
     enabled: true
   collections:
-    enabled: true
-    slugify:
-      mode: 'ascii'
-      cased: true  # Causes B+W tag to show up as it is written on the terry-pratchet-diary-2017.md page and not lowercase
+    layouts: 
+      - 'resources.html'
+    title: 'Posts in collection :coll' # :coll is replaced by the collection name
+    permalink: '/collection/:coll'
+    enabled: false
 jekyll-archives:
   enabled: all
   layout: "archive"
