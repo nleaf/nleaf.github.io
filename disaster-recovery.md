@@ -17,8 +17,7 @@ page_sections:
     are protected and available when you need them.
 - template: subscribe-bar
   block: subbar
-  headline: Don't fall behind on the latest in DR. Subscribe now to hear from the
-    experts at Expedient.
+  headline: Don't fall behind on the latest in DR. Learn from the experts at Expedient.
   cta: Subscribe Now
 - template: highlights-2-column
   block: highlights-2col
@@ -52,19 +51,6 @@ page_sections:
       from your on-premises or virtual environments to Expedient Enterprise Cloud,
       with a  4-hour RPO and 1-hour RTO. '
   heading: ''
-- template: featured-service
-  block: featured-service
-  align-left: true
-  title: Push Button DR
-  headline: Rapid Speed, Complete Confidence, Resilience at the push of a button
-  description: Expedient’s Push Button DR offers rapid, total network failover between
-    disparate locations at the push of a button, without IP or DNS changes. Our Recovery
-    Time Objectives (RTOs) and Recovery Point Objectives (RPOs) are measured in minutes,
-    not hours or days, giving you confidence in business continuity. Testing your
-    DR plan is a breeze with dedicated infrastructure and unlimited self-service or
-    supported tests. And if disaster strikes, you can rely upon our 24x7x365 Operations
-    Support Center team to be available if — and when — you need us.
-  icon: "/uploads/EXP_PushButtonDR.svg"
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
