@@ -15,6 +15,11 @@ defaults:
       layout: post
   - scope:
       path: ""
+      type: press
+    values:
+      layout: press
+  - scope:
+      path: ""
       type: resources
     values:
       layout: resource
@@ -33,6 +38,9 @@ collections:
   projects:
     output: true
     permalink: "/projects/:path/"
+  press:
+    output: true
+    permalink: "/about/media/press/:path/"
   resources:
     output: true
     permalink: "/knowledgebase/resources/:title/"
