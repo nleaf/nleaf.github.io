@@ -46,8 +46,8 @@ page_sections:
     icon: "/uploads/EXP_SinglePane-Verified.svg"
     background: "/uploads/Expedient-EnterpriseCloud_Interface-1.gif"
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_RiskMitigation.svg"
+    background: "/uploads/Expedient-EnterpriseCloud_Interface2-1.gif"
     headline: Always-on security measures provide peace of mind
     description: Gain peace of mind and meet the strictest of compliance regulations
       with the built-in, always-on security features of Enterprise Cloud, including
