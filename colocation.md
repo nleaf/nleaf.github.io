@@ -65,6 +65,13 @@ page_sections:
     description: Streamline IT management and reduce workloads by relying upon Expedient
       for time-intensive tasks such as backups, storage, and monitoring and maintenance
       of hosted hardware and software.
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Support for Hybrid IT
+    description: 'Expedient offers secure connections to hyperscale clouds such as
+      Azure and Google Cloud, and a low-latency direct connection to AWS East from
+      certain Expedient data centers. '
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
