@@ -16,7 +16,7 @@ page_sections:
     your hardware in one of our data centers across the United States '
 - template: subscribe-bar
   block: subbar
-  headline: Subscribe to receive the latest articles related to DRaaS
+  headline: 'Stay in the know on all things IT infrastructure. '
   cta: Subscribe Now
 - template: featured-service
   block: featured-service
