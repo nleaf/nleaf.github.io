@@ -23,7 +23,7 @@ collections:
     output: false
   people:
     output: true
-    permalink: "/about/:path/"
+    permalink: "/knowledgebase/blog/authors/:path/"
   casestudies:
     output: true
     permalink: "/knowledgebase/resources/:title/"

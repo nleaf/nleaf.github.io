@@ -25,11 +25,11 @@ layout: default
       <section class="relative sm:py-2 bg-bwhite sm:pb-12">
           <div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12">
               
-              <div class="w-full sm:w-4/12 pr-5">
+              <div class="w-full sm:w-4/12 pr-5" style="overflow: hidden;position: relative;min-height: 488px;width: 360px;">
                   {% if post.banner_image and post.banner_image != "" %}
-                    <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="h-auto w-full">
+                    <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="h-auto w-auto absolute" style="min-height: 488px; object-fit: cover;">
                   {% else %}
-                    <img src="{{ "/uploads/ph_blogPost.png" | absolute_url }}" alt="{{ post.title }}" class="h-auto w-full">
+                    <img src="{{ "/uploads/ph_blogPost.png" | absolute_url }}" alt="{{ post.title }}" class="h-auto w-auto absolute" style="min-height: 488px; object-fit: cover;">
                   {% endif %}
               </div>
 
@@ -42,7 +42,14 @@ layout: default
                   <div class="flex flex-wrap flex-wrap w-3/4 my-8 align-middle items-center">
                       <div class="mr-8">
                           <!-- Profile Picture -->
-                          <img src="/images/ph_profile.jpg" class="">
+                            {% if post.author %}
+                                {% assign staff_member = site.people | where: 'title', post.author | first %}
+                                {% if staff_member %}
+                                    <img alt="{{ staff_member.title }}" src="{{ staff_member.thumbnail | absolute_url }}" class="h-24 rounded-full">
+                                {% endif %}
+                            {% else %}
+                                <img alt="Expedient" src="/uploads/EXP_Circle-Mark.svg" class="h-24 rounded-full">
+                            {% endif %}
                       </div> 
                       <div class="mr-8 post-info align-middle">
                           <span class="addInfo block">Author</span>
@@ -53,7 +60,7 @@ layout: default
                               {% include readtime.html content=post.content %}
                       </div> 
                   </div>
-                  <p>{{ post.content | truncatewords: 30 | strip_html }}</p>
+                  <p>{{ post.content | truncatewords: 60 | strip_html }}</p>
                   <div class="text-red text-base font-bold font-sans inline pb-1"><a href="{{ post.url | absolute_url }}" class="ctaLink">Read Article</a></div>
               </div>
           </div>
@@ -62,15 +69,33 @@ layout: default
     {% endfor %}
 
     {% if paginator.total_pages > 1 %}
-    <ul class="pager">
+    <ul class="pager flex flex-row flex-wrap justify-center items-center sm:p-12">
+
+        <!-- Previous -->
         {% if paginator.previous_page %}
         <li class="previous">
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><img src="/uploads/EXP-left-arrow.svg" alt="Previous" class="h-16"></a>
         </li>
         {% endif %}
+
+        <!-- Trail -->
+        {% if paginator.page_trail %}
+            {% for trail in paginator.page_trail limit:2 %}
+                <li {% if page.url == trail.path %}class="selected"{% endif %}>
+                    <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}" class="rounded-full h-8 w-8 bg-red flex items-center justify-center font-sans font-black mr-2 text-bwhite -ml-1">{{ trail.num }}</a>
+                </li>
+            {% endfor %}
+        {% endif %}
+
+        <!-- Last Page -->
+        <li>
+            <a href="{{ paginator.last_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="rounded-full h-8 w-8 bg-red flex items-center justify-center font-sans font-black text-bwhite -ml-1">{{ paginator.last_page }}</a>
+        </li>
+
+        <!-- Next -->
         {% if paginator.next_page %}
         <li class="next">
-            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><img src="/uploads/EXP-right-arrow.svg" alt="Next" class="h-16 -ml-1"></a>
         </li>
         {% endif %}
     </ul>
