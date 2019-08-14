@@ -91,7 +91,7 @@ page_sections:
       lean in-house technical operations group was challenged by keeping up with the
       escalating demands of the business and its growing number of large customers. '
     img: "/uploads/prod.png"
-    link: disaster-recovery.md
+    link: "/knowledgebase/resources/Prodigo-Solutions/"
   - category: ''
     title: ''
     description: Read more success stories with Expedient
