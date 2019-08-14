@@ -23,16 +23,9 @@ fields:
       maxSize: 250
     label: Icon
   - name: link
-    type: select
-    default: []
+    type: text
     config:
       required: false
-      options: []
-      source:
-        type: pages
-        section: jekyll-pages
-        file: 
-        path: 
     label: Link
   - name: description
     type: text
