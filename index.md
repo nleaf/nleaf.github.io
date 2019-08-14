@@ -41,7 +41,7 @@ page_sections:
   - client_logo: "/uploads/ph_Client3.png"
     link: "/knowledgebase/resources/Prodigo-Solutions/"
   - client_logo: "/uploads/EXP_StanleySteemer.png"
-    link: /knowledgebase/resources/Stanley-Steemer/
+    link: "/knowledgebase/resources/Stanley-Steemer/"
 - template: newswire
   block: newswire
   news:
@@ -93,7 +93,7 @@ page_sections:
     img: "/uploads/EXP_Prodigo.png"
     link: "/knowledgebase/resources/Prodigo-Solutions/"
   - category: ''
-    title: ''
+    title: Lasting impact, for our clients business in the cloud, today.
     description: Read more success stories
     img: ''
     link: "/why-expedient/success-stories"
