@@ -40,12 +40,11 @@ page_sections:
     description: All data center components at each Expedient facility have N + 1
       or 2N redundancy
   - align-left: false
-    icon: "/uploads/EXP_Availability.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Availability
-    description: Replicate computing workloads of critical importance in two or more
-      data centers or your own site and rely upon automatic recovery by interconnected
-      locations.
+    icon: ''
+    background: ''
+    headline: Fast, secure connectivity
+    description: 'All Expedient data centers are interconnected by a private multigigabit
+      network. '
   - align-left: true
     icon: "/uploads/EXP_RiskMitigation.svg"
     background: "/uploads/ph_hurricane.jpg"
