@@ -46,11 +46,11 @@ page_sections:
     description: 'All Expedient data centers are interconnected by a private multigigabit
       network. '
   - align-left: true
-    icon: "/uploads/EXP_RiskMitigation.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Risk Mitigation
-    description: Protect information technology workloads with disaster recovery solutions
-      that offer the fastest recovery time objectives.
+    icon: ''
+    background: ''
+    headline: Geographic Diversity
+    description: 'With data centers across the country, Expedient helps clients mitigate
+      the risk of downtime and supports the implementation of diverse IT footprints. '
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
