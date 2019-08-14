@@ -40,11 +40,11 @@ fields:
     min: 
     max: 
 pages:
+- colocation.md
 - cloud.md
 - index.md
 - disaster-recovery.md
 - overview.md
-- colocation.md
 - security-and-compliance.md
 - why-expedient.md
 - executive-team.md
