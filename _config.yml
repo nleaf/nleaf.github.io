@@ -40,8 +40,9 @@ autopages:
   enabled: true
   tags: 
     layouts: 
-     # - autopage_collections_tags.html
-     # - autopage_tags.html
+      - 'autopage_tags.html'
+    title: 'Posts tagged with :tag' # :tag is replaced by the tag name
+    permalink: '/knowledgebase/blog/tag/:tag'
     enabled: true
   categories:
     layouts:
@@ -100,7 +101,7 @@ pagination:
   category: 'posts'
 
   # Optional, the default tag to use, omit to disable
-  tag: ''
+  tags: ''
 
   # Optional, the default locale to use, omit to disable (depends on a field 'locale' to be specified in the posts, 
   # in reality this can be any value, suggested are the Microsoft locale-codes (e.g. en_US, en_GB) or simply the ISO-639 language code )
@@ -120,4 +121,5 @@ pagination:
   # Without file extension
   indexpage: 'index'
 
+############################################################
 ############################################################
