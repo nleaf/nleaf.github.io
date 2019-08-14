@@ -58,6 +58,13 @@ page_sections:
     description: Every Expedient data center maintains detailed Security and Control
       Policies, and is audited in accordance with SSAE-18 SOC1 and SOC2, HIPAA and
       PCI standards.
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Complementary Managed Services
+    description: Streamline IT management and reduce workloads by relying upon Expedient
+      for time-intensive tasks such as backups, storage, and monitoring and maintenance
+      of hosted hardware and software.
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
