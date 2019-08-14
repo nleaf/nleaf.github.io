@@ -43,8 +43,8 @@ page_sections:
       through vRealize Operations, and self-service multi-tenancy so you can easily
       – and quickly – manage your customer environments with a policy-driven approach
       that ensures fine-grained control.
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_SinglePane-Verified.svg"
+    background: "/uploads/Expedient-EnterpriseCloud_Interface-1.gif"
   - align-left: false
     icon: ''
     background: ''
