@@ -65,13 +65,20 @@ page_sections:
     description: Streamline IT management and reduce workloads by relying upon Expedient
       for time-intensive tasks such as backups, storage, and monitoring and maintenance
       of hosted hardware and software.
-  - align-left: true
+  - align-left: false
     icon: ''
     background: ''
     headline: Support for Hybrid IT
     description: 'Expedient offers secure connections to hyperscale clouds such as
       Azure and Google Cloud, and a low-latency direct connection to AWS East from
       certain Expedient data centers. '
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: 24x7x365 On-Site Staffing
+    description: Expedient’s Operations Support Center encompasses all aspects of
+      a network control center, call center, and IT help desk, enabling a single point
+      of contact to clients 24 hours a day, 7 days a week.
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
