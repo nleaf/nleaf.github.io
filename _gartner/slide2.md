@@ -1,6 +1,6 @@
 ---
-cite: Director of Technology in the Transportation Industry
+cite: IT Services Director in the Manufacturing Industry
 current: false
 
 ---
-“Push-button DR capability worked flawlessly when used to migrate VMs from one center to another as part of a scheduled move. Up and running in less than 30 minutes!”
+“The Failover Worked Better Than We Could've Hoped, We Feel Confident Now With Our DR”
