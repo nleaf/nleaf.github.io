@@ -17,8 +17,13 @@
                     <!-- Left -->
                     <div class="w-full sm:w-6/12 px-4 mt-4">
                         <div class="w-full relative">
-                            <img src="{{ item.icon | absolute_url }}" class="absolute pt-3 right-0">
-                            <img src="{{ item.background | absolute_url }}" class="w-10/12">
+                            <img src="{{ item.icon | absolute_url }}" class="absolute pt-3 right-0 w-4/12">
+                            <div class="w-10/12" style="
+                                overflow: hidden;
+                                height: 200px;
+                            ">
+                            <img src="{{ item.background | absolute_url }}" class="">
+                            </div>
                         </div> 
                     </div>
                     <!-- Right -->
