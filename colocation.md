@@ -26,23 +26,19 @@ page_sections:
   description: "You need capacity, power, safety, and security. You don't need the
     headaches and costs of managing a data center. \n\nExpedient's data centers across
     the United States enable your organization to host your hardware while taking
-    advantage of features standard in each facility:\n\n- More than 300,000 square
-    feet of computer room space across all facilities \n- Redundant A/B Uninterruptable
-    Power Supply (UPS) conditioned power sources\n- Multiple emergency generators\n-
-    Gas fire suppression system\n- Surveillance cameras\n- Biometric access control\n-
-    Visitor access management\n- 24x7x365 staff on-site "
+    advantage of features standard in each facility: "
   icon: "/uploads/EXP_Server.svg"
 - template: highlights-2-column
   block: highlights-2col
-  heading: Flexible and Extensible
-  subheading: "Push Button DR  \nHighlights "
+  heading: ''
+  subheading: ''
   highlights:
   - align-left: true
-    icon: "/uploads/EXP_Agility.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Agility
-    description: Failover at the push of a button and have the ability to operate
-      applications in multiple data centers or your own site.
+    icon: ''
+    background: ''
+    headline: Built-In Redundancy
+    description: All data center components at each Expedient facility have N + 1
+      or 2N redundancy
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
     background: "/uploads/ph_hurricane.jpg"
