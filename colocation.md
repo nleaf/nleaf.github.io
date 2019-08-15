@@ -47,7 +47,7 @@ page_sections:
       network. '
   - align-left: true
     icon: ''
-    background: ''
+    background: "/uploads/exp_colocation-diversity.png"
     headline: Geographic Diversity
     description: 'With data centers across the country, Expedient helps clients mitigate
       the risk of downtime and supports the implementation of diverse IT footprints. '
