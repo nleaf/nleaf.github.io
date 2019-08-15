@@ -96,8 +96,8 @@ page_sections:
       solutions designed to help you mitigate risk and meet the strictest of compliance
       mandates, including HIPAA, PCI DSS, and more.
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
+    background: "/uploads/exp_cloud_hybrid.jpg"
     headline: 'Hybrid Cloud '
     description: When you seek the scalability and flexibility of the cloud, but also
       have workloads not yet ready for a cloud migration, you need Expedient’s Hybrid
