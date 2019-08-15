@@ -35,7 +35,7 @@ page_sections:
   highlights:
   - align-left: true
     icon: ''
-    background: ''
+    background: "/uploads/exp_colocation-redundancy.png"
     headline: Built-In Redundancy
     description: All data center components at each Expedient facility have N + 1
       or 2N redundancy
