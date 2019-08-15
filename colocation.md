@@ -41,7 +41,7 @@ page_sections:
       or 2N redundancy
   - align-left: false
     icon: ''
-    background: ''
+    background: "/uploads/exp_colocation-fast.png"
     headline: Fast, secure connectivity
     description: 'All Expedient data centers are interconnected by a private multigigabit
       network. '
