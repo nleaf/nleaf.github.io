@@ -96,7 +96,7 @@ page_sections:
   content: Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
     Push Button DR.
   icon: ''
-  background: "/uploads/EXP_Block-Callout-Background-new.jpg"
+  background: "/uploads/EXP_Block-Callout-Background-2.jpg"
 - template: featured-service
   block: featured-service
   title: On-Site Private Cloud with Disaster Recovery as a Service
