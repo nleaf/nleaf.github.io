@@ -156,8 +156,8 @@ page_sections:
     description: 'Deliver IaaS and DRaaS solutions using VMware technology from an
       Expedient data center or in VMware Cloud on AWS. '
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
+    background: "/uploads/exp_cloud_nutanix.jpg"
     headline: Nutanix as a Service
     description: 'Host Nutanix in our data centers or on-premises and take advantage
       of managed services including disaster recovery, security, and backups. '
