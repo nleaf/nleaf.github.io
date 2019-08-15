@@ -68,7 +68,8 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
-tags: [Case Studies]
+tags:
+- Case Studies
+
 ---
- 
 Expedient and CareWorks Tech are going to market in Central Ohio and beyond with complementary, and comprehensive, IT infrastructure and managed services solutions whereby CareWorks Tech focuses on managing IT services for its customers and Expedient powers the infrastructure underneath those services.
