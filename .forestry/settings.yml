@@ -9,13 +9,6 @@ sections:
   label: Resources
   create: all
   match: "**/*"
-- type: directory
-  path: _casestudies
-  label: Case Studies
-  create: all
-  match: "**/*"
-  templates:
-  - index-test
 - type: jekyll-pages
   label: Pages
   create: all
