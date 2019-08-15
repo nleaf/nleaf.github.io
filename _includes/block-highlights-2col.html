@@ -17,12 +17,12 @@
                     <!-- Left -->
                     <div class="w-full sm:w-6/12 px-4 mt-4">
                         <div class="w-full relative">
-                            <img src="{{ item.icon | absolute_url }}" class="absolute pt-2 right-0 w-4/12">
+                            <img src="{{ item.icon | absolute_url }}" class="absolute pt-2 right-0 w-4/12 z-10">
                             <div class="w-10/12" style="
                                 overflow: hidden;
                                 height: 200px;
                             ">
-                            <img src="{{ item.background | absolute_url }}" class="">
+                            <img src="{{ item.background | absolute_url }}" class="twocol imgbg">
                             </div>
                         </div> 
                     </div>
@@ -46,12 +46,12 @@
                     <!-- Right -->
                     <div class="w-full sm:w-6/12 px-4 mt-4">
                         <div class="w-full relative text-right">
-                            <img src="{{ item.icon | absolute_url }}" class="absolute pt-2 left-0 w-4/12">
+                            <img src="{{ item.icon | absolute_url }}" class="absolute pt-2 left-0 w-4/12 z-10">
                             <div class="w-10/12 float-right" style="
                                 overflow: hidden;
                                 height: 200px;
                             ">
-                            <img src="{{ item.background | absolute_url }}">
+                            <img src="{{ item.background | absolute_url }}" class="twocol imgbg" >
                             </div>
                         </div> 
                     </div>
