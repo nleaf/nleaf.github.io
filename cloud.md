@@ -121,8 +121,8 @@ page_sections:
   subheading: Overcome your IT challenges with our portfolio of cloud solutions
   highlights:
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
+    background: "/uploads/exp_cloud_dr.jpg"
     headline: On-Site Private Cloud with Disaster Recovery as a Service
     description: Ease your transition to the cloud through dedicated on-premises cloud
       resources coupled with managed disaster recovery from your location to any one
