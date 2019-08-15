@@ -40,40 +40,40 @@ page_sections:
     description: All data center components at each Expedient facility have N + 1
       or 2N redundancy
   - align-left: false
-    icon: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
     background: "/uploads/exp_colocation-fast.png"
     headline: Fast, secure connectivity
     description: 'All Expedient data centers are interconnected by a private multigigabit
       network. '
   - align-left: true
-    icon: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
     background: "/uploads/exp_colocation-diversity.png"
     headline: Geographic Diversity
     description: 'With data centers across the country, Expedient helps clients mitigate
       the risk of downtime and supports the implementation of diverse IT footprints. '
   - align-left: false
-    icon: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
     background: "/uploads/exp_colocation-security.png"
     headline: Compliance & Security
     description: Every Expedient data center maintains detailed Security and Control
       Policies, and is audited in accordance with SSAE-18 SOC1 and SOC2, HIPAA and
       PCI standards.
   - align-left: true
-    icon: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
     background: "/uploads/exp_colocation-managed-services.png"
     headline: Complementary Managed Services
     description: Streamline IT management and reduce workloads by relying upon Expedient
       for time-intensive tasks such as backups, storage, and monitoring and maintenance
       of hosted hardware and software.
   - align-left: false
-    icon: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
     background: "/uploads/exp_colocation-hybrid.png"
     headline: Support for Hybrid IT
     description: 'Expedient offers secure connections to hyperscale clouds such as
       Azure and Google Cloud, and a low-latency direct connection to AWS East from
       certain Expedient data centers. '
   - align-left: true
-    icon: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
     background: "/uploads/exp_colocation-247.png"
     headline: 24x7x365 On-Site Staffing
     description: Expedient’s Operations Support Center encompasses all aspects of
