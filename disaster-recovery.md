@@ -39,7 +39,7 @@ page_sections:
       RPO and 15-minute RTO for workloads that need to be replicated between your
       on-premises VMware environment to the Expedient cloud. '
     icon: ''
-    background: ''
+    background: "/uploads/exp_dr-02.png"
   - align-left: true
     icon: ''
     background: ''
