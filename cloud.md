@@ -114,7 +114,7 @@ page_sections:
   content: 'Expedient Enterprise Cloud outperforms hyperscale clouds on price and
     performance. '
   icon: ''
-  background: ''
+  background: "/uploads/bg_hurricane-1.png"
 - template: highlights-2-column
   block: highlights-2col
   heading: Paving Your Path to the Cloud
