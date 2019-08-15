@@ -31,17 +31,17 @@ page_sections:
       your on-premises environment to the Expedient cloud, or from cloud to cloud.
       And, PBDR-Zerto offers some of the longest journaling available to ensure your
       data is protected against ransomware. '
-    icon: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
     background: "/uploads/exp_dr-01.png"
   - align-left: false
     headline: 'Push Button DR powered by VMware '
     description: 'Push Button DR powered by VMware offers a lightning-fast 5-minute
       RPO and 15-minute RTO for workloads that need to be replicated between your
       on-premises VMware environment to the Expedient cloud. '
-    icon: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
     background: "/uploads/exp_dr-02.png"
   - align-left: true
-    icon: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
     background: "/uploads/exp_dr-03.png"
     headline: Push Button DR powered by Cohesity
     description: 'Push Button DR powered by Cohesity protects workloads with replication
