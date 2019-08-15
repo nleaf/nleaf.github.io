@@ -32,7 +32,7 @@ page_sections:
       And, PBDR-Zerto offers some of the longest journaling available to ensure your
       data is protected against ransomware. '
     icon: ''
-    background: ''
+    background: "/uploads/exp_dr-01.png"
   - align-left: false
     headline: 'Push Button DR powered by VMware '
     description: 'Push Button DR powered by VMware offers a lightning-fast 5-minute

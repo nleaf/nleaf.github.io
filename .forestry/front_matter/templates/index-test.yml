@@ -40,6 +40,7 @@ fields:
     min: 
     max: 
 pages:
+- disaster-recovery.md
 - colocation.md
 - cloud.md
 - _resources/2019-01-02-retail-case-study-dunlap-and-kyle-company.md
@@ -49,7 +50,6 @@ pages:
 - _resources/2017-03-01-battelle-for-kids.md
 - _resources/2018-02-02-ecommerce-retail-case-study-stanley-steemer.md
 - index.md
-- disaster-recovery.md
 - overview.md
 - security-and-compliance.md
 - why-expedient.md
