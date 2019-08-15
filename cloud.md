@@ -151,7 +151,7 @@ page_sections:
       anytime, anywhere.
   - align-left: false
     icon: "/uploads/EXP_Kubernetes.svg"
-    background: "/uploads/exp_cloud_vmc.jpg"
+    background: "/uploads/exp_cloud_vmc-1.jpg"
     headline: VMC on AWS
     description: 'Deliver IaaS and DRaaS solutions using VMware technology from an
       Expedient data center or in VMware Cloud on AWS. '
@@ -162,8 +162,8 @@ page_sections:
     description: 'Host Nutanix in our data centers or on-premises and take advantage
       of managed services including disaster recovery, security, and backups. '
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
+    background: "/uploads/exp_cloud_veeam.jpg"
     description: Use Veeam Cloud Connect to quickly and easily get physical and virtual
       backups offsite to an Expedient cloud
     headline: Veeam Cloud Connect
