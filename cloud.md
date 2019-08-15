@@ -44,7 +44,7 @@ page_sections:
       – and quickly – manage your customer environments with a policy-driven approach
       that ensures fine-grained control.
     icon: "/uploads/EXP_SinglePane-Verified.svg"
-    background: "/uploads/Expedient-EnterpriseCloud_Interface-1.gif"
+    background: "/uploads/exp_cloud_01.jpg"
   - align-left: false
     icon: "/uploads/EXP_Kubernetes.svg"
     background: "/uploads/Expedient-EnterpriseCloud_Interface2-1.gif"
