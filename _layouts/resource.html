@@ -6,107 +6,115 @@ layout: default
 {% endcomment %}
 
 <!-- Blog Hero -->
-<div class="bg-cover bg-center pb-8 relative" style="background-image: url(/uploads/bg_blog.jpg)">
+{% if page.banner_image and page.banner_image != "" %}
+  <div class="bg-cover bg-center pb-8 relative" style="background-image: url({{ page.banner_image | absolute_url }}); -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */ filter: grayscale(100%);">
+{% else %}
+  <div class="bg-cover bg-center pb-8 relative" style="background-image: url(/uploads/bg_blog.jpg)">
+{% endif %}
   <div class="absolute h-full w-full z-0 top-0 mt-20" style="background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%); "></div>
   <div class="flex flex-wrap mb-4 lg:items-top mx-auto md:max-w-expBody pt-32 lg:pt-48 lg:pb-16 px-4 justify-between z-10 relative">
           <!-- Text Intro -->
           <div class="w-full md:w-1/2 flex-grow pr-2">
-              <h1 class="text-5xl sm:text-3xl md:text-exphl font-semibold leading-exp font-black font-sans my-6 text-center">RESOURCE SINGLE</h1>
-              <p class="text-hp font-light leading-snug text-center">“Expedient delivers real value—solutions our customers can’t run their <br/>business without. Here, an individual can make a real difference, each day, in <br/>defining and delivering those solutions. A dynamic, hands-on world <br/>of technology awaits behind the scenes of IT.”</p>
+              <h1 class="text-5xl sm:text-3xl md:text-exphl font-semibold leading-exp font-black font-sans my-6 text-center">{{page.title}}</h1>
               <div class="h-2 bg-red w-24 mt-12 mx-auto"></div>
           </div>
   </div>
 </div>
-<!-- END Blog Hero -->
-{% include breadcrumbs.html class="content-narrow" %}
 
-<br/>
-<!-- NEEDED POST INFO -->
-<h1>{{page.title}}</h1>
-
-<!-- Page Author info -->
-{% assign author = site.people[page.author] %}
-{% if page.author %}
-  <span>
-    Written by {{ author.title }}
-  </span>
-{% else %}
-  <span>
-    Written by Toby Osbourn
-  </span>
-{% endif %}
-
-{% if page.video %}
-{% capture video_id %}
-{{ page.video }}
-{% endcapture %}
-{% include youtube.html ytid=video_id %}
-{% endif %}
-
-<!-- END Page Author info -->
-
-<!-- END POST INFO -->
-<div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12 mt-40">
-  <div class="pure-u-1">
-    <div class="content content-narrow">
-      <div class="meta">
-        {% if page.date %}
-        <div class="post-date">{{ page.date | date_to_string }}</div>
+<div class="lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12 mt-24">
+    <div class="pure-u-1">
+      <div class="content content-narrow">
+        <div class="meta">
+          {% if page.tags.size > 0 %}
+          <div class="tags-list mb-2 absolute top-0 right-0 w-3/12 sm:w-4/12 mt-0 sm:mt-0 pl-4">
+            <h3 class="text-red text-xl font-bold font-sans mb-4">Tags</h3>
+              {% for tag in page.tags %}
+              <a href="/knowledgebase/resources/{{tag | downcase }}" class="tag_list_item block bg-bwhite my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
+                {{ tag }}
+              </a>
+              {% endfor %}
+          </div>
+          {% endif %}
+        </div>
+        <div class="post">
+        {% if page.video %}
+        {% capture video_id %}
+        {{ page.video }}
+        {% endcapture %}
+        {% include youtube.html ytid=video_id %}
         {% endif %}
-        {% if page.author %}
-          <div class="post-date">{{ page.author }}</div>
-        {% endif %}
-        {% if page.tags.size > 0 %}
-        <span class="meta-separator">&bull;</span>
-        <ul class="tags-list mb-2">
-          <li class="inline tag_list_item">
-						Tags:
-					</li>
-					{% for tag in page.tags %}
-          <li class="inline tag_list_item">
-            {{ tag }}
-            {% if forloop.last == true %}{% else %}
-              <span>,</span>
-            {% endif %}
-          </li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-      </div>
-
-      {{ content }}
-
-      {% if page.related_posts.size > 0 %}
-			<hr>
-        <h2> Related Posts </h2>
-        <div class="grid-layout">
-          <div class="pure-g">
-          {% for item in page.related_posts %}
-            {% assign posts = site.posts | where:"path", item %}
-              {% for post in posts %}
-              <div class="pure-u-1 pure-u-md-1-3">
-                <div class="card">
-                  <div class="card-header">
-                  {% if post.banner_image and post.banner_image != "" %}
-                    <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}">
-                  {% else %}
-                    <img src="{{ "/uploads/ph_blogPost.png" | absolute_url }}" alt="{{ post.title }}">
-                  {% endif %}
-                  </div>
-                  <div class="card-body">
-                    <h3><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
-                    <p>{{ post.sub_heading | slice: 0, 80 }}</p>
+        {{ content }}
+        </div>
+        {% if page.related_posts.size > 0 %}
+        <hr>
+          <h2> Related Posts </h2>
+          <div class="grid-layout">
+            <div class="pure-g">
+            {% for item in page.related_posts %}
+              {% assign posts = site.posts | where:"path", item %}
+                {% for post in posts %}
+                <div class="pure-u-1 pure-u-md-1-3">
+                  <div class="card">
+                    <div class="card-header">
+                    {% if post.banner_image and post.banner_image != "" %}
+                      <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}">
+                    {% else %}
+                      <img src="{{ "/uploads/ph_blogPost.png" | absolute_url }}" alt="{{ post.title }}">
+                    {% endif %}
+                    </div>
+                    <div class="card-body">
+                      <h3><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
+                      <p>{{ post.sub_heading | slice: 0, 80 }}</p>
+                    </div>
                   </div>
                 </div>
-              </div>
-              {% endfor %}
-          {% endfor %}
+                {% endfor %}
+            {% endfor %}
+            </div>
           </div>
-        </div>
-      {% endif %}
+        {% endif %}
+      </div>
     </div>
   </div>
-</div>
-
-{% include block-recentposts.html %}
-
+  
+  {% include block-relatedposts.html %}
+  
+  <!-- Newsletter -->
+  <section id="newsletter" class="bg-bwhite relative">
+      <div class="px-4 md:max-w-expBody justify-between mx-auto py-16 relative">
+          <div class="w-full text-black font-bold text-5xl mb-1 font-sans text-center align-middle justify-center">
+              The best of Expedient delivered to your inbox.
+          </div>
+          <h3 class="w-full text-black font-light text-xl mb-12 font-sans text-center align-middle justify-center">Sign up for more technical briefs, stories, and special offers from Expedient.</h3>
+          <div class="flex -mx-4 text-center align-middle justify-center">
+              <!-- Column -->
+              <form id="newsletter" class="w-2/3 newsletterForm flex mb-12" action="https://go.expedient.com/l/12902/2019-08-06/dbzr3q" type="POST">
+                  <input class="w-2/3 appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" type="email" name="email" placeholder="What's your email address?">
+                  <input class="w-1/3 bg-red text-bwhite font-bold font-sans text-xl focus:outline-none focus:shadow-outline" type="submit" value="Submit" id="Form-submit"/>
+              </form>
+          </div>
+              <div class="w-full flex -mx-4 text-center align-middle justify-center flex-wrap">
+                  <!-- Column -->
+                  <div class="flex-1 px-4">
+                      <h4 class="text-red font-sans font-bold text-xl">LinkedIN</h4>
+                      <a href="https://www.linkedin.com/company/18277/admin/" target="_blank" alt="Expedient LinkedIN">@expedient</a>
+                  </div>
+                  <!-- Column -->
+                  <div class="flex-1 px-4">
+                      <h4 class="text-red font-sans font-bold text-xl">Twitter</h4>
+                      <a href="https://twitter.com/Expedient" target="_blank" alt="Expedient Twitter">@expedient</a>
+                  </div>
+                  <!-- Column -->
+                  <div class="flex-1 px-4">
+                      <h4 class="text-red font-sans font-bold text-xl">YouTube</h4>
+                      <a href="https://www.youtube.com/channel/UC_Vb04i2nSei5cZJxp9Cwxg" target="_blank" alt="Expedient Youtube">@expedient</a>
+                  </div>
+                  <!-- Column -->
+                  <div class="flex-1 px-4">
+                      <h4 class="text-red font-sans font-bold text-xl">RSS</h4>
+                      <a href="#">@expedient</a>
+                  </div>
+              </div>
+      </div>
+  </section>
+  <!-- END Newsletter -->
