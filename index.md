@@ -48,6 +48,7 @@ page_sections:
   - title: Expedient Debuts at VMworld 2019
     icon: "/uploads/ico_arrowDown.svg"
     link: https://go.expedient.com/vmworld2019
+    newtab: true
     description: Expedient Announces VMworld 2019 Schedule of Events
   - title: Homes.com
     icon: "/uploads/ico_play.svg"
@@ -70,7 +71,7 @@ page_sections:
   featured_cta_text: Learn More
   related_products:
   - category: Featured Video
-    title: 'Delivering Expedient Enterprise Cloud '
+    title: 'Delivering Expedient Enterprise Cloud Delivering Expedient Enterprise Cloud Delivering Expedient Enterprise Cloud'
     description: Watch Chief Innovation Officer, John White, discuss Expedient’s long-standing
       partnership with VMware and how we work with the virtualization leader to build
       cloud and infrastructure as a service (IaaS) solutions for our clients, including
