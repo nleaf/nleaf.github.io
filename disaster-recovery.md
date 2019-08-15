@@ -42,7 +42,7 @@ page_sections:
     background: "/uploads/exp_dr-02.png"
   - align-left: true
     icon: ''
-    background: ''
+    background: "/uploads/exp_dr-03.png"
     headline: Push Button DR powered by Cohesity
     description: 'Push Button DR powered by Cohesity protects workloads with replication
       from your on-premises or virtual environments to Expedient Enterprise Cloud,
