@@ -60,7 +60,7 @@ page_sections:
       PCI standards.
   - align-left: true
     icon: ''
-    background: ''
+    background: "/uploads/exp_colocation-managed-services.png"
     headline: Complementary Managed Services
     description: Streamline IT management and reduce workloads by relying upon Expedient
       for time-intensive tasks such as backups, storage, and monitoring and maintenance
