@@ -74,7 +74,7 @@ page_sections:
       certain Expedient data centers. '
   - align-left: true
     icon: ''
-    background: ''
+    background: "/uploads/exp_colocation-247.png"
     headline: 24x7x365 On-Site Staffing
     description: Expedient’s Operations Support Center encompasses all aspects of
       a network control center, call center, and IT help desk, enabling a single point
