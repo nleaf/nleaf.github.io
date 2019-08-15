@@ -67,7 +67,7 @@ page_sections:
       of hosted hardware and software.
   - align-left: false
     icon: ''
-    background: ''
+    background: "/uploads/exp_colocation-hybrid.png"
     headline: Support for Hybrid IT
     description: 'Expedient offers secure connections to hyperscale clouds such as
       Azure and Google Cloud, and a low-latency direct connection to AWS East from
