@@ -27,6 +27,10 @@ fields:
     config:
       required: false
     label: Link
+  - name: newtab
+    type: boolean
+    label: newtab
+    description: Enable to force link to new tab
   - name: description
     type: text
     config:
