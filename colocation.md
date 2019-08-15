@@ -53,7 +53,7 @@ page_sections:
       the risk of downtime and supports the implementation of diverse IT footprints. '
   - align-left: false
     icon: ''
-    background: ''
+    background: "/uploads/exp_colocation-security.png"
     headline: Compliance & Security
     description: Every Expedient data center maintains detailed Security and Control
       Policies, and is audited in accordance with SSAE-18 SOC1 and SOC2, HIPAA and
