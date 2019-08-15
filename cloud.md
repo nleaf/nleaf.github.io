@@ -150,8 +150,8 @@ page_sections:
       Web Services, and Google Cloud -- making your mission-critical workloads available
       anytime, anywhere.
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
+    background: "/uploads/exp_cloud_vmc.jpg"
     headline: VMC on AWS
     description: 'Deliver IaaS and DRaaS solutions using VMware technology from an
       Expedient data center or in VMware Cloud on AWS. '
