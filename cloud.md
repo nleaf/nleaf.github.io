@@ -80,8 +80,8 @@ page_sections:
     forward '
   highlights:
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
+    background: "/uploads/exp_cloud_public.jpg"
     headline: Public Cloud
     description: Shared cloud instances and resource pools that offer predictable
       performance and pricing, a 100% SLA, and the ability to leverage your team’s
