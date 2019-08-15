@@ -87,8 +87,8 @@ page_sections:
       performance and pricing, a 100% SLA, and the ability to leverage your team’s
       existing VMware skill set – no application refactoring or new platforms to learn.
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Kubernetes.svg"
+    background: "/uploads/exp_cloud_private.jpg"
     headline: Private Cloud
     description: Make your move to Expedient’s scalable, fully redundant cloud and
       take advantage of dedicated cloud resources and industry-leading managed services,
