@@ -75,7 +75,8 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
-tags: [Case Studies]
---- 
+tags:
+- Case Studies
 
+---
 To maintain its focus on moving children’s education forward, Battelle for Kids leveraged Expedient’s advanced infrastructure as a service solutions.
