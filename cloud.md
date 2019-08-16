@@ -87,7 +87,7 @@ page_sections:
       performance and pricing, a 100% SLA, and the ability to leverage your team’s
       existing VMware skill set – no application refactoring or new platforms to learn.
   - align-left: false
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/exp-private_cloud-icon.svg"
     background: "/uploads/exp_cloud_private.jpg"
     headline: Private Cloud
     description: Make your move to Expedient’s scalable, fully redundant cloud and
@@ -96,7 +96,7 @@ page_sections:
       solutions designed to help you mitigate risk and meet the strictest of compliance
       mandates, including HIPAA, PCI DSS, and more.
   - align-left: true
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/exp-hybrid_cloud-icon.svg"
     background: "/uploads/exp_cloud_hybrid.jpg"
     headline: 'Hybrid Cloud '
     description: When you seek the scalability and flexibility of the cloud, but also
