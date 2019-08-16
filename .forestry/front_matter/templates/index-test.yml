@@ -36,6 +36,7 @@ fields:
   - case-study-intro
   - case-study-quote
   - case-study-header
+  - executives
   config:
     min: 
     max: 
