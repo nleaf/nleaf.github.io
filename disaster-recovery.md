@@ -31,7 +31,7 @@ page_sections:
       your on-premises environment to the Expedient cloud, or from cloud to cloud.
       And, PBDR-Zerto offers some of the longest journaling available to ensure your
       data is protected against ransomware. '
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/zerto-icon.svg"
     background: "/uploads/exp_dr-01.png"
   - align-left: false
     headline: 'Push Button DR powered by VMware '
