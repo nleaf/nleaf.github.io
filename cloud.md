@@ -130,7 +130,7 @@ page_sections:
       with DRaaS is ideal for customers who want to transform their IT operations
       without sacrificing the benefits or control of an on-premises environment.
   - align-left: false
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/exp-colo-icon.svg"
     background: "/uploads/exp_cloud_hybrid2.jpg"
     headline: Hybrid Cloud Colocation for AWS
     description: Implement your hybrid cloud strategy with Expedient’s Hybrid Cloud
