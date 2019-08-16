@@ -140,7 +140,7 @@ page_sections:
       workloads that are sensitive, critical, or not yet ready for the hyperscale
       cloud.
   - align-left: true
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/EXP_Agility.svg"
     background: "/uploads/exp_cloud_multi.jpg"
     headline: Multi-Cloud Connection
     description: With nearly half of all IT organizations utilizing cloud infrastructure
