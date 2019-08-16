@@ -30,6 +30,7 @@ fields:
   default: person
   hidden: true
 pages:
+- _people/bryan-smith.md
 - _people/susan-mills.md
 - _people/steve-harrell.md
 - _people/shawn-mcgorry.md
@@ -39,7 +40,6 @@ pages:
 - _people/john-white.md
 - _people/ed-dzurko.md
 - _people/steve-gruetter.md
-- _people/bryan-smith.md
 - _people/mike-garuccio.md
 - _people/anthony-estelle.md
 - _people/sam-larkin.md
