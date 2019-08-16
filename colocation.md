@@ -73,7 +73,7 @@ page_sections:
       Azure and Google Cloud, and a low-latency direct connection to AWS East from
       certain Expedient data centers. '
   - align-left: true
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/exp-247-icon.svg"
     background: "/uploads/exp_colocation-247.png"
     headline: 24x7x365 On-Site Staffing
     description: Expedient’s Operations Support Center encompasses all aspects of
