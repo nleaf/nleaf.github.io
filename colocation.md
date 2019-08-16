@@ -40,7 +40,7 @@ page_sections:
     description: All data center components at each Expedient facility have N + 1
       or 2N redundancy
   - align-left: false
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/exp-geo-icon.svg"
     background: "/uploads/exp_colocation-fast.png"
     headline: Fast, secure connectivity
     description: 'All Expedient data centers are interconnected by a private multigigabit
