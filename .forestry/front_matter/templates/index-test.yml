@@ -41,8 +41,8 @@ fields:
     min: 
     max: 
 pages:
-- colocation.md
 - cloud.md
+- colocation.md
 - disaster-recovery.md
 - executive-team.md
 - _resources/2019-01-02-retail-case-study-dunlap-and-kyle-company.md
