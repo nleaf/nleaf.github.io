@@ -59,7 +59,7 @@ page_sections:
       Policies, and is audited in accordance with SSAE-18 SOC1 and SOC2, HIPAA and
       PCI standards.
   - align-left: true
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/exp-backups-icon.svg"
     background: "/uploads/exp_colocation-managed-services.png"
     headline: Complementary Managed Services
     description: Streamline IT management and reduce workloads by relying upon Expedient
