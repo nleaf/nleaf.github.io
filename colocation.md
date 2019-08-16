@@ -46,7 +46,7 @@ page_sections:
     description: 'All Expedient data centers are interconnected by a private multigigabit
       network. '
   - align-left: true
-    icon: "/uploads/exp-geo-icon.svg"
+    icon: "/uploads/exp-geo2-icon.svg"
     background: "/uploads/exp_colocation-diversity.png"
     headline: Geographic Diversity
     description: 'With data centers across the country, Expedient helps clients mitigate
