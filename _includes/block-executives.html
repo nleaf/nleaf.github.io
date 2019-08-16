@@ -1,5 +1,5 @@
 <!-- Executives -->
-<section class="bg-llgrey relative">
+<section class="relative">
 
     <div class="px-4 md:max-w-expBody justify-between mx-auto py-16 relative">
 
@@ -8,16 +8,16 @@
             {% assign person = site.people | where:"title", item  | first %}
             <div class="flex -mx-4 twocol highlight"> 
                 <!-- Left -->
-                <div class="w-full sm:w-4/12 px-4 mt-4 flex items-center">
+                <div class="w-full sm:w-4/12 px-4 mt-4 flex">
                     <div class="w-full relative">
-                        <img src="{{ person.thumbnail | absolute_url }}" class="w-full">
+                        <img src="{{ person.half_image | absolute_url }}" class="w-10/12 mx-auto mb-12">
                     </div> 
                 </div>
                 <!-- Right -->
                 <div class="w-full sm:w-8/12 px-4 mt-4">
-                    <div class="w-full my-4 pt-4 pb-6 px-6 relative">
+                    <div class="w-full mb-4 pt-4 pb-6 px-6 relative">
                         <h2 class="text-4xl leading-tight font-black font-sans mt-1 mb-0">{{ person.title }}</h2>
-                        <h3 class="text-2xl leading-tight font-black font-sans mt-1 mb-4">{{ person.job_title }}</h3>
+                        <h3 class="text-2xl leading-tight font-black font-sans mt-1 mb-4 text-red">{{ person.job_title }}</h3>
                         <p class="text-xl font-light leading-normal my-2">{{ person.content }}</p>
                     </div> 
                 </div>
