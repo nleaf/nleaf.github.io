@@ -1,0 +1,31 @@
+<!-- Executives -->
+<section class="bg-llgrey relative">
+
+    <div class="px-4 md:max-w-expBody justify-between mx-auto py-16 relative">
+
+
+        <!-- Executive -->
+        {% for item in section.executives %}
+
+            <div class="flex -mx-4 twocol highlight"> 
+                <!-- Left -->
+                <div class="w-full sm:w-6/12 px-4 mt-4 flex items-center">
+                    <div class="w-full relative">
+                        <img src="{{ item.icon | absolute_url }}" class="absolute pt-2 right-0 w-4/12 z-10">
+                    </div> 
+                </div>
+                <!-- Right -->
+                <div class="w-full sm:w-6/12 px-4 mt-4">
+                    <div class="w-full my-4 pt-4 pb-6 px-6 relative">
+                        <h3 class="text-2xl sm:text-3xl md:text-xl font-semibold font-sans mb-3 text-red">{{ item.title }} - {{ item.job_title }}</h3>
+                        <p class="text-xl font-light leading-normal my-2">{{ item.description }}</p>
+                    </div> 
+                </div>
+            </div>
+
+        {% endfor %}
+        <!-- END Executive -->
+    </div>
+
+</section>
+<!-- END Executives -->
