@@ -150,7 +150,7 @@ page_sections:
       Web Services, and Google Cloud -- making your mission-critical workloads available
       anytime, anywhere.
   - align-left: false
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/vmware-icon.svg"
     background: "/uploads/exp_cloud_vmc-1.jpg"
     headline: VMC on AWS
     description: 'Deliver IaaS and DRaaS solutions using VMware technology from an
