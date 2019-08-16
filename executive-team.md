@@ -30,14 +30,7 @@ page_sections:
 - template: executives
   block: executives
   executives:
-  - _people/charlie-watkins.md
-  - _people/shawn-mcgorry.md
-  - _people/jon-rosenson.md
-  - _people/bryan-smith.md
-  - _people/john-white.md
-  - _people/ken-hill.md
-  - _people/steve-harrell.md
-  - _people/susan-mills.md
+  - John White
 - template: recent-posts
   block: recentposts
 - template: newsletter
