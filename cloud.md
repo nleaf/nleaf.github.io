@@ -80,7 +80,7 @@ page_sections:
     forward '
   highlights:
   - align-left: true
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/exp-public_cloud-icon.svg"
     background: "/uploads/exp_cloud_public.jpg"
     headline: Public Cloud
     description: Shared cloud instances and resource pools that offer predictable
