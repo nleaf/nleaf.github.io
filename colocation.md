@@ -52,7 +52,7 @@ page_sections:
     description: 'With data centers across the country, Expedient helps clients mitigate
       the risk of downtime and supports the implementation of diverse IT footprints. '
   - align-left: false
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/exp-compliance-icon.svg"
     background: "/uploads/exp_colocation-security.png"
     headline: Compliance & Security
     description: Every Expedient data center maintains detailed Security and Control
