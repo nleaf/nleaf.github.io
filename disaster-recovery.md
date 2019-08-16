@@ -38,7 +38,7 @@ page_sections:
     description: 'Push Button DR powered by VMware offers a lightning-fast 5-minute
       RPO and 15-minute RTO for workloads that need to be replicated between your
       on-premises VMware environment to the Expedient cloud. '
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/vmware-icon.svg"
     background: "/uploads/exp_dr-02.png"
   - align-left: true
     icon: "/uploads/EXP_Kubernetes.svg"
