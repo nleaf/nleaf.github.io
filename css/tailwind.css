@@ -955,10 +955,16 @@ p {
 }
 
 /* Blocks  2 Col */
-.twocol.imgbg {
-  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */ filter: grayscale(100%);
+.highlight.twocol .imgbg {
+  -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(100%); /* FF 35+ */
+  transition: all .3s ease-in-out;
 }
 
+.highlight.twocol:hover .imgbg {
+  -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(0%); /* FF 35+ */
+}
 /* HP: Clients know best */
 
 .ckb {
