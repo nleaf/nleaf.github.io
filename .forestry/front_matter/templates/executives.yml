@@ -16,6 +16,9 @@ fields:
     min: 
     max: 
     source:
-      type: pages
+      type: simple
       section: people
+      file: _people/anthony-estelle.md
+    options:
+    - John White
   label: Executives
