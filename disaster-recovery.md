@@ -41,7 +41,7 @@ page_sections:
     icon: "/uploads/vmware-icon.svg"
     background: "/uploads/exp_dr-02.png"
   - align-left: true
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/cohesity-icon.svg"
     background: "/uploads/exp_dr-03.png"
     headline: Push Button DR powered by Cohesity
     description: 'Push Button DR powered by Cohesity protects workloads with replication
