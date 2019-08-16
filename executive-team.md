@@ -30,7 +30,14 @@ page_sections:
 - template: executives
   block: executives
   executives:
+  - Charlie Watkins
+  - Shawn McGorry
+  - Jon Rosenson
+  - Bryan Smith
   - John White
+  - Ken Hill
+  - Steve Harrell
+  - Susan Mills
 - template: recent-posts
   block: recentposts
 - template: newsletter
