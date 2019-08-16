@@ -46,7 +46,7 @@ page_sections:
     icon: "/uploads/EXP_SinglePane-Verified.svg"
     background: "/uploads/exp_cloud_01.jpg"
   - align-left: false
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/exp-2fa-icon.svg"
     background: "/uploads/exp_cloud_02.jpg"
     headline: Always-on security measures provide peace of mind
     description: Gain peace of mind and meet the strictest of compliance regulations
