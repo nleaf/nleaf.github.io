@@ -2,6 +2,13 @@
 label: Executives
 hide_body: true
 fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  default: executives
+  hidden: true
 - name: executives
   type: list
   config:
