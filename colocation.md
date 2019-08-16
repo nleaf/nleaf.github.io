@@ -34,7 +34,7 @@ page_sections:
   subheading: ''
   highlights:
   - align-left: true
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/exp-redundancy-icon.svg"
     background: "/uploads/exp_colocation-redundancy.png"
     headline: Built-In Redundancy
     description: All data center components at each Expedient facility have N + 1
