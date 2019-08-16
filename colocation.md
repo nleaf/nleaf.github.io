@@ -66,7 +66,7 @@ page_sections:
       for time-intensive tasks such as backups, storage, and monitoring and maintenance
       of hosted hardware and software.
   - align-left: false
-    icon: "/uploads/EXP_Kubernetes.svg"
+    icon: "/uploads/exp-connection-icon.svg"
     background: "/uploads/exp_colocation-hybrid.png"
     headline: Support for Hybrid IT
     description: 'Expedient offers secure connections to hyperscale clouds such as
