@@ -10,6 +10,11 @@ fields:
   config:
     maxSize: 250
   label: thumbnail
+- name: half_image
+  type: file
+  config:
+    maxSize: 250
+  label: half image
 - type: text
   name: job_title
   label: job_title
