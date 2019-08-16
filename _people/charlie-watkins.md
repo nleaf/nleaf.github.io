@@ -5,6 +5,7 @@ thumbnail: ''
 job_title: Chairman
 email: ''
 linkedin: https://www.linkedin.com/in/charlie-watkins-a74aa724/
+half_image: "/uploads/watkins.jpg"
 
 ---
 # **
