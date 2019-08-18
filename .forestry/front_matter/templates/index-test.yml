@@ -39,6 +39,7 @@ fields:
   - executives
   - calculator-file-transfer
   - calculator-disk-raid
+  - calculator-datacenter
   config:
     min: 
     max: 
