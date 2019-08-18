@@ -3,7 +3,11 @@ layout: blocks
 title: File Transfer Time Calculator
 hide_body: true
 permalink: "/file-transfer-time-calculator"
-tags: [Disaster Recovery, VMware, DRAAS, Cloud Computing]
+tags:
+- Disaster Recovery
+- VMware
+- DRAAS
+- Cloud Computing
 page_sections:
 - template: page-hero
   block: page-hero
@@ -15,6 +19,8 @@ page_sections:
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
   cta: Subscribe Now
+- template: calculator-file-transfer
+  block: calc-filetrans
 - template: recent-posts
   block: recentposts
 - template: newsletter
@@ -32,4 +38,5 @@ seo_title: Cloud Computing and Data Center Infrastructure as a Service
 description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
   Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
 image: ''
+
 ---

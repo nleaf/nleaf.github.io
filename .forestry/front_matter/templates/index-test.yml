@@ -42,6 +42,7 @@ fields:
     min: 
     max: 
 pages:
+- file-transfer-time-calculator.md
 - cloud.md
 - colocation.md
 - disaster-recovery.md
