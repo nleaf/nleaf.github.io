@@ -43,6 +43,7 @@ fields:
     min: 
     max: 
 pages:
+- data-center-build-vs-buy-calculator.md
 - disk-raid-and-iops-calculator.md
 - file-transfer-time-calculator.md
 - cloud.md
