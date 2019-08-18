@@ -1,4 +1,10 @@
 ---
 label: 'Calculator - File Transfer '
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  default: block
