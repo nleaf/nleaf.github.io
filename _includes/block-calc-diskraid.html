@@ -1,0 +1,243 @@
+{% comment %}
+Creates a breadcrumb from the page's URL
+{% endcomment %}
+
+<article class="main">
+    <div class="body">
+        <div class="tabs"></div>
+        <div class="region region-content">
+            <div id="block-system-main" class="block block-system">
+                <div class="content">
+                    <div class="calculator" id="raidcalc">
+                        <form name="calculator"
+                            action="http://thecloudcalculator.com/calculators/disk-raid-and-iops.html" method="post">
+                            <input type="hidden" name="ispost" value="1" />
+                            <div class="top-toolbar">
+                                <p class="description">
+                                    Do you know how many Input/Output Operations Per Second (IOPS) your RAID
+                                    configuration is going to produce? Are you trying to calculate how much usable
+                                    storage you are going to net from different RAID configurations? Use this calcualtor
+                                    to help properly size your environment.
+                                </p>
+                            </div>
+                            <div id="calculator-options">
+                                <div class="options">
+                                    <h2>Options</h2>
+                                    <div class="option">
+                                        <label for="hdtype">Hard Drive Type</label>
+                                        <select id="hdtype" name="hdtype">
+                                            <option selected>SSD</option>
+                                            <option>15K SAS</option>
+                                            <option>10K SAS</option>
+                                            <option>7K SAS</option>
+                                        </select>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="left">
+                                    <div class="field large-field">
+                                        <label for="hdcapactity">Hard Drive Capacity</label>
+                                        <div id="hdcapactity-slider" class="slider"></div>
+                                        <input type="text" id="hdcapactity" name="hdcapactity" class="text decimal"
+                                            value="200" />
+                                        <div class='calc-tooltip-wrap'>
+                                            <a class='calc-tooltip' href='#'>
+                                                ?
+                                                <div class='calc-tooltip-data'>
+                                                    <h3>Hard Drive Capacity:</h3>
+                                                    <p>Input your drive size in GB.</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="clear"></div>
+                                    </div>
+                                    <div class="field large-field">
+                                        <label for="nobdrives">Number of Drives</label>
+                                        <div id="nobdrives-slider" class="slider"></div>
+                                        <input type="text" id="nobdrives" name="nobdrives" class="text" value="24" />
+                                        <div class="clear"></div>
+                                    </div>
+                                </div>
+                                <div class="left">
+                                    <div class="field large-field">
+                                        <label for="rperc">Read Percent</label>
+                                        <div id="rperc-slider" class="slider"></div>
+                                        <input type="text" id="rperc" name="rperc" class="text" value="70" />
+                                        <div class="clear"></div>
+                                    </div>
+                                    <div class="field large-field">
+                                        <label for="wperc">Write Percent</label>
+                                        <div id="wperc-slider" class="slider"></div>
+                                        <input type="text" id="wperc" name="wperc" class="text" value="25" />
+                                        <div class="clear"></div>
+                                    </div>
+                                </div>
+                                <p class="disclaimer">
+                                    *Assumes NO Hot Spares<br />
+                                    *SSD IOPS Is An Estimate Due to SSD/NAND Performance Differences
+                                </p>
+                                <div class="clear"></div>
+                            </div>
+                            <div class="email-pdf more-pad"><a class="fancybox-inline" href="#calc-optin-form">Email My
+                                    Configuration &amp; Results</a></div>
+                            <div class="results">
+                                <div class="results-table">
+                                    <table id="table1" class="results-table">
+                                        <tbody>
+                                            <tr class="tableizer-firstrow">
+                                                <th></th>
+                                                <th>CAPACITY</th>
+                                                <th>IOPS</th>
+                                            </tr>
+                                            <tr class="odd">
+                                                <td>RAID 10</td>
+                                                <td> <span id="cell-c16"></span> </td>
+                                                <td> <span id="cell-e16"></span> </td>
+                                            </tr>
+                                            <tr>
+                                                <td>RAID 6</td>
+                                                <td> <span id="cell-c17"></span> </td>
+                                                <td> <span id="cell-e17"></span> </td>
+                                            </tr>
+                                            <tr class="odd">
+                                                <td>RAID 5</td>
+                                                <td><span id="cell-c18"></span> </td>
+                                                <td> <span id="cell-e18"></span> </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <br /><br />
+                                <div class="clear"></div>
+                                <div class="divider"></div>
+                                <a href="#mobile-wrap1" class="hide-details desktop">Hide Details <span>&and;</span></a>
+                                <div id="mobile-wrap1" class="table-wrap desktop">
+                                    <div class="results-table">
+                                        <table id="table2" class="results-table">
+                                            <tbody>
+                                                <tr class="tableizer-firstrow">
+                                                    <th>Features</th>
+                                                    <th>RAID 1+0</th>
+                                                    <th>RAID 6</th>
+                                                    <th>RAID 5</th>
+                                                </tr>
+                                                <tr class="odd">
+                                                    <td>Diagram</td>
+                                                    <td>
+                                                        <a class="fancybox"
+                                                            href="http://thecloudcalculator.com/sites/all/themes/thecloud/img/calculators/raid-10.png"><img
+                                                                class="diagram raid10"
+                                                                src="http://thecloudcalculator.com/sites/all/themes/thecloud/img/calculators/raid-10.png" /></a>
+                                                    </td>
+                                                    <td>
+                                                        <a class="fancybox"
+                                                            href="http://thecloudcalculator.com/sites/all/themes/thecloud/img/calculators/raid-6.png"><img
+                                                                class="diagram raid6"
+                                                                src="http://thecloudcalculator.com/sites/all/themes/thecloud/img/calculators/raid-6.png" /></a>
+                                                    </td>
+                                                    <td>
+                                                        <a class="fancybox"
+                                                            href="http://thecloudcalculator.com/sites/all/themes/thecloud/img/calculators/raid-5.png"><img
+                                                                class="diagram raid5"
+                                                                src="http://thecloudcalculator.com/sites/all/themes/thecloud/img/calculators/raid-5.png" /></a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Minimum # of Drives</td>
+                                                    <td>4</td>
+                                                    <td>4</td>
+                                                    <td>3</td>
+                                                </tr>
+                                                <tr class="odd">
+                                                    <td>Data Protection</td>
+                                                    <td>Up to one drive failure in each sub-array</td>
+                                                    <td>Two drive failure</td>
+                                                    <td>Single drive failure</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Read Performance</td>
+                                                    <td>High</td>
+                                                    <td>High</td>
+                                                    <td>High</td>
+                                                </tr>
+                                                <tr class="odd">
+                                                    <td>Write Performance</td>
+                                                    <td>Medium</td>
+                                                    <td>Low</td>
+                                                    <td>Low</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Read Performance (Degraded)</td>
+                                                    <td>High</td>
+                                                    <td>Low</td>
+                                                    <td>Low</td>
+                                                </tr>
+                                                <tr class="odd">
+                                                    <td>Write Performance (Degraded)</td>
+                                                    <td>High</td>
+                                                    <td>Low</td>
+                                                    <td>Low</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Capacity Utilization</td>
+                                                    <td>50%</td>
+                                                    <td>50% - 88%</td>
+                                                    <td>67% - 94%</td>
+                                                </tr>
+                                                <tr class="odd">
+                                                    <td>Typical Applications</td>
+                                                    <td>Fast Databases, Application Servers</td>
+                                                    <td>Data Archive, Backup to Disk, High Availability Solutions, Web
+                                                        Servers, Servers With Large Capacity Requirements</td>
+                                                    <td>Data Warehousing, Web Serving, Archiving</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                                <div class="divider"></div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</article>
+
+<link rel="stylesheet" href="{{ "/css/calcs/system.base.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/system.menus.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/system.messages.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/system.theme.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.core.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.theme.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.button.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.resizable.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.dialog.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.slider.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/field.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/hpsliders.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/node.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/search.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/user.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/views.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/ckeditor.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/ctools.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/tagclouds.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/reset.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/base.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/desktop.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/mobile.css" | absolute_url }}">
+
+
+<script type="text/javascript" src="{{ "/js/calcs/respond.min.js?mnatia" | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/js/calcs/js_0gj6QcpfRH2jzTbCQqf7kEkm4MXY0UA_sRhwPc8jC1o.js" | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/js/calcs/js_SiJaW6ffoy7DzSKM8nVGXP9moBmWH070-tSnAJqTw70.js" | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/js/calcs/js_7SU08v1KGODbAmRjn2Q3fUSU5kw1wgZfk2BpHJodNpQ.js" | absolute_url }}"></script>
+
+<!-- Disk Raid -->
+<script type="text/javascript" src="{{ "/js/calcs/js__T5Z29LkY6m6ul5H_GLrrMSfdKkwtzz8G9EnCyXSSzs.js" | absolute_url }}"></script>
+
+<script type="text/javascript" src="{{ "/js/calcs/js_LWmYeu6bp3TYBcyA5XuIAhHEMJPQVFwPlNkK_iqm7do.js" | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/js/calcs/html2canvas.min.js" | absolute_url }}"></script>
