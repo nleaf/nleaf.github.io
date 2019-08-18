@@ -1,0 +1,576 @@
+{% comment %}
+Creates a breadcrumb from the page's URL
+{% endcomment %}
+<article class="main">
+        <div class="body">
+        <div class="tabs"></div>
+        <div class="region region-content">
+           <div id="block-system-main" class="block block-system">
+              <div class="content">
+                 <div class="calculator" id="buyvbuild">
+                    <form name="calculator" action="http://thecloudcalculator.com/calculators/build-vs-buy.html" method="post">
+                       <input type="hidden" name="ispost" value="1"/>
+                       <div class="top-toolbar">
+                          <div class="desc">
+                             <p class="description">
+                                Are you wondering how much it will take to build your own data center or are you unsure if you have everything accounted for in your construction budget? Use this calculator to see what it <em>really</em> takes to build out a Tier 1, Tier 2, Tier 3 or Tier 4 data center.
+                             </p>
+                          </div>
+                          <div style="clear:both"></div>
+                       </div>
+     
+     
+                       <div id="calculator-options">
+                          <div class="options">
+                             <h2>Options</h2>
+                             <div class="option">
+                                <label for="dctier">Data Center Tier</label>
+                                <select id="dctier" name="dctier">
+                                   <option>Tier I</option>
+                                   <option>Tier II</option>
+                                   <option selected>Tier III</option>
+                                   <option>Tier IV</option>
+                                </select>
+                             </div>
+                             <div class="option" style="width:350px;">
+                                <label for="s247">Are You Currently Staffed 24x7x365</label>
+                                <select id="s247" name="s247">
+                                   <option selected>No</option>
+                                   <option>Yes</option>
+                                </select>
+                             </div>
+                             <div class="clear"></div>
+                          </div>
+                          <div class="alwaysontop-wrap">
+                             <div class="alwaysontop-content">
+                                <div class="left">
+                                   <div class="field">
+                                      <label for="nobcabinets" class="name">Number of Cabinets*</label>
+                                      <div id="nobcabinets-slider" class="slider"></div>
+                                      <input type="text" id="nobcabinets" name="nobcabinets" class="text" value="10"/>
+                                      <div class='calc-tooltip-wrap'>
+                                         <a class='calc-tooltip' href='#'>
+                                            ?
+                                            <div class='calc-tooltip-data'>
+                                               <h3>Number of Cabinets:</h3>
+                                               <p>Enter how many cabinets you need.</p>
+                                            </div>
+                                         </a>
+                                      </div>
+                                      <div class="clear"></div>
+                                   </div>
+                                   <div class="field">
+                                      <label for="kilowats" class="name">Total kW of Redundant Power*</label>
+                                      <div id="kilowats-slider" class="slider"></div>
+                                      <input type="text" id="kilowats" name="kilowats" class="text" value="10"/>
+                                      <div class='calc-tooltip-wrap'>
+                                         <a class='calc-tooltip' href='#'>
+                                            ?
+                                            <div class='calc-tooltip-data'>
+                                               <h3>Total kW of Redundant Power:</h3>
+                                               <p>Kw can be calculated by either adding up the name plate power supply capacities of your hardware and dividing by 1,000, or by taking the amps X the volts of your power circuits powering your equipment and dividing by 1,000.</p>
+                                            </div>
+                                         </a>
+                                      </div>
+                                      <div class="clear"></div>
+                                   </div>
+                                   <div class="field">
+                                      <label for="evalperiod" class="name">Evaluation Period in Years</label>
+                                      <div id="evalperiod-slider" class="slider"></div>
+                                      <input type="text" id="evalperiod" name="evalperiod" class="text" value="3"/>
+                                      <div class='calc-tooltip-wrap'>
+                                         <a class='calc-tooltip' href='#'>
+                                            ?
+                                            <div class='calc-tooltip-data'>
+                                               <h3>Evaluation Period:</h3>
+                                               <p>5 years is the average evalutation period and equipment will need refreshed starting year 6.</p>
+                                            </div>
+                                         </a>
+                                      </div>
+                                      <div class="clear"></div>
+                                   </div>
+                                   <div style="display:none;">
+                                      <div class="field field-sqrft">
+                                         <label for="sqrft" class="name">Square Feet</label>
+                                         <div id="sqrft-slider" class="slider"></div>
+                                         <input type="text" id="sqrft" name="sqrft" class="text">
+                                         <div class="clear"></div>
+                                      </div>
+                                      <div class="field short  field-wattspersqrtft" >
+                                         <label for="wpsqft" class="name">Watts Per Sq Ft</label>
+                                         <input type="text" id="wpsqft" name="wpsqft" class="text">
+                                         <div class="clear"></div>
+                                      </div>
+                                   </div>
+                                </div>
+                                <div class="right">
+                                   <div class="field">
+                                      <label for="powerpercentage" class="name">% of Available Power Consumed</label>
+                                      <div id="powerpercentage-slider" class="slider"></div>
+                                      <input type="text" id="powerpercentage" name="powerpercentage" class="text" value="90"/>
+                                      <div class='calc-tooltip-wrap'>
+                                         <a class='calc-tooltip' href='#'>
+                                            ?
+                                            <div class='calc-tooltip-data'>
+                                               <h3>% of Available Power Consumed:</h3>
+                                               <p>An average enterprise data center operates at 60%.</p>
+                                            </div>
+                                         </a>
+                                      </div>
+                                      <div class="clear"></div>
+                                   </div>
+                                   <div class="field">
+                                      <label for="powercost" class="name">Cost Per kWh in Cents</label>
+                                      <div id="powercost-slider" class="slider"></div>
+                                      <input type="text" id="powercost" name="powercost" class="text" value="11"/>
+                                      <div class='calc-tooltip-wrap'>
+                                         <a class='calc-tooltip' href='#'>
+                                            ?
+                                            <div class='calc-tooltip-data'>
+                                               <h3>Cost Per kWh in Cents:</h3>
+                                               <p>The average cost of power in the United State in 2012 was $.12.</p>
+                                            </div>
+                                         </a>
+                                      </div>
+                                      <div class="clear"></div>
+                                   </div>
+                                   <div class="field">
+                                      <label for="bandwidth" class="name">Internet Connection in Mbps</label>
+                                      <div id="bandwidth-slider" class="slider"></div>
+                                      <input type="text" id="bandwidth" name="bandwidth" class="text" value="10"/>
+                                      <div class="clear"></div>
+                                   </div>
+                                </div>
+                                <div class="clear"></div>
+                             </div>
+                          </div>
+                          <div id="temperature">
+                             <div class="divider"></div>
+                             <h2>Power Density Meter</h2>
+                             <p>
+                                As you adjust the number of cabinets and the total available KW, this graphic will display the watts per square foot capacity of your data center and show how your design compares to industry standards.
+                             </p>
+                             <div id="temperature-gauge">
+                                <div class="ranges">
+                                   <span class="low">Low <80</span>
+                                   <span class="average">Average 80-150</span>
+                                   <span class="medium">Medium 150-200</span>
+                                   <span class="high">High 200+</span>
+                                </div>
+                                <div class="thumb"></div>
+                             </div>
+                             <div class="clear"></div>
+                          </div>
+                          <div class="divider"></div>
+                       </div>
+     <div class="email-pdf more-pad"><a class="fancybox-inline" href="#calc-optin-form">Email My Configuration &amp; Results</a></div>
+                       <div class="results">
+                          <h2>
+                          Cost Summary
+                          <h2>
+                          <div class="cost-summary">
+                             <div class="leftside">
+                                <h2>BUILD YOUR OWN</h2>
+                                <a href="#table2-total1"><span class="total" id="buildsummary"></span></a>
+                             </div>
+                             <div class="middle">
+                                <span>VS</span>
+                             </div>
+                             <div class="rightside" style="position:relative;">
+                                <div class="calc-tooltip-wrap" style="right:128px;">
+                                   <a class="calc-tooltip" href="#">
+                                      ?
+                                      <div class="calc-tooltip-data" style="opacity: 0; display: none;">
+                                         <p>This is the total over the course of your chosen evaluation period in years.</p>
+                                      </div>
+                                   </a>
+                                </div>
+                                <h2><span class="tierhdr"></span></h2>
+                                <a href="#table2-total2"><span class="total" id="colocsummary"></span></a>
+                             </div>
+                             <div class="clear"></div>
+                          </div>
+                          <div class="divider"></div>
+                          <h2>Total Construction Cost **</h2>
+                          <div id="results-sections">
+                             <h2>
+                             ENGINEERING AND PREPERATION </h3>
+                             <a href="#table1-wrap" class="hidden hide-details mobile">Show Details <span>&or;</span></a>
+                             <a href="#table1-wrap" class="hide-details dekstop">Hide Details <span>&and;</span></a>
+                             <div class="clear"></div>
+                             <div id="table1-wrap" class="desktop">
+                                <table id="table1" class="results-table">
+                                   <tbody>
+                                      <tr class="odd">
+                                         <th width="35%">  <strong>DESCRIPTION</strong></th>
+                                         <th width="23.3%"><strong>MATERIAL COST</strong></th>
+                                         <th width="23.3%"><strong>LABOR COST</strong></th>
+                                         <th width="23.3%"><strong>TOTAL</strong></th>
+                                      </tr>
+                                      <tr class="odd">
+                                         <td width="35%">Engineering</td>
+                                         <td  width="23.3%"><span id="cell-c12"></span> </td>
+                                         <td  width="23.3%"> <span id="cell-d12"></span> </td>
+                                         <td  width="23.3%"> <span id="cell-e12"></span> </td>
+                                      </tr>
+                                      <tr>
+                                         <td>Permits and Approvals</td>
+                                         <td><span id="cell-c13"></span> </td>
+                                         <td> <span id="cell-d13"></span> </td>
+                                         <td> <span id="cell-e13"></span> </td>
+                                      </tr>
+                                      <tr class="odd">
+                                         <td>Demolition &amp; Outside Preparation</td>
+                                         <td><span id="cell-c14"></span> </td>
+                                         <td> <span id="cell-d14"></span> </td>
+                                         <td> <span id="cell-e14"></span> </td>
+                                      </tr>
+                                   </tbody>
+                                </table>
+                                <div class="clear"></div>
+                             </div>
+                             <span class="subtotal" tbleref="table1"></span>   
+                             <div class="clear"></div>
+                             <br/>
+                             <h2>POWER</h2>
+                             <a href="#table1A-wrap" class="hidden hide-details mobile">Show Details <span>&or;</span></a>
+                             <a href="#table1A-wrap" class="hide-details dekstop">Hide Details <span>&and;</span></a>
+                             <div class="clear"></div>
+                             <div id="table1A-wrap" class="desktop">
+                                <table id="table1A" class="results-table">
+                                   <tbody>
+                                      <tr class="odd">
+                                         <th width="35%">  <strong>DESCRIPTION</strong></th>
+                                         <th width="23.3%"><strong>MATERIAL COST</strong></th>
+                                         <th width="23.3%"><strong>LABOR COST</strong></th>
+                                         <th width="23.3%"><strong>TOTAL</strong></th>
+                                      </tr>
+                                      <tr>
+                                         <td width="35%">Utility Improvements</td>
+                                         <td width="23.3%"><span id="cell-c15"></span> </td>
+                                         <td width="23.3%"> <span id="cell-d15"></span> </td>
+                                         <td width="23.3%"> <span id="cell-e15"></span> </td>
+                                      </tr>
+                                      <tr class="odd">
+                                         <td>Main Switch Gear</td>
+                                         <td><span id="cell-c16"></span> </td>
+                                         <td> <span id="cell-d16"></span> </td>
+                                         <td> <span id="cell-e16"></span> </td>
+                                      </tr>
+                                      <tr>
+                                         <td>Transfer Switches</td>
+                                         <td><span id="cell-c17"></span> </td>
+                                         <td> <span id="cell-d17"></span> </td>
+                                         <td> <span id="cell-e17"></span> </td>
+                                      </tr>
+                                      <tr class="odd">
+                                         <td>UPS Systems</td>
+                                         <td><span id="cell-c18"></span> </td>
+                                         <td> <span id="cell-d18"></span> </td>
+                                         <td> <span id="cell-e18"></span> </td>
+                                      </tr>
+                                      <tr>
+                                         <td>TVSS System</td>
+                                         <td><span id="cell-c19"></span> </td>
+                                         <td> <span id="cell-d19"></span> </td>
+                                         <td> <span id="cell-e19"></span> </td>
+                                      </tr>
+                                      <tr class="odd">
+                                         <td>Generators with Enclosures</td>
+                                         <td><span id="cell-c20"></span> </td>
+                                         <td> <span id="cell-d20"></span> </td>
+                                         <td> <span id="cell-e20"></span> </td>
+                                      </tr>
+                                      <tr>
+                                         <td>Counduit and Cabling for Generators</td>
+                                         <td><span id="cell-c21"></span> </td>
+                                         <td> <span id="cell-d21"></span> </td>
+                                         <td> <span id="cell-e21"></span> </td>
+                                      </tr>
+                                      <tr class="odd">
+                                         <td>Data Center Lighting with HMT</td>
+                                         <td><span id="cell-c22"></span> </td>
+                                         <td> <span id="cell-d22"></span> </td>
+                                         <td> <span id="cell-e22"></span> </td>
+                                      </tr>
+                                      <tr>
+                                         <td>Lightining Protection</td>
+                                         <td><span id="cell-c23"></span> </td>
+                                         <td> <span id="cell-d23"></span> </td>
+                                         <td> <span id="cell-e23"></span> </td>
+                                      </tr>
+                                      <tr class="odd">
+                                         <td>Room PDU's</td>
+                                         <td><span id="cell-c24"></span> </td>
+                                         <td> <span id="cell-d24"></span> </td>
+                                         <td> <span id="cell-e24"></span> </td>
+                                      </tr>
+                                   </tbody>
+                                </table>
+                                <div class="clear"></div>
+                             </div>
+                             <span class="subtotal" tbleref="table1A"></span>  
+                             <div class="clear"></div>
+                             <br/>
+                             <h2>ENVIRONMENTAL CONTROLS</h2>
+                             <a href="#table1B-wrap" class="hidden hide-details mobile">Show Details <span>&or;</span></a>
+                             <a href="#table1B-wrap" class="hide-details dekstop">Hide Details <span>&and;</span></a>
+                             <div class="clear"></div>
+                             <div id="table1B-wrap"  class="desktop">
+                                <table id="table1B" class="results-table">
+                                   <tbody>
+                                      <tr class="odd">
+                                         <th width="35%">  <strong>DESCRIPTION</strong></th>
+                                         <th width="23.3%"><strong>MATERIAL COST</strong></th>
+                                         <th width="23.3%"><strong>LABOR COST</strong></th>
+                                         <th width="23.3%"><strong>TOTAL</strong></th>
+                                      </tr>
+                                      <tr>
+                                         <td  width="35%">HVAC</td>
+                                         <td width="23.3%"><span id="cell-c25"></span> </td>
+                                         <td width="23.3%"> <span id="cell-d25"></span> </td>
+                                         <td  width="23.3%"> <span id="cell-e25"></span> </td>
+                                      </tr>
+                                      <tr class="odd">
+                                         <td>Raised Floor</td>
+                                         <td><span id="cell-c26"></span> </td>
+                                         <td > <span id="cell-d26"></span> </td>
+                                         <td> <span id="cell-e26"></span> </td>
+                                      </tr>
+                                      <tr>
+                                         <td>Condesate Drains</td>
+                                         <td><span id="cell-c27"></span> </td>
+                                         <td> <span id="cell-d27"></span> </td>
+                                         <td> <span id="cell-e27"></span> </td>
+                                      </tr>
+                                      <tr class="odd">
+                                         <td>Leak Detection</td>
+                                         <td><span id="cell-c28"></span> </td>
+                                         <td> <span id="cell-d28"></span> </td>
+                                         <td> <span id="cell-e28"></span> </td>
+                                      </tr>
+                                      <tr>
+                                         <td>Intergen Fire Suppresion</td>
+                                         <td><span id="cell-c29"></span> </td>
+                                         <td> <span id="cell-d29"></span> </td>
+                                         <td> <span id="cell-e29"></span> </td>
+                                      </tr>
+                                   </tbody>
+                                </table>
+                                <div class="clear"></div>
+                             </div>
+                             <span class="subtotal" tbleref="table1B"></span>  
+                             <div class="clear"></div>
+                             <br/>
+                             <h2>SECURITY AND MONITORING</h2>
+                             <a href="#table1C-wrap" class="hidden hide-details mobile">Show Details <span>&or;</span></a>
+                             <a href="#table1C-wrap" class="hide-details dekstop">Hide Details <span>&and;</span></a>
+                             <div class="clear"></div>
+                             <div id="table1C-wrap"  class="desktop">
+                                <table id="table1C" class="results-table">
+                                   <tbody>
+                                      <tr class="odd">
+                                         <th width="35%">  <strong>DESCRIPTION</strong></th>
+                                         <th width="23.3%"><strong>MATERIAL COST</strong></th>
+                                         <th width="23.3%"><strong>LABOR COST</strong></th>
+                                         <th width="23.3%"><strong>TOTAL</strong></th>
+                                      </tr>
+                                      <tr class="odd">
+                                         <td width="35%">Facility Management System</td>
+                                         <td width="23.3%"><span id="cell-c30"></span> </td>
+                                         <td width="23.3%"> <span id="cell-d30"></span> </td>
+                                         <td width="23.3%"> <span id="cell-e30"></span> </td>
+                                      </tr>
+                                      <tr>
+                                         <td>CCTV System</td>
+                                         <td><span id="cell-c31"></span> </td>
+                                         <td> <span id="cell-d31"></span> </td>
+                                         <td> <span id="cell-e31"></span> </td>
+                                      </tr>
+                                      <tr class="odd">
+                                         <td>Building Access system</td>
+                                         <td><span id="cell-c32"></span> </td>
+                                         <td> <span id="cell-d32"></span> </td>
+                                         <td> <span id="cell-e32"></span> </td>
+                                      </tr>
+                                   </tbody>
+                                </table>
+                                <div class="clear"></div>
+                             </div>
+                             <span class="subtotal" tbleref="table1C"></span>  
+                             <div class="clear"></div>
+                             <br/>
+                             <h2>NEWORK</h2>
+                             <a href="#table1D-wrap" class="hidden hide-details mobile">Show Details <span>&or;</span></a>
+                             <a href="#table1D-wrap" class="hide-details dekstop">Hide Details <span>&and;</span></a>  
+                             <div class="clear"></div>
+                             <div id="table1D-wrap"  class="desktop">
+                                <table id="table1D" class="results-table">
+                                   <tbody>
+                                      <tr class="odd">
+                                         <th width="35%">  <strong>DESCRIPTION</strong></th>
+                                         <th width="23.3%"><strong>MATERIAL COST</strong></th>
+                                         <th width="23.3%"><strong>LABOR COST</strong></th>
+                                         <th width="23.3%"><strong>TOTAL</strong></th>
+                                      </tr>
+                                      <tr>
+                                         <td width="35%">Core Network Equipment</td>
+                                         <td width="23.3%"><span id="cell-c33"></span> </td>
+                                         <td width="23.3%"> <span id="cell-d33"></span> </td>
+                                         <td width="23.3%"> <span id="cell-e33"></span> </td>
+                                      </tr>
+                                   </tbody>
+                                </table>
+                                <div class="clear"></div>
+                             </div>
+                             <span class="subtotal" tbleref="table1D"></span>  
+                             <div class="clear"></div>
+                             <div class="clear"></div>
+                             <div class="results-table-total">
+                                <p class="disclaimer">
+                                   <input id="table1-total" type="text" class="text total"/>
+                                   The total construction costs and the category breakdowns are based on Expedient’s experiences from the 9 data centers that they have brought online.
+                                </p>
+                                <div class="clear"></div>
+                             </div>
+                             <div class="clear"></div>
+                             <div class="divider"></div>
+                             <br/>
+                             <h2>DATA CENTER: TOTAL COST OF OWNERSHIP</h2>
+                             <a href="#mobile-wrap2" class="hidden hide-details dbvblast mobile">Show Details <span>&or;</span></a>
+                             <a href="#mobile-wrap2" class="hide-details showheader dekstop">Hide Details <span>&and;</span></a>
+                             <div class="clear"></div>
+                             <div id="mobile-wrap2" class="table-wrap showheader desktop">
+                                <table class="results-table" id="totalownership">
+                                   <tbody>
+                                      <tr class="tableizer-firstrow">
+                                         <th width="275"></th>
+                                         <th><strong>BUILD YOUR OWN</strong></th>
+                                         <th><strong><span class="tierhdr"></span></strong></th>
+                                      </tr>
+                                      <tr class="odd">
+                                         <td width="275">Construction Cost</td>
+                                         <td width="209"> <span id="cell-i12"></span> </td>
+                                         <td> <span id="cell-k12"></span> </td>
+                                      </tr>
+                                      <tr>
+                                         <td>Floor Space</td>
+                                         <td> <span id="cell-i13"></span> </td>
+                                         <td> <span id="cell-k13"></span> </td>
+                                      </tr>
+                                      <tr class="odd">
+                                         <td>Electricity</td>
+                                         <td> <span id="cell-i14"></span> </td>
+                                         <td> <span id="cell-k14"></span> </td>
+                                      </tr>
+                                      <tr>
+                                         <td>Electrical Maintenance</td>
+                                         <td> <span id="cell-i15"></span> </td>
+                                         <td> <span id="cell-k15"></span> </td>
+                                      </tr>
+                                      <tr class="odd">
+                                         <td>HVAC Maintenanance</td>
+                                         <td> <span id="cell-i16"></span> </td>
+                                         <td> <span id="cell-k16"></span> </td>
+                                      </tr>
+                                      <tr>
+                                         <td>Other Systems Maintenance</td>
+                                         <td> <span id="cell-i17"></span> </td>
+                                         <td> <span id="cell-k17"></span> </td>
+                                      </tr>
+                                      <tr class="odd">
+                                         <td>24x7x365 Staff</td>
+                                         <td> <span id="cell-i18"></span> </td>
+                                         <td> <span id="cell-k18"></span> </td>
+                                      </tr>
+                                      <tr>
+                                         <td>Redundant Internet Circuits</td>
+                                         <td> <span id="cell-i19"></span> </td>
+                                         <td> <span id="cell-k19"></span> </td>
+                                      </tr>
+                                   </tbody>
+                                </table>
+                             </div>
+                             <div class="results-table-total results-table2">
+                                <input id="table2-total1" type="text" class="text total"/>
+                                <input id="table2-total2" type="text" class="text total"/>
+                                <div class="clear"></div>
+                             </div>
+                             <div class="clear"></div>
+                             <div class="divider"></div>
+                          </div>
+                       </div>
+                          <p class="disclaimer">
+                             * This tool uses a minimum internal data center space for 10 cabinets.<br/> 
+                             &nbsp;&nbsp;The equipment needed to build a data center do not scale below this capacity.<br/>
+                             <br/>
+                             ** The breakdown of the total construction costs are broken down using a percentage <br/>
+                             &nbsp;&nbsp;&nbsp;allocation based off a facility designed for 100 cabinets.<br/>
+                             <br/>
+                             Expedient and Intel provide the Complete Data Center Build vs. Buy Calculator (the “Data Center Cost Calculator”) as a tool to help customers analyze potential cost‑savings associated with purchasing and using colocation services as compared to “build‑your‑own” alternatives, and the Data Center Cost Calculator is provided solely for your convenience in that regard.
+                             <br/><br/>
+                             Please carefully read ALL of the terms of this Disclaimer as stated on our <a href="#full-disclaimer" class="jqModal">FULL DISCLAIMER</a>.  By viewing and utilizing the Data Center Cost Calculator, you acknowledge that you have read, understand and agree to this Disclaimer.<br/>
+                          </p>
+                          <div id="full-disclaimer">
+                             <p>
+                                Expedient and Intel provide the Complete Data Center Build vs. Buy Calculator (the “Data Center Cost Calculator”) as a tool to help customers analyze potential cost‑savings associated with purchasing and using colocation services as compared to “build‑your‑own” alternatives, and the Data Center Cost Calculator is provided solely for your convenience in that regard.  MORE SPECIFICALLY, ALL COST FIGURES INCLUDED IN THE DATA CENTER COST CALCULATOR, INCLUDING BOTH THE “BUILD YOUR OWN” COST COMPONENTS AS WELL AS THE COMPARABLE EXPEDIENT COST OF SERVICE, ARE ESTIMATES BASED SOLELY ON EXPEDIENT’S EXPERIENCE AND, WHERE APPLICABLE, INDUSTRY BENCHMARKS.  HOWEVER, YOUR ACTUAL “BUILD YOUR OWN” COSTS AND/OR THE ACTUAL COSTS OF EXPEDIENT’S SERVICES WILL VARY BASED ON MANY FACTORS ASSOCIATED WITH YOUR ORGANIZATION’S SPECIFIC NEEDS.  ACCORDINGLY, THE FIGURES REFLECTED IN THE DATA CENTER COST CALCULATOR ARE ESTIMATES PROVIDED FOR EVALUATION PURPOSES ONLY, AND THESE COST ESTIMATES ARE NOT A GUARANTEE OF ANY ACTUAL COSTS OR OF ANY SAVINGS THAT MAY RESULT FROM USING EXPEDIENT SERVICES.  Please carefully read ALL of the terms of this Disclaimer.  By viewing and utilizing the Data Center Cost Calculator, you acknowledge that you have read, understand and agree to this Disclaimer.
+                             </p>
+                             <p>
+                                EXPEDIENT AND INTEL PROVIDES THE DATA CENTER COST CALCULATOR AND ALL INFORMATION INCLUDED THEREIN “AS IS” AND WITH ALL FAULTS AND HEREBY DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT TO THE USE OF THE DATA CENTER COST CALCULATOR OR ANY INFORMATION INCLUDED THEREIN.
+                             </p>
+                             <p>
+                                IN NO EVENT SHALL EXPEDIENT OR INTEL BE LIABLE FOR ANY DAMAGES WHATSOEVER, WHETHER DIRECT, INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE, EXEMPLARY OR OTHERWISE, ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE, OR ANY RELIANCE ON, THE DATA CENTER COST CALCULATOR OR ANY INFORMATION INCLUDED THEREIN.
+                             </p>
+                             <p>
+                                The Data Center Cost Calculator is provided to you at no charge.  Expedient and Intel have included in this Disclaimer terms that disclaim all warranties and liability for use of the Data Center Cost Calculator and the information included therein.  To the full extent allowed by law, YOU HEREBY RELEASE EXPEDIENT AND INTEL FROM ANY AND ALL LIABILITY ARISING FROM OR RELATED TO THE DATA CENTER COST CALCULATOR OR ITS USE.  The laws of the Commonwealth of Pennsylvania will apply to this Disclaimer.
+                             </p>
+                          </div>
+                          <div class="clear"></div>
+                          <br/>
+                          <div class="toolbar">
+                             <div class="innerwrap"><a id="save-config" class="button" href="/user/login?destination=calculators/build-vs-buy.html">Save Configuration</a><a id="email-friend" class="button" href="#">Email Calculator to Friend</a><a class="button" href="/user/login?destination=calculators/build-vs-buy.html">Save PDF</a></div>
+                          </div>
+                    </form>
+                    </div>  
+                 </div>
+              </div>
+           </div>
+           <div class="clear"></div>
+        </div>
+     </article>
+     
+<link rel="stylesheet" href="{{ "/css/calcs/system.base.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/system.menus.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/system.messages.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/system.theme.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.core.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.theme.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.button.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.resizable.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.dialog.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.slider.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/field.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/hpsliders.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/node.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/search.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/user.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/views.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/ckeditor.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/ctools.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/tagclouds.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/reset.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/base.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/desktop.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/mobile.css" | absolute_url }}">
+
+
+<script type="text/javascript" src="{{ "/js/calcs/respond.min.js?mnatia" | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/js/calcs/js_0gj6QcpfRH2jzTbCQqf7kEkm4MXY0UA_sRhwPc8jC1o.js" | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/js/calcs/js_SiJaW6ffoy7DzSKM8nVGXP9moBmWH070-tSnAJqTw70.js" | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/js/calcs/js_7SU08v1KGODbAmRjn2Q3fUSU5kw1wgZfk2BpHJodNpQ.js" | absolute_url }}"></script>
+
+<!-- Disk Raid -->
+<script type="text/javascript" src="{{ "/js/calcs/js_ehHBDamD7L7tOQqaoPrLQKgApkLVfN-n8bP5goAHUw0.js" | absolute_url }}"></script>
+
+<script type="text/javascript" src="{{ "/js/calcs/js_LWmYeu6bp3TYBcyA5XuIAhHEMJPQVFwPlNkK_iqm7do.js" | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/js/calcs/html2canvas.min.js" | absolute_url }}"></script>
