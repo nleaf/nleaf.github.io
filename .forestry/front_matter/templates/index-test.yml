@@ -40,10 +40,14 @@ fields:
   - calculator-file-transfer
   - calculator-disk-raid
   - calculator-datacenter
+  - calculator-cloudbuild
+  - calculator-diskbackup
   config:
     min: 
     max: 
 pages:
+- cloud-build-vs-buy-calculator.md
+- disk-based-backup-calculator.md
 - data-center-build-vs-buy-calculator.md
 - disk-raid-and-iops-calculator.md
 - file-transfer-time-calculator.md
