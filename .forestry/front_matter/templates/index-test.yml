@@ -38,6 +38,7 @@ fields:
   - case-study-header
   - executives
   - calculator-file-transfer
+  - calculator-disk-raid
   config:
     min: 
     max: 
