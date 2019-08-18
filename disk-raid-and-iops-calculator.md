@@ -19,8 +19,8 @@ page_sections:
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
   cta: Subscribe Now
-- template: calculator-file-transfer
-  block: calc-filetrans
+- template: calculator-disk-raid
+  block: calc-diskraid
 - template: recent-posts
   block: recentposts
 - template: newsletter

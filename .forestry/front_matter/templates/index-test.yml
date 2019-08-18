@@ -43,6 +43,7 @@ fields:
     min: 
     max: 
 pages:
+- disk-raid-and-iops-calculator.md
 - file-transfer-time-calculator.md
 - cloud.md
 - colocation.md
