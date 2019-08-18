@@ -1,0 +1,91 @@
+{% comment %}
+Creates a breadcrumb from the page's URL
+{% endcomment %}
+
+<article class="main">
+    <div class="body">
+        <div class="tabs"></div>
+        <div class="region region-content">
+            <div id="block-system-main" class="block block-system">
+                <div class="content">
+                    <div id="filetransfer" class="calculator">
+                        <form name="calculator" action="http://thecloudcalculator.com/calculators/file-transfer.html"
+                            method="post">
+                            <input type="hidden" name="ispost" value="1" />
+                            <div class="top-toolbar">
+                                <p class="description">
+                                    Ever wonder how much bandwidth is consumed when transferring a large video or
+                                    CAD file? Use this calculator to determine how much time and bandwidth it takes to
+                                    move large files around a network.
+                                </p>
+                            </div>
+                            <div id="calculator-options">
+                                <div class="options">
+                                    <h2>Options</h2>
+                                    <div class="option">
+                                        <label for="sizeincrement">Data Size Increment</label>
+                                        <select id="sizeincrement" name="sizeincrement">
+                                            <option>KB</option>
+                                            <option>MB</option>
+                                            <option selected>GB</option>
+                                            <option>TB</option>
+                                        </select>
+                                    </div>
+                                    <div class="option">
+                                        <label for="bandwitdhrate">Bandwidth Rate Increment</label>
+                                        <select id="bandwitdhrate" name="bandwitdhrate">
+                                            <option>Kbps</option>
+                                            <option selected>Mbps</option>
+                                            <option>Gbps</option>
+                                        </select>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="field reallylarge-field">
+                                    <label for="dataamount">Amount of Data</label>
+                                    <div id="dataamount-slider" class="slider"></div>
+                                    <input type="text" id="dataamount" name="dataamount" class="text decimal"
+                                        value="256" />
+                                    <div class='calc-tooltip-wrap'>
+                                        <a class='calc-tooltip' href='#'>
+                                            ?
+                                            <div class='calc-tooltip-data'>
+                                                <h3>Amount of Data:</h3>
+                                                <p>Enter the size of your total data set that needs transferred.</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="field reallylarge-field">
+                                    <label for="transferreate">Transfer Rate</label>
+                                    <div id="transferreate-slider" class="slider"></div>
+                                    <input type="text" id="transferreate" name="transferreate" class="text"
+                                        value="15" />
+                                    <div class='calc-tooltip-wrap'>
+                                        <a class='calc-tooltip' href='#'>
+                                            ?
+                                            <div class='calc-tooltip-data'>
+                                                <h3>Transfer Rate:</h3>
+                                                <p>Select the speed of your network based on avaliable capacity.</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                            <div class="results">
+                                <p id="transfer-time">
+                                    Total Transfer Time <span class="result">###</span>
+                                </p>
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</article>
