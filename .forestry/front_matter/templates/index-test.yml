@@ -37,6 +37,7 @@ fields:
   - case-study-quote
   - case-study-header
   - executives
+  - calculator-file-transfer
   config:
     min: 
     max: 
