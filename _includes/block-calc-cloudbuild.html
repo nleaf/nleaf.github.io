@@ -1,0 +1,341 @@
+{% comment %}
+Creates a breadcrumb from the page's URL
+{% endcomment %}
+<article class="main">
+    <div class="body">
+        <div class="tabs"></div>
+        <div class="region region-content">
+            <div id="block-system-main" class="block block-system">
+                <div class="content">
+                    <div class="calculator" id="cloudbuyvbuild">
+                        <form name="calculator"
+                            action="http://thecloudcalculator.com/calculators/cloud-build-vs-buy.html" method="post">
+                            <input type="hidden" name="ispost" value="1" />
+                            <div class="top-toolbar">
+                                <div class="desc">
+                                    <p class="description">Are you considering moving to the cloud but you are unsure of
+                                        the value? Or
+                                        perhaps you are trying to decide whether you should build your own solution or
+                                        move to a hosted cloud platform? Use this calculator to determine the total cost
+                                        of
+                                        ownership between building your own vs. moving into a hosted solution from a
+                                        cloud provider.</p>
+
+                                </div>
+                                <div style="clear: both;"></div>
+                            </div>
+                            <div id="calculator-options">
+                                <div class="options">
+                                    <h2>Options</h2>
+                                    <div class="option"><label for="rlvl">Required redundancy level?</label><select
+                                            id="rlvl" name="rlvl">
+                                            <option selected="selected">High - N+2</option>
+                                            <option>Low - N+1</option>
+                                        </select></div>
+                                    <div class="option" style="width: 280px;"><label for="hdwloc">Where is your hardware
+                                            located?</label><select id="hdwloc" name="hdwloc">
+                                            <option>Colocation Facility</option>
+                                            <option>Internal Data Center</option>
+                                        </select></div>
+                                    <div class="option"><label for="dsincrement">Storage space size increase</label>
+                                        <select id="dsincrement" name="dsincrement">
+                                            <option selected="selected">GB</option>
+                                            <option>TB</option>
+                                        </select></div>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="alwaysontop-wrap">
+                                    <div class="alwaysontop-content">
+                                        <div class="left">
+                                            <div class="field">
+
+                                                <label for="memconsumed" class="name">How many GB of memory would be
+                                                    consumed?</label>
+                                                <div id="memconsumed-slider" class="slider"></div>
+                                                <input type="text" id="memconsumed" name="memconsumed"
+                                                    class="text decimal" value="196" />
+                                                <div class="clear"></div>
+                                            </div>
+                                            <div class="field">
+
+                                                <label for="spacesonsumed" class="name">How many <span
+                                                        class="dsinc">GB</span> of storage space would be
+                                                    consumed?</label>
+                                                <div id="spacesonsumed-slider" class="slider"></div>
+                                                <input type="text" id="spacesonsumed" name="spacesonsumed"
+                                                    class="text decimal" value="1000" />
+                                                <div class="clear"></div>
+                                            </div>
+                                            <div class="field">
+
+                                                <label for="hdwrcycle" class="name">What is your hardware refresh
+                                                    cycle?</label>
+                                                <div id="hdwrcycle-slider" class="slider"></div>
+                                                <input type="text" id="hdwrcycle" name="hdwrcycle" class="text"
+                                                    value="3" />
+                                                <div class='calc-tooltip-wrap'><a class='calc-tooltip' href='#'>?<div
+                                                            class='calc-tooltip-data'>
+                                                            <h3>Hardware Refresh Cycle:</h3>
+                                                            <p>Average Hardware Refresh is 3 years.</p>
+                                                        </div></a></div>
+                                                <div class="clear"></div>
+                                            </div>
+                                        </div>
+                                        <div class="right">
+                                            <div class="field">
+
+                                                <label for="numbcabs" class="name">How many cabinets are needed for your
+                                                    Cloud hardware?</label>
+                                                <div id="numbcabs-slider" class="slider"></div>
+                                                <input type="text" id="numbcabs" name="numbcabs" class="text"
+                                                    value="1" />
+                                                <div class='calc-tooltip-wrap'><a class='calc-tooltip' href='#'>?<div
+                                                            class='calc-tooltip-data'>
+                                                            <h3>Number of Cabinets:</h3>
+                                                            <p>For every TB of memory, you should allocate a cabinet or
+                                                                every 60 TB of disk, you should allocate a cabinet.</p>
+                                                        </div></a></div>
+                                                <div class="clear"></div>
+                                            </div>
+                                            <div id="costpercab-field" class="field">
+
+                                                <label for="costpercab" class="name">If colocating; what is your monthly
+                                                    cost per cabinet?</label>
+                                                <div id="costpercab-slider" class="slider"></div>
+                                                <input type="text" id="costpercab" name="costpercab" class="text"
+                                                    value="1500" />
+                                                <div class='calc-tooltip-wrap'><a class='calc-tooltip' href='#'>?<div
+                                                            class='calc-tooltip-data'>
+                                                            <h3>Monthly Cabinet Cost:</h3>
+                                                            <p>Average cost of cabinet with redundant 30A- 280V circuit,
+                                                                would be $1600/month.</p>
+                                                        </div></a></div>
+                                                <div class="clear"></div>
+                                            </div>
+                                        </div>
+                                        <div class="clear"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="email-pdf more-pad"><a class="fancybox-inline" href="#calc-optin-form">Email My
+                                    Configuration &amp; Results</a></div>
+                            <div class="results">
+                                <div id="results-sections">
+                                    <div class="divider"></div>
+                                    <h2>The Total Cost of Ownership of Your Private Cloud Over a <span
+                                            class="hdw-yperiod"> </span> Year Period</h2>
+                                    <a href="#mobile-wrap1" class="hide-details desktop">Hide Details <span>∧</span></a>
+                                    <a href="#mobile-wrap1" class="hidden hide-details mobile">Show Details
+                                        <span>∨</span></a>
+                                    <div class="clear"></div>
+                                    <div id="mobile-wrap1" class="table-wrap  dekstop">
+                                        <table id="table1" class="results-table">
+                                            <tbody>
+                                                <tr class="tableizer-firstrow">
+                                                    <th>DESCRIPTION</th>
+                                                    <th>QUANTITY</th>
+                                                    <th>AMOUNT</th>
+                                                </tr>
+                                                <tr class="odd">
+                                                    <td>Physical Servers &amp; VMware Licensing</td>
+                                                    <td><span id="cell-d12"></span></td>
+                                                    <td><span id="cell-e12"></span></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Storage Area Networks (SAN)</td>
+                                                    <td><span id="cell-d13"></span></td>
+                                                    <td><span id="cell-e13"></span></td>
+                                                </tr>
+                                                <tr class="odd">
+                                                    <td>Network Switches</td>
+                                                    <td><span id="cell-d14"></span></td>
+                                                    <td><span id="cell-e14"></span></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Server Cabinet &amp; PDUs</td>
+                                                    <td><span id="cell-d15"></span></td>
+                                                    <td><span id="cell-e15"></span></td>
+                                                </tr>
+                                                <tr class="odd">
+                                                    <td>Power and Cooling Costs</td>
+                                                    <td><span id="cell-d16"></span></td>
+                                                    <td><span id="cell-e16"></span></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Number of Systems FTEs to manage the environment</td>
+                                                    <td><span id="cell-d17"></span></td>
+                                                    <td><span id="cell-e17"></span></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    <div class="results-table-total">
+                                        <p class="disclaimer"><input id="table1-total" type="text" class="text total" />
+                                            Total cost of ownership of your Private Cloud over a <span
+                                                class="hdw-yperiod"> </span> year period</p>
+
+                                        <div class="clear"></div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="divider"></div>
+                                    &nbsp;
+                                    <h2>The Total Cost Of Ownership Using A Hosted Cloud Over a <span
+                                            class="hdw-yperiod"> </span> Year Period</h2>
+                                    <a href="#mobile-wrap2" class="hide-details desktop">Hide Details <span>∧</span></a>
+                                    <a href="#mobile-wrap2" class="hidden hide-details mobile">Show Details
+                                        <span>∨</span></a>
+                                    <div class="clear"></div>
+                                    <div id="mobile-wrap2" class="table-wrap desktop">
+                                        <table class="results-table" id="table2">
+                                            <tbody>
+                                                <tr class="tableizer-firstrow">
+                                                    <th>DESCRIPTION</th>
+                                                    <th>QUANTITY</th>
+                                                    <th>AMOUNT</th>
+                                                </tr>
+                                                <tr class="odd">
+                                                    <td>GB of Memory (N+2 Redundant)</td>
+                                                    <td><span id="cell-i12"></span></td>
+                                                    <td><span id="cell-j12"></span></td>
+                                                </tr>
+                                                <tr>
+                                                    <td><span class="dsinc">GB</span> of SAN Storage Space</td>
+                                                    <td><span id="cell-i13"></span></td>
+                                                    <td><span id="cell-j13"></span></td>
+                                                </tr>
+                                                <tr class="odd">
+                                                    <td>Network Switching</td>
+                                                    <td><span id="cell-i14"></span></td>
+                                                    <td><span id="cell-j14"></span></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>SSAE-18 SOC II Computing Environment Audits</td>
+                                                    <td><span id="cell-i15"></span></td>
+                                                    <td><span id="cell-j15"></span></td>
+                                                </tr>
+                                                <tr class="odd">
+                                                    <td>Tier III+ Data Center</td>
+                                                    <td><span id="cell-i16"></span></td>
+                                                    <td><span id="cell-j16"></span></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>24x7x365 Onsite Support</td>
+                                                    <td><span id="cell-i17"></span></td>
+                                                    <td><span id="cell-j17"></span></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    <div class="results-table-total results-table2">
+
+                                        <input id="table2-total" type="text" class="text total" />
+                                        <div class="clear"></div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="divider"></div>
+                                </div>
+                            </div>
+                            &nbsp;
+                            <p class="disclaimer">* This tool uses a minimum internal data center space for 10 cabinets.
+                            </p>
+                            The equipment needed to build a data center do not scale below this capacity.
+
+                            ** The breakdown of the total construction costs are broken down using a percentage
+
+                            allocation based off a facility designed for 100 cabinets.
+
+                            Expedient and Intel provide the Complete Cloud Build vs. Buy Calculator (the “Cloud Cost
+                            Calculator”) as a tool to help customers analyze potential cost‑savings associated with
+                            purchasing and using hosted services as compared to “build‑your‑own” alternatives, and the
+                            Cloud Cost Calculator is provided solely for your convenience in that regard.
+
+                            Please carefully read all of the terms of this Disclaimer. By viewing and utilizing the
+                            Cloud Cost Calculator, you acknowledge that you have read, understand and agree to this <a
+                                href="#full-disclaimer" class="jqModal">Disclaimer</a>.
+                            <div id="full-disclaimer">
+
+                                Expedient and Intel provide the Complete Cloud Build vs. Buy Calculator (the “Cloud Cost
+                                Calculator”) as a tool to help customers analyze potential cost‑savings associated with
+                                purchasing and using hosted services as compared to “build‑your‑own” alternatives, and
+                                the Cloud Cost Calculator is provided solely for your convenience in that regard. MORE
+                                SPECIFICALLY, ALL COST AND QUANTITY FIGURES INCLUDED IN THE CLOUD COST CALCULATOR,
+                                INCLUDING BOTH THE “BUILD YOUR OWN” COST COMPONENTS AND ASSOCIATED QUANTITIES AND THE
+                                COMPARABLE EXPEDIENT COST OF SERVICE AND ASSOCIATED QUANTITIES, ARE ESTIMATES BASED ON
+                                EXPEDIENT’S EXPERIENCE AND, WHERE APPLICABLE, INDUSTRY BENCHMARKS. HOWEVER, YOUR ACTUAL
+                                “BUILD YOUR OWN” COSTS AND QUANTITIES AND/OR THE ACTUAL COSTS AND QUANTITIES OF
+                                EXPEDIENT’S SERVICES WILL VARY BASED ON MANY FACTORS ASSOCIATED WITH YOUR ORGANIZATION’S
+                                SPECIFIC NEEDS. ACCORDINGLY, THE FIGURES REFLECTED IN THE CLOUD COST CALCULATOR ARE
+                                ESTIMATES PROVIDED FOR EVALUATION PURPOSES ONLY, AND THESE COST AND QUANTITY ESTIMATES
+                                ARE NOT A GUARANTEE OF ANY ACTUAL COSTS OR QUANTITIES OR OF ANY SAVINGS THAT MAY RESULT
+                                FROM USING EXPEDIENT SERVICES. Please carefully read all of the terms of this
+                                Disclaimer. By viewing and utilizing the Cloud Cost Calculator, you acknowledge that you
+                                have read, understand and agree to this Disclaimer.
+
+                                EXPEDIENT AND INTEL PROVIDE THE CLOUD COST CALCULATOR AND ALL INFORMATION INCLUDED
+                                THEREIN “AS IS” AND WITH ALL FAULTS AND HEREBY DISCLAIMS ALL REPRESENTATIONS AND
+                                WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT TO THE USE
+                                OF THE CLOUD COST CALCULATOR OR ANY INFORMATION INCLUDED THEREIN.
+
+                                IN NO EVENT SHALL EXPEDIENT OR INTEL BE LIABLE FOR ANY DAMAGES WHATSOEVER, WHETHER
+                                DIRECT, INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE, EXEMPLARY OR OTHERWISE,
+                                ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE, OR ANY RELIANCE
+                                ON, THE CLOUD COST CALCULATOR OR ANY INFORMATION INCLUDED THEREIN.
+
+                                The Cloud Cost Calculator is provided to you at no charge. Expedient and Intel have
+                                included in this Disclaimer terms that disclaim all warranties and liability for use of
+                                the Cloud Cost Calculator and the information included therein. To the full extent
+                                allowed by law, YOU HEREBY RELEASE EXPEDIENT AND INTEL FROM ANY AND ALL LIABILITY
+                                ARISING FROM OR RELATED TO THE CLOUD COST CALCULATOR OR ITS USE. The laws of the
+                                Commonwealth of Pennsylvania will apply to this Disclaimer.
+
+                            </div>
+                            <div class="clear"></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</article>
+
+<link rel="stylesheet" href="{{ "/css/calcs/system.base.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/system.menus.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/system.messages.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/system.theme.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.core.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.theme.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.button.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.resizable.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.dialog.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/jquery.ui.slider.min.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/field.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/hpsliders.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/node.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/search.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/user.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/views.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/ckeditor.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/ctools.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/tagclouds.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/reset.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/base.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/desktop.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/css/calcs/mobile.css" | absolute_url }}">
+
+
+<script type="text/javascript" src="{{ "/js/calcs/respond.min.js?mnatia" | absolute_url }}"></script>
+<script type="text/javascript"
+    src="{{ "/js/calcs/js_0gj6QcpfRH2jzTbCQqf7kEkm4MXY0UA_sRhwPc8jC1o.js" | absolute_url }}"></script>
+<script type="text/javascript"
+    src="{{ "/js/calcs/js_SiJaW6ffoy7DzSKM8nVGXP9moBmWH070-tSnAJqTw70.js" | absolute_url }}"></script>
+<script type="text/javascript"
+    src="{{ "/js/calcs/js_7SU08v1KGODbAmRjn2Q3fUSU5kw1wgZfk2BpHJodNpQ.js" | absolute_url }}"></script>
+
+<!-- Cloud Build -->
+<script type="text/javascript"
+    src="{{ "/js/calcs/js_ehHBDamD7L7tOQqaoPrLQKgApkLVfN-n8bP5goAHUw0.js" | absolute_url }}"></script>
+
+<script type="text/javascript"
+    src="{{ "/js/calcs/js_LWmYeu6bp3TYBcyA5XuIAhHEMJPQVFwPlNkK_iqm7do.js" | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/js/calcs/html2canvas.min.js" | absolute_url }}"></script>
