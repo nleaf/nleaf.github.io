@@ -72,6 +72,11 @@ page_sections:
   show_social: true
 tags:
 - Case Studies
+banner_image: ''
+date: 
+author: ''
+featured: false
+popular: false
 
 ---
-With solutions tailored to the professional services industry, Expedient helps Elite Services provide results-driven business communication solutions to customers.
+As a leading provider of billing and financial communication services, Elite Services Inc. works closely with its customers to improve their financial performance, providing reliable, results-driven statement print and mail, online billing and payment, and mobile pay solutions that help accelerate and enhance revenue collection. In order to offer the best experience, Elite must stay focused on improving its practices on a daily basis, so the company relies on Expedient to handle all of its day-to-day IT functions.
