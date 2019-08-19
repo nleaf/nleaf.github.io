@@ -76,10 +76,11 @@ page_sections:
 tags:
 - Case Studies
 banner_image: ''
-date: 
+date: ''
 author: ''
 featured: false
 popular: false
+block: highlights-2col
 
 ---
 For irth Solutions, moving its environment to Expedient was aimed at ensuring security and maintaining availability of its so ware to its clients, who rely on it every day, while providing the scalability to quickly grow business and respond to customer needs. These outcomes have been delivered successfully throughout the years since migration.
