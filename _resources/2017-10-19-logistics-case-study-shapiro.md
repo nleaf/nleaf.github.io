@@ -13,9 +13,9 @@ page_sections:
   icon: "/uploads/shapiro logo.png"
 - template: case-study-quote
   block: casestudy-quote
-  quote: Some of the things we dreamed with the cloud have come true. My team doesn't
-    have to manage hardware service contracts anymore, we don't have to worry about
-    upgrades.
+  quote: '"Some of the things we dreamed with the cloud have come true. My team doesn''t
+    have to manage hardware service contracts anymore, we don''t have to worry about
+    upgrades."'
   cite: "- Bob Kimmel, Director of Information Technology, Shapiro"
   icon: ''
   quote_background: ''
