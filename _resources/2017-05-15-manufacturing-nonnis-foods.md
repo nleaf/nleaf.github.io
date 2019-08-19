@@ -17,7 +17,7 @@ page_sections:
     channels of distribution, without bringing on more staff because the new ERP tool
     and the Expedient environment were solid and able to handle that extra capacity."'
   cite: "- Kelly Tryon, Chief Information Officer, Nonni's Foods LLC"
-  icon: ''
+  icon: "/uploads/kelly_tryon.jpg"
   quote_background: ''
 - template: case-study-intro
   block: casestudy-top
