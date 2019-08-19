@@ -13,7 +13,7 @@ page_sections:
     Infrastructure as a Service and Managed Services
 - template: case-study-quote
   block: casestudy-quote
-  icon: ''
+  icon: "/uploads/michael_teets.jpg"
   quote_background: ''
   quote: '"Thanks to the support of Expedient, we have been able to focus on building
     strategic applications that enhance the entire value chain of the contract flooring
