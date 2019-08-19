@@ -7,7 +7,6 @@ content: ''
 icon: ''
 background: ''
 headline: ''
-published: false
 
 ---
 #### _Company debuts in Solutions Expo and headlines five VMworld sessions_
