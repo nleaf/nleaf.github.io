@@ -54,8 +54,8 @@ page_sections:
     headline: The Challenge
     description: In the past, irth Solutions managed all of its services internally,
       including firewalls and hardware maintenance. But in partnering with Expedient,
-      irth was able to focus more on its customer service and not on the back-office
-      IT maintenance.
+      irth was able to focus more on its customer service and not on back-office IT
+      maintenance.
   - align-left: true
     icon: "/uploads/exp-results-icon.svg"
     background: "/uploads/exp_case_study_solution.jpg"
