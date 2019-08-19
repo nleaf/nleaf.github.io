@@ -77,6 +77,12 @@ page_sections:
   show_social: true
 tags:
 - Case Studies
+block: recentposts
+banner_image: ''
+date: 
+author: ''
+featured: false
+popular: false
 
 ---
-To maintain its focus on moving children’s education forward, Battelle for Kids leveraged Expedient’s advanced infrastructure as a service solutions.
+Battelle for Kids was seeking a hosting partner it could trust to allow its internal team to stay focused on its organizational mission and developing technology solutions that accelerate efforts of school districts and state departments of education to improve educational equity and opportunity for all students.
