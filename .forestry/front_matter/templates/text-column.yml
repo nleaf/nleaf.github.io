@@ -12,3 +12,5 @@ fields:
     wysiwyg: true
     schema:
       format: html
+pages:
+- _press/Expedient Announces VMworld 2019 Schedule of Events.md
