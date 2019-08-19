@@ -53,8 +53,8 @@ page_sections:
       expertise.
     headline: The Scenario
   - align-left: false
-    icon: "/uploads/EXP_Server.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: Prodigo’s biggest challenge was the time it took to onboard new clients;
       the existing infrastructure provider’s legacy data center environment hindered
