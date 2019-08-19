@@ -44,16 +44,16 @@ page_sections:
       it was imperative to find a partner with demonstrated excellence in those core
       infrastructure competencies.
   - align-left: false
-    icon: "/uploads/EXP_Server.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: Should CareWorks Tech continue to invest time and resources in data
       center management, or instead refocus on its core managed services and free
       up resources to drive increased revenues for the business by becoming trusted
       advisors and consultants to existing customers and potential clients?
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: Now CareWorks Tech and Expedient can go to market in Central Ohio
       and beyond with complementary, and comprehensive IT infrastructure and managed
