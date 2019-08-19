@@ -53,15 +53,15 @@ page_sections:
       must have a reliable IT infrastructure that is compliant with stringent HIPAA
       standards and can scale with the company as size and capacity needs increase.
   - align-left: false
-    icon: "/uploads/EXP_Server.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: MedCom also required a full-scale solution that could be managed
       by its hosting provider so that its focused in-house staff did not have to oversee
       the day-to-day IT environment.
   - align-left: true
     icon: "/uploads/exp-results-icon.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: As the company expands and seeks to further define its niche in the
       healthcare IT consulting industry, it will need to rely heavily upon [Expedient]
