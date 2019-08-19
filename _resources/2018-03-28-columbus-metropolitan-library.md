@@ -35,9 +35,7 @@ page_sections:
   - tag: Dedicated Firewall Management
   - tag: Dedicated Load Balancing
   - tag: Disaster Recovery as a Service
-  - tag: Two-Factor Authentication
   - tag: Unified Threat Management
-  - tag: Virtual Private Network (VPN)
 - template: highlights-2-column
   block: highlights-2col
   highlights:
