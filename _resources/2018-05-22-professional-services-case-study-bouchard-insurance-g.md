@@ -47,15 +47,15 @@ page_sections:
       claim event occurs.
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: Headquartered in Clearwater, FL, but with offices in Tampa, Ft. Myers,
       Kissimmee, Orlando, and Sarasota, Bouchard Insurance is no stranger to its share
       of hurricanes; Polak knew that Bouchard’s existing disaster recovery plan was
       not up to the standards Bouchard, and its clients, deserved.
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: Expedient’s Push Button DR solution gave Bouchard Insurance the ability
       to failover from its production environment in Florida to an Expedient data
