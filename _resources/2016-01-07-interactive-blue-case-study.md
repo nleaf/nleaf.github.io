@@ -48,15 +48,15 @@ page_sections:
       company find a scalable environment in its budget brought InteractiveBlue to
       Expedient.
   - align-left: false
-    icon: "/uploads/EXP_Server.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: Staying up to date with the latest technology was very important
       to InteractiveBlue because the company was not happy with the bare metal servers
       it had at its last provider.
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: By hosting with an enterprise cloud provider, InteractiveBlue benefits
       from constantly improving performance by utilizing Intel's latest technology
