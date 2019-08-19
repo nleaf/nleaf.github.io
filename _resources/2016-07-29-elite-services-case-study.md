@@ -75,7 +75,8 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
-tags: [Case Studies]
+tags:
+- Case Studies
+
 ---
- 
 With solutions tailored to the professional services industry, Expedient helps Elite Services provide results-driven business communication solutions to customers.
