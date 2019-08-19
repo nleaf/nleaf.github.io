@@ -9,7 +9,7 @@ author: Jon Rosenson
 ---
 ## Private vs. Public Cloud
 
-Cloud computing delivers infrastructure as a service (IaaS) that can be consumed as an operating expense rather than acquired as an asset. The flexibility of moving from capital expense to operating expense provides organizations with a choice between public cloud and private cloud environment options. Choosing between the two—or taking a hybrid cloud approach where workloads operate in both types of environments—requires an understanding of the subtle differences.  
+Cloud computing delivers infrastructure as a service (IaaS) that can be consumed as an operating expense rather than acquired as an asset. The flexibility of moving from capital expense to operating expense provides organizations with a choice between public cloud and private cloud environment options. Choosing between the two—or taking a hybrid cloud approach where workloads operate in both types of environments—requires an understanding of the subtle differences.
 
 In a **public cloud**, logical computing resources are shared among multiple organizations across the same physical infrastructure and the following feature attributes apply:
 
@@ -41,10 +41,7 @@ In a **private cloud**, all computing resources are dedicated to a single organi
 * Industry or government compliance mandates limited the feasibility of shared resources
 * Accepting higher, but predictable costs to ensure dedicated resources is strongly desired
 
-Some organizations may choose a hybrid approach by deploying workloads across both types of environments. 
+Some organizations may choose a hybrid approach by deploying workloads across both types of environments. Public, private and hybrid cloud environments can keep data safe, secure and separate. Expedient can deliver the outcome you’re looking for in one of its local data centers near you or one that’s further away—for backup or disaster recovery reasons.
 
-Public, private and hybrid cloud environments can keep data safe, secure and separate. 
-
-Expedient can deliver the outcome you’re looking for in one of its local data centers near you or one that’s further away—for backup or disaster recovery reasons.
-
-_As Senior Vice President and Chief Operating Officer, Jonathan Rosenson is responsible for overseeing organizational functions that drive growth at Expedient. Jon additionally acts as an external spokesperson conveying the Expedient story._ [_Follow him_](https://twitter.com/rosenson) _on Twitter._
+_  
+As Senior Vice President and Chief Operating Officer, Jonathan Rosenson is responsible for overseeing organizational functions that drive growth at Expedient. Jon additionally acts as an external spokesperson conveying the Expedient story._ [_Follow him_](https://twitter.com/rosenson) _on Twitter._
