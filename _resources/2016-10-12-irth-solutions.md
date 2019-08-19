@@ -13,9 +13,9 @@ page_sections:
   icon: "/uploads/irth-news.png"
 - template: case-study-quote
   block: casestudy-quote
-  quote: The greatest benefit to partnering with Expedient is the ability to scale
+  quote: '"The greatest benefit to partnering with Expedient is the ability to scale
     out quickly and scale our production environment as the business grows. It gives
-    us the ability to exceed our customers' needs and expectations.
+    us the ability to exceed our customers'' needs and expectations."'
   cite: Sean Vaden, Director of IT, irth Solutions
   icon: ''
   quote_background: ''
