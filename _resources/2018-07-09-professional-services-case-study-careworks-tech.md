@@ -55,10 +55,11 @@ page_sections:
     icon: "/uploads/EXP_Solution.svg"
     background: "/uploads/ph_hurricane.jpg"
     headline: The Solution
-    description: Now the two organizations can go to market in Central Ohio and beyond
-      with complementary, and comprehensive, IT infrastructure and managed services
-      solutions with CareWorks Tech focusing on managing IT services for its customers
-      and Expedient powering the infrastructure underneath those services when necessary.
+    description: Now CareWorks Tech and Expedient can go to market in Central Ohio
+      and beyond with complementary, and comprehensive IT infrastructure and managed
+      services solutions with CareWorks Tech focusing on managing IT services for
+      its customers and Expedient powering the infrastructure underneath those services
+      when necessary.
 - template: recent-posts
   block: recentposts
 - template: newsletter

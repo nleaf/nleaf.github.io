@@ -52,7 +52,7 @@ page_sections:
       life.
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: Further, CML’s disaster recovery plan was outdated and hadn’t recently
       been put through the rigors of full testing; the team lacked confidence in its
