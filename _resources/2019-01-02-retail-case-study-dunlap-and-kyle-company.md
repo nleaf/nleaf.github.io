@@ -57,7 +57,7 @@ page_sections:
       to protect its IT environment, the centralized nature of its legacy RS/6000-based
       system left the company vulnerable to IT downtime.
   - align-left: true
-    icon: ''
+    icon: "/uploads/exp-results-icon.svg"
     background: ''
     headline: The Solution
     description: While Hill was originally going to enlist Expedient only as a colocation
