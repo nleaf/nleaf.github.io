@@ -60,8 +60,8 @@ page_sections:
       own hardware through capital expenditures to paying for managed services through
       operational expenses.
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: Battelle for Kids found the solution it was looking for with Expedient’s
       hybrid cloud offering, a combination of public cloud infrastructure as a service
