@@ -46,11 +46,11 @@ fields:
     min: 
     max: 
 pages:
+- file-transfer-time-calculator.md
+- disk-raid-and-iops-calculator.md
 - disk-based-backup-calculator.md
 - data-center-build-vs-buy-calculator.md
 - cloud-build-vs-buy-calculator.md
-- disk-raid-and-iops-calculator.md
-- file-transfer-time-calculator.md
 - cloud.md
 - colocation.md
 - disaster-recovery.md

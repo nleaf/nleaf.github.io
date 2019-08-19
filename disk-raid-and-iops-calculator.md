@@ -34,9 +34,10 @@ type: include
 template: seo
 label: SEO
 name: seo
-seo_title: Cloud Computing and Data Center Infrastructure as a Service
-description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
-  Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
+seo_title: ''
+description: Do you know how many Input/Output Operations Per Second (IOPS) your RAID
+  configuration is going to produce? Are you trying to calculate how much usable storage
+  you are going to net from different RAID configurations?
 image: ''
 
 ---

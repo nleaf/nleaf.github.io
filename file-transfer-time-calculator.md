@@ -34,9 +34,10 @@ type: include
 template: seo
 label: SEO
 name: seo
-seo_title: Cloud Computing and Data Center Infrastructure as a Service
-description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
-  Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
+seo_title: ''
+description: Ever wonder how much bandwidth is consumed when transferring a large
+  video or CAD file? Use this calculator to determine how much time and bandwidth
+  it takes to move large files around a network.
 image: ''
 
 ---
