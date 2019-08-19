@@ -34,8 +34,8 @@ Becky Mancuso
 Director of Marketing  
 [becky.mancuso@expedient.com](mailto:becky.mancuso@expedient.com)
 
-\**  
-About Informa Tech**
+  
+**About Informa Tech**
 
 Channel Futures, Channel Partners Online, Channel Partners Conference & Expo and Channel Partners Evolution are part of Informa Tech, a market-leading B2B information provider with depth and specialization in the Information and Communications (ICT) Technology sector. We help drive the future by inspiring the Technology community to design, build and run a better digital world through our market-leading research, media, training and event brands. Every year, we welcome 7,400+ subscribers to our research, more than 3.8 million unique visitors a month to our digital communities, 18,200+ students to our training programs and 225,000 delegates to our events.
 
