@@ -52,8 +52,8 @@ page_sections:
       improving its practices on a daily basis, so the company relies on Expedient
       to handle all of its day-to-day IT functions.
   - align-left: false
-    icon: "/uploads/EXP_Server.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: The nature of Elite's business has it competing against much larger
       corporations for customers, so while it can offer the same services with a more
