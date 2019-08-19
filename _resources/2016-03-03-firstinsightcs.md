@@ -72,7 +72,8 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
-tags: [Case Studies]
+tags:
+- Case Studies
+
 ---
- 
 First Insight, an eCommerce / retail SaaS provider, depends on Expedient's reliable infrastructure to enable its clients to pick products that deliver profits.
