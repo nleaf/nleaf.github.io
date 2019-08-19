@@ -46,7 +46,7 @@ page_sections:
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_scenario-1.jpg"
     description: To support the data and IT demands of its customers while also facilitating
       further revenue growth via new customer acquisition, Prodigo knew it needed
       an infrastructure partner with turnkey service capabilities and top-tier technical

@@ -46,6 +46,7 @@ fields:
     min: 
     max: 
 pages:
+- _resources/2018-10-04-professional-services-case-study-prodigo-solutions.md
 - _resources/2018-02-02-ecommerce-retail-case-study-stanley-steemer.md
 - _resources/2016-07-27-orchard-software-case-study.md
 - _resources/2017-07-27-manufacturing-tic-gums.md
@@ -64,7 +65,6 @@ pages:
 - _resources/2018-05-22-professional-services-case-study-bouchard-insurance-g.md
 - _resources/2018-07-09-professional-services-case-study-careworks-tech.md
 - _resources/2017-03-01-battelle-for-kids.md
-- _resources/2018-10-04-professional-services-case-study-prodigo-solutions.md
 - _resources/2018-11-01-professional-services-case-study-ultimate-home-services.md
 - file-transfer-time-calculator.md
 - disk-raid-and-iops-calculator.md
