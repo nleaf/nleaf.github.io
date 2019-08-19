@@ -1,26 +1,8 @@
 ---
-block: recentposts
-link: []
-cta: Learn More
-heading: Expedient Announces VMworld 2019 Schedule of Events
-content: ''
-icon: ''
-background: ''
-headline: Expedient Announces VMworld 2019 Schedule of Events
-title: Expedient Announces VMworld 2019 Schedule of Events
-seo_title: ''
-description: Pittsburgh, PA – 19 August 2019 – Expedient, a cloud computing and data
-  center infrastructure as a service provider, today announced that it will exhibit
-  at VMworld 2019, taking place at the Moscone Center in San Francisco, August 25
-  – 29.
-image: ''
-banner_image: ''
-date: 
-author: ''
-tags: []
-featured: false
-popular: false
-
+title: 'Expedient Announces VMworld 2019 Schedule of Events'
+date: Thu, 09 Aug 2019 16:29:28 +0000
+download: ''
+draft: false
 ---
 **_Company debuts in Solutions Expo and headlines five VMworld sessions_**
 
