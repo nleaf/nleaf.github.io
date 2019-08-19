@@ -76,7 +76,8 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
-tags: [Case Studies]
----
+tags:
+- Case Studies
 
+---
 MedCom's success is driven by addressing current medical billing and technology issues with customized technology solutions. In order to keep its focus on advancing its business, MedCom needed an IT solutions hosting provider who offered a stable, secure network that met strict requirements for HIPAA compliance, while still providing the personalized service MedCom anticipated needing during a complex migration of services.

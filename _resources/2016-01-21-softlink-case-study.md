@@ -75,7 +75,8 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
-tags: [Case Studies]
+tags:
+- Case Studies
+
 ---
- 
 Softlinx needed a colocation and hosting provider that offered guaranteed uptime and compliance support for healthcare and financial industries, all at an affordable price point; Expedient fulfilled its need. Learn more in the Softlinx case study.
