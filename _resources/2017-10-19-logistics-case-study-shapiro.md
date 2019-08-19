@@ -44,10 +44,10 @@ page_sections:
     icon: "/uploads/EXP_Scenario.svg"
     background: "/uploads/ph_hurricane.jpg"
     headline: The Scenario
-    description: The Shapiro IT team had been managing its own data centers, which
-      was a drain on bandwidth and resources, especially as the team is also responsible
-      for the development, management, and continued optimization of Shapiro 360°,
-      which handles a large majority of day-to-day functions for the company.
+    description: Shapiro's in-house IT team had been managing its own data centers,
+      which was a drain on bandwidth and resources, especially as the team is also
+      responsible for the development, management, and continued optimization of Shapiro
+      360°, which handles a large majority of day-to-day functions for the company.
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
     background: "/uploads/ph_hurricane.jpg"

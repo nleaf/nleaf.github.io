@@ -61,8 +61,8 @@ page_sections:
       big picture tasks associated with expanding the business while maintaining its
       reputation for high-quality, premium cookie products.
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: Expedient's 100% uptime service level agreement gives Nonni's IT
       staff the peace of mind and agility to focus on bettering business processes
