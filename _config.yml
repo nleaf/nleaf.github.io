@@ -40,7 +40,7 @@ collections:
     permalink: "/projects/:path/"
   press:
     output: true
-    permalink: "/about/media/press/:path/"
+    permalink: "/about/media/:path/"
   resources:
     output: true
     permalink: "/knowledgebase/resources/:title/"
