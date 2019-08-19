@@ -15,9 +15,9 @@ page_sections:
   block: casestudy-quote
   icon: ''
   quote_background: ''
-  quote: We knew we were looking for a different kind of disaster recovery solution.
-    We had complete confidence in [Expedient's] technical expertise and in the research
-    we had done.
+  quote: '"We knew we were looking for a different kind of disaster recovery solution.
+    We had complete confidence in [Expedient''s] technical expertise and in the research
+    we had done."'
   cite: "- Brian Polak, Director of Information Technology, Bouchard Insurance"
 - template: case-study-intro
   block: casestudy-top
