@@ -13,9 +13,9 @@ page_sections:
   icon: "/uploads/Nonnis Food - logo - red.png"
 - template: case-study-quote
   block: casestudy-quote
-  quote: We were able to add significantly to the business, new bakeries and additional
+  quote: '"We were able to add significantly to the business, new bakeries and additional
     channels of distribution, without bringing on more staff because the new ERP tool
-    and the Expedient environment were solid and able to handle that extra capacity.
+    and the Expedient environment were solid and able to handle that extra capacity."'
   cite: "- Kelly Tryon, Chief Information Officer, Nonni's Foods LLC"
   icon: ''
   quote_background: ''
