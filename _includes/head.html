@@ -6,7 +6,14 @@
   <title>{% if page.seo_title  == nil or page.seo_title == empty%}{{ page.title }}{% else %}{{ page.seo_title }}{% endif %} - {{ site.title }}</title>
   <meta name="description" content="{% if .page.description %}{{ .page.description }}{% else %}{{ .site.description }}{% endif %}">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="icon" type="image/png" href="{{ "/img/favicon.png" | absolute_url }}"/>
+  <!-- FAVICON -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+  <link rel="manifest" href="/img/site.webmanifest">
+  <link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#2b5797">
+  <meta name="theme-color" content="#ffffff">
   <link rel="stylesheet" href="{{ "/css/tailwind.css" | absolute_url }}">
   <link href="https://fonts.googleapis.com/css?family=Raleway:400,600,700|Source+Sans+Pro:300,400,700&display=swap" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
