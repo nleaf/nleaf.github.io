@@ -53,10 +53,10 @@ page_sections:
     background: "/uploads/ph_hurricane.jpg"
     headline: The Challenge
     description: In addition to a private cloud solution, Shapiro also needed a robust,
-      one-touch disaster recovery solution – preferably shared for cost-efficiency
-      – and a compliance-forward solutions provider who was mindful of data security
-      and dedicated to staying ahead of evolving government and industry compliance
-      regulations.
+      one-touch disaster recovery solution – preferably in a shared consumption model
+      for cost-efficiency – and a compliance-forward solutions provider who was mindful
+      of data security and dedicated to staying ahead of evolving government and industry
+      compliance regulations.
   - align-left: true
     icon: "/uploads/EXP_Solution.svg"
     background: "/uploads/ph_hurricane.jpg"
