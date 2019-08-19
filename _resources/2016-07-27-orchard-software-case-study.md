@@ -13,7 +13,7 @@ page_sections:
     on Seamless Integration of Laboratory Information Systems Since 2004
 - template: case-study-quote
   block: casestudy-quote
-  icon: ''
+  icon: "/uploads/seth_bosworth.jpg"
   quote_background: ''
   quote: '"From internet to colocation to cloud hosting offered to our clients, Orchard
     has been very satisfied with the services provided by Expedient since we first
