@@ -46,7 +46,7 @@ page_sections:
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_scenario-1.jpg"
     headline: The Scenario
     description: Two big considerations for Hensley and his team were technology lock-in
       and cost control. Like many organizations, TIC Gums was faced with an aging

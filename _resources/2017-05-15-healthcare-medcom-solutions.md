@@ -15,8 +15,8 @@ page_sections:
   block: casestudy-quote
   icon: ''
   quote_background: ''
-  quote: The availability, the scalability, and the customer service we were able
-    to receive from [Expedient] is really great.
+  quote: '"The availability, the scalability, and the customer service we were able
+    to receive from [Expedient] is really great."'
   cite: Ziwei Yi, Director of Data and Technologies, MedCom Solutions
 - template: case-study-intro
   block: casestudy-top
@@ -34,7 +34,6 @@ page_sections:
   - tag: Cloud
   - tag: Connectivity
   managedservices:
-  - tag: Backups
   - tag: Dedicated Firewall Management
   - tag: Disaster Recovery as a Service
   - tag: Server Management & Monitoring
