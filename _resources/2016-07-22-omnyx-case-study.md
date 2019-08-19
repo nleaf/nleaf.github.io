@@ -15,9 +15,9 @@ page_sections:
   block: casestudy-quote
   icon: ''
   quote_background: ''
-  quote: With our production servers housed in Expedient's scalable, virtualized environment,
-    we're able to add a server for new applications quickly, without a heavy upfront
-    hardware investment.
+  quote: '"With our production servers housed in Expedient''s scalable, virtualized
+    environment, we''re able to add a server for new applications quickly, without
+    a heavy upfront hardware investment."'
   cite: Kirk Howard, Director of IT, Omnyx
 - template: case-study-intro
   block: casestudy-top
@@ -59,7 +59,7 @@ page_sections:
     headline: The Solution
     description: Omnyx is growing in size, scope, reach and revenue, which requires
       more compute capacity. Expedient allows Omnyx to scale its infrastructure without
-      missing a beat, allowing it to meet the needs of the pathologists using its
+      missing a beat, enabling it to meet the needs of the pathologists using its
       software and products.
   heading: ''
   subheading: ''

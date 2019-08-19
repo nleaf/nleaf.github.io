@@ -55,7 +55,7 @@ page_sections:
       360°, which handles a large majority of day-to-day functions for the company.
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: In addition to a private cloud solution, Shapiro also needed a robust,
       one-touch disaster recovery solution – preferably in a shared consumption model
