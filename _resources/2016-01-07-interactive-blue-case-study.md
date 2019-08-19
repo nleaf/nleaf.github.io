@@ -13,7 +13,7 @@ page_sections:
     for Future Growth
 - template: case-study-quote
   block: casestudy-quote
-  icon: ''
+  icon: "/uploads/will_oneil.jpg"
   quote_background: ''
   quote: '"The whole point of moving to a virtual, cloud-based situation is that we''re
     not going to fall behind. Having someone who is continually updating and continually

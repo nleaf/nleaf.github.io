@@ -46,6 +46,7 @@ fields:
     min: 
     max: 
 pages:
+- _resources/2016-01-07-interactive-blue-case-study.md
 - _resources/2016-07-29-elite-services-case-study.md
 - _resources/2018-03-28-columbus-metropolitan-library.md
 - _resources/2018-07-09-professional-services-case-study-careworks-tech.md
@@ -57,7 +58,6 @@ pages:
 - _resources/2017-10-20-professional-services-case-study-bouchard-insurance.md
 - _resources/2018-11-01-professional-services-case-study-ultimate-home-services.md
 - _resources/2019-01-02-retail-case-study-dunlap-and-kyle-company.md
-- _resources/2016-01-07-interactive-blue-case-study.md
 - _resources/2016-01-21-softlink-case-study.md
 - index.md
 - _resources/2016-03-03-firstinsightcs.md
