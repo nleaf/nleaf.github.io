@@ -26,7 +26,12 @@ page_sections:
     chain and customs brokerage solutions for organizations ranging from traditional
     commercial importers and exporters in the retail, pharmaceutical, consumer goods,
     and commodities industries to online sellers importing and exporting through third-party
-    fulfillment services.
+    fulfillment services. Among Shapiro's key differentiators are its commitment to
+    customs compliance, its tailored operating procedures, its in-house IT team team
+    - which has developed and maintains the best-of-breed Shapiro 360 business intelligence
+    application - and the direct access all Shapiro customers have to company owner
+    Margie Shapiro, whose commitment to technology infrastructure investment has set
+    Shapiro apart in a rapidly changing industry.
   services:
   - tag: Cloud
   - tag: Connectivity

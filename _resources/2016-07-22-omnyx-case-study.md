@@ -47,8 +47,8 @@ page_sections:
       service provider made much more financial sense than investing capital to build
       out an in-house data center for Omnyx.
   - align-left: false
-    icon: "/uploads/EXP_CostControl.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: '"The cost of maintaining production-ready data center infrastructure
       - redundant power, proper fire suppression and multi-homed backbone connectivity
