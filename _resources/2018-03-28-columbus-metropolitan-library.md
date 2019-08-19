@@ -61,8 +61,8 @@ page_sections:
       it was imperative to the team that they find a stable solution for its undersized
       infrastructure and moderate disaster recovery plan.
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: "“We looked very briefly at a rebuild, but there were a lot of things
       that made sense about moving to the cloud,” said Bardus. “We were able to expand
