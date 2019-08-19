@@ -35,9 +35,8 @@ template: seo
 label: SEO
 name: seo
 seo_title: ''
-description: Expedient’s Disaster Recovery as a Service solutions have been recognized
-  in the Gartner Magic Quadrant for DRaaS and offer fast, total network failover without
-  IP and DNS changes.
+description: How much storage and bandwidth do you need for your disk based backups?
+  Use the options in this calculator to determine your sizing requirements.
 image: ''
 
 ---
