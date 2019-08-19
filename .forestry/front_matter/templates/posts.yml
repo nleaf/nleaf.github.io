@@ -91,7 +91,6 @@ fields:
   default: false
 pages:
 - _resources/2017-07-27-manufacturing-tic-gums.md
-- _resources/2018-03-28-columbus-metropolitan-library.md
 - _resources/2017-03-01-battelle-for-kids.md
 - _press/Expedient Announces VMworld 2019 Schedule of Events.md
 - _posts/2019-08-13-persistent-volume-options-for-kubernetes-storage.md
