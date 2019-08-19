@@ -5,7 +5,7 @@ permalink: "/privacy-policy"
 page_sections:
 - template: page-hero
   block: page-hero
-  banner_image: ''
+  banner_image: "/uploads/bg_servies.jpg"
   subheadline: ''
 - template: content-block-full
   block: content-full
