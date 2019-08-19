@@ -42,15 +42,15 @@ page_sections:
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_scenario-1.jpg"
     headline: The Scenario
     description: irth Solutions aims to help its clients execute the work that is
       most important to their success through its UtiliSphere enterprise cloud solution.
       To accomplish this, irth needs to have a solid IT infrastructure that it can
       rely on so its people can focus on delivering excellence to their customers.
   - align-left: false
-    icon: "/uploads/EXP_Server.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: In the past, irth Solutions managed all of its services internally,
       including firewalls and hardware maintenance. But in partnering with Expedient,
