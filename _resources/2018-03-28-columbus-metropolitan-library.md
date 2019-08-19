@@ -13,8 +13,8 @@ page_sections:
   icon: "/uploads/CML_Logo_Stacked_Color.png"
 - template: case-study-quote
   block: casestudy-quote
-  icon: ''
-  quote_background: ''
+  icon: "/uploads/burton_bardus.jpg"
+  quote_background: "/uploads/exp_CaseStudybg-cml.jpg"
   quote: '"It really felt like we pushed a button and our environment was moved. I
     would just shake my head in disbelief that it happened."'
   cite: "- Burton Bardus, Senior Director of Information Technology, Columbus Metropolitan
