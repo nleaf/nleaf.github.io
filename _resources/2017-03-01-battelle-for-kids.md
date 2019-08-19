@@ -13,10 +13,10 @@ page_sections:
   icon: "/uploads/BFK_logo_stackedblue.png"
 - template: case-study-quote
   block: casestudy-quote
-  quote: Since we began partnering with Expedient, Battle for Kids has reduced our
+  quote: '"Since we began partnering with Expedient, Battle for Kids has reduced our
     overall cost in technology infrastructure, increased our speed, reliability and
     capability to support our clients, and ensured that our infrastructure is stable
-    and effective.
+    and effective."'
   cite: "- Oscar Paredes, Managing Director of Technology, Battelle for Kids"
   icon: ''
   quote_background: ''

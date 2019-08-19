@@ -46,6 +46,7 @@ fields:
     min: 
     max: 
 pages:
+- _resources/2017-03-01-battelle-for-kids.md
 - _resources/2018-02-02-ecommerce-retail-case-study-stanley-steemer.md
 - _resources/2017-07-27-manufacturing-tic-gums.md
 - _resources/2017-05-15-healthcare-medcom-solutions.md
@@ -65,7 +66,6 @@ pages:
 - _resources/2019-01-02-retail-case-study-dunlap-and-kyle-company.md
 - _resources/2018-05-22-professional-services-case-study-bouchard-insurance-g.md
 - _resources/2018-07-09-professional-services-case-study-careworks-tech.md
-- _resources/2017-03-01-battelle-for-kids.md
 - file-transfer-time-calculator.md
 - disk-raid-and-iops-calculator.md
 - disk-based-backup-calculator.md
