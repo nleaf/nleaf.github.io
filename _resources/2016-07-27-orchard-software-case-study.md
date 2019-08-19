@@ -73,7 +73,6 @@ page_sections:
 tags:
 - Case Studies
 banner_image: ''
-date: ''
 author: ''
 featured: false
 popular: false

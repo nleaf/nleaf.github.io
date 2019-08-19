@@ -79,7 +79,6 @@ tags:
 - Case Studies
 block: recentposts
 banner_image: ''
-date: 
 author: ''
 featured: false
 popular: false
