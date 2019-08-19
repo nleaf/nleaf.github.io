@@ -60,8 +60,8 @@ page_sections:
       personal touch, it must be able to prove to potential customers that it can
       compete with the "big boys" on technology and service.
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: '"We want to continue to gain more market share and to advance technically,
       from a software development standpoint, so we will need Expedient from a scalability
