@@ -42,6 +42,21 @@ page_sections:
   subheading: ''
   highlights:
   - align-left: true
+    icon: "/uploads/EXP_Scenario.svg"
+    background: "/uploads/exp_case_study_scenario-1.jpg"
+    headline: The Scenario
+    description: For Softlinx, value was important. The company needed a full-service
+      provider that offered solid solutions with guaranteed performance but without
+      breaking the bank.
+  - align-left: false
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_case_study_challenge.jpg"
+    headline: The Challenge
+    description: With the majority of Softlinx customers being in the healthcare or
+      financial industries, the company has to be compliant to HIPAA and PCI-DSS.
+      Finding a provider that was ready and able to complement Softlinx's efforts
+      to complete successful audit reports pursuant to regulations was necessary.
+  - align-left: true
     icon: "/uploads/exp-results-icon.svg"
     background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
@@ -51,21 +66,6 @@ page_sections:
       increase storage and bandwidth, and introduce additional application services
       relying on the scalability and guaranteed uptime of Expedient's products and
       services.
-  - align-left: true
-    icon: "/uploads/EXP_Scenario.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: The Scenario
-    description: For Softlinx, value was important. The company needed a full-service
-      provider that offered solid solutions with guaranteed performance but without
-      breaking the bank.
-  - align-left: false
-    icon: "/uploads/EXP_RiskMitigation.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: The Challenge
-    description: With the majority of Softlinx customers being in the healthcare or
-      financial industries, the company has to be compliant to HIPAA and PCI-DSS.
-      Finding a provider that was ready and able to complement Softlinx's efforts
-      to complete successful audit reports pursuant to regulations was necessary.
 - template: recent-posts
   block: recentposts
 - template: newsletter

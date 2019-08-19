@@ -72,6 +72,11 @@ page_sections:
   show_social: true
 tags:
 - Case Studies
+banner_image: ''
+date: ''
+author: ''
+featured: false
+popular: false
 
 ---
-Expedient's reliable infrastructure as a service for the healthcare industry keeps Orchard Software focused on seamless integration of laboratory information systems.
+Expedient's reliable infrastructure as a service for the healthcare industry keeps Orchard Software focused on seamless integration of laboratory information systems. Orchard lab systems improve reimbursements and ease the task of medical necessity validation by automatically screening ICD codes and testing frequency and experimental procedures during order entry in places like multispecialty clinics, physician offices, hospitals, fertility clinics, public health organizations and veterinary labs.
