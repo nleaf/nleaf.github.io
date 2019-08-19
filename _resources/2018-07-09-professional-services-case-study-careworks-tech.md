@@ -37,7 +37,7 @@ page_sections:
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_scenario-1.jpg"
     headline: The Scenario
     description: For CareWorks Tech, who wanted to get out of data center management
       but still needed to provide cloud and colocation services to its customers,
