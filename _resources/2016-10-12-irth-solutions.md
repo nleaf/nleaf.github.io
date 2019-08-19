@@ -57,8 +57,8 @@ page_sections:
       irth was able to focus more on its customer service and not on the back-office
       IT maintenance.
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: For irth Solutions, moving its environment to Expedient was aimed
       at ensuring security and maintaining availability of its software to its clients,
