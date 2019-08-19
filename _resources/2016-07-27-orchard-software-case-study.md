@@ -53,8 +53,8 @@ page_sections:
       infrastructure became a distraction from evolving software features leading
       them to Expedient for a data center and managed services solution. '
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: Orchard consumes infrastructure services among three Expedient data
       centers in order to ensure the reliability of seamless integration linking multiple

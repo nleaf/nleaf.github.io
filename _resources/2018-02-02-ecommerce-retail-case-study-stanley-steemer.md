@@ -37,7 +37,7 @@ page_sections:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
     background: "/uploads/ph_hurricane.jpg"
-    description: 'With a combined nearly 45 years of experience leading Stanley Steemer’s
+    description: 'With nearly 45 years of combined experience leading Stanley Steemer’s
       IT operations, Tom Junewicz and Rob Bennett – and their 20+ person IT team –
       had steered Stanley Steemer through a number of evolutions in information technology.
       The era of digital transformation, however, was driving one of their biggest
