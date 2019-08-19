@@ -19,7 +19,7 @@ page_sections:
     and effective."'
   cite: "- Oscar Paredes, Managing Director of Technology, Battelle for Kids"
   icon: ''
-  quote_background: ''
+  quote_background: "/uploads/exp_CaseStudybg-bfk.jpg"
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
