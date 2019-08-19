@@ -1199,7 +1199,8 @@ h2 .ctaLink::after {
 /* Top Banner */
 
 .bg-cover {
-  height: 575px;
+  min-height: 575px;
+  height: auto;
 }
 
 .bg-cover.indexHero {
