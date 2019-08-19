@@ -43,7 +43,7 @@ page_sections:
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_scenario-1.jpg"
     headline: The Scenario
     description: Columbus Metropolitan Library’s Information Technology team, led
       by Senior Director of Information Technology Burton Bardus, knew it was time

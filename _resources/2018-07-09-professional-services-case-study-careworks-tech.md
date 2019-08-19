@@ -49,8 +49,8 @@ page_sections:
     headline: The Challenge
     description: Should CareWorks Tech continue to invest time and resources in data
       center management, or instead refocus on its core managed services and free
-      resources to drive increased revenues for the business by becoming trusted advisors
-      and consultants to existing customers and potential clients?
+      up resources to drive increased revenues for the business by becoming trusted
+      advisors and consultants to existing customers and potential clients?
   - align-left: true
     icon: "/uploads/EXP_Solution.svg"
     background: "/uploads/ph_hurricane.jpg"

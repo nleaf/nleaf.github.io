@@ -46,6 +46,8 @@ fields:
     min: 
     max: 
 pages:
+- _resources/2018-07-09-professional-services-case-study-careworks-tech.md
+- _resources/2018-03-28-columbus-metropolitan-library.md
 - _resources/2017-03-01-battelle-for-kids.md
 - _resources/2018-05-22-professional-services-case-study-bouchard-insurance-g.md
 - _resources/2018-10-04-professional-services-case-study-prodigo-solutions.md
@@ -62,8 +64,6 @@ pages:
 - colocation.md
 - disaster-recovery.md
 - executive-team.md
-- _resources/2018-03-28-columbus-metropolitan-library.md
-- _resources/2018-07-09-professional-services-case-study-careworks-tech.md
 - _resources/2018-02-02-ecommerce-retail-case-study-stanley-steemer.md
 - index.md
 - overview.md
