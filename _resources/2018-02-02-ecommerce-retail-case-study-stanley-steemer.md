@@ -11,10 +11,6 @@ page_sections:
   subheading: Stanley Steemer Launches Mobile Applications as Part of Business Transformation
     with Expedient’s Infrastructure as a Service and Disaster Recovery Solutions
   icon: "/uploads/stanley-steemer-1.svg"
-- template: subscribe-bar
-  block: subbar
-  headline: ''
-  cta: ''
 - template: case-study-quote
   block: casestudy-quote
   quote: This stuff is like magic. Literally one button to push and we were in another
