@@ -15,18 +15,19 @@ page_sections:
   block: casestudy-quote
   icon: ''
   quote_background: ''
-  quote: We have been growing very fast. As a result, we talked to at least half a
-    dozen big providers, as big as Amazon and Microsoft, and then small ones and the
-    local ones; Expedient met all of our requirements as they were the perfect mix
-    of scale and personal touch."
+  quote: '"We have been growing very fast. As a result, we talked to at least half
+    a dozen big providers, as big as Amazon and Microsoft, and then small ones and
+    the local ones; Expedient met all of our requirements as they were the perfect
+    mix of scale and personal touch."'
   cite: "- Dr. Hikyu Lee, President and CEO of Softlinx Inc."
 - template: case-study-intro
   block: casestudy-top
-  header: Market Opportunity
-  description: Softlinx, a provider of HIPAA-compliant cloud fax services and enterprise
-    fax solutions, needed a colocation and hosting provider that offered guaranteed
-    uptime, had a nationwide presence but with a local data center, and offered compliance
-    support for healthcare and financial industries, all at an affordable price point.
+  header: ''
+  description: Softlinx, a provider of HIPAA-compliant cloud-based fax services and
+    enterprise fax solutions, needed a colocation and hosting provider that offered
+    guaranteed uptime, had a nationwide presence but with a local data center, and
+    offered compliance support for healthcare and financial industries, all at an
+    affordable price point.
   services:
   - tag: Cloud
   - tag: Connectivity
@@ -53,7 +54,7 @@ page_sections:
     background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: With the majority of Softlinx customers being in the healthcare or
-      financial industries, the company has to be compliant to HIPAA and PCI-DSS.
+      financial industries, the company has to be compliant with HIPAA and PCI-DSS.
       Finding a provider that was ready and able to complement Softlinx's efforts
       to complete successful audit reports pursuant to regulations was necessary.
   - align-left: true
