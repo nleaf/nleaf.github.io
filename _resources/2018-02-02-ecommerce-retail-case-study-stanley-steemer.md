@@ -13,8 +13,8 @@ page_sections:
   icon: "/uploads/stanley-steemer-1.svg"
 - template: case-study-quote
   block: casestudy-quote
-  quote: This stuff is like magic. Literally one button to push and we were in another
-    facility.
+  quote: '"This stuff is like magic. Literally one button to push and we were in another
+    facility."'
   cite: "- Tom Junewicz, Director of Information Technology, Stanley Steemer"
   icon: ''
   quote_background: ''
