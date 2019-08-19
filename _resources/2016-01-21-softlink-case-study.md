@@ -13,7 +13,7 @@ page_sections:
   heading: The Perfect Match
 - template: case-study-quote
   block: casestudy-quote
-  icon: ''
+  icon: "/uploads/hikyu_lee.jpg"
   quote_background: ''
   quote: '"We have been growing very fast. As a result, we talked to at least half
     a dozen big providers, as big as Amazon and Microsoft, and then small ones and
