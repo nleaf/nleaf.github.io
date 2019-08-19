@@ -15,9 +15,9 @@ page_sections:
   block: casestudy-quote
   icon: ''
   quote_background: ''
-  quote: Thanks to the support of Expedient, we have been able to focus on building
+  quote: '"Thanks to the support of Expedient, we have been able to focus on building
     strategic applications that enhance the entire value chain of the contract flooring
-    business.
+    business."'
   cite: "- Michael Teets, CIO, Ultimate Home Services"
 - template: case-study-intro
   block: casestudy-top
