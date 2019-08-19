@@ -46,6 +46,7 @@ fields:
     min: 
     max: 
 pages:
+- _resources/2016-10-12-irth-solutions.md
 - _resources/2016-01-07-interactive-blue-case-study.md
 - _resources/2016-07-29-elite-services-case-study.md
 - _resources/2018-03-28-columbus-metropolitan-library.md
@@ -61,7 +62,6 @@ pages:
 - _resources/2016-01-21-softlink-case-study.md
 - index.md
 - _resources/2016-03-03-firstinsightcs.md
-- _resources/2016-10-12-irth-solutions.md
 - _resources/2016-07-27-orchard-software-case-study.md
 - _resources/2016-07-22-omnyx-case-study.md
 - _resources/2018-10-04-professional-services-case-study-prodigo-solutions.md

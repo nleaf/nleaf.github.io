@@ -17,7 +17,7 @@ page_sections:
     out quickly and scale our production environment as the business grows. It gives
     us the ability to exceed our customers'' needs and expectations."'
   cite: Sean Vaden, Director of IT, irth Solutions
-  icon: ''
+  icon: "/uploads/sean_vaden.jpg"
   quote_background: ''
 - template: case-study-intro
   block: casestudy-top
