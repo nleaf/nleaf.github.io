@@ -13,8 +13,8 @@ page_sections:
     its mission-critical applications with IaaS and DRaaS from Expedient
 - template: case-study-quote
   block: casestudy-quote
-  icon: ''
-  quote_background: ''
+  icon: "/uploads/stuart_hill.jpg"
+  quote_background: "/uploads/exp_CaseStudybg-dunlap-kyle.jpg"
   quote: Because of our cloud and DR solution with Expedient, our ability to meet
     customer demand and grow the various aspects of our business has noticeably increased.
   cite: "- Stuart Hill, CIO, Dunlap and Kyle Company"
