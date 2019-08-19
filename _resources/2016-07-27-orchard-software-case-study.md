@@ -15,9 +15,9 @@ page_sections:
   block: casestudy-quote
   icon: ''
   quote_background: ''
-  quote: From internet to colocation to cloud hosting offered to our clients, Orchard
+  quote: '"From internet to colocation to cloud hosting offered to our clients, Orchard
     has been very satisfied with the services provided by Expedient since we first
-    became a customer in 2004.
+    became a customer in 2004."'
   cite: Seth Bosworth, Associate Director of Information Services, Orchard Software
 - template: case-study-intro
   block: casestudy-top

@@ -46,6 +46,7 @@ fields:
     min: 
     max: 
 pages:
+- _resources/2016-07-27-orchard-software-case-study.md
 - _resources/2016-07-29-elite-services-case-study.md
 - _resources/2017-05-15-manufacturing-nonnis-foods.md
 - _resources/2018-10-04-professional-services-case-study-prodigo-solutions.md
@@ -54,7 +55,6 @@ pages:
 - _resources/2017-07-27-manufacturing-tic-gums.md
 - _resources/2017-05-15-healthcare-medcom-solutions.md
 - _resources/2018-11-01-professional-services-case-study-ultimate-home-services.md
-- _resources/2016-07-27-orchard-software-case-study.md
 - _resources/2016-07-22-omnyx-case-study.md
 - _resources/2017-10-19-logistics-case-study-shapiro.md
 - _resources/2016-01-07-interactive-blue-case-study.md
