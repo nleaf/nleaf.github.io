@@ -50,8 +50,8 @@ page_sections:
       on a daily basis, First Insight depends on Expedient to keep that data accessible
       and secure at all times.
   - align-left: false
-    icon: "/uploads/EXP_Server.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: First Insight is growing in size, scope, reach and revenue. Also
       included in that growth is new software, new products and new customers. All
