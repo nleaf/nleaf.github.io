@@ -52,16 +52,16 @@ page_sections:
       and cost control. Like many organizations, TIC Gums was faced with an aging
       infrastructure that required hardware refresh and software upgrades.
   - align-left: false
-    icon: "/uploads/EXP_Agility.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: When Hensley joined TIC Gums as Director of IT in 2015, he discovered
       some underlying challenges including IT infrastructure that comingled applications,
       limited capacity for systems to scale, and a struggle with resource and capacity
       allocation for test environments.
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: To ensure continuous operations for TIC Gums during what was proving
       to be an involved project to modernize its IT infrastructure, Expedient designed
