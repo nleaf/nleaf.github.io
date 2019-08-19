@@ -6,7 +6,7 @@ heading: Expedient Announces VMworld 2019 Schedule of Events
 content: ''
 icon: ''
 background: ''
-headline: ''
+headline: Expedient Announces VMworld 2019 Schedule of Events
 
 ---
 #### _Company debuts in Solutions Expo and headlines five VMworld sessions_
