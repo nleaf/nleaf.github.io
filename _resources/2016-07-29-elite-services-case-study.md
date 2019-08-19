@@ -76,7 +76,7 @@ banner_image: ''
 author: ''
 featured: false
 popular: false
-date: 
+date: ''
 
 ---
 In order to offer the best experience to its clients, Elite Services must stay focused on improving its practices on a daily basis, so the company relies on Expedient to handle all of its day-to-day IT functions.
