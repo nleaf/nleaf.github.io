@@ -77,7 +77,8 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
-tags: [Case Studies]
----
+tags:
+- Case Studies
 
+---
 Shapiro, a Maryland-based provider of logistics and customs brokerage services for businesses around the world, turned to Expedient for its managed infrastructure as a service (IaaS) and Push Button disaster recovery solutions.
