@@ -61,8 +61,8 @@ page_sections:
       Prodigo’s onboarding process, as it often required months of work to launch
       each new customer deployment.
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: Once Prodigo made the decision to virtualize its data center using
       VMware, Bollinger knew he wanted a cloud services provider with demonstrated

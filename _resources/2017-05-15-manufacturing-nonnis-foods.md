@@ -11,10 +11,6 @@ page_sections:
     for Hosted ERP
   heading: 'IT Infrastructure as a Strategic Differentiator '
   icon: "/uploads/Nonnis Food - logo - red.png"
-- template: subscribe-bar
-  block: subbar
-  headline: ''
-  cta: ''
 - template: case-study-quote
   block: casestudy-quote
   quote: We were able to add significantly to the business, new bakeries and additional
@@ -58,16 +54,16 @@ page_sections:
     headline: The Challenge
     description: As a national company with a small IT team, Nonni’s needed a hosting
       provider that it could trust and rely on so it could stay focused on the important,
-      big picture tasks associated with expanding the business while maintaining its
+      big-picture tasks associated with expanding the business while maintaining its
       reputation for high-quality, premium cookie products.
   - align-left: true
     icon: "/uploads/exp-results-icon.svg"
     background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: Expedient's 100% uptime service level agreement gives Nonni's IT
-      staff the peace of mind and agility to focus on bettering business processes
+      staff the peace of mind and agility to focus on improving business processes
       and empowering the greater Nonni's organization to deliver the right product
-      at the right time and the right price point.
+      at the right time at the right price point.
 - template: recent-posts
   block: recentposts
 - template: newsletter
