@@ -53,8 +53,8 @@ page_sections:
       provider that had national reach, multiple facilities and database-level hosting
       abilities. The company found that with Expedient.
   - align-left: false
-    icon: "/uploads/EXP_Server.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: As a national company with a small IT team, Nonni’s needed a hosting
       provider that it could trust and rely on so it could stay focused on the important,
