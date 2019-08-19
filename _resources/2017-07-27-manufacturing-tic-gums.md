@@ -55,10 +55,10 @@ page_sections:
     icon: "/uploads/EXP_Agility.svg"
     background: "/uploads/ph_hurricane.jpg"
     headline: The Challenge
-    description: When Brian Hensley joined TIC Gums as Director of IT in 2015, he
-      discovered some underlying challenges including IT infrastructure that comingled
-      applications, limited capacity for systems to scale, and a struggle with resource
-      and capacity allocation for test environments.
+    description: When Hensley joined TIC Gums as Director of IT in 2015, he discovered
+      some underlying challenges including IT infrastructure that comingled applications,
+      limited capacity for systems to scale, and a struggle with resource and capacity
+      allocation for test environments.
   - align-left: true
     icon: "/uploads/EXP_Solution.svg"
     background: "/uploads/ph_hurricane.jpg"

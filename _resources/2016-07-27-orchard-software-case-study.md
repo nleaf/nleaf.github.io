@@ -46,8 +46,8 @@ page_sections:
       product enhancement and development that has resulted in hundreds of interfaces
       with instruments, reference libraries and EMR/EHR systems.
   - align-left: false
-    icon: "/uploads/EXP_Server.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: 'As Orchard''s applications grew, managing the underlying technology
       infrastructure became a distraction from evolving software features leading
