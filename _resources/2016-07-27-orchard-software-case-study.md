@@ -70,7 +70,8 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
-tags: [Case Studies]
+tags:
+- Case Studies
+
 ---
- 
 Expedient's reliable infrastructure as a service for the healthcare industry keeps Orchard Software focused on seamless integration of laboratory information systems.
