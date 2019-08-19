@@ -20,5 +20,6 @@ fields:
     min: 
     max: 
 pages:
+- privacy-policy.md
 - Privacy Policy.md
 - terms-and-conditions.md
