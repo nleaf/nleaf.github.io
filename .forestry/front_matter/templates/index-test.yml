@@ -46,6 +46,7 @@ fields:
     min: 
     max: 
 pages:
+- _resources/2017-07-27-manufacturing-tic-gums.md
 - _resources/2016-01-21-softlink-case-study.md
 - _resources/2017-10-19-logistics-case-study-shapiro.md
 - _resources/2016-07-27-orchard-software-case-study.md

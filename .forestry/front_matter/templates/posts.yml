@@ -91,7 +91,6 @@ fields:
   default: false
 pages:
 - _press/Expedient Announces VMworld 2019 Schedule of Events.md
-- _resources/2017-07-27-manufacturing-tic-gums.md
 - _resources/2017-03-01-battelle-for-kids.md
 - _posts/2019-08-13-persistent-volume-options-for-kubernetes-storage.md
 - _posts/2019-08-11-expedient-sessions-at-vmworld-2019.md
