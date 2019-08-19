@@ -38,7 +38,7 @@ page_sections:
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
-    background: "/uploads/exp_case_study_scenario.jpg"
+    background: "/uploads/exp_case_study_scenario-1.jpg"
     headline: The Scenario
     description: When Brian Polak joined Bouchard Insurance in 2015, one of his first
       orders of business as Director of Information Technology was to select a disaster
