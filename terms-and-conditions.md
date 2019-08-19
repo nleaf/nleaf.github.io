@@ -1,5 +1,5 @@
 ---
-layout: block
+layout: blocks
 title: Terms and Conditions
 hide_body: false
 permalink: "/terms-and-conditions"
