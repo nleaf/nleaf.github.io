@@ -63,8 +63,8 @@ page_sections:
       of data security and dedicated to staying ahead of evolving government and industry
       compliance regulations.
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: 'Expedient’s Push Button DR solution did something no other provider
       could offer: complete network failover at the push of a button, without any
