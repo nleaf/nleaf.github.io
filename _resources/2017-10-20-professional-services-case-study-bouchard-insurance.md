@@ -70,7 +70,8 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
-tags: [Case Studies]
+tags:
+- Case Studies
+
 ---
- 
 Bouchard Insurance used Push Button DR to proactively failover from its production environment in Florida to an Expedient data center nearly 1,000 miles away in advance of Hurricane Irma in September 2017.
