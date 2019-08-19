@@ -18,7 +18,7 @@ page_sections:
     handing that off to Expedient gives us the peace of mind so we don''t have to
     worry about that on a day-to-day basis."'
   cite: "- Gary Watson, President & CEO, Elite Services"
-  icon: ''
+  icon: "/uploads/gary_watson.jpg"
   quote_background: ''
 - template: case-study-intro
   block: casestudy-top
@@ -76,6 +76,7 @@ banner_image: ''
 author: ''
 featured: false
 popular: false
+date: ''
 
 ---
 In order to offer the best experience to its clients, Elite Services must stay focused on improving its practices on a daily basis, so the company relies on Expedient to handle all of its day-to-day IT functions.
