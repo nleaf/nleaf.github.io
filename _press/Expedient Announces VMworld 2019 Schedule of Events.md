@@ -1,5 +1,5 @@
 ---
-block: callout
+block: one-column-1
 link: []
 cta: Learn More
 heading: Expedient Announces VMworld 2019 Schedule of Events
@@ -7,6 +7,16 @@ content: ''
 icon: ''
 background: ''
 headline: Expedient Announces VMworld 2019 Schedule of Events
+title: Expedient Announces VMworld 2019 Schedule of Events
+seo_title: ''
+description: ''
+image: ''
+banner_image: ''
+date: 
+author: ''
+tags: []
+featured: false
+popular: false
 
 ---
 ##### _Company debuts in Solutions Expo and headlines five VMworld sessions_
