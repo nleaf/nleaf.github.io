@@ -17,7 +17,7 @@ page_sections:
     and our high level of communication, we can attend meetings and know that we both
     have the clients best interests in mind."'
   cite: "- Brian Davis, Director of Infrastructure Services, CareWorks Tech"
-  icon: ''
+  icon: "/uploads/brian_davis.jpg"
   quote_background: ''
 - template: case-study-intro
   block: casestudy-top
