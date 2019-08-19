@@ -42,7 +42,7 @@ page_sections:
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_scenario-1.jpg"
     headline: The Scenario
     description: Dunlap and Kyle relies upon a small internal IT staff to keep both
       its retail and wholesale distribution businesses up and running. Before migrating
@@ -51,7 +51,7 @@ page_sections:
       at its headquarters.
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: While Dunlap and Kyle had implemented a DIY disaster recovery solution
       to protect its IT environment, the centralized nature of its legacy RS/6000-based
