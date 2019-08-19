@@ -46,6 +46,7 @@ fields:
     min: 
     max: 
 pages:
+- _resources/2016-01-07-interactive-blue-case-study.md
 - _resources/2016-01-21-softlink-case-study.md
 - _resources/2017-05-15-healthcare-medcom-solutions.md
 - _resources/2017-07-27-manufacturing-tic-gums.md
