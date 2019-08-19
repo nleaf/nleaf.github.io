@@ -51,8 +51,8 @@ page_sections:
       technology solutions that accelerate efforts of school districts and state departments
       of education to improve educational equity and opportunity for all students.
   - align-left: false
-    icon: "/uploads/EXP_Agility.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: To deliver its software solutions to educators, Battelle for Kids
       must have a reliable IT infrastructure that can handle the variable demand of
