@@ -45,8 +45,8 @@ page_sections:
   - tag: Vulnerability Scanning
 - template: highlights-2-column
   block: highlights-2col
-  heading: Tomorrow’s cloud, today.
-  subheading: Lorem ipsum dolor sit  amet, consectetur.
+  heading: ''
+  subheading: ''
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
