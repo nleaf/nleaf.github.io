@@ -20,7 +20,7 @@ page_sections:
   quote_background: "/uploads/ph_CaseStudybg-1.jpg"
 - template: case-study-intro
   block: casestudy-top
-  header: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  header: Market Opportunity
   description: Spun out of the University of Pittsburgh’s Medical Center (UPMC) in
     July 2014 to enable healthcare providers to optimize spend and supply chain processes
     via contract automation, Prodigo Solutions, Inc. now counts some of the nation’s

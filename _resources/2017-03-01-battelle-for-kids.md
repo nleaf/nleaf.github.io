@@ -44,7 +44,7 @@ page_sections:
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_scenario.jpg"
     headline: The Scenario
     description: Battelle for Kids was seeking a hosting partner it could trust to
       allow its internal team to stay focused on its organizational mission and developing
