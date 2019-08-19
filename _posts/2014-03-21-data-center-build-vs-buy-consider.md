@@ -10,9 +10,8 @@ author: Ed Dzurko
 
 With the ever-changing enhancements taking place in today’s technological landscape, in-house data centers are continually met with the challenge of providing enough space, power and cooling. When data centers reach their limits, CIOs and IT managers are faced with that all-important decision: Does it make more sense to invest in an in-house data center, use a colocation center solution to house hardware, lease data space from a [data center provider](https://www.expedient.com/the-data-centers/ "Data Centers"), or start seeking the services of the cloud?
 
-[Download Expedient’s “Costs of Cloud Ownership” Whitepaper](http://bit.ly/13IHfox) for detailed insights.
-
-[Calculate the actual cost to build your own data center vs working with a data center provider](https://www.expedient.com/data-center-build-vs-buy-calculator/ "THE COMPLETE CLOUD BUILD VS BUY CALCULATOR")
+* [Download Expedient’s “Costs of Cloud Ownership” Whitepaper](http://bit.ly/13IHfox) for detailed insights.
+* [Calculate the actual cost to build your own data center vs working with a data center provider](https://www.expedient.com/data-center-build-vs-buy-calculator/ "THE COMPLETE CLOUD BUILD VS BUY CALCULATOR")
 
 If you are currently exploring this Build vs. Buy scenario, the following checklist can serve as a good starting point. Use this list as you weigh the pros and cons between building internally and seeking the services of an external data center provider.
 
@@ -22,7 +21,7 @@ Everyone wants 100% uptime, but what is really involved to accomplish this inter
 
 #### What are the costs of staffing?
 
-Staffing is an often overlooked cost. Not only are you paying the IT staff’s salary, but you are paying for healthcare, 401K, computing resources, licensing and training.
+Staffing is an often overlooked cost. Not only are you paying the IT staff’s salary, but you are paying for healthcare, 401(k), computing resources, licensing and training.
 
 #### How flexible is your industry?
 
