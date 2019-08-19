@@ -64,10 +64,11 @@ page_sections:
     icon: "/uploads/EXP_Solution.svg"
     background: "/uploads/ph_hurricane.jpg"
     headline: The Solution
-    description: 'Once Prodigo made the decision to virtualize its data center using
+    description: Once Prodigo made the decision to virtualize its data center using
       VMware, Bollinger knew he wanted a cloud services provider with demonstrated
       experience supported by proven processes and procedures. Prodigo began its evaluation
-      with '
+      with several hyperscale cloud providers, but ultimately didn’t like the one-size-fits-all
+      nature of hyperscale offerings.
 - template: recent-posts
   block: recentposts
 - template: newsletter
