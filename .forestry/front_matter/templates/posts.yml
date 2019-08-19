@@ -90,6 +90,7 @@ fields:
   hidden: false
   default: false
 pages:
+- _resources/2016-10-12-irth-solutions.md
 - _resources/2017-03-01-battelle-for-kids.md
 - _press/Expedient Announces VMworld 2019 Schedule of Events.md
 - _posts/2019-08-13-persistent-volume-options-for-kubernetes-storage.md

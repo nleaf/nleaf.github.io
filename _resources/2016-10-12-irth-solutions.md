@@ -75,6 +75,11 @@ page_sections:
   show_social: true
 tags:
 - Case Studies
+banner_image: ''
+date: 
+author: ''
+featured: false
+popular: false
 
 ---
-Expedient’s IT infrastructure solution enables irth Solutions to embrace mobile innovation for Utilisphere, its flagship application.
+For irth Solutions, moving its environment to Expedient was aimed at ensuring security and maintaining availability of its so ware to its clients, who rely on it every day, while providing the scalability to quickly grow business and respond to customer needs. These outcomes have been delivered successfully throughout the years since migration.
