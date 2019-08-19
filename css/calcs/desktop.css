@@ -216,7 +216,7 @@ z-index: 10;
     cursor:default;
   }
   nav.main .content ul li.request-info a.active {
-    color:#D42A59;
+    color:#F20505;
   }
   nav.main .content ul li.request-info ul {
     left: -80px;
@@ -476,7 +476,7 @@ z-index: 10;
   }
   body.page-node-13 #calculators li a.link {
     font-weight:bold;
-    color:#D42A59;
+    color:#F20505;
     font-size:13px;
     text-decoration:none;
     display:block;
@@ -486,8 +486,8 @@ z-index: 10;
 
 	.calculator,
 	.calculator form {
-		width:960px;
-		margin:15px 0px 0px;
+		/* width:960px;
+		margin:15px 0px 0px; */
 	}
 	article.main div.options {
 	  padding:15px;
@@ -524,7 +524,7 @@ z-index: 10;
 	  width:940px;
 	}
 	article.main .calculator .left {
-	width:480px;
+	width:50%;
 	float:left;
 	margin-top:15px;
 	}
@@ -662,7 +662,7 @@ z-index: 10;
 	}
 	
 	article.main #cloudbuyvbuild .disclaimer {
-	  width:940px;  
+	  width:100%;  
   }
   article.main #cloudbuyvbuild .results-table2 {
     margin-right:20px;
@@ -694,11 +694,11 @@ z-index: 10;
     width: 13px;
    }
    .calc-tooltip:hover {
-    background: #D42A59;
+    background: #F20505;
    }
   .calc-tooltip-data {
     display:none;
-    background: none repeat scroll 0 0 #D42A59;
+    background: none repeat scroll 0 0 #F20505;
     border-radius: 5px 5px 5px 5px;
     bottom: 20px;
     box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.6);
@@ -834,7 +834,7 @@ z-index: 10;
     margin-bottom:5px;
   }
   body.blog-page h2 a {
-    color:#d42a59;
+    color:#F20505;
     text-decoration:none;
     font-size:16px;
     font-weight:bold;

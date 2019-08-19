@@ -2,7 +2,8 @@
 Creates a breadcrumb from the page's URL
 {% endcomment %}
 
-<article class="main">
+<section class="relative sm:py-12 sm:pb-12">
+        <article class="main flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12">
         <div class="body">
            <div class="region region-content">
               <div id="block-system-main" class="block block-system">
@@ -12,7 +13,7 @@ Creates a breadcrumb from the page's URL
                           <input type="hidden" name="ispost" value="1"/>
                           <div class="top-toolbar">
                              <div class="desc">
-                                <p class="description">
+                                <p class="text-xl font-light leading-normal my-4">
                                    How much storage and bandwidth do you need for your disk based backups? Use
                                    the options in this calculator to determine your sizing requirements.
                                 </p>
@@ -127,6 +128,7 @@ Creates a breadcrumb from the page's URL
            <div class="clear"></div>
         </div>
      </article>
+     </section>
 
 <link rel="stylesheet" href="{{ "/css/calcs/system.base.css" | absolute_url }}">
 <link rel="stylesheet" href="{{ "/css/calcs/system.menus.css" | absolute_url }}">
@@ -147,7 +149,7 @@ Creates a breadcrumb from the page's URL
 <link rel="stylesheet" href="{{ "/css/calcs/ckeditor.css" | absolute_url }}">
 <link rel="stylesheet" href="{{ "/css/calcs/ctools.css" | absolute_url }}">
 <link rel="stylesheet" href="{{ "/css/calcs/tagclouds.css" | absolute_url }}">
-<link rel="stylesheet" href="{{ "/css/calcs/reset.css" | absolute_url }}">
+
 <link rel="stylesheet" href="{{ "/css/calcs/base.css" | absolute_url }}">
 <link rel="stylesheet" href="{{ "/css/calcs/desktop.css" | absolute_url }}">
 <link rel="stylesheet" href="{{ "/css/calcs/mobile.css" | absolute_url }}">

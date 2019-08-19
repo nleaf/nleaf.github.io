@@ -2,7 +2,8 @@
 Creates a breadcrumb from the page's URL
 {% endcomment %}
 
-<article class="main mx-12">
+<section class="relative sm:py-12 sm:pb-12">
+<article class="main flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12">
     <div class="body">
         <div class="tabs"></div>
         <div class="region region-content">
@@ -13,7 +14,7 @@ Creates a breadcrumb from the page's URL
                             method="post">
                             <input type="hidden" name="ispost" value="1" />
                             <div class="top-toolbar">
-                                <p class="description">
+                                <p class="text-xl font-light leading-normal my-4">
                                     Ever wonder how much bandwidth is consumed when transferring a large video or
                                     CAD file? Use this calculator to determine how much time and bandwidth it takes to
                                     move large files around a network.
@@ -89,6 +90,7 @@ Creates a breadcrumb from the page's URL
         <div class="clear"></div>
     </div>
 </article>
+</section>
 
 <link rel="stylesheet" href="{{ "/css/calcs/system.base.css" | absolute_url }}">
 <link rel="stylesheet" href="{{ "/css/calcs/system.menus.css" | absolute_url }}">
@@ -109,7 +111,7 @@ Creates a breadcrumb from the page's URL
 <link rel="stylesheet" href="{{ "/css/calcs/ckeditor.css" | absolute_url }}">
 <link rel="stylesheet" href="{{ "/css/calcs/ctools.css" | absolute_url }}">
 <link rel="stylesheet" href="{{ "/css/calcs/tagclouds.css" | absolute_url }}">
-<link rel="stylesheet" href="{{ "/css/calcs/reset.css" | absolute_url }}">
+
 <link rel="stylesheet" href="{{ "/css/calcs/base.css" | absolute_url }}">
 <link rel="stylesheet" href="{{ "/css/calcs/desktop.css" | absolute_url }}">
 <link rel="stylesheet" href="{{ "/css/calcs/mobile.css" | absolute_url }}">
