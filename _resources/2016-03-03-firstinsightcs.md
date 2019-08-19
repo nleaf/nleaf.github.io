@@ -21,7 +21,7 @@ page_sections:
   cite: "- John Santore, Manager of Hosting Operations, First Insight"
 - template: case-study-intro
   block: casestudy-top
-  header: Market Opportunity
+  header: ''
   description: Retailers are always on the hunt for the “next big thing” or the on-trend
     product that will really resonate with customers. First Insight, a cloud-based
     technology company, helps many retailers with this quest through its predictive
@@ -74,6 +74,8 @@ page_sections:
   show_social: true
 tags:
 - Case Studies
+block: casestudy-top
+featured_cta_link: []
 
 ---
 First Insight, an eCommerce / retail SaaS provider, depends on Expedient's reliable infrastructure to enable its clients to pick products that deliver profits.
