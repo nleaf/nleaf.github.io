@@ -40,11 +40,10 @@ page_sections:
     icon: "/uploads/EXP_Scenario.svg"
     background: "/uploads/exp_case_study_scenario-1.jpg"
     headline: The Scenario
-    description: When Brian Polak joined Bouchard Insurance in 2015, one of his first
-      orders of business as Director of Information Technology was to select a disaster
-      recovery solution for Bouchard’s virtual desktop infrastructure – a critical
-      capability for an organization with a mission to be available anytime a client
-      claim event occurs.
+    description: When Brian Polak joined Bouchard Insurance as Director of IT in 2015,
+      one of his first orders of business was to select a disaster recovery solution
+      for Bouchard’s virtual desktop infrastructure – a critical capability for an
+      organization with a mission to be available anytime a client claim event occurs.
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
     background: "/uploads/exp_case_study_challenge.jpg"
