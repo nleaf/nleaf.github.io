@@ -13,7 +13,7 @@ page_sections:
     Needs to Help Transform Cancer Care
 - template: case-study-quote
   block: casestudy-quote
-  icon: ''
+  icon: "/uploads/kirk_howard.jpg"
   quote_background: ''
   quote: '"With our production servers housed in Expedient''s scalable, virtualized
     environment, we''re able to add a server for new applications quickly, without
