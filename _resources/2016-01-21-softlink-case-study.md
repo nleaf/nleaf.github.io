@@ -42,8 +42,8 @@ page_sections:
   subheading: ''
   highlights:
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: In the two years that Softlinx has partnered with Expedient, the
       company has found that it can depend on Expedient to meet any needs, now and
