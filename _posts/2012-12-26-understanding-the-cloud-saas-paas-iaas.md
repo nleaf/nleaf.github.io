@@ -8,7 +8,7 @@ author: John White
 ---
 ## Understanding the Cloud Stack: SaaS, PaaS, IaaS
 
-Chances are you have heard the terms Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS). While some may use these terms interchangeably when referring to the cloud, the truth is that each service is part of a much larger cloud computing stack. 
+Chances are you have heard the terms Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS). While some may use these terms interchangeably when referring to the cloud, the truth is that each service is part of a much larger cloud computing stack.
 
 #### Characteristics of SaaS
 
@@ -34,4 +34,5 @@ Acting as the foundation of the cloud, the IaaS service is responsible for the d
 * Scalable computing resources
 * Variable cost pricing model
 
-_As Chief Innovation Officer, John White is the lead executive at Expedient responsible for the company’s product and technology vision. In addition to leading Expedient’s product strategy function, John also serves as the lead technology evangelist for the company, works closely with the sales team on closing complex/high brand deals, and acts as Expedient’s primary interface with existing technology partners. Follow him on_ [_Twitter_](https://twitter.com/johna_white)_._
+_  
+As Chief Innovation Officer, John White is the lead executive at Expedient responsible for the company’s product and technology vision. In addition to leading Expedient’s product strategy function, John also serves as the lead technology evangelist for the company, works closely with the sales team on closing complex/high brand deals, and acts as Expedient’s primary interface with existing technology partners. Follow him on_ [_Twitter_](https://twitter.com/johna_white)_._
