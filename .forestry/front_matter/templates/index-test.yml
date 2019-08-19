@@ -46,6 +46,7 @@ fields:
     min: 
     max: 
 pages:
+- _resources/2016-07-27-orchard-software-case-study.md
 - _resources/2016-07-22-omnyx-case-study.md
 - _resources/2017-10-19-logistics-case-study-shapiro.md
 - _resources/2017-05-15-manufacturing-nonnis-foods.md
@@ -65,7 +66,6 @@ pages:
 - _resources/2017-03-01-battelle-for-kids.md
 - _resources/2018-10-04-professional-services-case-study-prodigo-solutions.md
 - _resources/2018-11-01-professional-services-case-study-ultimate-home-services.md
-- _resources/2016-07-27-orchard-software-case-study.md
 - file-transfer-time-calculator.md
 - disk-raid-and-iops-calculator.md
 - disk-based-backup-calculator.md

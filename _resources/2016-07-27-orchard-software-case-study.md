@@ -40,7 +40,7 @@ page_sections:
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_scenario-1.jpg"
     headline: The Scenario
     description: Orchard has experienced tremendous growth attributable to its customer-driven
       product enhancement and development that has resulted in hundreds of interfaces
