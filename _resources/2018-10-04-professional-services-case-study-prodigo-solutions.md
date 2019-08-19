@@ -36,13 +36,9 @@ page_sections:
   managedservices:
   - tag: Cloud Data Protection
   - tag: Dedicated Firewall Management
-  - tag: Dedicated Load Balancing
   - tag: Disaster Recovery as a Service
-  - tag: Server Management and Monitoring
   - tag: Unified Log Management
   - tag: Unified Threat Management
-  - tag: Virtual Private Network (VPN)
-  - tag: Vulnerability Scanning
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
@@ -51,9 +47,10 @@ page_sections:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
     background: "/uploads/ph_hurricane.jpg"
-    description: 'The nucleus of what would become the Prodigo Marketplace product
-      was created through an internal initiative of UPMC’s supply chain department
-      in 2008, which was tasked with '
+    description: To support the data and IT demands of its customers while also facilitating
+      further revenue growth via new customer acquisition, Prodigo knew it needed
+      an infrastructure partner with turnkey service capabilities and top-tier technical
+      expertise.
     headline: The Scenario
   - align-left: false
     icon: "/uploads/EXP_Server.svg"
