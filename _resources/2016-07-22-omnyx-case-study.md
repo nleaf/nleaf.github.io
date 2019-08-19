@@ -54,8 +54,8 @@ page_sections:
       - redundant power, proper fire suppression and multi-homed backbone connectivity
       - for a company of our size would be daunting," Howard said.'
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: Omnyx is growing in size, scope, reach and revenue, which requires
       more compute capacity. Expedient allows Omnyx to scale its infrastructure without
