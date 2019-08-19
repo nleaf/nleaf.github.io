@@ -36,7 +36,7 @@ page_sections:
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_scenario-1.jpg"
     description: 'With nearly 45 years of combined experience leading Stanley Steemer’s
       IT operations, Tom Junewicz and Rob Bennett – and their 20+ person IT team –
       had steered Stanley Steemer through a number of evolutions in information technology.
@@ -45,7 +45,7 @@ page_sections:
     headline: The Scenario
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
     description: To accommodate this major shift in business operations, Stanley Steemer’s
       mission-critical applications – including its customer-facing online scheduling
