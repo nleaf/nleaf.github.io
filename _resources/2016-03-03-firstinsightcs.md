@@ -44,7 +44,7 @@ page_sections:
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_scenario-1.jpg"
     headline: The Scenario
     description: With thousands of new data points entering and exiting their systems
       on a daily basis, First Insight depends on Expedient to keep that data accessible
