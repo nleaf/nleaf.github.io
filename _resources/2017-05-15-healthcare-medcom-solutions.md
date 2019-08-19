@@ -46,13 +46,12 @@ page_sections:
   subheading: ''
   highlights:
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: The Solution
-    description: As the company expands and seeks to further define its niche in the
-      healthcare IT consulting industry, it will need to rely heavily upon [Expedient]
-      to scale with it and help MedCom respond to an evolving landscape of technology
-      and compliance needs.
+    icon: "/uploads/EXP_Scenario.svg"
+    background: "/uploads/exp_case_study_scenario-1.jpg"
+    headline: The Scenario
+    description: To deliver its software solutions to healthcare professionals, MedCom
+      must have a reliable IT infrastructure that is compliant with stringent HIPAA
+      standards and can scale with the company as size and capacity needs increase.
   - align-left: false
     icon: "/uploads/EXP_Server.svg"
     background: "/uploads/ph_hurricane.jpg"
@@ -61,12 +60,13 @@ page_sections:
       by its hosting provider so that its focused in-house staff did not have to oversee
       the day-to-day IT environment.
   - align-left: true
-    icon: "/uploads/EXP_Scenario.svg"
+    icon: "/uploads/exp-results-icon.svg"
     background: "/uploads/ph_hurricane.jpg"
-    headline: The Scenario
-    description: To deliver its software solutions to healthcare professionals, MedCom
-      must have a reliable IT infrastructure that is compliant with stringent HIPAA
-      standards and can scale with the company as size and capacity needs increase.
+    headline: The Solution
+    description: As the company expands and seeks to further define its niche in the
+      healthcare IT consulting industry, it will need to rely heavily upon [Expedient]
+      to scale with it and help MedCom respond to an evolving landscape of technology
+      and compliance needs.
 - template: recent-posts
   block: recentposts
 - template: newsletter
