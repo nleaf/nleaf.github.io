@@ -53,6 +53,10 @@ subnav:
     title: Media
     url: "/about/media"
   weight: 5
+- page: Careers
+  title: Careers
+  url: /careers
+  weight: 3
 header:
 - title: Let's Talk
   url: "/lets-talk"
