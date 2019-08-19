@@ -34,9 +34,11 @@ type: include
 template: seo
 label: SEO
 name: seo
-seo_title: Cloud Computing and Data Center Infrastructure as a Service
-description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
-  Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
+seo_title: The complete Data Center build vs Buy Calculator
+description: Are you wondering how much it will take to build your own data center
+  or are you unsure if you have everything accounted for in your construction budget?
+  Use this calculator to see what it really takes to build out a Tier 1, Tier 2, Tier
+  3 or Tier 4 data center.
 image: ''
 
 ---
