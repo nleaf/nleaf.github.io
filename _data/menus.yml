@@ -1,5 +1,78 @@
 ---
+subfooter:
+- page: Awards
+  title: Awards
+  url: "/why-expedient/awards-and-accolades"
+  weight: 1
+- page: Technology Partners
+  title: Technology Partners
+  url: "/why-expedient/technology-partners"
+  weight: 2
+- page: Success Stories
+  title: Success Stories
+  url: "/why-expedient/success-stories"
+  weight: 3
+- page: Our Clients
+  title: Our Clients
+  url: "/why-expedient/our-customers"
+  weight: 4
+- page: Data Centers
+  title: Data Centers
+  url: "/data-centers"
+  weight: 5
+subnav:
+- title: Knowledgebase
+  childern:
+  - page: Blog
+    title: Blog
+    url: "/knowledgebase/blog/"
+  - page: Resources
+    title: Resources
+    url: "/knowledgebase/resources"
+  - page: Tools and Calculators
+    title: Tools and Calculators
+    url: "/knowledgebase/tools-and-calculators"
+  weight: 4
+- page: Support
+  title: Support
+  url: https://support.expedient.com
+  weight: 2
+- page: Partner
+  title: Partner
+  url: http://partner.expedient.com
+  weight: 3
+- title: About
+  childern:
+  - page: Overview
+    title: CREATE Overview
+    url: "/services/cloud"
+  - page: Executive Team
+    title: Executive Team
+    url: "/about/executive-team"
+  - page: Media
+    title: Media
+    url: "/about/media"
+  weight: 5
 header:
+- title: Let's Talk
+  url: "/lets-talk"
+  weight: 4
+  identifier: item_dxjp3EH
+- title: Services
+  childern:
+  - page: Cloud
+    title: Cloud
+    url: "/services/cloud"
+  - page: Colocation
+    title: Colocation
+    url: "/services/colocation"
+  - page: Security and Compliance
+    title: Security and Compliance
+    url: "/services/security-and-compliance"
+  - page: Disaster Recovery
+    title: Disaster Recovery
+    url: "/services/disaster-recovery"
+  weight: 1
 - title: Data Centers
   url: "/data-centers"
   weight: 2
@@ -14,88 +87,24 @@ header:
   - page: Technology Partners
     title: Technology Partners
     url: "/why-expedient/technology-partners"
-  - page: Awards and Accolades 
-    title: Awards and Accolades 
+  - page: Awards and Accolades
+    title: Awards and Accolades
     url: "/why-expedient/awards-and-accolades"
   weight: 3
-- title: Services
-  childern:
-  - page: Cloud
-    title: Cloud
-    url: "/services/cloud"
-  - page: Colocation
-    title: Colocation
-    url: "/services/colocation"
-  - page: Security and Compliance 
-    title: Security and Compliance
-    url: "/services/security-and-compliance"
-  - page: Disaster Recovery
-    title: Disaster Recovery
-    url: "/services/disaster-recovery"
-  weight: 1
-- title: Let's Talk
-  url: "/lets-talk"
-  weight: 4
-  identifier: item_dxjp3EH
 footer:
-- page: Cloud
-  title: Cloud
-  url: "/services/cloud"
-- page: Colocation
-  title: Colocation
-  url: "/services/colocation"
-- page: Security and Compliance 
-  title: Security and Compliance
-  url: "/services/security-and-compliance"
 - page: Disaster Recovery
   title: Disaster Recovery
   url: "/services/disaster-recovery"
-subfooter:
-- page: Data Centers
-  title: Data Centers
-  url: "/data-centers"
-- page: Our Clients
-  title: Our Clients
-  url: "/why-expedient/our-customers"
-- page: Success Stories
-  title: Success Stories
-  url: "/why-expedient/success-stories"
-- page: Technology Partners
-  title: Technology Partners
-  url: "/why-expedient/technology-partners"
-- page: Awards
-  title: Awards 
-  url: "/why-expedient/awards-and-accolades"
-subnav:
-- title: About
-  childern:
-  - page: Overview
-    title: CREATE Overview
-    url: "/services/cloud"
-  - page: Executive Team
-    title: Executive Team
-    url: "/about/executive-team"
-  - page: Media 
-    title: Media
-    url: "/about/media"
-- page: Careers
-  title: Careers
-  url: "https://www.expedient.com/company/careers-opportunities/"
-- title: Knowledgebase
-  childern:
-  - page: Blog
-    title: Blog
-    url: "/knowledgebase/blog/"
-  - page: Resources
-    title: Resources
-    url: "/knowledgebase/resources"
-  - page: Tools and Calculators
-    title: Tools and Calculators
-    url: "/knowledgebase/tools-and-calculators"
-- page: Partner
-  title: Partner
-  url: "http://partner.expedient.com"
-- page: Support
-  title: Support
-  url: "https://support.expedient.com"
-
+  weight: 1
+- page: Security and Compliance
+  title: Security and Compliance
+  url: "/services/security-and-compliance"
+  weight: 2
+- page: Colocation
+  title: Colocation
+  url: "/services/colocation"
+  weight: 3
+- page: Cloud
+  title: Cloud
+  url: "/services/cloud"
+  weight: 4
