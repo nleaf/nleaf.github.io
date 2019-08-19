@@ -41,14 +41,13 @@ page_sections:
   block: highlights-2col
   highlights:
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
+    icon: "/uploads/EXP_Scenario.svg"
     background: "/uploads/ph_hurricane.jpg"
-    headline: The Solution
-    description: 'Expedient’s Push Button DR solution did something no other provider
-      could offer: complete network failover at the push of a button, without any
-      IP or DNS changes, thanks to Expedient’s use of VMware NSX to create a software
-      defined networking layer between geographically diverse production and backup
-      sites.'
+    headline: The Scenario
+    description: The Shapiro IT team had been managing its own data centers, which
+      was a drain on bandwidth and resources, especially as the team is also responsible
+      for the development, management, and continued optimization of Shapiro 360°,
+      which handles a large majority of the day-to-day functions of the company.
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
     background: "/uploads/ph_hurricane.jpg"
@@ -59,13 +58,14 @@ page_sections:
       and dedicated to staying ahead of evolving government and industry compliance
       regulations.
   - align-left: true
-    icon: "/uploads/EXP_Scenario.svg"
+    icon: "/uploads/EXP_Solution.svg"
     background: "/uploads/ph_hurricane.jpg"
-    headline: The Scenario
-    description: The Shapiro IT team had been managing its own data centers, which
-      was a drain on bandwidth and resources, especially as the team is also responsible
-      for the development, management, and continued optimization of Shapiro 360°,
-      which handles a large majority of the day-to-day functions of the company.
+    headline: The Solution
+    description: 'Expedient’s Push Button DR solution did something no other provider
+      could offer: complete network failover at the push of a button, without any
+      IP or DNS changes. This was possible thanks to Expedient’s use of VMware NSX
+      to create a software-defined networking layer between geographically diverse
+      production and backup sites.'
   heading: ''
   subheading: ''
 - template: recent-posts
