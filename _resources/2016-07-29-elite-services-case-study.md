@@ -13,10 +13,10 @@ page_sections:
   icon: "/uploads/elite-services.jpg"
 - template: case-study-quote
   block: casestudy-quote
-  quote: The bottom line is trying to get those scary tasks of handling data securely
-    and making sure that you're appropriately scaled to do that kind of work, and
-    handing that off to Expedient gives us the peace of mind so we don't have to worry
-    about that on a day-to-day basis.
+  quote: '"The bottom line is trying to get those scary tasks of handling data securely
+    and making sure that you''re appropriately scaled to do that kind of work, and
+    handing that off to Expedient gives us the peace of mind so we don''t have to
+    worry about that on a day-to-day basis."'
   cite: "- Gary Watson, President & CEO, Elite Services"
   icon: ''
   quote_background: ''
@@ -30,15 +30,10 @@ page_sections:
   - tag: Cloud
   - tag: Connectivity
   managedservices:
-  - tag: Backups
   - tag: Dedicated Firewall Management
   - tag: Disaster Recovery as a Service
-  - tag: Server Management and Monitoring
-  - tag: Two-Factor Authentication
-  - tag: Unified Log Management
   - tag: Unified Threat Management
   - tag: Virtual Private Network (VPN)
-  - tag: Vulnerability Scanning
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
