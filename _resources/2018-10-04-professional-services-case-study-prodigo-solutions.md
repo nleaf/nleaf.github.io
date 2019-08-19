@@ -7,7 +7,7 @@ layout: blocks
 page_sections:
 - template: case-study-header
   block: casestudy-hero
-  heading: VMWare Cloud migration
+  heading: Cloud Transformation Realized
   subheading: Prodigo Solutions realizes substantial business process improvements
     through cloud migration with Expedient
   icon: "/uploads/ph_CaseStudyLogo-1.jpg"
