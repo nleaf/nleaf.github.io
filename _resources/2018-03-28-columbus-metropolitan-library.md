@@ -35,7 +35,9 @@ page_sections:
   - tag: Dedicated Firewall Management
   - tag: Dedicated Load Balancing
   - tag: Disaster Recovery as a Service
+  - tag: Two-Factor Authentication
   - tag: Unified Threat Management
+  - tag: Virtual Private Network (VPN)
 - template: highlights-2-column
   block: highlights-2col
   highlights:
@@ -44,19 +46,18 @@ page_sections:
     background: "/uploads/exp_case_study_scenario-1.jpg"
     headline: The Scenario
     description: Columbus Metropolitan Library’s Information Technology team, led
-      by Senior Director of Information Technology Burton Bardus, knew it was time
-      for some changes. The library’s infrastructure, including its entire production
-      environment, was in-house at the library data center and approaching end of
-      life.
+      by Senior Director of IT, Burton Bardus, knew it was time for some changes.
+      The library’s infrastructure, including its entire production environment, was
+      in-house at the library data center and approaching end-of-life.
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
     background: "/uploads/exp_case_study_challenge.jpg"
     headline: The Challenge
-    description: Further, CML’s disaster recovery plan was outdated and hadn’t recently
-      been put through the rigors of full testing; the team lacked confidence in its
-      ability to recover critical applications in the face of a disaster. And with
-      more than 650,000 cardholders relying on CML for a variety of services and resources,
-      it was imperative to the team that they find a stable solution for its undersized
+    description: CML’s disaster recovery plan was outdated and hadn’t recently been
+      put through the rigors of full testing, while the team lacked confidence in
+      its ability to recover critical applications in the face of a disaster. And
+      with more than 650,000 cardholders relying on CML for a variety of services
+      and resources, it was imperative to find a stable solution for its undersized
       infrastructure and moderate disaster recovery plan.
   - align-left: true
     icon: "/uploads/exp-results-icon.svg"
