@@ -13,7 +13,9 @@ page_sections:
   icon: ''
 - template: case-study-quote
   block: casestudy-quote
-  quote: We have learned that we can trust everyone on the team at Expedient.
+  quote: '"It''s been a great partnership... due to the transparency of both organizations
+    and our high level of communication, we can attend meetings and know that we both
+    have the clients best interests in mind."'
   cite: "- Brian Davis, Director of Infrastructure Services, CareWorks Tech"
   icon: ''
   quote_background: ''
