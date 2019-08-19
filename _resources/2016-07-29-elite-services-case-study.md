@@ -19,7 +19,7 @@ page_sections:
     worry about that on a day-to-day basis."'
   cite: "- Gary Watson, President & CEO, Elite Services"
   icon: "/uploads/gary_watson.jpg"
-  quote_background: ''
+  quote_background: "/uploads/exp_CaseStudybg-es.jpg"
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
