@@ -56,10 +56,10 @@ page_sections:
     icon: "/uploads/EXP_Server.svg"
     background: "/uploads/ph_hurricane.jpg"
     headline: The Challenge
-    description: 'As a startup, Prodigo’s lean in-house technical operations group
-      was challenged by keeping up with the escalating demands of the business and
-      its growing number of large customers. The organization’s infrastructure was
-      hosted in a '
+    description: Prodigo’s biggest challenge was the time it took to onboard new clients;
+      the existing infrastructure provider’s legacy data center environment hindered
+      Prodigo’s onboarding process, as it often required months of work to launch
+      each new customer deployment.
   - align-left: true
     icon: "/uploads/EXP_Solution.svg"
     background: "/uploads/ph_hurricane.jpg"
