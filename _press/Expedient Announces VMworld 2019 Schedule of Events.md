@@ -9,7 +9,7 @@ background: ''
 headline: Expedient Announces VMworld 2019 Schedule of Events
 
 ---
-#### _Company debuts in Solutions Expo and headlines five VMworld sessions_
+###### _Company debuts in Solutions Expo and headlines five VMworld sessions_
 
 **Pittsburgh, PA – 19 August 2019** – Expedient, a cloud computing and data center infrastructure as a service provider, today announced that it will exhibit at VMworld 2019, taking place at the Moscone Center in San Francisco, August 25 – 29.
 
@@ -17,7 +17,7 @@ The 2019 conference marks Expedient’s debut as an exhibitor at VMware’s annu
 
 Expedient’s Solutions Exchange booth presence will include multiple workstations where Expedient’s technical experts will consult with show attendees and showcase its [Enterprise Cloud platform](https://www.expedient.com/services/infrastructure-as-a-service/cloud/), comprised of the full stack of VMware Cloud Provider technologies and containing first-of-its-kind technical integrations such as self-service, automated Kubernetes cluster deployment.
 
-##### Expedient executives and technical leaders are also headlining five VMworld sessions:
+**Expedient executives and technical leaders are also headlining five VMworld sessions:**
 
 On Monday, August 26, Expedient presents two vBrown Bags: John White, Expedient’s Chief Innovation Officer, will showcase his first native cloud app built entirely on AWS infrastructure, while Mike Morris, Expedient’s Manager of Solutions Architecture, provides a basic overview of using Terraform with vCloud Director.
 
@@ -38,7 +38,7 @@ Expedient helps companies transform their IT operations through award-winning cl
 **CONTACT:**
 
 Becky Mancuso  
- Director of Marketing  
- Expedient  
- (412) 316-7805  
- [becky.mancuso@expedient.com](mailto:becky.mancuso@expedient.com)
+Director of Marketing  
+Expedient  
+(412) 316-7805  
+[becky.mancuso@expedient.com](mailto:becky.mancuso@expedient.com)
