@@ -17,7 +17,9 @@ image: ''
 banner_image: ''
 date: 
 author: ''
-tags: []
+tags:
+- Disaster Recovery
+- Cloud
 featured: false
 popular: false
 
