@@ -14,7 +14,7 @@ page_sections:
 - template: case-study-quote
   block: casestudy-quote
   icon: ''
-  quote_background: ''
+  quote_background: "/uploads/exp_CaseStudybg-fi.jpg"
   quote: '"Right now, I view [Expedient] as one of our go-to partners. You''re dependable.
     You''ve got technological flexibility, and I find Expedient to be very responsive
     whenever I need anything."'

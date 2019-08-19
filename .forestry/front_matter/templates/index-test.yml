@@ -47,6 +47,7 @@ fields:
     min: 
     max: 
 pages:
+- _resources/2016-03-03-firstinsightcs.md
 - _resources/2016-07-29-elite-services-case-study.md
 - _resources/2018-03-28-columbus-metropolitan-library.md
 - _resources/2018-05-22-professional-services-case-study-bouchard-insurance-g.md
@@ -66,7 +67,6 @@ pages:
 - _resources/2017-10-20-professional-services-case-study-bouchard-insurance.md
 - _resources/2019-01-02-retail-case-study-dunlap-and-kyle-company.md
 - index.md
-- _resources/2016-03-03-firstinsightcs.md
 - _resources/2018-10-04-professional-services-case-study-prodigo-solutions.md
 - file-transfer-time-calculator.md
 - disk-raid-and-iops-calculator.md
