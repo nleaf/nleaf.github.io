@@ -58,7 +58,7 @@ page_sections:
       system left the company vulnerable to IT downtime.
   - align-left: true
     icon: "/uploads/exp-results-icon.svg"
-    background: ''
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: While Hill was originally going to enlist Expedient only as a colocation
       provider for the company’s new DR infrastructure, he decided to migrate Dunlap
