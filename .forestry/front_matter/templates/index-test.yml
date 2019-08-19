@@ -42,6 +42,7 @@ fields:
   - calculator-datacenter
   - calculator-cloudbuild
   - calculator-diskbackup
+  - content-block-full
   config:
     min: 
     max: 
