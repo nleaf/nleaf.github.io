@@ -46,8 +46,8 @@ fields:
     min: 
     max: 
 pages:
-- cloud-build-vs-buy-calculator.md
 - disk-based-backup-calculator.md
+- cloud-build-vs-buy-calculator.md
 - data-center-build-vs-buy-calculator.md
 - disk-raid-and-iops-calculator.md
 - file-transfer-time-calculator.md

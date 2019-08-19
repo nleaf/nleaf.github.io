@@ -34,9 +34,10 @@ type: include
 template: seo
 label: SEO
 name: seo
-seo_title: Cloud Computing and Data Center Infrastructure as a Service
-description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
-  Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
+seo_title: ''
+description: Expedient’s Disaster Recovery as a Service solutions have been recognized
+  in the Gartner Magic Quadrant for DRaaS and offer fast, total network failover without
+  IP and DNS changes.
 image: ''
 
 ---
