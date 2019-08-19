@@ -32,15 +32,15 @@ subnav:
   - page: Tools and Calculators
     title: Tools and Calculators
     url: "/knowledgebase/tools-and-calculators"
-  weight: 4
+  weight: 3
 - page: Support
   title: Support
   url: https://support.expedient.com
-  weight: 2
+  weight: 5
 - page: Partner
   title: Partner
   url: http://partner.expedient.com
-  weight: 3
+  weight: 4
 - title: About
   childern:
   - page: Overview
@@ -52,11 +52,11 @@ subnav:
   - page: Media
     title: Media
     url: "/about/media"
-  weight: 5
+  weight: 1
 - page: Careers
   title: Careers
   url: /careers
-  weight: 3
+  weight: 2
 header:
 - title: Let's Talk
   url: "/lets-talk"
