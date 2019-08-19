@@ -9,14 +9,14 @@ page_sections:
   block: casestudy-hero
   subheading: Columbus Metropolitan Library Keeps the Community Connected with Expedient's
     Infrastructure as a Service and Disaster Recovery Solutions
-  heading: Building a Community with top-notch IT Infrastructure
+  heading: Building a Community with enterprise-grade IT Infrastructure
   icon: "/uploads/CML_Logo_Stacked_Color.png"
 - template: case-study-quote
   block: casestudy-quote
   icon: ''
   quote_background: ''
-  quote: It really felt like we pushed a button and our environment was moved. I would
-    just shake my head in disbelief that it happened.
+  quote: '"It really felt like we pushed a button and our environment was moved. I
+    would just shake my head in disbelief that it happened."'
   cite: "- Burton Bardus, Senior Director of Information Technology, Columbus Metropolitan
     Library"
 - template: case-study-intro
