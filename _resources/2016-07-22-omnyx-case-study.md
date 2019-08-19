@@ -72,7 +72,8 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
-tags: [Case Studies]
+tags:
+- Case Studies
+
 ---
- 
 In this case study, find out how Expedient's infrastructure as a service solutions deliver the capacity, service and reliability that Omnyx needs to transform cancer care.
