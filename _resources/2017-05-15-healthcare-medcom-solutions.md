@@ -13,7 +13,7 @@ page_sections:
   icon: "/uploads/MedcomLogo - red.png"
 - template: case-study-quote
   block: casestudy-quote
-  icon: ''
+  icon: "/uploads/ziwei_yi.jpg"
   quote_background: ''
   quote: '"The availability, the scalability, and the customer service we were able
     to receive from [Expedient] is really great."'
