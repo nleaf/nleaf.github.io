@@ -75,7 +75,6 @@ tags:
 - Case Studies
 block: page-hero
 banner_image: ''
-date: ''
 author: ''
 featured: false
 popular: false
