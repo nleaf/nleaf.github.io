@@ -47,7 +47,7 @@ page_sections:
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_scenario-1.jpg"
     headline: The Scenario
     description: Shapiro's in-house IT team had been managing its own data centers,
       which was a drain on bandwidth and resources, especially as the team is also
