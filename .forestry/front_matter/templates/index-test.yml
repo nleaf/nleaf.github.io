@@ -46,6 +46,7 @@ fields:
     min: 
     max: 
 pages:
+- _resources/2016-10-12-irth-solutions.md
 - _resources/2018-02-02-ecommerce-retail-case-study-stanley-steemer.md
 - _resources/2016-03-03-firstinsightcs.md
 - _resources/2018-03-28-columbus-metropolitan-library.md

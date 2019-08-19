@@ -73,7 +73,8 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
-tags: [Case Studies]
----
+tags:
+- Case Studies
 
+---
 Expedient’s IT infrastructure solution enables irth Solutions to embrace mobile innovation for Utilisphere, its flagship application.
