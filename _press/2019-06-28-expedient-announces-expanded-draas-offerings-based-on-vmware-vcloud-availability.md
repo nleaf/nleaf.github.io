@@ -4,7 +4,7 @@ date: Fri, 28 Jun 2019 10:40:30 +0000
 download: ''
 
 ---
-**Pittsburgh, PA – 28 June 2019** – Expedient, a cloud computing and data center infrastructure as a service provider, today announced general availability of expanded Disaster Recovery as a Service (“DRaaS”) offerings running on VMware vCloud Availability, a unified solution built to offer simple, more secure, and cost-effective onboarding, migration, and disaster recovery services for multi-tenant VMware clouds.
+**Pittsburgh, PA – 28 June 2019** – Expedient, a cloud computing and data center infrastructure as a service provider, today announced general availability of expanded Disaster Recovery as a Service (“DRaaS”) offerings running on VMware vCloud Availability, a unified solution built to offer simple, more secure, and cost-effective onboarding, migration, and disaster recovery services for multi-tenant VMware clouds. 
 
 “By expanding our disaster recovery solutions to now include replication powered by VMware vCloud Availability, Expedient is furthering our commitment to enabling organizations of all sizes to protect their workloads from unexpected events,” said John White, Chief Innovation Officer for Expedient. “We recognize that organizations have workloads that require varying levels of protection from disaster, and we continue to answer those needs with an evolving suite of disaster recovery solutions.” 
 
