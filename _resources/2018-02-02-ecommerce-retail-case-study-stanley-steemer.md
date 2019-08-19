@@ -53,8 +53,8 @@ page_sections:
       and human resources, among others – needed more capacity and the highest levels
       of availability.
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: The virtualization of Stanley Steemer’s infrastructure and the added
       confidence of business continuity delivered with Push Button DR have given Stanley
