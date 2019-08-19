@@ -57,8 +57,8 @@ page_sections:
       included in that growth is new software, new products and new customers. All
       of which will require more compute capacity.
   - align-left: true
-    icon: "/uploads/EXP_Solution.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: The Solution
     description: Expedient allows First Insight to scale its infrastructure without
       missing a beat and to meet the needs of its retailer customers by connecting
