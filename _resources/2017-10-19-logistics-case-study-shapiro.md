@@ -17,7 +17,7 @@ page_sections:
     have to manage hardware service contracts anymore, we don''t have to worry about
     upgrades."'
   cite: "- Bob Kimmel, Director of Information Technology, Shapiro"
-  icon: ''
+  icon: "/uploads/robert_kimmel.jpg"
   quote_background: ''
 - template: case-study-intro
   block: casestudy-top
