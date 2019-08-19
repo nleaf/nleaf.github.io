@@ -46,6 +46,7 @@ fields:
     min: 
     max: 
 pages:
+- index.md
 - _resources/2016-03-03-firstinsightcs.md
 - _resources/2016-07-29-elite-services-case-study.md
 - _resources/2016-10-12-irth-solutions.md
@@ -74,7 +75,6 @@ pages:
 - colocation.md
 - disaster-recovery.md
 - executive-team.md
-- index.md
 - overview.md
 - security-and-compliance.md
 - why-expedient.md

@@ -54,10 +54,12 @@ page_sections:
     icon: "/uploads/ico_play.svg"
     link: index.md
     description: Expedient Announces Largest Deployment of Enterprise Cloud Platform
+    newtab: false
   - title: Expedient Named VMware Americas Cloud Partner of the Year
     icon: "/uploads/ico_trophy.svg"
     link: "/knowledgebase/blog/2019-04-10-expedient-named-vmwares-americas-cloud-partner-of-the-year/"
     description: Expedient Named VMware’s Americas Regional Cloud Partner of the Year
+    newtab: false
 - template: featured
   block: featured
   featured_category: Featured Service
@@ -71,7 +73,8 @@ page_sections:
   featured_cta_text: Learn More
   related_products:
   - category: Featured Video
-    title: 'Delivering Expedient Enterprise Cloud Delivering Expedient Enterprise Cloud Delivering Expedient Enterprise Cloud'
+    title: Delivering Expedient Enterprise Cloud Delivering Expedient Enterprise Cloud
+      Delivering Expedient Enterprise Cloud
     description: Watch Chief Innovation Officer, John White, discuss Expedient’s long-standing
       partnership with VMware and how we work with the virtualization leader to build
       cloud and infrastructure as a service (IaaS) solutions for our clients, including
@@ -97,7 +100,7 @@ page_sections:
     title: Lasting impact, for our clients business in the cloud, today.
     description: Read more success stories
     img: ''
-    link: "/why-expedient/success-stories"
+    link: "/knowledgebase/resources/casestudies/"
 - template: gartner
   block: gartner
 - template: callout
