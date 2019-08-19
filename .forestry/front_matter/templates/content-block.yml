@@ -8,7 +8,7 @@ fields:
     required: false
   label: layout
   hidden: true
-  default: block
+  default: blocks
 - name: page_sections
   type: blocks
   label: Page Sections
