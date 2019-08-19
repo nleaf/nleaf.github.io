@@ -46,7 +46,7 @@ page_sections:
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Scenario.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    background: "/uploads/exp_case_study_scenario-1.jpg"
     headline: The Scenario
     description: In order to offer the best experience, Elite must stay focused on
       improving its practices on a daily basis, so the company relies on Expedient
