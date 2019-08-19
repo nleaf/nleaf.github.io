@@ -15,9 +15,9 @@ page_sections:
   block: casestudy-quote
   icon: ''
   quote_background: ''
-  quote: The whole point of moving to a virtual, cloud-based situation is that we're
+  quote: '"The whole point of moving to a virtual, cloud-based situation is that we''re
     not going to fall behind. Having someone who is continually updating and continually
-    staying on top of [new hardware] means that we don't have to.
+    staying on top of [new hardware] means that we don''t have to."'
   cite: "-Bill O'Neil, CTO of InteractiveBlue"
 - template: case-study-intro
   block: casestudy-top
