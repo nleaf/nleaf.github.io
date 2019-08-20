@@ -47,6 +47,7 @@ fields:
     min: 
     max: 
 pages:
+- cloud.md
 - _resources/2016-07-27-orchard-software-case-study.md
 - _resources/2017-10-20-professional-services-case-study-bouchard-insurance.md
 - _resources/2016-07-22-omnyx-case-study.md
@@ -73,7 +74,6 @@ pages:
 - disk-based-backup-calculator.md
 - data-center-build-vs-buy-calculator.md
 - cloud-build-vs-buy-calculator.md
-- cloud.md
 - colocation.md
 - disaster-recovery.md
 - executive-team.md

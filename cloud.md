@@ -12,7 +12,7 @@ tags:
 page_sections:
 - template: page-hero
   block: page-hero
-  banner_image: "/uploads/bg_servies.jpg"
+  banner_image: "/uploads/bg_servies-01.jpg"
   subheadline: Expedient Enterprise Cloud offers robust security, containers, automation,
     and simplified management and monitoring in a user-friendly interface.
 - template: subscribe-bar
