@@ -8,6 +8,8 @@ image: "/uploads/EXP_Social-Blog-CloudMigration.png"
 author: Mike Garuccio
 
 ---
+## Choosing the Right Cloud Migration Strategy
+
 There are several different ways to migrate workloads to the cloud. As with everything in life, each approach has its own pros and cons, and works best in certain scenarios. The strategies described below are based on my experience in migrating client workloads to the [**Expedient Enterprise Cloud**](https://www.expedient.com/services/infrastructure-as-a-service/cloud/) (EEC), which is a cloud platform based on VMware’s software-defined data center (SDDC). The goal of this post is to provide you with a useful foundation by which to select the cloud migration strategy that will work best for each workload in your application ecosystem. While these cloud migration strategies are described by using EEC as an example, they can generally be applied to all other VMware-based clouds.
 
 #### Cloud Migration Planning
@@ -22,7 +24,7 @@ First, you will need to map out your environment and group together services tha
 
 Once you’ve identified groups of servers that will need to be moved in a unit – or determined that they can successfully operate with components in different datacenters – and determined acceptable outage windows for each application, you’re ready to select a cloud migration strategy that works best for the servers in question.
 
-1. **Export and Upload** – Export an existing virtual machine (VM) as an OVA file and upload it to EEC.
+**1) Export and Upload** – Export an existing virtual machine (VM) as an OVA file and upload it to EEC.
 
 **Advantages**
 
@@ -39,7 +41,7 @@ Once you’ve identified groups of servers that will need to be moved in a unit 
 * The export and upload strategy will work best with servers whose state does not frequently or unexpectedly change, such as web servers and application servers relying on an external database;
 * As well as with servers where a long outage is acceptable.
 
-1. **Rebuild and Restore Data** – Build new servers within EEC, install applications, and then sync or restore application data.
+  **2) Rebuild and Restore Data** – Build new servers within EEC, install applications, and then sync or restore application data.
 
 **Advantages**
 
@@ -57,7 +59,7 @@ Once you’ve identified groups of servers that will need to be moved in a unit 
 * Stateless application servers;
 * Servers on OS versions which are nearing end of support.
 
-1. **vCloud Availability** – use [the new vCloud Availability](https://www.vmware.com/products/vcloud-availability.html) (vCAV) offering from VMware to migrate servers.
+  **3) vCloud Availability** – use [the new vCloud Availability](https://www.vmware.com/products/vcloud-availability.html) (vCAV) offering from VMware to migrate servers.
 
 **Advantages**
 
@@ -74,7 +76,7 @@ Once you’ve identified groups of servers that will need to be moved in a unit 
 * VMware-only infrastructures
 * Situations where there is a large rate of data change that must be synced.
 
-1. **Custom Migration Tools** – Work with Expedient to use migration tools like [**Carbonite**](https://www.carbonite.com/products/cloud-migration), [**Zerto__](https://www.zerto.com/simplify/)******,** or [**Cohesity**](https://www.cohesity.com/products/data-protect/) to sync data between your on-prem environment and the cloud. Cut over to your new environment when appropriate.
+  **4) Custom Migration Tools** – Work with Expedient to use migration tools like [**Carbonite**](https://www.carbonite.com/products/cloud-migration), [**Zerto**](https://www.zerto.com/simplify/)**,** or [**Cohesity**](https://www.cohesity.com/products/data-protect/) to sync data between your on-prem environment and the cloud. Cut over to your new environment when appropriate.
 
 **Advantages**
 
