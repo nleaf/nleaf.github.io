@@ -18,7 +18,7 @@ page_sections:
     upgrades."'
   cite: "- Bob Kimmel, Director of Information Technology, Shapiro"
   icon: "/uploads/robert_kimmel.jpg"
-  quote_background: ''
+  quote_background: "/uploads/exp_CaseStudybg-shap.jpg"
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
