@@ -13,8 +13,8 @@ page_sections:
     and Consistency for the Nation's Leading Consumer Packaged Goods Companies
 - template: case-study-quote
   block: casestudy-quote
-  icon: ''
-  quote_background: ''
+  icon: "/uploads/EXP_Circle-Mark.svg"
+  quote_background: "/uploads/exp_CaseStudybg-ticg.jpg"
   quote: '"I wanted to offload day-to-day functions, like patching and backing up
     servers. This allows us to stay focused on the critical business projects that
     we know will be coming."'
