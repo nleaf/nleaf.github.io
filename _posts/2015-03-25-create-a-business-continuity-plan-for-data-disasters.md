@@ -6,9 +6,9 @@ tags:
 author: Bryan Smith
 
 ---
-## Preparing for Disasters: Create a Business Continuity Plan
+## Preparing for Disasters: How to Create a Comprehensive Business Continuity Plan
 
-The creation and implementation of a Disaster Recovery Plan (DRP) can be a complex undertaking; however, it doesn’t need to be. The necessary steps, which may seem overwhelming, are easily broken down into a basic process that’s applicable to any industry. Not having a DRP or worse, not implementing a DRP can be a catastrophic mistake to your business. The cost of downtime can be insurmountable, so creating and implementing an effective DRP should be a priority for any organization. 
+The creation and implementation of a Disaster Recovery Plan (DRP) can be a complex undertaking; however, it doesn’t need to be. The necessary steps, which may seem overwhelming, are easily broken down into a basic process that’s applicable to any industry. Not having a DRP or worse, not implementing a DRP can be a catastrophic mistake to your business. The cost of downtime can be insurmountable, so creating and implementing an effective DRP should be a priority for any organization.
 
 To illustrate, I’ll assume the role of CIO for an eCommerce firm responsible for managing the implementation of a DRP. This plan will be one component of my company’s overall Business Continuity Plan, with other teams working to establish procedures for facilities disasters, personnel disasters, and so forth.
 
