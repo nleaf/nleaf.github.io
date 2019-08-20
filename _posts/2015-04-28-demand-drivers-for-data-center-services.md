@@ -5,6 +5,7 @@ tags:
 - Security and Compliance
 - Cloud Computing
 - Data Centers
+author: John White
 
 ---
 ## Demand Drivers for a Cloud-based Data Center
