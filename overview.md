@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Overview
-hide_body: true
+hide_body: false
 permalink: "/about/overview"
 tags:
 - Disaster Recovery
@@ -12,103 +12,9 @@ page_sections:
 - template: page-hero
   block: page-hero
   banner_image: "/uploads/bg_servies.jpg"
-  subheadline: Expedient’s Disaster Recovery as a Service solutions have been recognized
-    in  the Gartner Magic Quadrant for DRaaS and offer fast, total network failover  without
-    IP and DNS changes.
-- template: subscribe-bar
-  block: subbar
-  headline: Subscribe to receive the latest articles related to DRaaS
-  cta: Subscribe Now
-- template: featured-service
-  block: featured-service
-  align-left: true
-  title: Push Button DR
-  headline: Rapid Speed, Complete Confidence, Resilience at the push of a button
-  description: Expedient’s Push Button DR offers rapid, total network failover between
-    disparate locations at the push of a button, without IP or DNS changes. Our Recovery
-    Time Objectives (RTOs) and Recovery Point Objectives (RPOs) are measured in minutes,
-    not hours or days, giving you confidence in business continuity. Testing your
-    DR plan is a breeze with dedicated infrastructure and unlimited self-service or
-    supported tests. And if disaster strikes, you can rely upon our 24x7x365 Operations
-    Support Center team to be available if — and when — you need us.
-  icon: "/uploads/EXP_PushButtonDR.svg"
-- template: quote
-  block: quote
-  image: "/uploads/EXP_Circle-Mark.svg"
-  image-alt: Expedient
-  quote: "“Our experience watching Push Button DR in action for our applications was
-    like magic. It simplified our business continuity plan.”"
-  cite: "- IT Director, Professional Services Company"
-  link: ''
-  cta: ''
-- template: highlights-2-column
-  block: highlights-2col
-  heading: Flexible and Extensible
-  subheading: "Push Button DR  \nHighlights "
-  highlights:
-  - align-left: true
-    icon: "/uploads/EXP_Agility.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Agility
-    description: Failover at the push of a button and have the ability to operate
-      applications in multiple data centers or your own site.
-  - align-left: false
-    icon: "/uploads/EXP_Availability.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Availability
-    description: Replicate computing workloads of critical importance in two or more
-      data centers or your own site and rely upon automatic recovery by interconnected
-      locations.
-  - align-left: true
-    icon: "/uploads/EXP_RiskMitigation.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Risk Mitigation
-    description: Protect information technology workloads with disaster recovery solutions
-      that offer the fastest recovery time objectives.
-- template: callout
-  block: callout
-  link: contact.md
-  cta: Learn More
-  heading: Interested in saving $100,000 a day?
-  content: Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
-    Push Button DR.
-  icon: ''
-  background: "/uploads/bg_hurricane.png"
-- template: featured-service
-  block: featured-service
-  title: On-Site Private Cloud with Disaster Recovery as a Service
-  headline: 'Ease your transition to the  cloud with a dedicated  on-premises cloud. '
-  description: Expedient’s On-Site Private Cloud with Disaster Recovery as a Service
-    is designed to ease your transition to the cloud through dedicated on-premises
-    cloud resources coupled with managed disaster recovery from your location to any
-    one of Expedient’s 11 data centers using Push Button DR. The On-Site Private Cloud
-    with DRaaS is ideal for customers who want to transform their IT operations without
-    sacrificing the benefits or control of an on-premises environment.
-  icon: "/uploads/EXP_OnSiteDraaS.svg"
-  align-left: false
-- template: highlights-2-column-2-row
-  block: highlights-2col-2row
-  heading: Robust and Secure
-  subheading: On-Site Private Cloud  Provides
-  highlights:
-  - headline_left: Risk Mitigation
-    description_left: Protect data and comply with mandates like the Payment Card
-      Industry Data Security Standard (PCI DSS)
-    icon_left: "/uploads/EXP_RiskMitigation.svg"
-    headline_right: Agility
-    description_right: Operate applications in multiple data centers concurrently
-      for active/active  workload protection.
-    icon_right: "/uploads/EXP_Agility.svg"
-  - headline_left: Availability
-    description_left: Replicate computing workloads of critical importance in two
-      or more data centers and rely upon automatic recovery if the unexpected happens.
-    icon_left: "/uploads/EXP_Availability.svg"
-    headline_right: Cost Control
-    description_right: Stop purchasing hardware and accurately forecast monthly operational
-      infrastructure expense while taking advantage of the latest technology.
-    icon_right: "/uploads/EXP_CostControl.svg"
-- template: recent-posts
-  block: recentposts
+  subheadline: ''
+- template: content-block-full
+  block: content-full
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
@@ -116,13 +22,173 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
-type: include
-template: seo
-label: SEO
-name: seo
-seo_title: Cloud Computing and Data Center Infrastructure as a Service
-description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
-  Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
-image: ''
 
 ---
+## Significant Company Milestones
+
+Sep 2001
+
+Founded as US VoiceData. (Cleveland, Ohio)
+
+Dec 2001
+
+Acquired RMRC. (Cleveland, Ohio)
+
+Apr 2002
+
+Acquired Expedient. (Cleveland, South Florida)
+
+May 2002
+
+Acquired Yipes Markets. (Boston, Miami, PIttsburgh)
+
+Feb 2003.
+
+Acquired 6 Verio Markets.(Ohio, Tampa, Sacramento, Syracuse, Topeka)
+
+Jun 2003.
+
+Acquired APK. (Northeast Ohio)
+
+Oct 2003
+
+Acquired Stargate. (Pittsburgh, Erie and Hagerstown, MD)
+
+Oct 2005
+
+Acquired by Continental Broadband, a Landmark Communications Company
+
+Feb 2007
+
+Acquired Data Center business of SafeCore (Boston, MA)
+
+Jan 2007
+
+Expanded into Indianapolis via our sister company, nFrame
+
+Feb 2008
+
+Over $1 million in expansion in Cleveland
+
+May 2008
+
+Expedient expands to 2nd data center in Pittsburgh (Allegheny Center Mall)
+
+Aug 2008
+
+Invests in a $4.8 Million build of 2nd data center (Cleveland)
+
+Aug 2008
+
+Became PCI-DSS compliant through self-attestation
+
+Dec 2008
+
+All offices become interconnected with a 10GB fiber backbone
+
+Oct 2009
+
+Opened 2nd Data center (Cleveland)
+
+Dec 2009
+
+Launch Operations Support Center (OSC)
+
+Dec 2010
+
+Opened first Columbus data center- 14,000 square feet
+
+Jan 2011
+
+Expand Boston Data Center by 3,600 square feet
+
+Feb-Jul 2011
+
+Multi million dollar power plant upgrade (Cleveland and Pittsburgh)
+
+Dec 2011
+
+Expansion of 2nd Baltimore Data center- 10,000 additional square feet
+
+Apr 2012
+
+Expansion of 152 Cleveland data center- 7,000 additional square feet
+
+Nov 2013
+
+Second Baltimore Data Center opened in Owings Mills area – 21,000 square feet
+
+Dec 2013
+
+Expansion of Pittsburgh ACM Data center- additional 8,000 square feet for a total of 30,000 square feet of space
+
+Feb 2014
+
+Expedient named to CRN top data center list for second year in a row
+
+Sept 2014
+
+Announcement of 2nd Columbus Data Center in Dublin, Ohio to be built from the ground up
+
+Oct 2014
+
+Announcement of 7th market, Memphis, TN with an open date of mid-year 2015
+
+Jan 2015
+
+151 NEO facility data center expansion completed – 6,000 sq ft added
+
+July 2015
+
+Opened First Memphis Data Center
+
+Nov 2015
+
+Opened Second Columbus Data Center in Dublin, OH
+
+Nov 2015
+
+Achievement of Payment Card Industry (PCI) Data Security Standard (DSS) Attestation of Compliance (AOC) for Report on Compliance (ROC) from Qualified Security Assessor (QSA)
+
+March 2016
+
+Expansion of Boston data center (8,000 sq. ft.)
+
+July 2016
+
+Offers SlimLine Cage for colocation
+
+August 2016
+
+Offers Push Button DR 2.0 with Software Defined Networking
+
+September 2016
+
+Offers On-Site Private Cloud with Disaster Recovery as a Service
+
+June 2017
+
+Receives recognition in Gartner Magic Quadrant for Disaster Recovery as a Service  
+Receives recognition as a Top 10 MSP Worldwide from MSP Mentor
+
+December 2017
+
+Expansion of Pittsburgh ACM (Nova Place) data center (10,000 sq. ft.)  
+Expansion of Indianapolis data center (3,500 sq. ft.)
+
+February 2018
+
+Recognized on CRN’s Data Center 100 list
+
+May 2018
+
+Named Zerto’s Growth Partner of the Year – Cloud Services Provider
+
+June 2018
+
+Named #7 managed services provider in the world on the MSP 501  
+Completed network backbone upgrade to 100 Gbp/s
+
+July 2018
+
+Positioned in Gartner Magic Quadrant for Disaster Recovery as a Service

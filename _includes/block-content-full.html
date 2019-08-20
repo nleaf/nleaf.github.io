@@ -1,8 +1,13 @@
 <!-- Content Full -->
     <section class="relative sm:py-12 sm:pb-12">
         <div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12">
-            <div class="w-full sm:w-10/12 sm:pr-20 post">
+            <div class="w-full sm:w-8/12 pr-5 post">
                 {{content}}
+            </div>
+            <div class="w-full sm:w-4/12 pl-5">
+                {% for section in page.page_sidebars %}
+                    {% include sidebar-{{ section.block }}.html %}
+                {% endfor %}
             </div>
         </div>
     </section>
