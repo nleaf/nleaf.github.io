@@ -9,3 +9,21 @@ fields:
   label: block
   hidden: true
   default: tags
+- name: links
+  type: field_group_list
+  fields:
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link Text
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: links
