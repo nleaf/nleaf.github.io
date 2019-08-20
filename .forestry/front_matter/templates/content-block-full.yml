@@ -9,3 +9,10 @@ fields:
   label: block
   hidden: true
   default: content-full
+- name: sidebar
+  type: blocks
+  label: Sidebar
+  template_types: []
+  config:
+    min: 
+    max: 
