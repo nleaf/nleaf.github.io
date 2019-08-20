@@ -17,7 +17,7 @@ For instance, in the [public cloud](https://www.expedient.com/cloud-computing/pu
 
 It is a common occurrence that your computing demand exceeds the dedicated amount, even when you will begin pulling computing resources from the variable pool. And while this is a great option if you experience unusual spikes in demand, it is important to note that those variable rates are being offered at a premium rate – meaning if you are continually pulling from the variable pool, you may end paying much more than you initially suspected.
 
-**_To learn more, download our whitepaper:_** [**_“Translating TCO When Taking to the Cloud” White Paper_**](http://go.expedient.com/l/12902/2013-06-26/6jv6r/12902/85780/TCO_of_the_Cloud.pdf)
+**_To learn more, download our whitepaper:_** [**_“Translating TCO When Taking to the Cloud”_**](http://go.expedient.com/l/12902/2013-06-26/6jv6r/12902/85780/TCO_of_the_Cloud.pdf)
 
 #### Don’t Forget About Cloud Performance
 
