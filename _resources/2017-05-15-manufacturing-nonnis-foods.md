@@ -18,7 +18,7 @@ page_sections:
     and the Expedient environment were solid and able to handle that extra capacity."'
   cite: "- Kelly Tryon, Chief Information Officer, Nonni's Foods LLC"
   icon: "/uploads/kelly_tryon.jpg"
-  quote_background: ''
+  quote_background: "/uploads/exp_CaseStudybg-nf.jpg"
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
