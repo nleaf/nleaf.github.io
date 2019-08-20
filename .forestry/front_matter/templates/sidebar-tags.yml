@@ -30,6 +30,10 @@ fields:
       required: false
     label: URL
     default: https://www.expedient.com
+  - name: newtab
+    type: boolean
+    label: New Tab
+    description: Open in a new tab?
   config:
     min: 
     max: 
