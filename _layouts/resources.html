@@ -48,7 +48,10 @@ layout: default
                 </div>
 
                 <div class="w-full sm:w-4/12 pl-5">
-                    <h3 class="text-red text-xl font-bold font-sans mb-4">Tags</h3>
+                    {% for section in page.page_sidebars %}
+                        {% include sidebar-{{ section.block }}.html %}
+                    {% endfor %}
+                    <!-- <h3 class="text-red text-xl font-bold font-sans mb-4">Tags</h3>
 
                     <a href="/knowledgebase/resources/casestudies/" class="tag_list_item block bg-bwhite my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
                         Case Studies
@@ -64,7 +67,7 @@ layout: default
                     </a>
                     <a href="/knowledgebase/resources/whitepapers/" class="tag_list_item block bg-bwhite my-1 p-4 px-6 relative quickNav font-sans font-semibold text-base">
                         Whitepapers
-                    </a>
+                    </a> -->
                 </div>
 
         </div>
