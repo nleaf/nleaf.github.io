@@ -8,7 +8,8 @@ tags:
 - hyperscale cloud
 - multi cloud
 author: Jon Rosenson
-banner_image: "/uploads/EXP_Social-At2AWSPostParty.png"
+banner_image: ''
+image: "/uploads/EXP_Social-At2AWSPostParty.png"
 
 ---
 Nearly 50,000 technology professionals descended upon 6 convention centers in Las Vegas for this year’s **AWS re:Invent conference** to connect with peers and cloud experts for collaboration and learning about **Amazon Web Services** (AWS). 
