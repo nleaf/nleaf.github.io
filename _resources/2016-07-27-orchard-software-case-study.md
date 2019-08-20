@@ -14,7 +14,7 @@ page_sections:
 - template: case-study-quote
   block: casestudy-quote
   icon: "/uploads/seth_bosworth.jpg"
-  quote_background: ''
+  quote_background: "/uploads/exp_CaseStudybg-os-1.jpg"
   quote: '"From internet to colocation to cloud hosting offered to our clients, Orchard
     has been very satisfied with the services provided by Expedient since we first
     became a customer in 2004."'
