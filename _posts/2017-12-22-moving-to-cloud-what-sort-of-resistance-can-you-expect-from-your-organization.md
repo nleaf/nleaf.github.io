@@ -9,7 +9,7 @@ tags:
 author: Doug Theis
 
 ---
-## Gaining Organizational Consensus Regarding Cloud Migration
+## How to Build a Business Case for Cloud Migration
 
 When an organization changes how it attacks a business problem, it’s quite common for these changes to be met with resistance.  Information Technology is no exception.  Switching from traditional servers, storage, and other on premises IT equipment to cloud versions of these services often triggers resistance from leadership, finance, IT, and end users. Here’s a look at departments and types of resistance IT often hears when making the change to cloud:
 
@@ -19,7 +19,7 @@ When an organization changes how it attacks a business problem, it’s quite com
 
 #### The Importance of a Business Case
 
-How do you preemptively address this resistance? By building a **business case** for the change involved in moving to the cloud.  The business case is critical to your success.  This document should directly address challenges in your business and tie the functional IT changes and its outcomes to address the challenges.  Examples include:
+How do you preemptively address this resistance? By building a **business case** for the change involved in moving to the cloud.  The business case is critical to your success.  This document should directly address challenges in your business and tie the functional IT changes and its outcomes to address the challenges. Examples include:
 
 * Managing risk by reducing downtime, improving application performance, and meeting compliance regulations
 * Reducing IT project backlogs and time-to-service by reducing the keep-the-lights-on IT maintenance work
@@ -31,6 +31,6 @@ Some of these may seem simplistic or obvious.  But you must connect the dots fr
 
 And, some cloud services just don’t address your organization’s specific business requirements.  Choosing the right cloud for the job is the best foundation to building a winning business case.
 
-Do you need help with your business case?  My colleagues and I routinely help companies develop justification documents that tie business requirements to changes in IT.  Check out this whitepaper, [Shift CAPEX to OPEX](https://www.expedient.com/resources/7761/), or contact me if you'd like to discuss your specific situation.
+**Do you need help with your business case?**  My colleagues and I routinely help companies develop justification documents that tie business requirements to changes in IT.  Check out this whitepaper, [Shift CAPEX to OPEX](https://www.expedient.com/resources/7761/), or contact me if you'd like to discuss your specific situation.
 
 _Doug Theis is the Director of Market Strategy in Expedient’s Indianapolis market focused on engaging with and improving the regional IT community through planning, sponsoring and attending community events, facilitating IT-focused continuing education opportunities, and sharing strategies, tactics, and research to help IT professionals stay abreast of best practices and industry trends. Connect with Doug at_ [_doug.theis@expedient.com_](mailto:doug.theis@expedient.com)_, and follow him on_ [_Twitter_](https://twitter.com/dougtheis)_._
