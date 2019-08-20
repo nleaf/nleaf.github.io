@@ -14,7 +14,7 @@ page_sections:
 - template: case-study-quote
   block: casestudy-quote
   icon: "/uploads/michael_teets.jpg"
-  quote_background: ''
+  quote_background: "/uploads/exp_CaseStudybg-uh.jpg"
   quote: '"Thanks to the support of Expedient, we have been able to focus on building
     strategic applications that enhance the entire value chain of the contract flooring
     business."'
