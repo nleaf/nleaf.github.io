@@ -14,7 +14,7 @@ page_sections:
 - template: case-study-quote
   block: casestudy-quote
   icon: "/uploads/will_oneil.jpg"
-  quote_background: ''
+  quote_background: "/uploads/exp_CaseStudybg-blue.jpg"
   quote: '"The whole point of moving to a virtual, cloud-based situation is that we''re
     not going to fall behind. Having someone who is continually updating and continually
     staying on top of [new hardware] means that we don''t have to."'
