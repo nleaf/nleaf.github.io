@@ -10,6 +10,7 @@ tags:
 - VMware
 - hybrid IT
 image: "/uploads/EXP-Newsletter-Jan19.png"
+author: Jon Rosenson
 
 ---
 Executives from three major vendor partner companies presented perspective on their organization’s relationship with Expedient at our 2018 end-of-year company meeting. Participants included:
