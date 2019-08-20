@@ -33,6 +33,11 @@ image: ''
 page_sidebars:
 - template: sidebar-tags
   block: tags
+  links:
+  - link: Privacy Shield Policy
+    url: "/services/managed-services/compliance-security/privacy-shield"
+  - link: Privacy Policy
+    url: "/privacy-policy"
 
 ---
 ## General Introduction
