@@ -18,7 +18,7 @@ page_sections:
     us the ability to exceed our customers'' needs and expectations."'
   cite: Sean Vaden, Director of IT, irth Solutions
   icon: "/uploads/sean_vaden.jpg"
-  quote_background: ''
+  quote_background: "/uploads/exp_CaseStudybg-irth.jpg"
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
