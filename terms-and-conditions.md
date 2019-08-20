@@ -38,6 +38,7 @@ page_sidebars:
     url: "/services/managed-services/compliance-security/privacy-shield"
   - link: Privacy Policy
     url: "/privacy-policy"
+  title: Related Items
 
 ---
 ## General Introduction
