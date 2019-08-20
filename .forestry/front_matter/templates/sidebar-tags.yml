@@ -9,6 +9,12 @@ fields:
   label: block
   hidden: true
   default: tags
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  default: Sidebar Title
 - name: links
   type: field_group_list
   fields:
@@ -17,11 +23,13 @@ fields:
     config:
       required: false
     label: Link Text
+    default: Click Me
   - name: url
     type: text
     config:
       required: false
     label: URL
+    default: https://www.expedient.com
   config:
     min: 
     max: 
