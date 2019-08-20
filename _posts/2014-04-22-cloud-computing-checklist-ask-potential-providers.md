@@ -6,9 +6,9 @@ tags:
 author: John White
 
 ---
-## Cloud Computing Checklist: Questions to Ask Potential Providers
+## Questions to Ask Potential Cloud Providers
 
-As your organization looks to a cloud solution provider for services, there are key areas that need to be reviewed. Use this checklist as a guide to help you evaluate any [potential cloud solution providers.](https://www.expedient.com/cloud-computing/ "Cloud Computing") 
+As your organization looks to a cloud solution provider for services, there are key areas that need to be reviewed. Use this checklist as a guide to help you evaluate any [potential cloud solution providers.](https://www.expedient.com/cloud-computing/ "Cloud Computing")
 
 For additional insights, [Read Expedient’s “Not all Clouds are Created Equal” whitepaper](http://bit.ly/10icJfH)
 
@@ -22,6 +22,12 @@ As information technology environments continue to contain more personal, privat
 
 #### Measuring cloud performance
 
-In order to safeguard against poor performance, it is important to set up a detailed set of performance and criteria metrics. Performance questions to cover include: • Does the provider offer a monitoring solution that includes an overview for Network Capacity (Mbps), Memory Capacity (GB), Disk Capacity (GB), Disk IO (IOPS) and Compute (Varies)? • What performance metrics are monitored by the cloud provider? • What happens when the client or other clients in the environment need more CPU or Disk IO? While the above is just a sampling of the questions you should ask your cloud provider, Expedient is always ready to answer any question you have. [Contact us today](https://www.expedient.com/support/ "Support") to learn more about our nationwide network of data centers.
+In order to safeguard against poor performance, it is important to set up a detailed set of performance and criteria metrics. Performance questions to cover include: 
+
+* Does the provider offer a monitoring solution that includes an overview for Network Capacity (Mbps), Memory Capacity (GB), Disk Capacity (GB), Disk IO (IOPS) and Compute (Varies)? 
+* What performance metrics are monitored by the cloud provider? 
+* What happens when the client or other clients in the environment need more CPU or Disk IO? 
+
+While the above is just a sampling of the questions you should ask your cloud provider, Expedient is always ready to answer any question you have. [Contact us today](https://www.expedient.com/support/ "Support") to learn more about our nationwide network of data centers.
 
 _As Chief Innovation Officer, John White is the lead executive at Expedient responsible for the company’s product and technology vision. In addition to leading Expedient’s product strategy function, John also serves as the lead technology evangelist for the company, works closely with the sales team on closing complex/high brand deals, and acts as Expedient’s primary interface with existing technology partners. Follow him on_ [_Twitter_](https://twitter.com/johna_white)_._
