@@ -14,15 +14,11 @@ page_sidebars:
 - template: sidebar-tags
   block: tags
   links:
-  - link: Case Studies
+  - link: Images and Video
     url: "/knowledgebase/resources/casestudies/"
-  - link: Info Sheets
-    url: "/knowledgebase/resources/infosheet/"
-  - link: Outcome Stories
-    url: "/knowledgebase/resources/outcomestories/"
-  - link: Videos
-    url: "/knowledgebase/resources/video/"
-  - link: Whitepapers
-    url: "/knowledgebase/resources/whitepapers/"
-  title: Tags
+  - link: Executive Team 
+    url: "http://go.expedient.com/l/12902/2017-11-28/3ltvgl/12902/159859/Expedient_Executives.pdf"
+  - link: Company Overview
+    url: "http://go.expedient.com/l/12902/2017-11-28/3ltvgj/12902/159857/Expedient_CompanyOverview.pdf"
+  title: ''
 ---

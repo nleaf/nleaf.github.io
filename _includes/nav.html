@@ -89,7 +89,7 @@
                                 {% endif %}
                             </a>
                             {% if item.childern %}
-                              <ul class="first-level lg:absolute lg:-mt-2 lg:bg-lgrey hidden">
+                              <ul class="first-level lg:absolute lg:-mt-0 lg:bg-lgrey hidden">
                                 {% for child in item.childern %}
                                 <li>
                                   <a href="{{ child.url | absolute_url }}"{% if child.target %} target="_blank" {% endif %} class="p-4 lg:px-8 lg:py-6 lg:block bg-bwhite">
