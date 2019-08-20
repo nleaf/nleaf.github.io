@@ -14,7 +14,7 @@ page_sections:
 - template: case-study-quote
   block: casestudy-quote
   icon: "/uploads/ziwei_yi.jpg"
-  quote_background: ''
+  quote_background: "/uploads/exp_CaseStudybg-mc.jpg"
   quote: '"The availability, the scalability, and the customer service we were able
     to receive from [Expedient] is really great."'
   cite: Ziwei Yi, Director of Data and Technologies, MedCom Solutions
