@@ -7,7 +7,7 @@ tags:
 author: Jon Rosenson
 
 ---
-## 6 Questions to Ask A Prospective Colocation Provider
+## Six Questions to Ask A Prospective Colocation Provider
 
 Once you have determined that colocation is the right strategy for your business, choosing the best qualified provider is the necessary next step. While this may seem like a daunting task, conducting preliminary due diligence and knowing what questions to ask during the vetting process will help establish a framework for your overall evaluation. **Don’t proceed without suitable answers to these questions:**
 
