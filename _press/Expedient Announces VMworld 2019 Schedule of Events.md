@@ -20,7 +20,7 @@ popular: false
 download: ''
 
 ---
-**Pittsburgh, PA – 19 August 2019** – Expedient, a cloud computing and data center infrastructure as a service provider, today announced that it will exhibit at VMworld 2019, taking place at the Moscone Center in San Francisco, August 25 – 29.
+**Pittsburgh, PA (19 August 2019)** – Expedient, a cloud computing and data center infrastructure as a service provider, today announced that it will exhibit at VMworld 2019, taking place at the Moscone Center in San Francisco, August 25 – 29.
 
 The 2019 conference marks Expedient’s debut as an exhibitor at VMware’s annual thought leadership event for cloud infrastructure and technology professionals, and comes on the heels of Expedient being named [VMware’s Americas Cloud Partner of the Year](https://www.expedient.com/press-releases/expedient-wins-vmware-2018-regional-partner-innovation-award/) at the 2018 VMware Partner Innovation Awards.
 
