@@ -18,5 +18,5 @@ fields:
     max: 
   label: 'Sidebars '
 pages:
-- terms-and-conditions.md
 - privacy-policy.md
+- terms-and-conditions.md
