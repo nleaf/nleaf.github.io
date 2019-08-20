@@ -14,7 +14,7 @@ page_sections:
 - template: case-study-quote
   block: casestudy-quote
   icon: "/uploads/kirk_howard.jpg"
-  quote_background: ''
+  quote_background: "/uploads/exp_CaseStudybg-omn.jpg"
   quote: '"With our production servers housed in Expedient''s scalable, virtualized
     environment, we''re able to add a server for new applications quickly, without
     a heavy upfront hardware investment."'
