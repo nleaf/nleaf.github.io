@@ -47,6 +47,7 @@ fields:
     min: 
     max: 
 pages:
+- _resources/2018-07-09-professional-services-case-study-careworks-tech.md
 - _resources/2016-01-21-softlink-case-study.md
 - _resources/2016-01-07-interactive-blue-case-study.md
 - _resources/2016-10-12-irth-solutions.md
@@ -57,7 +58,6 @@ pages:
 - _resources/2018-02-02-ecommerce-retail-case-study-stanley-steemer.md
 - _resources/2016-03-03-firstinsightcs.md
 - _resources/2017-03-01-battelle-for-kids.md
-- _resources/2018-07-09-professional-services-case-study-careworks-tech.md
 - overview.md
 - _resources/2016-07-29-elite-services-case-study.md
 - _resources/2018-03-28-columbus-metropolitan-library.md

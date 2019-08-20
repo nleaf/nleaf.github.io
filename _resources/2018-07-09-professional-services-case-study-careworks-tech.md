@@ -18,7 +18,7 @@ page_sections:
     have the clients best interests in mind."'
   cite: "- Brian Davis, Director of Infrastructure Services, CareWorks Tech"
   icon: "/uploads/brian_davis.jpg"
-  quote_background: ''
+  quote_background: "/uploads/exp_CaseStudybg-cw.jpg"
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
