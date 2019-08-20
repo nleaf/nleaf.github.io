@@ -28,10 +28,10 @@ To implement a ContinuousNEXT strategy, Gartner recommends 5 imperatives for Chi
 4. **Product Management –** design thinking and agile methodologies to get more done with generally the same resources as in the past;
 5. **Digital Twin –** blend the physical and digital worlds through software to understand its state, respond to change, improve operations, and add value.
 
-Of course, there were many thought leaders and inspirational guest speakers at the conference, including Ginni Rometty (President and CEO of IBM), Peyton Manning (NFL Quarterback), Fareed Zakaria (Journalist and Author), Megan Smith (CIO of the U.S.), and others. Each speaker offered a different perspective on the theme of ContinuousNEXT. 
+Of course, there were many thought leaders and inspirational guest speakers at the conference, including Ginni Rometty (President and CEO of IBM), Peyton Manning (NFL Quarterback), Fareed Zakaria (Journalist and Author), Megan Smith (CIO of the U.S.), and others. Each speaker offered a different perspective on the theme of ContinuousNEXT.
 
-Looking forward, Gartner unveiled it's annual top strategic predictions for 2019, which revolved around three fundamental effects of continuous digital innovation: artificial intelligence and skills, cultural advancement, and the productization of processes enabled by increased digital capabilities. More about each trend can be found on Gartner’s website [here](https://www.gartner.com/smarterwithgartner/gartner-top-strategic-predictions-for-2019-and-beyond/). 
+Looking forward, Gartner unveiled it's annual top strategic predictions for 2019, which revolved around three fundamental effects of continuous digital innovation: artificial intelligence and skills, cultural advancement, and the productization of processes enabled by increased digital capabilities. More about each trend can be found on Gartner’s website [here](https://www.gartner.com/smarterwithgartner/gartner-top-strategic-predictions-for-2019-and-beyond/).
 
-This was my third time attending Gartner Symposium/ITxpo and each time I've come away with interesting new insight and opportunities to explore further. 
+This was my third time attending Gartner Symposium/ITxpo and each time I've come away with interesting new insight and opportunities to explore further.
 
 _As Senior Vice President and Chief Operating Officer, Jonathan Rosenson is responsible for overseeing organizational functions that drive growth at Expedient. Jon additionally acts as an external spokesperson conveying the Expedient story._ [_Follow him_](https://twitter.com/rosenson) _on Twitter._
