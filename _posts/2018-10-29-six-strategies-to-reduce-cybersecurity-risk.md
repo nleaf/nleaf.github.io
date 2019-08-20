@@ -1,6 +1,6 @@
 ---
 title: Six Strategies to Reduce Cybersecurity Risk
-date: 2018-10-29 19:44:36 +0000
+date: 2018-10-29T19:44:36.000+00:00
 tags:
 - Security and Compliance
 - Data Security
@@ -10,9 +10,11 @@ image: "/uploads/EXP_SecurityStrategy.png"
 author: Jon Rosenson
 
 ---
-As part of cybersecurity awareness month, IDG recently released [its 2018 U.S. State of Cybercrime Study](https://www.idg.com/tools-for-marketers/2018-u-s-state-of-cybercrime/). The study underscored the reality that businesses of all sizes still struggle to effectively protect data and critical IT infrastructure from various cybersecurity threats – both external and internal. While most companies are steadily increasing the amount of time and money invested in security budgets, security-related organizational planning, and employee awareness training, major data breaches continue to make headlines on a frequent basis. 
+## How to Mitigate Cybersecurity Risk
 
-Last year, numerous global companies disclosed massive data breaches, headlined by [Yahoo!](https://www.cnet.com/news/yahoo-announces-all-3-billion-accounts-hit-in-2013-breach/) and [Equifax](https://www.nytimes.com/2017/09/07/business/equifax-cyberattack.html). Even though the scale of the data breaches announced in 2018 is small when compared to these two, plenty of major companies suffered cybersecurity setbacks this year. 
+As part of cybersecurity awareness month, IDG recently released [its 2018 U.S. State of Cybercrime Study](https://www.idg.com/tools-for-marketers/2018-u-s-state-of-cybercrime/). The study underscored the reality that businesses of all sizes still struggle to effectively protect data and critical IT infrastructure from various cybersecurity threats – both external and internal. While most companies are steadily increasing the amount of time and money invested in security budgets, security-related organizational planning, and employee awareness training, major data breaches continue to make headlines on a frequent basis.
+
+Last year, numerous global companies disclosed massive data breaches, headlined by [Yahoo!](https://www.cnet.com/news/yahoo-announces-all-3-billion-accounts-hit-in-2013-breach/) and [Equifax](https://www.nytimes.com/2017/09/07/business/equifax-cyberattack.html). Even though the scale of the data breaches announced in 2018 is small when compared to these two, plenty of major companies suffered cybersecurity setbacks this year.
 
 #### A look back at the 2018 headlines:
 
@@ -22,11 +24,11 @@ Last year, numerous global companies disclosed massive data breaches, headlined 
 * In September, [Facebook divulged an attack](https://www.nytimes.com/2018/09/28/technology/facebook-hack-data-breach.html) on its network that exposed the personal information of nearly 50 million users.
 * Earlier this month, Google’s parent company, Alphabet, shut down the much-maligned social media platform Google+ after [it came to light](https://techcrunch.com/2018/10/08/google-plus-hack/) that Google covered up “a security bug that allowed third-party developers to access Google+ user profile data since 2015.”
 
-#### Just the Tip of the Iceberg 
+#### Just the Tip of the Iceberg
 
-While the sheer number of individuals affected by these high-profile breaches and the subsequent financial consequences created by each is the obvious takeaway, it’s important for business executives and IT leaders to read between the lines to discern another key reality related to data breaches. Namely, the complex, interconnected and multi-dimensional nature of IT infrastructure creates countless intrusion points or back doors that can be exploited by hackers to gain unfettered access to valuable or sensitive data that is seemingly “secure.” 
+While the sheer number of individuals affected by these high-profile breaches and the subsequent financial consequences created by each is the obvious takeaway, it’s important for business executives and IT leaders to read between the lines to discern another key reality related to data breaches. Namely, the complex, interconnected and multi-dimensional nature of IT infrastructure creates countless intrusion points or back doors that can be exploited by hackers to gain unfettered access to valuable or sensitive data that is seemingly “secure.”
 
-In the case of the 2017 Equifax breach, hackers exploited “[a weak point in website software](https://www.nytimes.com/2017/09/07/business/equifax-cyberattack.html).” Personal account information of Reddit users from 2007 and before was obtained “[by intercepting SMS messages](https://www.cnbc.com/2018/08/01/reddit-hack-shows-even-strong-security-measures-can-be-bypassed.html)” sent as part of an attempt to use SMS-based two-factor authentication. In an ironic twist, hackers took advantage of “[two bugs in the site’s “View As” feature](https://www.nytimes.com/2018/09/28/technology/facebook-hack-data-breach.html)” to gain access to 50 Million Facebook users. According to _The New York Times_ article on the Facebook breach, the \[View As\] feature “was built to give users more control over their privacy.” 
+In the case of the 2017 Equifax breach, hackers exploited “[a weak point in website software](https://www.nytimes.com/2017/09/07/business/equifax-cyberattack.html).” Personal account information of Reddit users from 2007 and before was obtained “[by intercepting SMS messages](https://www.cnbc.com/2018/08/01/reddit-hack-shows-even-strong-security-measures-can-be-bypassed.html)” sent as part of an attempt to use SMS-based two-factor authentication. In an ironic twist, hackers took advantage of “[two bugs in the site’s “View As” feature](https://www.nytimes.com/2018/09/28/technology/facebook-hack-data-breach.html)” to gain access to 50 Million Facebook users. According to _The New York Times_ article on the Facebook breach, the \[View As\] feature “was built to give users more control over their privacy.”
 
 #### Strategies to Protect Your Data and Mitigate Risk
 
