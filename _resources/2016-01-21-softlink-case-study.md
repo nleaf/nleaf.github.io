@@ -14,7 +14,7 @@ page_sections:
 - template: case-study-quote
   block: casestudy-quote
   icon: "/uploads/hikyu_lee.jpg"
-  quote_background: ''
+  quote_background: "/uploads/exp_CaseStudybg-sl.jpg"
   quote: '"We have been growing very fast. As a result, we talked to at least half
     a dozen big providers, as big as Amazon and Microsoft, and then small ones and
     the local ones; Expedient met all of our requirements as they were the perfect
