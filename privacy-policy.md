@@ -16,7 +16,15 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
-
+page_sidebars:
+- template: sidebar-tags
+  block: tags
+  links:
+  - link: Privacy Shield Policy
+    url: "/services/managed-services/compliance-security/privacy-shield"
+  - link: Terms and Conditions
+    url: "/terms-and-conditions"
+  title: Related Items
 ---
 Expedient respects the privacy of its users. The purpose of this privacy policy is to explain the types of information Expedient obtains about users, how the information is obtained, how it is used, how it may be disclosed to others and how users may restrict its use or disclosure. Expedient reserves the right to revise this privacy policy, while also revising its practices regarding the collection or use of other information obtained from users in the future.
 

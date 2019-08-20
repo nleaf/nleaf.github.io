@@ -24,7 +24,15 @@ name: seo
 seo_title: ''
 description: Expedient is a participant in the U.S. Department of Commerce’s EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield programs and has certified that it adheres to the EU-U.S. and Swiss-U.S. Privacy Shield Principles.
 image: ''
-
+page_sidebars:
+- template: sidebar-tags
+  block: tags
+  links:
+  - link: Terms and Conditions
+    url: "/terms-and-conditions"
+  - link: Privacy Policy
+    url: "/privacy-policy"
+  title: Related Items
 ---
 Expedient is a participant in the U.S. Department of Commerce’s EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield programs and has certified that it adheres to the EU-U.S. and Swiss-U.S. Privacy Shield Principles. For more information about the EU-U.S. and Swiss-U.S. Privacy Shield programs, visit the Department of Commerce’s Privacy Shield website at [https://www.privacyshield.gov/welcome](https://www.privacyshield.gov/welcome). Expedient is subject to the jurisdiction of the Federal Trade Commission.
 
