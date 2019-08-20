@@ -17,7 +17,7 @@ The answer to this challenge is outsourcing. When it comes to ensuring your IT s
 #### Benefits of Outsourcing Information Technology Management
 
 * **Operational Performance**: If IT solutions are not at the heart of your company’s core competencies, then the challenge of maintaining your IT infrastructure can severely strain your operations.
-* **IT Advancement**: Outsourcing your company’s major IT management needs allows you to keep up to date with changing technology while gaining access to IT expertise and improving the overall quality of your IT services_._
+* **IT Advancement**: Outsourcing your company’s major IT management needs allows you to keep up to date with changing technology while gaining access to IT expertise and improving the overall quality of your IT services.
 * **Economical**: In short, maintaining and managing your own information technology services is expensive. When outsourcing, you are in effect sharing the costs with an array of other companies, which in turn lowers these overall expenses.
 
 The right service provider will offer you high quality [information technology management](https://www.expedient.com/managed-services/ "information technology management") that protects your managed servers and networks completely - Providing you with the opportunity to focus on managing your business.
