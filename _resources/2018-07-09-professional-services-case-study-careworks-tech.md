@@ -10,7 +10,7 @@ page_sections:
   subheading: CareWorks Tech and Expedient Collaborate to Bring Comprehensive IT Infrastructure
     and Managed Services Solutions to Central Ohio and Beyond
   heading: Partnerships to Drive Growth
-  icon: ''
+  icon: "/uploads/careworks-logo.png"
 - template: case-study-quote
   block: casestudy-quote
   quote: '"It''s been a great partnership... due to the transparency of both organizations
