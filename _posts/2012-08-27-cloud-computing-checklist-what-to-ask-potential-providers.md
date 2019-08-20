@@ -38,4 +38,4 @@ New regulations and standards are being created as information technology enviro
 
 Always visit the data center your information will be stored. This lets you personally view their operations, inspect their environment, and further explore their security controls.
 
-Of course, at Expedient we are always ready to answer any of your questions. Learn more about one of our [eight strategically located data centers](https://www.expedient.com/the-data-centers/). Or [contact us](https://www.expedient.com/get-a-quote/) directly for more information or to schedule a tour.
+Of course, at Expedient we are always ready to answer any of your questions. Learn more about one of our [strategically located data centers](https://www.expedient.com/the-data-centers/). Or [contact us](https://www.expedient.com/get-a-quote/) directly for more information or to schedule a tour.
