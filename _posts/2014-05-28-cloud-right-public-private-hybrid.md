@@ -17,23 +17,23 @@ The concept behind [cloud computing](https://www.expedient.com/cloud-computing/ 
 * [Private Cloud:](https://www.expedient.com/cloud-computing/private-cloud-computing/ "Private") Offering scalability and flexibility similar to a public cloud, but with critical information being stored within a pool of private and dedicated resources, many consider this to be a more secure option.
 * [Hybrid Cloud:](https://www.expedient.com/cloud-computing/hybrid-cloud-computing/ "Hybrid") If some systems are not ready to virtualized, the hybrid cloud offers the ability to integrate some cloud offerings with your current private environment
 
-#### Differentiating between Clouds
+### Differentiating between Clouds
 
 While each solution does offer its own set of unique benefits, it’s important to note that not all clouds are created equal. At Expedient, we have developed a quick checklist to help you differentiate between solutions and decide which is right for your needs:
 
-##### The public cloud may be right for you if:
+#### The public cloud may be right for you if:
 
 * Business growth is dynamic, tied to seasonality and promotional offerings
 * Capital dollars for hardware purchases are limited
 * Your demand for computing resources fluctuates
 
-##### The private cloud may be right for you if:
+#### The private cloud may be right for you if:
 
-* • Stringent security and regulatory requirements limit your ability to use shared resources
-* • As an enterprise-sized company, your computing budget is not limited
-* • Business and networking demands are predictable
+* Stringent security and regulatory requirements limit your ability to use shared resources
+* As an enterprise-sized company, your computing budget is not limited
+* Business and networking demands are predictable
 
-##### The hybrid cloud may be right for you if:
+#### The hybrid cloud may be right for you if:
 
 * You have some applications or hardware that are not ready for the cloud
 * You need to leverage some of your systems in a secure environment
