@@ -16,8 +16,8 @@ page_sections:
   quote: '"This stuff is like magic. Literally one button to push and we were in another
     facility."'
   cite: "- Tom Junewicz, Director of Information Technology, Stanley Steemer"
-  icon: ''
-  quote_background: ''
+  icon: "/uploads/EXP_Circle-Mark.svg"
+  quote_background: "/uploads/exp_CaseStudybg-ss.jpg"
 - template: case-study-intro
   block: casestudy-top
   description: Stanley Steemer is the nation’s leading provider of professional deep
