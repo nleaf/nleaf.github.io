@@ -9,16 +9,14 @@ fields:
   label: layout
   hidden: true
   default: blocks
-- name: page_sections
+- name: page_sidebars
   type: blocks
-  label: Page Sections
   template_types:
-  - content-block-full
-  - page-hero
-  - newsletter
+  - sidebar-tags
   config:
     min: 
     max: 
+  label: 'Sidebars '
 pages:
 - terms-and-conditions.md
 - privacy-policy.md
