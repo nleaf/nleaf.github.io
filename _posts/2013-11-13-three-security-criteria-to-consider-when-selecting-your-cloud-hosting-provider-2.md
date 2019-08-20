@@ -30,4 +30,4 @@ This includes verifying the existence of up-to-date software upgrades, antivirus
 
 ##### **References:**
 
-1. _http://www.verizonbusiness.com/resources/reports/rp_data-breach-investigations-report-2012_en_xg.pdf_
+_1) http://www.verizonbusiness.com/resources/reports/rp_data-breach-investigations-report-2012_en_xg.pdf_
