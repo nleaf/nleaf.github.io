@@ -10,7 +10,8 @@ The future looks bright when it comes to data center colocation. The annual reve
 
 According to a recent report by 451 Research, the global colocation data center market is expected to reach $36 billion by the end of 2017. Current annual revenue is $22.8 billion. In the same time period, the global footprint should encompass nearly 150 million square feet in space, which is a growth or more than 40 million square feet. That is a lot of opportunity for data center providers to capture.
 
-**What should these potential customers expect to see trending in the industry and why should they adopt colocation into their business plan?**
+* **What should these potential customers expect to see trending in the industry?**
+* **Why should they adopt colocation into their business plan?**
 
 The data center market is highly driven by the popularity of the cloud. As more companies move their infrastructure to the cloud, they look to have their hardware live off-site as well, and for that, they need a data center. Utilizing the data center allows companies to focus on their main business goals and frees up their in-house IT staff to focus on business applications while the data center handles all of the daily maintenance tasks associated with IT and IaaS.
 
