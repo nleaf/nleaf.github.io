@@ -47,6 +47,7 @@ fields:
     min: 
     max: 
 pages:
+- overview.md
 - _resources/2016-03-03-firstinsightcs.md
 - _resources/2016-07-29-elite-services-case-study.md
 - _resources/2018-03-28-columbus-metropolitan-library.md
@@ -77,7 +78,6 @@ pages:
 - colocation.md
 - disaster-recovery.md
 - executive-team.md
-- overview.md
 - security-and-compliance.md
 - why-expedient.md
 - our-customers.md

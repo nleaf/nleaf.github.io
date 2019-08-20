@@ -30,6 +30,9 @@ seo_title: ''
 description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
   Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
 image: ''
+page_sidebars:
+- template: sidebar-tags
+  block: tags
 
 ---
 ## General Introduction
