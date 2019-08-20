@@ -13,8 +13,8 @@ page_sections:
     from Natural Disaster
 - template: case-study-quote
   block: casestudy-quote
-  icon: ''
-  quote_background: ''
+  icon: "/uploads/brian_polak.jpg"
+  quote_background: "/uploads/exp_CaseStudybg-bi.jpg"
   quote: '"We knew we were looking for a different kind of disaster recovery solution.
     We had complete confidence in [Expedient''s] technical expertise and in the research
     we had done."'
