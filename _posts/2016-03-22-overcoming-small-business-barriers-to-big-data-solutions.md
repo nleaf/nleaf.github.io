@@ -6,7 +6,7 @@ tags:
 author: Devon Cole
 
 ---
-## Overcoming Small Business Barriers to Big Data Solutions
+## Overcoming SBO Barriers Caused by Big Data
 
 In the world of the Internet of Things, Big Data is unavoidable. Big Data simply references having too much data that is also too complex and unstructured for an organization’s current IT infrastructure or compute capacity to accurately analyze or use in order to make sound decisions.
 
