@@ -1,6 +1,6 @@
 ---
 title: Pittsburgh Post-Gazette Names Expedient a Winner of the Greater Pittsburgh
-  Area 2016 Top Workplaces Award
+  Area 2015 Top Workplaces Award
 date: Tue, 08 Sep 2015 16:03:06 +0000
 download: ''
 
