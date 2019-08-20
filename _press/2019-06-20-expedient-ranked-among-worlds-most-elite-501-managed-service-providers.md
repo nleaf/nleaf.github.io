@@ -4,7 +4,7 @@ date: Thu, 20 Jun 2019 16:29:28 +0000
 download: ''
 
 ---
-**Pittsburgh, PA – 18 June 2019 –** Expedient, a managed cloud and data center infrastructure as a service (“IaaS”) provider, announced today that it has once again, been named as one of the world’s premier managed service providers (“MSP’s”) by Channel Futures magazine, in accordance with their 2019, MSP 501 rankings. Expedient is ranked No. 12 in the MSP 501 this year. This is the 12th edition of the prestigious, MSP 501, which is a worldwide ranking. Channel Futures experienced a 35% increase in applicants for consideration over the 2018 process.
+**Pittsburgh, PA (18 June 2019) –** Expedient, a managed cloud and data center infrastructure as a service (“IaaS”) provider, announced today that it has once again, been named as one of the world’s premier managed service providers (“MSP’s”) by Channel Futures magazine, in accordance with their 2019, MSP 501 rankings. Expedient is ranked No. 12 in the MSP 501 this year. This is the 12th edition of the prestigious, MSP 501, which is a worldwide ranking. Channel Futures experienced a 35% increase in applicants for consideration over the 2018 process.
 
 Every year, thousands of MSPs from all  over the globe, voluntarily complete an extensive survey and application, to report their product offerings, growth rates, annual total and recurring revenues, pricing structures, revenue mix and more. MSPs were ranked according to a unique methodology that weights revenue figures according to how well the applicant’s business strategy anticipates trends in the fast-evolving channel ecosystem.
 
@@ -34,7 +34,6 @@ Becky Mancuso
 Director of Marketing  
 [becky.mancuso@expedient.com](mailto:becky.mancuso@expedient.com)
 
-  
 **About Informa Tech**
 
 Channel Futures, Channel Partners Online, Channel Partners Conference & Expo and Channel Partners Evolution are part of Informa Tech, a market-leading B2B information provider with depth and specialization in the Information and Communications (ICT) Technology sector. We help drive the future by inspiring the Technology community to design, build and run a better digital world through our market-leading research, media, training and event brands. Every year, we welcome 7,400+ subscribers to our research, more than 3.8 million unique visitors a month to our digital communities, 18,200+ students to our training programs and 225,000 delegates to our events.
