@@ -18,7 +18,7 @@ page_sections:
     capability to support our clients, and ensured that our infrastructure is stable
     and effective."'
   cite: "- Oscar Paredes, Managing Director of Technology, Battelle for Kids"
-  icon: ''
+  icon: "/uploads/EXP_Circle-Mark.svg"
   quote_background: "/uploads/exp_CaseStudybg-bfk.jpg"
 - template: case-study-intro
   block: casestudy-top
