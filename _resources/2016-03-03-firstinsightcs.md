@@ -13,7 +13,7 @@ page_sections:
     Pick Products that Deliver Profits
 - template: case-study-quote
   block: casestudy-quote
-  icon: ''
+  icon: "/uploads/EXP_Circle-Mark.svg"
   quote_background: "/uploads/exp_CaseStudybg-fi.jpg"
   quote: '"Right now, I view [Expedient] as one of our go-to partners. You''re dependable.
     You''ve got technological flexibility, and I find Expedient to be very responsive
