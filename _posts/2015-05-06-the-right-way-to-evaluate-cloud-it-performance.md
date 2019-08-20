@@ -6,7 +6,7 @@ tags:
 author: John White
 
 ---
-## The Right Way to Evaluate IT Performance
+## How to Evaluate IT Performance the Right Way
 
 Socrates is known for saying that the unexamined life is not worth living. Today he’d likely say that the unexamined IT network is not worth maintaining.
 
