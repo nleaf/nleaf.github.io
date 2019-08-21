@@ -5,10 +5,21 @@
         <div class="flex mb-4">
             {% for item in section.row %}
                 <div class="w-1/3 px-4">
-                    <a href="{{item.link}}" alt="{{item.label}}"><img src="{{ item.image| absolute_url }}" class="mx-auto"></a>
+                    <a href="{{item.link}}" alt="{{item.label}}"><img src="{{ item.image| absolute_url }}" class="mx-auto" data-tippy-content="Read Case Study"></a>
                 </div>
             {% endfor %}
     </div>
 
 </section>
 <!-- END Grid -->
+
+<!-- Img block JS -->
+<script src="https://unpkg.com/popper.js@1"></script>
+<script src="https://unpkg.com/tippy.js@4"></script>
+<script type="text/javascript">
+    // Popup Tips
+    tippy.setDefaults({
+        arrow: true,
+    })
+    tippy('[data-tippy-content]')
+</script>
