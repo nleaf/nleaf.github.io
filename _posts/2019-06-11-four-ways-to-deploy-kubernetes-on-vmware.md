@@ -96,7 +96,7 @@ Deploy servers manually and use the [ansible playbooks provided by the kubespray
 * Minimal lifecycle management capability (worker node creation/deletion only)
 * Kubeadm base means cluster is fairly bare-bones
 
-  **Side Note**: Read [this blog post](https://www.expedient.com/blog/deploy-kubernetes-clusters-alongside-virtual-machines-with-expedient-enterprise-cloud/) from John White, Expedient’s Chief Innovation Officer, for more on CSE for vCD.
+**Side Note**: Read [this blog post](https://www.expedient.com/blog/deploy-kubernetes-clusters-alongside-virtual-machines-with-expedient-enterprise-cloud/) from John White, Expedient’s Chief Innovation Officer, for more on CSE for vCD.
 
 #### 4) Rancher
 
