@@ -343,11 +343,6 @@ page_sections:
   - align-left: true
     icon: ''
     background: ''
-    headline: ''
-    description: ''
-  - align-left: true
-    icon: ''
-    background: ''
     headline: Service Organizational Control (SOC) Reporting
     description: Expedient offers multiple SOC reports that serve as third-party attestations
       of our operating excellence.
@@ -372,6 +367,13 @@ page_sections:
     description: Expedient can assist clients with the Payment Card Industry (PCI)
       Security Standards Council (DSS) compliance process by providing various types
       of documentation.
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: General Data Protection Regulation (GDPR)
+    description: Expedient is prepared to support current and prospective clients
+      with GDPR compliance needs via a Data Protection Agreement (DPA) that can be
+      executed as an addendum to a Master Services Agreement (MSA).
 - template: callout
   block: callout
   link: contact.md
