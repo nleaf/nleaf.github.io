@@ -19,6 +19,12 @@ page_sections:
     servers. This allows us to stay focused on the critical business projects that
     we know will be coming."'
   cite: "- Brian Hensley, Director of IT, TIC Gums"
+- template: link-bar
+  block: linkbar
+  cta: Download Case Study
+  link: http://bit.ly/2vMh4ih
+  headline: On-Site Private Cloud with Disaster Recovery as a Service
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
