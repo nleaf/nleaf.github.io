@@ -23,8 +23,7 @@ page_sections:
   block: linkbar
   link: http://bit.ly/1UTwCY8
   cta: Download Case Study
-  headline: Infrastructure as a service solutions deliver the capacity, service and
-    reliability to transform cancer care.
+  headline: Capacity and service reliability to transform cancer care.
   newtab: false
 - template: case-study-intro
   block: casestudy-top
