@@ -45,6 +45,21 @@ page_sections:
   - image: "/uploads/first-insight.jpg"
     label: First Insight
     link: "/knowledgebase/resources/firstinsightcs/"
+- template: grid
+  block: grid
+  row:
+  - image: "/uploads/Ideal-Chemical.jpg"
+    label: Ideal Chemical and Supply Company
+    link: ''
+  - image: "/uploads/irth-solutions.jpg"
+    label: Irth Solutions
+    link: "/knowledgebase/resources/irth-solutions/"
+  - image: "/uploads/jumpline.jpg"
+    label: Jumpline.com
+    link: http://bit.ly/1GyI1JL
+  - image: "/uploads/medcom.jpg"
+    label: MedCom Solutions
+    link: "/knowledgebase/resources/healthcare-medcom-solutions/"
 - template: subscribe-bar
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
