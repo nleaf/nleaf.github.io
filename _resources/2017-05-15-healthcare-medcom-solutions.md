@@ -18,6 +18,12 @@ page_sections:
   quote: '"The availability, the scalability, and the customer service we were able
     to receive from [Expedient] is really great."'
   cite: Ziwei Yi, Director of Data and Technologies, MedCom Solutions
+- template: link-bar
+  block: linkbar
+  link: http://bit.ly/2rhxfRw
+  cta: Download Case Study
+  headline: HIPAA compliance, while still providing personalized service
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
