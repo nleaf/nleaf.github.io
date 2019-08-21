@@ -46,9 +46,9 @@ Like Linux, the base k8s offering is augmented by various vendors and open-sourc
 
 With the Kubernetes intro in the rear view, we can now talk about the fun stuff. Over the last year, Expedient’s Product Strategy and Information Systems teams have collaborated to deploy several containerized applications on the [Expedient Enterprise Cloud](https://www.expedient.com/services/infrastructure-as-a-service/cloud/) (EEC) platform, which is based on vCloud Director v9.5. As you know from my k8s intro above, there are several different ways to achieve similar results when deploying containerized applications on k8s. However, there are advantages and disadvantages to each approach:
 
-1. **Manual creation and management with kubeadm**
+#### 1) Manual creation and management with kubeadm
 
-   Deploy servers as you normally would and [use kubeadm to bootstrap a kubernetes cluster](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/)
+Deploy servers as you normally would and [use kubeadm to bootstrap a kubernetes cluster](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/)
 
 **Advantages**
 
@@ -62,7 +62,7 @@ With the Kubernetes intro in the rear view, we can now talk about the fun stuff.
 * All lifecycle control is manual
 * Nodes need to be set up separately from the running of the kubeadm command, requiring either multiple steps or custom automation
 
-**2. Ansible-based deployment with kubespray**
+#### 2) Ansible-based deployment with kubespray
 
 Deploy servers manually and use the [ansible playbooks provided by the kubespray project](https://github.com/kubernetes-sigs/kubespray) to bootstrap and manage the cluster.
 
@@ -79,7 +79,7 @@ Deploy servers manually and use the [ansible playbooks provided by the kubespray
 * Difficult to use if ansible is a new tool for the team
 * Nodes still need to be set up manually - This is partially alleviated [by using Tower workflows](https://docs.ansible.com/ansible-tower/latest/html/userguide/workflows.html) to both deploy nodes and bootstrap clusters but still requires setup
 
-**3. Use the Container Service Extension (CSE) for vCD**
+#### 3) Use the Container Service Extension (CSE) for vCD
 
 [Use the CSE extension of vcd-cli to deploy clusters](https://vmware.github.io/container-service-extension/CLUSTER_ADMIN.html#example).
 
@@ -98,7 +98,7 @@ Deploy servers manually and use the [ansible playbooks provided by the kubespray
 
   **Side Note**: Read [this blog post](https://www.expedient.com/blog/deploy-kubernetes-clusters-alongside-virtual-machines-with-expedient-enterprise-cloud/) from John White, Expedient’s Chief Innovation Officer, for more on CSE for vCD.
 
-**4. Rancher**
+#### 4) Rancher
 
 Deploy an instance of [Rancher's open source cluster management tool](https://rancher.com/products/rancher/) and use that for cluster creation/management
 
