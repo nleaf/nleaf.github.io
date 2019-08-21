@@ -67,21 +67,10 @@ With a turnkey IaaS solution like EEC, you won’t have to worry about operating
 
 #### The Business Case for EEC
 
-##### Streamlined Resource Provisioning
-
-EEC enables you to meet the increasing demands of your development team by allowing your IT team to shift its focus to learning and mastering a small number of new skills that will provide direct value to the business with faster response times from corporate IT. In this regard, EEC also facilitates room for the eventual enablement of self-service resource provisioning, so your developers can spin up VMs when necessary within an approved and controlled environment.
-
-##### Deployment Automation
-
-VM templates that meet your compliance standards can be easily created and shared with specific team members. Future service offerings from Expedient will help you monitor these machines for configuration drift. Capacity planning is made easier with built-in vROPS, and changes can be made in minutes instead of weeks.
-
-##### Software-defined Networking
-
-EEC provides software-defined networking via NSX, which enables granular security controls to be applied to any server or group of servers based on security tags. NSX also provides a built-in IPAM solution enabling the use of static IP addresses without the threat of different departments within the business encroaching on the IP space of other teams. New networks can be created in minutes directly in EEC’s HTML-5 interface.
-
-##### vSAN storage
-
-EEC is backed by all-flash vSAN Storage, which keeps VM's next to the data they are working on, providing major performance advantages. This feature played a major role in the dominant performance of EEC in a recent independent cloud analysis performed by Cloud Spectator. Learn more [by downloading your copy](https://www.expedient.com/2019-cloud-spectator-report/) for free.
+* **Streamlined Resource Provisioning -** EEC enables you to meet the increasing demands of your development team by allowing your IT team to shift its focus to learning and mastering a small number of new skills that will provide direct value to the business with faster response times from corporate IT. In this regard, EEC also facilitates room for the eventual enablement of self-service resource provisioning, so your developers can spin up VMs when necessary within an approved and controlled environment.
+* **Deployment Automation -** VM templates that meet your compliance standards can be easily created and shared with specific team members. Future service offerings from Expedient will help you monitor these machines for configuration drift. Capacity planning is made easier with built-in vROPS, and changes can be made in minutes instead of weeks.
+* **Software-defined Networking** - EEC provides software-defined networking via NSX, which enables granular security controls to be applied to any server or group of servers based on security tags. NSX also provides a built-in IPAM solution enabling the use of static IP addresses without the threat of different departments within the business encroaching on the IP space of other teams. New networks can be created in minutes directly in EEC’s HTML-5 interface.
+* **vSAN storage -** EEC is backed by all-flash vSAN Storage, which keeps VM's next to the data they are working on, providing major performance advantages. This feature played a major role in the dominant performance of EEC in a recent independent cloud analysis performed by Cloud Spectator. Learn more [by downloading your copy](https://www.expedient.com/2019-cloud-spectator-report/) for free.
 
 In conclusion, EEC provides VMware cloud infrastructure in the form factor that is necessary for businesses in the age of digital transformation. With this turnkey operational model, you can leverage the existing VMware skill sets of your IT team while enabling them to focus on strategic projects that drive bottom line value for your business. By streamlining time-consuming yet undifferentiated tasks like IT infrastructure management, you will break down inefficient organizational silos and provide your IT team with the opportunity to apply their valuable skill sets to projects that create new lines of revenue and/or improve the customer experience.
 
