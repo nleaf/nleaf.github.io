@@ -101,12 +101,12 @@ page_sections:
   - headline_left: Turnkey and Customizable
     description_left: Take advantage of Expedient’s robust default security policies,
       or tailor the solution to meet your specific needs.
-    icon_left: ''
+    icon_left: "/uploads/EXP_Agility.svg"
     headline_right: Co-Managed Solution
     description_right: Expedient’s UTM service focuses on the operational aspects,
       such as applying default policies based on best practices, managing patching
       and upgrades, and providing break/fix support as needed.
-    icon_right: ''
+    icon_right: "/uploads/exp-backups-icon.svg"
 - template: highlights-2-column
   block: highlights-2col
   heading: Virtual Private Network
