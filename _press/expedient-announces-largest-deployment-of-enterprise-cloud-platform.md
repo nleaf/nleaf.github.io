@@ -1,7 +1,13 @@
 ---
 title: Expedient Announces Largest Deployment of Enterprise Cloud Platform
-date: 2019-08-21 04:00:00 +0000
+date: 2019-08-21T04:00:00.000+00:00
 download: ''
+description: Expedientannounced that Homes.com, one of the nation’s largest online
+  real estate marketplaces, has consolidated and migrated its critical business applications
+  from multiple cloud providers, including Amazon Web Services, to Expedient’s Enterprise
+  Cloud.
+image: "/uploads/EXP_EnterpriseCloud.svg"
+seo_title: ''
 
 ---
 Pittsburgh, PA – 21 August 2019 – Expedient, a cloud computing and data center infrastructure as a service provider and a Premier VMware Cloud Provider Program partner, today announced that Homes.com, one of the nation’s largest online real estate marketplaces, has consolidated and migrated its critical business applications from multiple cloud providers, including Amazon Web Services, to Expedient’s Enterprise Cloud, marking Expedient’s largest deployment yet of its VMware Cloud Verified infrastructure.
