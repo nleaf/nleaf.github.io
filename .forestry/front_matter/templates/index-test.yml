@@ -49,8 +49,8 @@ fields:
     min: 
     max: 
 pages:
-- security-and-compliance.md
 - our-customers.md
+- security-and-compliance.md
 - _resources/2017-07-27-manufacturing-tic-gums.md
 - _resources/2016-03-03-firstinsightcs.md
 - _resources/2016-07-22-omnyx-case-study.md
