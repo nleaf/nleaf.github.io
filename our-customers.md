@@ -75,6 +75,21 @@ page_sections:
   - image: "/uploads/prodigosolutions.png"
     label: Prodigo Solutions
     link: "/knowledgebase/resources/professional-services-case-study-prodigo-solutions/"
+- template: grid
+  block: grid
+  row:
+  - image: "/uploads/Sarris-Candy.jpg"
+    label: Sarris Candies
+    link: ''
+  - image: "/uploads/Shapiro_Logo.png"
+    label: Shapiro
+    link: "/knowledgebase/resources/logistics-case-study-shapiro/"
+  - image: "/uploads/softlinx.jpg"
+    label: Softlinx
+    link: "/knowledgebase/resources/softlink-case-study/"
+  - image: "/uploads/Stanley-steamer.jpg"
+    label: Stanley Steemer
+    link: "/knowledgebase/resources/ecommerce-retail-case-study-stanley-steemer/"
 - template: subscribe-bar
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
