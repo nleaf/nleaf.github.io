@@ -8,6 +8,8 @@ author: Mike Garuccio
 image: "/uploads/EXP-Garuccio_Blog--Backups-vs-DR_1.png"
 
 ---
+## Backups and Disaster Recovery: What's the Difference?
+
 Modern IT departments need to be able to protect their mission-critical data and quickly respond in the event of a problem in their environment.   This capability hinges on maintaining a strategy for both backups and disaster recovery.  These two capabilities [are often conflated with each other](https://www.expedient.com/blog/what-are-the-differences-between-backups-and-disaster-recovery/) but this blog post will explore the differences between the two and explain the situations they are needed for.
 
 #### Backups
@@ -67,8 +69,8 @@ The considerations for a DR platform are similar but slightly different than tho
   * The traditional way of handling this is to reconfigure DNS entries to point to the new site, however this method of failover can take a long time to propagate to all users, particularly if they are globally distributed or if long TTL’s exist on the entries themselves. Whatever the case, make sure to account for this additional time in your RTO calculations.
   * An alternate way of dealing with this problem is to fail over the entire networking stack with the compute resources and announce the same IP addresses from the new location. This requires a deep integration with the infrastructure of both the source and destination sites. By automating and orchestrating network failover, Expedient’s Push Button DR solution enables this failover approach, which enables real-time RPOs and RTOs measured in minutes.
 
-While these DR capabilities are wonderful, it’s important to remember that as of right now most DR solutions are optimized for the recovery of VMs but are lacking in important backup features like the ability to rapidly restore a single file deleted by a user or bringing back a database table that was mistakenly dropped. Since your business will most likely require a combination of DR and backup functionality, a hybrid solution that supports both is typically recommended. 
+While these DR capabilities are wonderful, it’s important to remember that as of right now most DR solutions are optimized for the recovery of VMs but are lacking in important backup features like the ability to rapidly restore a single file deleted by a user or bringing back a database table that was mistakenly dropped. Since your business will most likely require a combination of DR and backup functionality, a hybrid solution that supports both is typically recommended.
 
-Need help translating business requirements into a cohesive business continuity strategy that addresses both backups and disaster recovery? Expedient Solution Architects are adept at creating custom IT resilience solutions to match the specific needs of your business. Feel free to [email me](mailto:mike.garuccio@expedient.com) and I can put you in touch with an Expedient SA. 
+Need help translating business requirements into a cohesive business continuity strategy that addresses both backups and disaster recovery? Expedient Solution Architects are adept at creating custom IT resilience solutions to match the specific needs of your business. Feel free to [email me](mailto:mike.garuccio@expedient.com) and I can put you in touch with an Expedient SA.
 
 _Mike Garuccio is a Product Strategy Engineer at Expedient focused on researching new software and hardware to find ways to productize this technology into new solutions for Expedient clients. As a ‘full stack’ engineer, Mike works with all layers of infrastructure architecture - from the hypervisor all the way up to front-end applications. Mike has played a leading role in the deployment and implementation of Expedient’s next-generation cloud platform, Expedient Enterprise Cloud. His professional interests include automation, containers, Kubernetes, CI/CD, and developer experience optimization. Follow Mike on_ [_Twitter_](https://twitter.com/mgaruccio)_._
