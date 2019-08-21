@@ -27,7 +27,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: Market Opportunity
+  header: Deliver Total Availability in any Circumstance
   description: For more than 60 years, Bouchard has been providing Florida residents
     with home, auto, and various commercial insurance policies, including employee
     benefits, workers' compensation, commercial auto, property insurance, and more.
