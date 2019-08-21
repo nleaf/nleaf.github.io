@@ -91,11 +91,11 @@ page_sections:
   subheading: Threat detection and prevention beyond the traditional firewall
   highlights:
   - headline_left: Comprehensive Threat Mitigation
-    icon_left: ''
+    icon_left: "/uploads/EXP_Security.svg"
     headline_right: Logging and Reporting
     description_right: Review logs and generate reports on-demand, enabling your business
       to respond quickly to management or auditor requests.
-    icon_right: ''
+    icon_right: "/uploads/EXP_Solution.svg"
     description_left: The UTM cyber security bundle includes anti-virus, web content
       filtering, intrusion detection and prevention, as well as layer 7 firewall services.
   - headline_left: Turnkey and Customizable
