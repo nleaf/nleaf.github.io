@@ -27,7 +27,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: Market Opportunity
+  header: Create a Competitive Advantage With the Latest Technology
   description: InteractiveBlue, a full-service web and database design software development
     company, wanted to establish its own independent architecture as opposed to the
     shared cloud platform with outdated hardware that it had at its previous facility.
