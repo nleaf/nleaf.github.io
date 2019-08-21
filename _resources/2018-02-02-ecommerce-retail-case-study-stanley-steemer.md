@@ -18,6 +18,12 @@ page_sections:
   cite: "- Tom Junewicz, Director of Information Technology, Stanley Steemer"
   icon: "/uploads/EXP_Circle-Mark.svg"
   quote_background: "/uploads/exp_CaseStudybg-ss.jpg"
+- template: link-bar
+  block: linkbar
+  link: http://go.expedient.com/stanleysteemer
+  cta: Download Case Study
+  headline: 'A completely virtual environment and disaster recovery as a service '
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   description: Stanley Steemer is the nation’s leading provider of professional deep
