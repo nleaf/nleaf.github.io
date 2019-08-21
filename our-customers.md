@@ -12,9 +12,11 @@ page_sections:
 - template: page-hero
   block: page-hero
   banner_image: "/uploads/bg_servies.jpg"
-  subheadline: Expedient’s Disaster Recovery as a Service solutions have been recognized
-    in  the Gartner Magic Quadrant for DRaaS and offer fast, total network failover  without
-    IP and DNS changes.
+  subheadline: Expedient is proud to be the trusted IT adviser to organizations spanning
+    a number of verticals, including eCommerce/retail, energy/utilities, financial
+    services, healthcare, manufacturing, professional services, software as a service,
+    and more. Our tailored infrastructure as a service solutions have helped these
+    companies, and others, achieve the outcomes they were looking for.
 - template: grid
   block: grid
   row:
@@ -132,8 +134,11 @@ template: seo
 label: SEO
 name: seo
 seo_title: Cloud Computing and Data Center Infrastructure as a Service
-description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
-  Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
+description: Expedient is proud to be the trusted IT adviser to organizations spanning
+  a number of verticals, including eCommerce/retail, energy/utilities, financial services,
+  healthcare, manufacturing, professional services, software as a service, and more.
+  Our tailored infrastructure as a service solutions have helped these companies,
+  and others, achieve the outcomes they were looking for.
 image: ''
 
 ---
