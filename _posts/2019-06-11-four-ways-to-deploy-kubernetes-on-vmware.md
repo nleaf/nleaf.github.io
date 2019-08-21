@@ -63,16 +63,17 @@ With the Kubernetes intro in the rear view, we can now talk about the fun stuff.
   **2. Ansible-based deployment with kubespray**
 
   Deploy servers manually and use the [ansible playbooks provided by the kubespray project](https://github.com/kubernetes-sigs/kubespray) to bootstrap and manage the cluster.
-* **Advantages**
+
+  **Advantages**
   * Based on kubeadm so k8s is fully upstream with quick availability of new versions
   * Leverages existing ansible skills and infrastructure (if present)
   * Provides options for deploying additional features like the network overlay
   * Provides basic lifecycle control automation
   * Cluster still highly customizable
-* **Disadvantages**
+
+  **Disadvantages**
   * Difficult to use if ansible is a new tool for the team
-  * Nodes still need to be set up manually
-    * This is partially alleviated [by using Tower workflows](https://docs.ansible.com/ansible-tower/latest/html/userguide/workflows.html) to both deploy nodes and bootstrap clusters but still requires setup
+  * Nodes still need to be set up manually - This is partially alleviated [by using Tower workflows](https://docs.ansible.com/ansible-tower/latest/html/userguide/workflows.html) to both deploy nodes and bootstrap clusters but still requires setup
 
   **3. Use the Container Service Extension (CSE) for vCD**
   * [Use the CSE extension of vcd-cli to deploy clusters](https://vmware.github.io/container-service-extension/CLUSTER_ADMIN.html#example).
