@@ -18,6 +18,12 @@ page_sections:
   cite: "- Tony Bollinger, Operations Manager, Prodigo Solutions"
   icon: "/uploads/ph_CasestudyProfile-1.jpg"
   quote_background: "/uploads/ph_CaseStudybg-1.jpg"
+- template: link-bar
+  block: linkbar
+  cta: Download Case Study
+  link: http://bit.ly/2ydqYLS
+  headline: Add resiliency to your business through the addition of DRaaS
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
