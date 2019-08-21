@@ -81,34 +81,38 @@ Deploy servers manually and use the [ansible playbooks provided by the kubespray
 
 **3. Use the Container Service Extension (CSE) for vCD**
 
-* [Use the CSE extension of vcd-cli to deploy clusters](https://vmware.github.io/container-service-extension/CLUSTER_ADMIN.html#example).
+[Use the CSE extension of vcd-cli to deploy clusters](https://vmware.github.io/container-service-extension/CLUSTER_ADMIN.html#example).
 
+**Advantages**
 
-* **Advantages**
-  * Bootstraps both nodes and cluster so new cluster deployment can happen from a single CLI command
-  * Allows creation and deletion of worker nodes with a single command
-  * Deploys a working network overlay
-  * Based on kubeadm so Kubernetes is fully upstream
-* **Disadvantages**
-  * Relatively slow version updates compared with other options
-  * Minimal lifecycle management capability (worker node creation/deletion only)
-  * Kubeadm base means cluster is fairly bare-bones
-  * **Side Note**: Read [this blog post](https://www.expedient.com/blog/deploy-kubernetes-clusters-alongside-virtual-machines-with-expedient-enterprise-cloud/) from John White, Expedient’s Chief Innovation Officer, for more on CSE for vCD.
-* **4. Rancher**
-  * Deploy an instance of [Rancher's open source cluster management tool](https://rancher.com/products/rancher/) and use that for cluster creation/management
-* **Advantages**
-  * Deploys a more complete platform:
-    * RBAC (Role-based access control)
-    * Easily enabled monitoring and logging
-    * Helm configured to make app deployment easier
-  * Full lifecycle management of nodes (cluster k8s version can be updated with a few clicks in web UI)
-  * Complete GUI for monitoring and managing the cluster
-* **Disadvantages**
-  * Currently still requires manually creating nodes and adding them to the cluster
-  * Additional tool to manage (Rancher itself)
-  * Uses a fork of Kubernetes called the [Rancher Kubernetes engine](https://github.com/rancher/rke)
-    * Still certified compatible but potential for incompatibility is still higher than upstream
-    * Updates tend to be slightly behind the upstream (typically by a month or two)
+* Bootstraps both nodes and cluster so new cluster deployment can happen from a single CLI command
+* Allows creation and deletion of worker nodes with a single command
+* Deploys a working network overlay
+* Based on kubeadm so Kubernetes is fully upstream
+
+**Disadvantages**
+
+* Relatively slow version updates compared with other options
+* Minimal lifecycle management capability (worker node creation/deletion only)
+* Kubeadm base means cluster is fairly bare-bones
+
+  **Side Note**: Read [this blog post](https://www.expedient.com/blog/deploy-kubernetes-clusters-alongside-virtual-machines-with-expedient-enterprise-cloud/) from John White, Expedient’s Chief Innovation Officer, for more on CSE for vCD.
+
+**4. Rancher**
+
+Deploy an instance of [Rancher's open source cluster management tool](https://rancher.com/products/rancher/) and use that for cluster creation/management
+
+**Advantages**
+
+* Deploys a more complete platform - RBAC (Role-based access control); Easily enabled monitoring and logging; Helm configured to make app deployment easier
+* Full lifecycle management of nodes (cluster k8s version can be updated with a few clicks in web UI)
+* Complete GUI for monitoring and managing the cluster
+
+**Disadvantages**
+
+* Currently still requires manually creating nodes and adding them to the cluster
+* Additional tool to manage (Rancher itself)
+* Uses a fork of Kubernetes called the [Rancher Kubernetes engine](https://github.com/rancher/rke) - Still certified compatible but potential for incompatibility is still higher than upstream; Updates tend to be slightly behind the upstream (typically by a month or two)
 
 As you can see, there are many ways to get k8s up and running in a VMware-based cloud like EEC. If you would like more information on the approaches described above or k8s in general, feel free to email me at [mike.garuccio@expedient.com](mailto:mike.garuccio@expedient.com).
 
