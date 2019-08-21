@@ -61,7 +61,8 @@ With the Kubernetes intro in the rear view, we can now talk about the fun stuff.
   * Nodes need to be set up separately from the running of the kubeadm command, requiring either multiple steps or custom automation
 
   **2. Ansible-based deployment with kubespray**
-  * Deploy servers manually and use the [ansible playbooks provided by the kubespray project](https://github.com/kubernetes-sigs/kubespray) to bootstrap and manage the cluster
+
+  Deploy servers manually and use the [ansible playbooks provided by the kubespray project](https://github.com/kubernetes-sigs/kubespray) to bootstrap and manage the cluster.
 * **Advantages**
   * Based on kubeadm so k8s is fully upstream with quick availability of new versions
   * Leverages existing ansible skills and infrastructure (if present)
