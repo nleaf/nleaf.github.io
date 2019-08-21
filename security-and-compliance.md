@@ -237,8 +237,8 @@ page_sections:
       by installing, managing and maintaining operating systems, security patches,
       tools and agents.
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-public_cloud-icon.svg"
+    background: "/uploads/exp_colocation-247.png"
     headline: Bolster Your IT Team
     description: Expedient's Operations Support Center (OSC) ensures the reliability
       and uptime of client systems with proactive monitoring, maintenance, and stringent
