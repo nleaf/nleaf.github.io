@@ -117,8 +117,6 @@ page_sections:
   link: "/knowledgebase/resources/casestudies/"
   newtab: true
   headline: View all of our Client Case Studies
-- template: gartner
-  block: gartner
 - template: recent-posts
   block: recentposts
 - template: newsletter
