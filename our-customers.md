@@ -120,6 +120,12 @@ page_sections:
   cite: "- IT Director, Professional Services Company"
   link: ''
   cta: ''
+- template: link-bar
+  block: linkbar
+  cta: View More
+  link: "/knowledgebase/resources/casestudies/"
+  newtab: true
+  headline: View all of our Client Case Studies
 - template: recent-posts
   block: recentposts
 - template: newsletter
