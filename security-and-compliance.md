@@ -119,8 +119,8 @@ page_sections:
     description: Safeguard sensitive data in transit with site-to-site or and/or transport
       security layer (TLS) tunnels combined with two-factor authentication.
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_colocation-247.png"
     headline: Mobile Workforce Enablement
     description: Use VPN whenever/wherever network access is required among trusted
       resources, such as to support remote office locations, and mobile users or travelling
