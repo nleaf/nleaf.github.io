@@ -19,6 +19,12 @@ page_sections:
     strategic applications that enhance the entire value chain of the contract flooring
     business."'
   cite: "- Michael Teets, CIO, Ultimate Home Services"
+- template: link-bar
+  block: linkbar
+  cta: Download Case Study
+  link: http://bit.ly/2P0m7Zv
+  headline: Turnkey Infrastructure as a Service (IaaS) and managed services solutions
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   services:

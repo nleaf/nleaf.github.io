@@ -48,6 +48,7 @@ fields:
     min: 
     max: 
 pages:
+- _resources/2018-11-01-professional-services-case-study-ultimate-home-services.md
 - _resources/2019-01-02-retail-case-study-dunlap-and-kyle-company.md
 - _resources/2016-07-27-orchard-software-case-study.md
 - cloud.md
@@ -58,7 +59,6 @@ pages:
 - _resources/2016-01-21-softlink-case-study.md
 - _resources/2016-01-07-interactive-blue-case-study.md
 - _resources/2016-10-12-irth-solutions.md
-- _resources/2018-11-01-professional-services-case-study-ultimate-home-services.md
 - _resources/2017-10-19-logistics-case-study-shapiro.md
 - _resources/2017-05-15-manufacturing-nonnis-foods.md
 - _resources/2017-07-27-manufacturing-tic-gums.md
