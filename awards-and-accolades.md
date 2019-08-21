@@ -32,10 +32,13 @@ page_sections:
   cta: Subscribe Now
 - template: quote
   block: quote
-  image: ''
-  image-alt: ''
-  quote: ''
-  cite: ''
+  image: "/uploads/EXP_Circle-Mark.svg"
+  image-alt: Expedient
+  quote: "“Expedient’s enterprise level cloud solution freed up our internal resources,
+    allowing us the time we needed to implement a best-in-class cloud services platform
+    to support a site that has over 123 million monthly page views and 2.6 billion
+    associated images. As a result, we gained efficiencies at all levels.”"
+  cite: "- David Mele, President, Homes.com"
   link: ''
   cta: ''
 - template: featured-service
