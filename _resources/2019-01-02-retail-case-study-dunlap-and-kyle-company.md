@@ -36,7 +36,7 @@ page_sections:
   - tag: Dedicated Load Balancing
   - tag: Disaster Recovery as a Service
   - tag: PCI-DSS Compliance
-  header: Market Opportunity
+  header: Setting the Stage for Future Growth
   description: Dunlap and Kyle Company, Inc. is a leading wholesale and retail tire
     dealer doing business as Gateway Tire & Service Center, with 70 locations (52
     retail and 18 wholesale distribution centers) in nine states spanning from the
