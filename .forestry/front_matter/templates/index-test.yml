@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- awards-and-accolades.md
 - _resources/2019-01-02-retail-case-study-dunlap-and-kyle-company.md
 - our-customers.md
 - security-and-compliance.md
@@ -83,7 +84,6 @@ pages:
 - executive-team.md
 - why-expedient.md
 - success-stories.md
-- awards-and-accolades.md
 - technology-partners.md
 - tools-and-calculators.md
 - let-s-talk.md
