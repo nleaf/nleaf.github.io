@@ -291,8 +291,8 @@ page_sections:
     headline: Increase Efficiency
     description: Query data up to three times faster than leading log management solutions.
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_CostControl.svg"
+    background: "/uploads/exp_case_study_scenario-1.jpg"
     headline: Budget Management
     description: Predictable monthly pricing for unlimited log data, without surcharges
       on peak usage.
