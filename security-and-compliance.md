@@ -204,11 +204,11 @@ page_sections:
   - headline_left: Availability
     description_left: Intrusion Detection combines signatures, protocols and anomaly-based
       inspection to keep mission-critical IT systems up and running.
-    icon_left: ''
+    icon_left: "/uploads/EXP_Solution.svg"
     headline_right: Security Analytics
     description_right: Gain comprehensive threat insight via detailed reporting on
       event distribution by severity, hour, day, protocols and destination port.
-    icon_right: ''
+    icon_right: "/uploads/EXP_Availability.svg"
   - headline_left: Multi-Cloud Security
     description_left: Combine Intrusion Detection with Expedient’s Dedicated Firewall
       Management solution for enhanced network protection.
