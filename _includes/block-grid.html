@@ -5,7 +5,11 @@
         <div class="flex mb-4">
             {% for item in section.row %}
                 <div class="w-1/3 px-4">
-                    <a href="{{item.link}}" alt="{{item.label}}"><img src="{{ item.image| absolute_url }}" class="mx-auto" data-tippy-content="Read Case Study"></a>
+                    {% if item.link == nil or item.link == empty%}
+                        <img src="{{ item.image| absolute_url }}" class="mx-auto">
+                    {% else %}
+                        <a href="{{item.link}}" alt="{{item.label}}"><img src="{{ item.image| absolute_url }}" class="mx-auto" data-tippy-content="Read Case Study"></a>
+                    {% endif %}
                 </div>
             {% endfor %}
     </div>
