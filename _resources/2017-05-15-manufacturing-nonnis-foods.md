@@ -27,7 +27,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: Market Opportunity
+  header: Maintain Leadership Position in National Biscotti Market
   description: Nonni’s Foods LLC is the nation’s leading baker of premium biscotti,
     inspired by grandma’s recipes. With nearly 350 employees across four facilities
     in the United States and Canada, Nonni’s is the only nationally distributed biscotti
