@@ -14,7 +14,7 @@ page_sections:
 - template: case-study-quote
   block: casestudy-quote
   icon: "/uploads/EXP_Circle-Mark.svg"
-  quote_background: "/uploads/exp_CaseStudybg-ticg.jpg"
+  quote_background: "/uploads/exp_CaseStudybg-ticg-1.jpg"
   quote: '"I wanted to offload day-to-day functions, like patching and backing up
     servers. This allows us to stay focused on the critical business projects that
     we know will be coming."'
