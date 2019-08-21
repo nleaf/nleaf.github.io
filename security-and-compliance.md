@@ -335,8 +335,8 @@ page_sections:
     description: Expedient offers multiple SOC reports that serve as third-party attestations
       of our operating excellence.
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_RiskMitigation.svg"
+    background: "/uploads/exp_colocation-diversity.png"
     headline: EU-U.S. Privacy Shield Framework
     description: Expedient is a participant in the U.S. Department of Commerce’s EU-U.S.
       Privacy Shield and Swiss-U.S. Privacy Shield programs and has certified that
