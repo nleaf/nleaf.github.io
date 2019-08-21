@@ -174,8 +174,8 @@ page_sections:
     description: Encrypt and protect unstructured data across physical and virtual
       infrastructure.
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-2fa-icon.svg"
+    background: "/uploads/exp_dr-03.png"
     headline: Key Management
     description: Centralize administration of all keys and policies.
   - align-left: true
