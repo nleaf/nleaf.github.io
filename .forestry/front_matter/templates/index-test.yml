@@ -43,6 +43,7 @@ fields:
   - calculator-cloudbuild
   - calculator-diskbackup
   - content-block-full
+  - link-bar
   config:
     min: 
     max: 
