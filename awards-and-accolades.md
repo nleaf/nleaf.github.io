@@ -30,15 +30,8 @@ page_sections:
     to all then-current customer contacts. Our scores demonstrate a higher-than-average
     score in our industry as compared to the publicly available information.
   icon: "/uploads/EXP_NewPromoter-2.svg"
-- template: quote
-  block: quote
-  image: "/uploads/EXP_Circle-Mark.svg"
-  image-alt: Expedient
-  quote: "“Our experience watching Push Button DR in action for our applications was
-    like magic. It simplified our business continuity plan.”"
-  cite: "- IT Director, Professional Services Company"
-  link: ''
-  cta: ''
+- template: gartner
+  block: gartner
 - template: featured-service
   block: featured-service
   title: Channel Futures MSP 501 Ranking
@@ -51,15 +44,15 @@ page_sections:
   icon: "/uploads/EXP_GartnerRank.svg"
 - template: highlights-2-column
   block: highlights-2col
-  heading: Flexible and Extensible
-  subheading: "Push Button DR  \nHighlights "
+  heading: Channel Futures MSP 501 Ranking
+  subheading: 'Expedient is ranked among the top 10 managed services providers worldwide
+    by Channel Futures’ annual MSP 501 Ranking. '
   highlights:
   - align-left: true
-    icon: "/uploads/EXP_Agility.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/EXP_CRN-500-1.svg"
+    background: "/uploads/bg_servies-01.jpg"
     headline: Agility
-    description: Failover at the push of a button and have the ability to operate
-      applications in multiple data centers or your own site.
+    description: Expedient Recognized on CRN’s 2019 Managed Service Provider list
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
     background: "/uploads/ph_hurricane.jpg"
@@ -67,21 +60,6 @@ page_sections:
     description: Replicate computing workloads of critical importance in two or more
       data centers or your own site and rely upon automatic recovery by interconnected
       locations.
-  - align-left: true
-    icon: "/uploads/EXP_RiskMitigation.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Risk Mitigation
-    description: Protect information technology workloads with disaster recovery solutions
-      that offer the fastest recovery time objectives.
-- template: callout
-  block: callout
-  link: contact.md
-  cta: Learn More
-  heading: Interested in saving $100,000 a day?
-  content: Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
-    Push Button DR.
-  icon: ''
-  background: "/uploads/bg_hurricane.png"
 - template: highlights-2-column-2-row
   block: highlights-2col-2row
   heading: Robust and Secure
