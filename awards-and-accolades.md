@@ -41,7 +41,7 @@ page_sections:
     and a ranking of vendors is also available. The company’s current rating is 4.8
     and is ranked #2 among other vendors.'
   align-left: false
-  icon: "/uploads/EXP_GartnerRank.svg"
+  icon: "/uploads/EXP_CRN.svg"
 - template: highlights-2-column
   block: highlights-2col
   heading: Channel Futures MSP 501 Ranking
