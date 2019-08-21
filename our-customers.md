@@ -60,6 +60,21 @@ page_sections:
   - image: "/uploads/medcom.jpg"
     label: MedCom Solutions
     link: "/knowledgebase/resources/healthcare-medcom-solutions/"
+- template: grid
+  block: grid
+  row:
+  - image: "/uploads/nonnis.jpg"
+    label: Nonnis
+    link: "/knowledgebase/resources/manufacturing-nonnis-foods/"
+  - image: "/uploads/omnyx.jpg"
+    label: Omnyx
+    link: "/knowledgebase/resources/omnyx-case-study/"
+  - image: "/uploads/orchard-software.jpg"
+    label: Orchard Software
+    link: "/knowledgebase/resources/orchard-software-case-study/"
+  - image: "/uploads/prodigosolutions.png"
+    label: Prodigo Solutions
+    link: "/knowledgebase/resources/professional-services-case-study-prodigo-solutions/"
 - template: subscribe-bar
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
