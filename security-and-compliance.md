@@ -280,8 +280,8 @@ page_sections:
     description: Collect, store, and analyze disparate log data for quick decision-making,
       or to support business and/or compliance requests.
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_case_study_scenario.jpg"
     headline: Business Intelligence
     description: Provide automatic data visualization in an intuitive GUI dashboard
       to enable streamlined workflows.
