@@ -126,8 +126,8 @@ page_sections:
       resources, such as to support remote office locations, and mobile users or travelling
       employees.
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/exp_cloud_private.jpg"
     headline: Availability
     description: Implement Expedient Push Button DR to automate and orchestrate failover
       of network appliances (such as VPN) in the event of unplanned downtime.
