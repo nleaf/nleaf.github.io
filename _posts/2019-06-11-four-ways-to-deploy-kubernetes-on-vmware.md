@@ -47,36 +47,43 @@ Like Linux, the base k8s offering is augmented by various vendors and open-sourc
 With the Kubernetes intro in the rear view, we can now talk about the fun stuff. Over the last year, Expedient’s Product Strategy and Information Systems teams have collaborated to deploy several containerized applications on the [Expedient Enterprise Cloud](https://www.expedient.com/services/infrastructure-as-a-service/cloud/) (EEC) platform, which is based on vCloud Director v9.5. As you know from my k8s intro above, there are several different ways to achieve similar results when deploying containerized applications on k8s. However, there are advantages and disadvantages to each approach:
 
 1. **Manual creation and management with kubeadm**
-   * Deploy servers as you normally would and [use kubeadm to bootstrap a kubernetes cluster](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/)
 
-* **Advantages**
-  * Pure upstream Kubernetes, guaranteeing compatibility with any k8s workload and immediate availability of new versions
-  * Fewest new tools to learn
-  * Allows customization of effectively any cluster feature
-* **Disadvantages**
-  * Provides a very bare-bones installation
-    * No GUI
-    * No network overlay (this is easy to apply but still an extra step)
-  * All lifecycle control is manual
-  * Nodes need to be set up separately from the running of the kubeadm command, requiring either multiple steps or custom automation
+   Deploy servers as you normally would and [use kubeadm to bootstrap a kubernetes cluster](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/)
 
-  **2. Ansible-based deployment with kubespray**
+**Advantages**
 
-  Deploy servers manually and use the [ansible playbooks provided by the kubespray project](https://github.com/kubernetes-sigs/kubespray) to bootstrap and manage the cluster.
+* Pure upstream Kubernetes, guaranteeing compatibility with any k8s workload and immediate availability of new versions
+* Fewest new tools to learn
+* Allows customization of effectively any cluster feature
 
-  **Advantages**
-  * Based on kubeadm so k8s is fully upstream with quick availability of new versions
-  * Leverages existing ansible skills and infrastructure (if present)
-  * Provides options for deploying additional features like the network overlay
-  * Provides basic lifecycle control automation
-  * Cluster still highly customizable
+**Disadvantages**
 
-  **Disadvantages**
-  * Difficult to use if ansible is a new tool for the team
-  * Nodes still need to be set up manually - This is partially alleviated [by using Tower workflows](https://docs.ansible.com/ansible-tower/latest/html/userguide/workflows.html) to both deploy nodes and bootstrap clusters but still requires setup
+* Provides a very bare-bones installation - No GUI; No network overlay (this is easy to apply but still an extra step)
+* All lifecycle control is manual
+* Nodes need to be set up separately from the running of the kubeadm command, requiring either multiple steps or custom automation
 
-  **3. Use the Container Service Extension (CSE) for vCD**
-  * [Use the CSE extension of vcd-cli to deploy clusters](https://vmware.github.io/container-service-extension/CLUSTER_ADMIN.html#example).
+**2. Ansible-based deployment with kubespray**
+
+Deploy servers manually and use the [ansible playbooks provided by the kubespray project](https://github.com/kubernetes-sigs/kubespray) to bootstrap and manage the cluster.
+
+**Advantages**
+
+* Based on kubeadm so k8s is fully upstream with quick availability of new versions
+* Leverages existing ansible skills and infrastructure (if present)
+* Provides options for deploying additional features like the network overlay
+* Provides basic lifecycle control automation
+* Cluster still highly customizable
+
+**Disadvantages**
+
+* Difficult to use if ansible is a new tool for the team
+* Nodes still need to be set up manually - This is partially alleviated [by using Tower workflows](https://docs.ansible.com/ansible-tower/latest/html/userguide/workflows.html) to both deploy nodes and bootstrap clusters but still requires setup
+
+**3. Use the Container Service Extension (CSE) for vCD**
+
+* [Use the CSE extension of vcd-cli to deploy clusters](https://vmware.github.io/container-service-extension/CLUSTER_ADMIN.html#example).
+
+
 * **Advantages**
   * Bootstraps both nodes and cluster so new cluster deployment can happen from a single CLI command
   * Allows creation and deletion of worker nodes with a single command
