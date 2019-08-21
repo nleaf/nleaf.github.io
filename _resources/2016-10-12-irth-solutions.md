@@ -27,7 +27,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: Provide Enterprise-Grade Cloud Solutions on a National Scale
+  header: Provide Enterprise Cloud Solutions on a National Scale
   description: irth Solutions is the leading provider of enterprise cloud solutions
     that dramatically decrease costs, increase revenue and reduce risk in the utility,
     energy and telecom industries, serving large national brands across the country.
