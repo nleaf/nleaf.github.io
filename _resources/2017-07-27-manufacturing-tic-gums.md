@@ -23,7 +23,7 @@ page_sections:
   block: linkbar
   cta: Download Case Study
   link: http://bit.ly/2vMh4ih
-  headline: On-Site Private Cloud with Disaster Recovery as a Service
+  headline: Learn more about TIC Gums' success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top
