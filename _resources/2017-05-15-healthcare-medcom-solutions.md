@@ -22,7 +22,7 @@ page_sections:
   block: linkbar
   link: http://bit.ly/2rhxfRw
   cta: Download Case Study
-  headline: HIPAA compliance, while still providing personalized service
+  headline: Learn more about MedCom Solutions' success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top

@@ -24,8 +24,7 @@ page_sections:
   block: linkbar
   link: http://bit.ly/2mKvBpc
   cta: Download Case Study
-  headline: Battelle for Kids leveraged Expedient’s advanced infrastructure as a service
-    solutions.
+  headline: Learn more about Battelle for Kids' success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top

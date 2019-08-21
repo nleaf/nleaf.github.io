@@ -23,7 +23,7 @@ page_sections:
   block: linkbar
   cta: Download Case Study
   link: http://go.expedient.com/irth_solutions
-  headline: ''
+  headline: Learn more about irth Solutions' success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top
