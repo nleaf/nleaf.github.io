@@ -191,12 +191,18 @@ page_sections:
     headline: Granular Access Controls
     description: Ensure that only authorized users are able to access confidential
       data.
-  - align-left: true
+  - align-left: false
     icon: ''
     background: ''
     headline: Risk Mitigation
     description: Maintain compliance with government and industry mandates by protecting
       sensitive data with FIPS 140-2 compliant encryption.
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Access Data Securely
+    description: Connect to data using standard file sharing protocols, such as Common
+      Internet File System (CIFS) and Network File System (NFS).
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
