@@ -19,6 +19,13 @@ page_sections:
     environment, we''re able to add a server for new applications quickly, without
     a heavy upfront hardware investment."'
   cite: Kirk Howard, Director of IT, Omnyx
+- template: link-bar
+  block: linkbar
+  link: http://bit.ly/1UTwCY8
+  cta: Download Case Study
+  headline: Infrastructure as a service solutions deliver the capacity, service and
+    reliability to transform cancer care.
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
