@@ -27,7 +27,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: Market Opportunity
+  header: Leverage Science to Improve Foods and Beverages
   description: Customer service, high quality standards, and a team of “Gum Gurus”
     – food scientists who understand the properties and synergies of hydrocolloids
     at the molecular level and how to apply them to add value to foods and beverages
