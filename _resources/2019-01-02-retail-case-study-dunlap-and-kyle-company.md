@@ -22,7 +22,7 @@ page_sections:
   block: linkbar
   link: http://bit.ly/2GQ9Oex
   cta: Download Case Study
-  headline: Cloud and DRaaS solutions supported by strategic managed services
+  headline: Learn more about Dunlap and Kyle's success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top
