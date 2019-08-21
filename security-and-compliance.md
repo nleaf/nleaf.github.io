@@ -333,6 +333,45 @@ page_sections:
   cite: "- IT Director, Professional Services Company"
   link: ''
   cta: ''
+- template: highlights-2-column
+  block: highlights-2col
+  heading: Compliance
+  subheading: Expedient specializes in providing enterprise IT infrastructure as a
+    service (IaaS) that complements the compliance requirements of businesses in any
+    industry
+  highlights:
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: ''
+    description: ''
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Service Organizational Control (SOC) Reporting
+    description: Expedient offers multiple SOC reports that serve as third-party attestations
+      of our operating excellence.
+  - align-left: false
+    icon: ''
+    background: ''
+    headline: EU-U.S. Privacy Shield Framework
+    description: Expedient is a participant in the U.S. Department of Commerce’s EU-U.S.
+      Privacy Shield and Swiss-U.S. Privacy Shield programs and has certified that
+      it adheres to the EU-U.S. and Swiss-U.S. Privacy Shield Principles.
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: HIPAA Business Associate Agreements
+    description: Expedient is your managed services and infrastructure as a service
+      (IaaS) provider with Health Insurance Portability and Accountability (HIPAA)
+      compliance.
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: PCI DSS Compliance
+    description: Expedient can assist clients with the Payment Card Industry (PCI)
+      Security Standards Council (DSS) compliance process by providing various types
+      of documentation.
 - template: callout
   block: callout
   link: contact.md
