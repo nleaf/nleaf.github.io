@@ -41,13 +41,13 @@ page_sections:
   cta: ''
 - template: featured-service
   block: featured-service
-  title: Gartner Peer Insights™
-  headline: 'Ease your transition to the  cloud with a dedicated  on-premises cloud. '
+  title: Channel Futures MSP 501 Ranking
+  headline: ''
   description: 'Expedient is rated anonymously on Gartner Peer Insights™ by customers
-    who use its disaster recovery as a service (DRaaS) solutions. Expedient’s <a href="www.google.com"
-    target="_blank">rating</a> and a ranking of vendors is also available. The company’s
-    current rating is 4.8 and is ranked #2 among other vendors.'
-  align-left: true
+    who use its disaster recovery as a service (DRaaS) solutions. Expedient’s rating
+    and a ranking of vendors is also available. The company’s current rating is 4.8
+    and is ranked #2 among other vendors.'
+  align-left: false
   icon: "/uploads/EXP_GartnerRank.svg"
 - template: highlights-2-column
   block: highlights-2col
