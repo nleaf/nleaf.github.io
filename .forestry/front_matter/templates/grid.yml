@@ -1,4 +1,34 @@
 ---
 label: Grid
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: grid
+- name: row
+  type: field_group_list
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+  - name: label
+    type: text
+    config:
+      required: false
+    label: Label
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Row
