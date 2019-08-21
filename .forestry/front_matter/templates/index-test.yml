@@ -48,8 +48,8 @@ fields:
     min: 
     max: 
 pages:
-- cloud.md
 - _resources/2016-07-27-orchard-software-case-study.md
+- cloud.md
 - _resources/2017-10-20-professional-services-case-study-bouchard-insurance.md
 - _resources/2016-07-22-omnyx-case-study.md
 - _resources/2017-05-15-healthcare-medcom-solutions.md

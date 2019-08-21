@@ -19,6 +19,12 @@ page_sections:
     has been very satisfied with the services provided by Expedient since we first
     became a customer in 2004."'
   cite: Seth Bosworth, Associate Director of Information Services, Orchard Software
+- template: link-bar
+  block: linkbar
+  link: http://go.expedient.com/OrchardSoftware_CS
+  cta: Download Case Study
+  headline: 'Reliable infrastructure as a service for the healthcare industry '
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
