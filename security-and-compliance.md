@@ -144,12 +144,12 @@ page_sections:
   highlights:
   - headline_left: Risk Mitigation
     description_left: Inspect network traffic to identify malicious packets.
-    icon_left: ''
+    icon_left: "/uploads/EXP_Security.svg"
     headline_right: Comprehensive Network Security
     description_right: Expedient’s DDoS mitigation service protects against known
       malicious hosts, application-layer exploits, web-based threats, DNS spoofing,
       and protocol vulnerabilities.
-    icon_right: ''
+    icon_right: "/uploads/exp-geo-icon.svg"
   - headline_left: Intelligent Filtering
     icon_left: ''
     headline_right: Automated Network Protection
