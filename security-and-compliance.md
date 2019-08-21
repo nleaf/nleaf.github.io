@@ -124,6 +124,18 @@ page_sections:
     description: Use VPN whenever/wherever network access is required among trusted
       resources, such as to support remote office locations, and mobile users or travelling
       employees.
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Availability
+    description: Implement Expedient Push Button DR to automate and orchestrate failover
+      of network appliances (such as VPN) in the event of unplanned downtime.
+  - align-left: false
+    icon: ''
+    background: ''
+    headline: Compliance
+    description: Ensure compliance with industry and government mandates with features
+      such as session idle timeouts and vendor appliance interoperability.
 - template: featured-service
   block: featured-service
   title: On-Site Private Cloud with Disaster Recovery as a Service
