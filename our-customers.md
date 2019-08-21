@@ -36,6 +36,8 @@ page_sections:
   - image: "/uploads/careworkstech.png"
     label: Care Works Tech
     link: "/knowledgebase/resources/professional-services-case-study-careworks-tech/"
+- template: gartner
+  block: gartner
 - template: grid
   block: grid
   row:
@@ -111,15 +113,6 @@ page_sections:
   - image: "/uploads/ultimatehomeservices.png"
     label: Ultimate Home Services
     link: "/knowledgebase/resources/professional-services-case-study-ultimate-home-services/"
-- template: quote
-  block: quote
-  image: "/uploads/EXP_Circle-Mark.svg"
-  image-alt: Expedient
-  quote: "“Our experience watching Push Button DR in action for our applications was
-    like magic. It simplified our business continuity plan.”"
-  cite: "- IT Director, Professional Services Company"
-  link: ''
-  cta: ''
 - template: link-bar
   block: linkbar
   cta: View More
