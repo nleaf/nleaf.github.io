@@ -19,6 +19,13 @@ page_sections:
     You''ve got technological flexibility, and I find Expedient to be very responsive
     whenever I need anything."'
   cite: "- John Santore, Manager of Hosting Operations, First Insight"
+- template: link-bar
+  block: linkbar
+  cta: Download Case Study
+  link: http://go.expedient.com/FirstInsightCS
+  headline: 'eCommerce / retail SaaS provider, depends on Expedient’s reliable infrastructure
+    to enable its clients to pick products that deliver profits. '
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: ''
