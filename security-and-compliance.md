@@ -185,8 +185,8 @@ page_sections:
     description: Ensure that only authorized users are able to access confidential
       data.
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Security.svg"
+    background: "/uploads/exp_cloud_private.jpg"
     headline: Risk Mitigation
     description: Maintain compliance with government and industry mandates by protecting
       sensitive data with FIPS 140-2 compliant encryption.
