@@ -1,0 +1,13 @@
+---
+label: Press - Layout
+hide_body: false
+fields:
+- type: textarea
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: download
+  label: download
