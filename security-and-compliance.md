@@ -223,15 +223,15 @@ page_sections:
   subheading: Expert oversight of mission-critical IT infrastructure
   highlights:
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Agility.svg"
+    background: "/uploads/exp_colocation-redundancy.png"
     headline: Business Agility
     description: Clients rely on Expedient to manage computing infrastructure running
       Microsoft Windows, Red Hat Linux, VMware ESXi, Microsoft Hyper-V, as well as
       related applications, antivirus, and supporting agents.
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-backups-icon.svg"
+    background: "/uploads/exp_colocation-hybrid.png"
     headline: Reduced Workload
     description: Expedient alleviates the demands of daily IT infrastructure management
       by installing, managing and maintaining operating systems, security patches,
