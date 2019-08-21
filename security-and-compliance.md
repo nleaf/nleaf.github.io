@@ -264,10 +264,10 @@ page_sections:
   - headline_left: Secure Your Mobile Workforce
     description_left: Extend secure access to mobile endpoints governed by corporate
       policy.
-    icon_left: ''
+    icon_left: "/uploads/EXP_Availability.svg"
     headline_right: Compliance
     description_right: Maintain corporate compliance with auditing and reporting standards.
-    icon_right: ''
+    icon_right: "/uploads/exp-compliance-icon.svg"
 - template: highlights-2-column
   block: highlights-2col
   heading: Unified Log Management
