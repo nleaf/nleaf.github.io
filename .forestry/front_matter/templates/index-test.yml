@@ -44,6 +44,7 @@ fields:
   - calculator-diskbackup
   - content-block-full
   - link-bar
+  - grid
   config:
     min: 
     max: 
