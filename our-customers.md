@@ -36,8 +36,6 @@ page_sections:
   - image: "/uploads/careworkstech.png"
     label: Care Works Tech
     link: "/knowledgebase/resources/professional-services-case-study-careworks-tech/"
-- template: gartner
-  block: gartner
 - template: grid
   block: grid
   row:
@@ -119,6 +117,8 @@ page_sections:
   link: "/knowledgebase/resources/casestudies/"
   newtab: true
   headline: View all of our Client Case Studies
+- template: gartner
+  block: gartner
 - template: recent-posts
   block: recentposts
 - template: newsletter
