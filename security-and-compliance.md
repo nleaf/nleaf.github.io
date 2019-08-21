@@ -54,15 +54,6 @@ page_sections:
     description_right: Improve business continuity with faster firewall failover (Push
       Button DR clients only)
     icon_right: "/uploads/EXP_CostControl.svg"
-- template: quote
-  block: quote
-  image: "/uploads/EXP_Circle-Mark.svg"
-  image-alt: Expedient
-  quote: "“Our experience watching Push Button DR in action for our applications was
-    like magic. It simplified our business continuity plan.”"
-  cite: "- IT Director, Professional Services Company"
-  link: ''
-  cta: ''
 - template: highlights-2-column
   block: highlights-2col
   heading: Advanced Threat Prevention (ATP)
@@ -93,6 +84,37 @@ page_sections:
       review and actionable intelligence to improve security policies.
   subheading: Go beyond static blacklists to protect against increasingly sophisticated
     cyber attacks
+- template: highlights-2-column-2-row
+  block: highlights-2col-2row
+  heading: Unified Threat Management (UTM)
+  subheading: Threat detection and prevention beyond the traditional firewall
+  highlights:
+  - headline_left: Comprehensive Threat Mitigation
+    icon_left: ''
+    headline_right: Logging and Reporting
+    description_right: Review logs and generate reports on-demand, enabling your business
+      to respond quickly to management or auditor requests.
+    icon_right: ''
+    description_left: The UTM cyber security bundle includes anti-virus, web content
+      filtering, intrusion detection and prevention, as well as layer 7 firewall services.
+  - headline_left: Turnkey and Customizable
+    description_left: Take advantage of Expedient’s robust default security policies,
+      or tailor the solution to meet your specific needs.
+    icon_left: ''
+    headline_right: Co-Managed Solution
+    description_right: Expedient’s UTM service focuses on the operational aspects,
+      such as applying default policies based on best practices, managing patching
+      and upgrades, and providing break/fix support as needed.
+    icon_right: ''
+- template: quote
+  block: quote
+  image: "/uploads/EXP_Circle-Mark.svg"
+  image-alt: Expedient
+  quote: "“Our experience watching Push Button DR in action for our applications was
+    like magic. It simplified our business continuity plan.”"
+  cite: "- IT Director, Professional Services Company"
+  link: ''
+  cta: ''
 - template: callout
   block: callout
   link: contact.md
