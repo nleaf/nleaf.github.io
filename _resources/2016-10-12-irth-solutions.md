@@ -19,6 +19,12 @@ page_sections:
   cite: Sean Vaden, Director of IT, irth Solutions
   icon: "/uploads/sean_vaden.jpg"
   quote_background: "/uploads/exp_CaseStudybg-irth.jpg"
+- template: link-bar
+  block: linkbar
+  cta: Download Case Study
+  link: http://go.expedient.com/irth_solutions
+  headline: ''
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
