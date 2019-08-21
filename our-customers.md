@@ -18,6 +18,15 @@ page_sections:
 - template: grid
   block: grid
   row:
+  - image: "/uploads/careworkstech.png"
+    label: Care Works Tech
+    link: "/knowledgebase/resources/professional-services-case-study-careworks-tech/"
+  - image: "/uploads/Bouchard_Insurance.png"
+    label: 'Bouchard Insurance '
+    link: "/knowledgebase/resources/professional-services-case-study-bouchard-insurance/"
+  - image: "/uploads/interactive-blue.jpg"
+    label: Interactive Blue
+    link: "/knowledgebase/resources/interactive-blue-case-study/"
   - image: "/uploads/Battelle-for-kids.jpg"
     label: Battelle for Kids
     link: "/knowledgebase/resources/battelle-for-kids/"
