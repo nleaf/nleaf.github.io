@@ -83,27 +83,6 @@ page_sections:
     description: This annual list recognizes technology suppliers that excel at powering,
       supporting and protecting the complex and demanding data centers on which today’s
       businesses rely.
-- template: highlights-2-column-2-row
-  block: highlights-2col-2row
-  heading: Robust and Secure
-  subheading: On-Site Private Cloud  Provides
-  highlights:
-  - headline_left: Risk Mitigation
-    description_left: Protect data and comply with mandates like the Payment Card
-      Industry Data Security Standard (PCI DSS)
-    icon_left: "/uploads/EXP_RiskMitigation.svg"
-    headline_right: Agility
-    description_right: Operate applications in multiple data centers concurrently
-      for active/active  workload protection.
-    icon_right: "/uploads/EXP_Agility.svg"
-  - headline_left: Availability
-    description_left: Replicate computing workloads of critical importance in two
-      or more data centers and rely upon automatic recovery if the unexpected happens.
-    icon_left: "/uploads/EXP_Availability.svg"
-    headline_right: Cost Control
-    description_right: Stop purchasing hardware and accurately forecast monthly operational
-      infrastructure expense while taking advantage of the latest technology.
-    icon_right: "/uploads/EXP_CostControl.svg"
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
