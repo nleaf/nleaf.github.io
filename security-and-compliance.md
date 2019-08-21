@@ -203,6 +203,59 @@ page_sections:
     headline: Access Data Securely
     description: Connect to data using standard file sharing protocols, such as Common
       Internet File System (CIFS) and Network File System (NFS).
+- template: highlights-2-column-2-row
+  block: highlights-2col-2row
+  heading: Intrusion Detection
+  subheading: Harden Your Network Perimeter Security
+  highlights:
+  - headline_left: Availability
+    description_left: Intrusion Detection combines signatures, protocols and anomaly-based
+      inspection to keep mission-critical IT systems up and running.
+    icon_left: ''
+    headline_right: Security Analytics
+    description_right: Gain comprehensive threat insight via detailed reporting on
+      event distribution by severity, hour, day, protocols and destination port.
+    icon_right: ''
+  - headline_left: Multi-Cloud Security
+    description_left: Combine Intrusion Detection with Expedient’s Dedicated Firewall
+      Management solution for enhanced network protection.
+    icon_left: ''
+    headline_right: Business Agility
+    description_right: Expedient will provide daily alert reports directly to named
+      client contacts, so that you can focus on running your business.
+    icon_right: ''
+- template: highlights-2-column
+  block: highlights-2col
+  heading: Server Management & Monitoring
+  subheading: Expert oversight of mission-critical IT infrastructure
+  highlights:
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Business Agility
+    description: Clients rely on Expedient to manage computing infrastructure running
+      Microsoft Windows, Red Hat Linux, VMware ESXi, Microsoft Hyper-V, as well as
+      related applications, antivirus, and supporting agents.
+  - align-left: false
+    icon: ''
+    background: ''
+    headline: Reduced Workload
+    description: Expedient alleviates the demands of daily IT infrastructure management
+      by installing, managing and maintaining operating systems, security patches,
+      tools and agents.
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Bolster Your IT Team
+    description: Expedient's Operations Support Center (OSC) ensures the reliability
+      and uptime of client systems with proactive monitoring, maintenance, and stringent
+      adherence to proven best practices and operational controls.
+  - align-left: false
+    icon: ''
+    background: ''
+    headline: Proactive Maintenance
+    description: As required, Expedient will analyze and install selected security
+      fixes and operating system hot fixes.
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
