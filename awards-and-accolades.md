@@ -16,6 +16,10 @@ page_sections:
     prestigious awards and accolades, including a second consecutive positioning of
     our Push Button DR solution on Gartner’s Magic Quadrant for DRaaS and our ranking
     as the #7 managed service provider in the world by Channel Futures MSP 501 Ranking.'
+- template: subscribe-bar
+  block: subbar
+  headline: Subscribe to receive the latest articles related to DRaaS
+  cta: Subscribe Now
 - template: featured-service
   block: featured-service
   description: |-
@@ -28,10 +32,6 @@ page_sections:
   title: '2019 Gartner Magic Quadrant '
   headline: Disaster Recovery as a Service
   align-left: false
-- template: subscribe-bar
-  block: subbar
-  headline: Subscribe to receive the latest articles related to DRaaS
-  cta: Subscribe Now
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
