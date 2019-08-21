@@ -20,6 +20,12 @@ page_sections:
   cite: "- Gary Watson, President & CEO, Elite Services"
   icon: "/uploads/gary_watson.jpg"
   quote_background: "/uploads/exp_CaseStudybg-es.jpg"
+- template: link-bar
+  block: linkbar
+  link: http://go.expedient.com/eliteservices
+  cta: Download Case Study
+  headline: Solutions tailored to the professional services industry
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity

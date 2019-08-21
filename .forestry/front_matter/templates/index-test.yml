@@ -48,6 +48,7 @@ fields:
     min: 
     max: 
 pages:
+- _resources/2016-07-29-elite-services-case-study.md
 - _resources/2016-10-12-irth-solutions.md
 - _resources/2017-03-01-battelle-for-kids.md
 - _resources/2017-05-15-healthcare-medcom-solutions.md
@@ -68,7 +69,6 @@ pages:
 - _resources/2016-01-07-interactive-blue-case-study.md
 - _resources/2016-03-03-firstinsightcs.md
 - overview.md
-- _resources/2016-07-29-elite-services-case-study.md
 - index.md
 - file-transfer-time-calculator.md
 - disk-raid-and-iops-calculator.md
