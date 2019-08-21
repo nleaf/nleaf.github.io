@@ -23,7 +23,7 @@ page_sections:
   block: linkbar
   link: http://bit.ly/2qJ6Ujc
   cta: Download Case Study
-  headline: Nonni’s is able to save capital expenses with Expedient
+  headline: Learn more about Nonni's Foods' success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top

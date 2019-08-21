@@ -23,8 +23,7 @@ page_sections:
   block: linkbar
   link: http://bit.ly/2x7q1Tp
   cta: Download Case Study
-  headline: Imports and Exports Around the World with Expedient’s Infrastructure and
-    DRaaS
+  headline: Learn more about Shapiro's success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top
