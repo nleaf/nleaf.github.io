@@ -23,7 +23,7 @@ page_sections:
   block: linkbar
   cta: Download Case Study
   link: http://go.expedient.com/columbusmetropolitanlibrary
-  headline: Push Button DR to ensure continuous availability
+  headline: Learn more about Columbus Metro Library's success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top
