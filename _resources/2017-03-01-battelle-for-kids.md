@@ -20,6 +20,13 @@ page_sections:
   cite: "- Oscar Paredes, Managing Director of Technology, Battelle for Kids"
   icon: "/uploads/EXP_Circle-Mark.svg"
   quote_background: "/uploads/exp_CaseStudybg-bfk.jpg"
+- template: link-bar
+  block: linkbar
+  link: http://bit.ly/2mKvBpc
+  cta: Download Case Study
+  headline: Battelle for Kids leveraged Expedient’s advanced infrastructure as a service
+    solutions.
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
