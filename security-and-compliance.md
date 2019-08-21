@@ -100,13 +100,13 @@ page_sections:
     description_right: Protect against threats to your private, public, and hybrid
       cloud environments.
     icon_right: "/uploads/EXP_Agility.svg"
-  - headline_left: Availability
-    description_left: Replicate computing workloads of critical importance in two
-      or more data centers and rely upon automatic recovery if the unexpected happens.
+  - headline_left: Total Control
+    description_left: Enforce attack detection and prevention policies on traffic
+      passing through the firewall and at the application level.
     icon_left: "/uploads/EXP_Availability.svg"
-    headline_right: Cost Control
-    description_right: Stop purchasing hardware and accurately forecast monthly operational
-      infrastructure expense while taking advantage of the latest technology.
+    headline_right: Availability
+    description_right: Improve business continuity with faster firewall failover (Push
+      Button DR clients only)
     icon_right: "/uploads/EXP_CostControl.svg"
 - template: recent-posts
   block: recentposts
