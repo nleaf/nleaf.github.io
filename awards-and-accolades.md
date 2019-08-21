@@ -28,7 +28,7 @@ page_sections:
     gauge customer loyalty. Expedient conducts its customer NPS evaluation annually.
     A survey applicable to the overall relationship with Expedient is distributed
     to all then-current customer contacts. Our scores demonstrate a higher-than-average
-    score in our industry as compared to publicly available information.
+    score in our industry as compared to the publicly available information.
   icon: "/uploads/EXP_NewPromoter-1.svg"
 - template: quote
   block: quote
