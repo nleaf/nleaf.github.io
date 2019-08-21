@@ -4,7 +4,7 @@
     <div class="px-0 md:max-w-expBody justify-between mx-auto">
         <div class="flex mb-4">
             {% for item in section.row %}
-                <div class="w-1/3 h-12 px-4">
+                <div class="w-1/3 px-4">
                     <a href="{{item.link}}" alt="{{item.label}}"><img src="{{ item.image| absolute_url }}" class="mx-auto"></a>
                 </div>
             {% endfor %}
