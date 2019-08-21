@@ -22,7 +22,7 @@ page_sections:
   block: linkbar
   cta: Download Case Study
   link: http://bit.ly/2ydqYLS
-  headline: Add resiliency to your business through the addition of DRaaS
+  headline: Learn more about Prodigo Solutions' success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top

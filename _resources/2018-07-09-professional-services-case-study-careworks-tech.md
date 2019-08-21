@@ -23,7 +23,7 @@ page_sections:
   block: linkbar
   link: http://bit.ly/2MB7bw7
   cta: Download Case Study
-  headline: Complementary, and comprehensive, IT infrastructure and managed services.
+  headline: Learn more about CareWorks Tech's success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top
