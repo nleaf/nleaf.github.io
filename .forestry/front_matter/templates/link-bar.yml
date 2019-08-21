@@ -1,4 +1,31 @@
 ---
 label: Link Bar
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: linkbar
+- name: headline
+  type: text
+  config:
+    required: false
+  label: headline
+- name: newtab
+  type: boolean
+  label: newtab
+  description: Toggle to open link in a new tab
+- name: link
+  type: text
+  config:
+    required: false
+  label: link
+  description: Direct link to item or relative link to page
+- name: cta
+  type: text
+  config:
+    required: false
+  label: Link CTA
