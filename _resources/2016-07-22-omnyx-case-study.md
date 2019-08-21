@@ -27,7 +27,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: Market Opportunity
+  header: Transform Cancer Care with Digital Pathology
   description: Omnyx, LLC, a joint venture between GE Healthcare and UPMC, is committed
     to helping transform cancer care through advances in digital pathology... For
     the past eight years, Expedient has been able to deliver high availability, scalability
