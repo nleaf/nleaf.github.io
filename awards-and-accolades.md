@@ -65,7 +65,7 @@ page_sections:
   highlights:
   - align-left: true
     icon: "/uploads/EXP_CRN-MSP500.svg"
-    background: "/uploads/bg_servies-01.jpg"
+    background: "/uploads/exp_cloud_vmc.jpg"
     headline: CRN’s 2019 Managed Service Provider list
     description: This annual list recognizes the top technology providers and consultants
       in North America whose forward-thinking approach to providing managed services

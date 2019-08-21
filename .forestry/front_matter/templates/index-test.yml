@@ -49,8 +49,8 @@ fields:
     min: 
     max: 
 pages:
-- our-customers.md
 - awards-and-accolades.md
+- our-customers.md
 - _resources/2016-01-07-interactive-blue-case-study.md
 - _resources/2016-01-21-softlink-case-study.md
 - _resources/2016-03-03-firstinsightcs.md
