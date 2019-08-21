@@ -49,17 +49,19 @@ page_sections:
     by Channel Futures’ annual MSP 501 Ranking. '
   highlights:
   - align-left: true
-    icon: "/uploads/EXP_CRN-500-1.svg"
+    icon: "/uploads/EXP_CRN-MSP500.svg"
     background: "/uploads/bg_servies-01.jpg"
-    headline: Agility
-    description: Expedient Recognized on CRN’s 2019 Managed Service Provider list
+    headline: CRN’s 2019 Managed Service Provider list
+    description: This annual list recognizes the top technology providers and consultants
+      in North America whose forward-thinking approach to providing managed services
+      is changing the landscape of the IT channel.
   - align-left: false
-    icon: "/uploads/EXP_Availability.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Availability
-    description: Replicate computing workloads of critical importance in two or more
-      data centers or your own site and rely upon automatic recovery by interconnected
-      locations.
+    icon: "/uploads/EXP_CRN-100.svg"
+    background: "/uploads/exp_case_study_challenge.jpg"
+    headline: CRN’s 2018 Data Center 100 List
+    description: This annual list recognizes technology suppliers that excel at powering,
+      supporting and protecting the complex and demanding data centers on which today’s
+      businesses rely.
 - template: highlights-2-column-2-row
   block: highlights-2col-2row
   heading: Robust and Secure
