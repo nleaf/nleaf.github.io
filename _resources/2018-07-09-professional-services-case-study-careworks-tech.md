@@ -27,7 +27,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: Market Opportunity
+  header: Help Clients Realize Strategic IT Goals
   description: Operating as a client advocate, the team at CareWorks Tech utilizes
     their expertise in IT Consulting, Infrastructure Services and Enterprise Service
     Management to craft proven solutions that are tailored to the client’s strategic
