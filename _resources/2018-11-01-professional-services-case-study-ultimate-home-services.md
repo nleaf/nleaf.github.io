@@ -23,7 +23,7 @@ page_sections:
   block: linkbar
   cta: Download Case Study
   link: http://bit.ly/2P0m7Zv
-  headline: Turnkey Infrastructure as a Service (IaaS) and managed services solutions
+  headline: Learn more about Ultimate Home Services' success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top
