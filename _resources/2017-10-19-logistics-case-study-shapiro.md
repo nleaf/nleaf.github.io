@@ -19,6 +19,13 @@ page_sections:
   cite: "- Bob Kimmel, Director of Information Technology, Shapiro"
   icon: "/uploads/robert_kimmel.jpg"
   quote_background: "/uploads/exp_CaseStudybg-shap.jpg"
+- template: link-bar
+  block: linkbar
+  link: http://bit.ly/2x7q1Tp
+  cta: Download Case Study
+  headline: Imports and Exports Around the World with Expedient’s Infrastructure and
+    DRaaS
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
