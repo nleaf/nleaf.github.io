@@ -10,7 +10,7 @@ author: Ed Dzurko
 
 Every industry has its own shorthand and IT is no different. When looking for web hosting and [data center services](https://www.expedient.com/the-data-centers/ "Data Centers"), uptime is one of the terms thrown about. Uptime is, at its most basic, the amount of time that a server stays up and running. Uptime is usually measured as a percentage of time. So, if a company advertises that they have 99% uptime, this means that 1% of the time they are down. Sounds great, right?
 
-[–Did you know that utilizing a provider with 99% uptime means that you would be down 3.65 days a year?](https://www.expedient.com/how-much-does-downtime-really-cost/ "How Much Does Downtime Really Cost?")
+* [Did you know that utilizing a provider with 99% uptime means that you would be down 3.65 days a year?](https://www.expedient.com/how-much-does-downtime-really-cost/ "How Much Does Downtime Really Cost?")
 
 #### 99% Uptime vs. 99.99 Percent Uptime
 
