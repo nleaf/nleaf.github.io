@@ -19,6 +19,12 @@ page_sections:
     would just shake my head in disbelief that it happened."'
   cite: "- Burton Bardus, Senior Director of Information Technology, Columbus Metropolitan
     Library"
+- template: link-bar
+  block: linkbar
+  cta: Download Case Study
+  link: http://go.expedient.com/columbusmetropolitanlibrary
+  headline: Push Button DR to ensure continuous availability
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
