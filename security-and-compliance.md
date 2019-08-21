@@ -317,15 +317,10 @@ page_sections:
     description_right: Work with Expedient to implement risk mitigation tactics, such
       as changes to access control lists (ACLs) and implementation of OS patches/hotfixes.
     icon_right: ''
-- template: quote
-  block: quote
-  image: "/uploads/EXP_Circle-Mark.svg"
-  image-alt: Expedient
-  quote: "“Our experience watching Push Button DR in action for our applications was
-    like magic. It simplified our business continuity plan.”"
-  cite: "- IT Director, Professional Services Company"
-  link: ''
-  cta: ''
+- template: subscribe-bar
+  block: subbar
+  headline: Expedient Enterprise Cloud is Secure by Default
+  cta: Learn More
 - template: highlights-2-column
   block: highlights-2col
   heading: Compliance
