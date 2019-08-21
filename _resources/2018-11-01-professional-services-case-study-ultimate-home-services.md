@@ -36,7 +36,7 @@ page_sections:
   - tag: Dedicated Firewall Management
   - tag: Disaster Recovery as a Service
   - tag: Virtual Private Network (VPN)
-  header: Market Opportunity
+  header: Revolutionize the Contract Flooring Industry
   description: Ultimate Home Services, a provider of contract flooring installation
     services, is the dedicated flooring contractor for 170 bricks-and-mortar outposts
     of one of the largest home improvement stores in the United States.
