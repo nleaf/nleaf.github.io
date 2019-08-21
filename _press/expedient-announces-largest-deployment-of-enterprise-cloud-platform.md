@@ -2,7 +2,7 @@
 title: Expedient Announces Largest Deployment of Enterprise Cloud Platform
 date: 2019-08-21T04:00:00.000+00:00
 download: ''
-description: Expedientannounced that Homes.com, one of the nation’s largest online
+description: Expedient announced that Homes.com, one of the nation’s largest online
   real estate marketplaces, has consolidated and migrated its critical business applications
   from multiple cloud providers, including Amazon Web Services, to Expedient’s Enterprise
   Cloud.
