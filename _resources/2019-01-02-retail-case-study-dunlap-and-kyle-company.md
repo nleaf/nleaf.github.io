@@ -18,6 +18,12 @@ page_sections:
   quote: '"Because of our cloud and DR solution with Expedient, our ability to meet
     customer demand and grow the various aspects of our business has noticeably increased."'
   cite: "- Stuart Hill, CIO, Dunlap and Kyle Company"
+- template: link-bar
+  block: linkbar
+  link: http://bit.ly/2GQ9Oex
+  cta: Download Case Study
+  headline: Cloud and DRaaS solutions supported by strategic managed services
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   services:
