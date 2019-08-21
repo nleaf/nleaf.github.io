@@ -36,12 +36,10 @@ page_sections:
   block: featured-service
   title: Channel Futures MSP 501 Ranking
   headline: ''
-  description: 'Expedient is rated anonymously on Gartner Peer Insights™ by customers
-    who use its disaster recovery as a service (DRaaS) solutions. Expedient’s rating
-    and a ranking of vendors is also available. The company’s current rating is 4.8
-    and is ranked #2 among other vendors.'
+  description: 'Expedient is ranked among the top 10 managed services providers worldwide
+    by Channel Futures’ annual MSP 501 Ranking. '
   align-left: false
-  icon: "/uploads/EXP_CRN.svg"
+  icon: "/uploads/msp501-winner-nobadge-e1562485415451.webp"
 - template: highlights-2-column
   block: highlights-2col
   heading: Channel Futures MSP 501 Ranking

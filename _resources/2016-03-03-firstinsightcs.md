@@ -27,7 +27,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: ''
+  header: Help Retailers Pinpoint the "Next Big Thing"
   description: Retailers are always on the hunt for the “next big thing” or the on-trend
     product that will really resonate with customers. First Insight, a cloud-based
     technology company, helps many retailers with this quest through its predictive
