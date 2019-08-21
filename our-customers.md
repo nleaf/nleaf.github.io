@@ -90,6 +90,21 @@ page_sections:
   - image: "/uploads/Stanley-steamer.jpg"
     label: Stanley Steemer
     link: "/knowledgebase/resources/ecommerce-retail-case-study-stanley-steemer/"
+- template: grid
+  block: grid
+  row:
+  - image: "/uploads/Strike-King.jpg"
+    label: Strike King
+    link: ''
+  - image: "/uploads/thrity-one-gifts.jpg"
+    label: Thirty-one
+    link: ''
+  - image: "/uploads/Tic_Gums.png"
+    label: TIC GUMS
+    link: "/knowledgebase/resources/manufacturing-tic-gums/"
+  - image: "/uploads/ultimatehomeservices.png"
+    label: Ultimate Home Services
+    link: "/knowledgebase/resources/professional-services-case-study-ultimate-home-services/"
 - template: subscribe-bar
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS

@@ -113,8 +113,8 @@ page_sections:
   subheading: Enable secure, private and seamless access to data over public networks
   highlights:
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-2fa-icon.svg"
+    background: "/uploads/exp_cloud_02.jpg"
     headline: Protect Confidential Data
     description: Safeguard sensitive data in transit with site-to-site or and/or transport
       security layer (TLS) tunnels combined with two-factor authentication.
