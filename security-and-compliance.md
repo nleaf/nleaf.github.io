@@ -169,6 +169,34 @@ page_sections:
     sacrificing the benefits or control of an on-premises environment.
   icon: "/uploads/EXP_OnSiteDraaS.svg"
   align-left: false
+- template: highlights-2-column
+  block: highlights-2col
+  heading: Data Encryption at Rest
+  subheading: Protect your organization’s unstructured data
+  highlights:
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Hybrid-Cloud Protection
+    description: Encrypt and protect unstructured data across physical and virtual
+      infrastructure.
+  - align-left: false
+    icon: ''
+    background: ''
+    headline: Key Management
+    description: Centralize administration of all keys and policies.
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Granular Access Controls
+    description: Ensure that only authorized users are able to access confidential
+      data.
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Risk Mitigation
+    description: Maintain compliance with government and industry mandates by protecting
+      sensitive data with FIPS 140-2 compliant encryption.
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
