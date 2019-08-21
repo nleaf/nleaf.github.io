@@ -26,7 +26,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: Market Opportunity
+  header: Provide Integrated Technology Solutions to Hospitals
   description: 'Hospitals, doctors and medical offices that want to focus on providing
     optimal healthcare for their patients rely on MedCom Solutions to handle their
     technology needs. MedCom Solutions is a full-service consulting and software technology
