@@ -27,7 +27,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: Market Opportunity
+  header: Deliver Innovative Customs Solutions on a Global Scale
   description: For more than 100 years, Shapiro has been developing innovative supply
     chain and customs brokerage solutions for organizations ranging from traditional
     commercial importers and exporters in the retail, pharmaceutical, consumer goods,
