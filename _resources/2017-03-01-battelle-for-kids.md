@@ -28,7 +28,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: Market Opportunity
+  header: Move Education Forward Through Innovation
   description: Battelle for Kids (BFK) is a national not-for-profit organization focused
     on developing innovative services and solutions that empower teachers, leaders
     and school systems to advance educational equity and opportunity for all students.
