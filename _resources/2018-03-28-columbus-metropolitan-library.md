@@ -27,7 +27,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: Market Opportunity
+  header: Serve as a Community Hub for Central Ohio
   description: Columbus Metropolitan Library (CML) began operating in 1873 and is
     one of the most-used library systems in the country. CML strives to inspire reading,
     share resources, and connect people through its numerous programs and services.
