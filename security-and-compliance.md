@@ -136,6 +136,27 @@ page_sections:
     headline: Compliance
     description: Ensure compliance with industry and government mandates with features
       such as session idle timeouts and vendor appliance interoperability.
+- template: highlights-2-column-2-row
+  block: highlights-2col-2row
+  heading: Distributed Denial of Service (DDoS)
+  subheading: Ensure the uptime and performance of your business-critical applications
+  highlights:
+  - headline_left: Risk Mitigation
+    description_left: Inspect network traffic to identify malicious packets.
+    icon_left: ''
+    headline_right: Comprehensive Network Security
+    description_right: Expedient’s DDoS mitigation service protects against known
+      malicious hosts, application-layer exploits, web-based threats, DNS spoofing,
+      and protocol vulnerabilities.
+    icon_right: ''
+  - headline_left: Intelligent Filtering
+    icon_left: ''
+    headline_right: Automated Network Protection
+    description_right: Remotely triggered black hole (RTB) filtering technology is
+      used on border routers to automatically reject suspicious traffic.
+    icon_right: ''
+    description_left: Expedient uses NetFlow signatures to only filter suspicious
+      traffic flows and leave legitimate traffic untouched.
 - template: featured-service
   block: featured-service
   title: On-Site Private Cloud with Disaster Recovery as a Service
