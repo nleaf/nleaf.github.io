@@ -132,8 +132,8 @@ page_sections:
     description: Implement Expedient Push Button DR to automate and orchestrate failover
       of network appliances (such as VPN) in the event of unplanned downtime.
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_RiskMitigation.svg"
+    background: "/uploads/exp_cloud_private.jpg"
     headline: Compliance
     description: Ensure compliance with industry and government mandates with features
       such as session idle timeouts and vendor appliance interoperability.

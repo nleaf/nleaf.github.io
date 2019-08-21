@@ -17,6 +17,10 @@ page_sections:
     services, healthcare, manufacturing, professional services, software as a service,
     and more. Our tailored infrastructure as a service solutions have helped these
     companies, and others, achieve the outcomes they were looking for.
+- template: subscribe-bar
+  block: subbar
+  headline: Subscribe to receive the latest articles related to DRaaS
+  cta: Subscribe Now
 - template: grid
   block: grid
   row:
@@ -107,10 +111,6 @@ page_sections:
   - image: "/uploads/ultimatehomeservices.png"
     label: Ultimate Home Services
     link: "/knowledgebase/resources/professional-services-case-study-ultimate-home-services/"
-- template: subscribe-bar
-  block: subbar
-  headline: Subscribe to receive the latest articles related to DRaaS
-  cta: Subscribe Now
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
