@@ -49,9 +49,9 @@ fields:
     min: 
     max: 
 pages:
+- awards-and-accolades.md
 - _resources/2016-01-07-interactive-blue-case-study.md
 - _resources/2016-01-21-softlink-case-study.md
-- awards-and-accolades.md
 - _resources/2016-03-03-firstinsightcs.md
 - _resources/2016-07-22-omnyx-case-study.md
 - _resources/2016-07-27-orchard-software-case-study.md

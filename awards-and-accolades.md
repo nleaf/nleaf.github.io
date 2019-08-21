@@ -42,9 +42,8 @@ page_sections:
   icon: "/uploads/msp501-winner-nobadge-e1562485415451.webp"
 - template: highlights-2-column
   block: highlights-2col
-  heading: Channel Futures MSP 501 Ranking
-  subheading: 'Expedient is ranked among the top 10 managed services providers worldwide
-    by Channel Futures’ annual MSP 501 Ranking. '
+  heading: Expedient Recognized by CRN
+  subheading: ''
   highlights:
   - align-left: true
     icon: "/uploads/EXP_CRN-MSP500.svg"
