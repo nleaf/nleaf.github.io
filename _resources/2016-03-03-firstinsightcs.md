@@ -23,8 +23,8 @@ page_sections:
   block: linkbar
   cta: Download Case Study
   link: http://go.expedient.com/FirstInsightCS
-  headline: 'eCommerce / retail SaaS provider, depends on Expedient’s reliable infrastructure
-    to enable its clients to pick products that deliver profits. '
+  headline: 'Reliable infrastructure to enable clients to pick products that deliver
+    profits. '
   newtab: false
 - template: case-study-intro
   block: casestudy-top
