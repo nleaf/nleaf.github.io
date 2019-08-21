@@ -312,11 +312,11 @@ page_sections:
   - headline_left: Security Analytics
     description_left: Obtain useful reports containing a prioritized list of vulnerabilities
       by severity.
-    icon_left: ''
+    icon_left: "/uploads/exp-backups-icon.svg"
     headline_right: Expert Support
     description_right: Work with Expedient to implement risk mitigation tactics, such
       as changes to access control lists (ACLs) and implementation of OS patches/hotfixes.
-    icon_right: ''
+    icon_right: "/uploads/exp-public_cloud-icon.svg"
 - template: subscribe-bar
   block: subbar
   headline: Expedient Enterprise Cloud is Secure by Default
