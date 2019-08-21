@@ -28,7 +28,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: Market Opportunity
+  header: Maintain Growth Trajectory and Meet the Needs of Larger Clients
   description: Elite Services has expanded rapidly over the past few years, and to
     continue its growth trajectory - and meet the needs of larger and more sophisticated
     clients - it needs an IT partner it can trust.
