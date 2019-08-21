@@ -274,8 +274,8 @@ page_sections:
   subheading: Conquer IT complexity and deliver actionable intelligence
   highlights:
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-geo2-icon.svg"
+    background: "/uploads/exp_cloud_public.jpg"
     headline: Security Analytics
     description: Collect, store, and analyze disparate log data for quick decision-making,
       or to support business and/or compliance requests.
