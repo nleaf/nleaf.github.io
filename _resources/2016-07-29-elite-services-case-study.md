@@ -24,7 +24,7 @@ page_sections:
   block: linkbar
   link: http://go.expedient.com/eliteservices
   cta: Download Case Study
-  headline: Solutions tailored to the professional services industry
+  headline: Learn more about Elite Services' success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top

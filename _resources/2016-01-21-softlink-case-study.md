@@ -24,8 +24,7 @@ page_sections:
   block: linkbar
   link: http://bit.ly/1KsISbk
   cta: Download Case Study
-  headline: Guaranteed uptime and compliance support for healthcare and financial
-    industries
+  headline: Learn more about Softlinx's success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top
