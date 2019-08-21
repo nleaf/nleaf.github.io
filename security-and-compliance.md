@@ -342,15 +342,15 @@ page_sections:
       Privacy Shield and Swiss-U.S. Privacy Shield programs and has certified that
       it adheres to the EU-U.S. and Swiss-U.S. Privacy Shield Principles.
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Security.svg"
+    background: "/uploads/exp_cloud_hybrid.jpg"
     headline: HIPAA Business Associate Agreements
     description: Expedient is your managed services and infrastructure as a service
       (IaaS) provider with Health Insurance Portability and Accountability (HIPAA)
       compliance.
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-2fa-icon.svg"
+    background: "/uploads/exp_colocation-security.png"
     headline: PCI DSS Compliance
     description: Expedient can assist clients with the Payment Card Industry (PCI)
       Security Standards Council (DSS) compliance process by providing various types
