@@ -19,6 +19,12 @@ page_sections:
   cite: "- Brian Davis, Director of Infrastructure Services, CareWorks Tech"
   icon: "/uploads/brian_davis.jpg"
   quote_background: "/uploads/exp_CaseStudybg-cw.jpg"
+- template: link-bar
+  block: linkbar
+  link: http://bit.ly/2MB7bw7
+  cta: Download Case Study
+  headline: Complementary, and comprehensive, IT infrastructure and managed services.
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
