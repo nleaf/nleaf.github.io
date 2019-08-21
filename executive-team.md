@@ -7,9 +7,7 @@ page_sections:
 - template: page-hero
   block: page-hero
   banner_image: "/uploads/bg_servies.jpg"
-  subheadline: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
-    interdum ligula hendrerit quam rutrum dapibus. Nulla aliquet dapibus nulla, eget
-    finibus ipsum sodales vel. Nulla elementum interdum maximus.
+  subheadline: ''
 - template: subscribe-bar
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
@@ -36,7 +34,7 @@ type: include
 template: seo
 label: SEO
 name: seo
-seo_title: Cloud Computing and Data Center Infrastructure as a Service
+seo_title: ''
 description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
   Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
 image: ''

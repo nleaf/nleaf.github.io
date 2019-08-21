@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- executive-team.md
 - awards-and-accolades.md
 - our-customers.md
 - _resources/2016-01-07-interactive-blue-case-study.md
@@ -81,7 +82,6 @@ pages:
 - cloud-build-vs-buy-calculator.md
 - colocation.md
 - disaster-recovery.md
-- executive-team.md
 - why-expedient.md
 - success-stories.md
 - technology-partners.md
