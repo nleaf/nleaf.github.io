@@ -244,8 +244,8 @@ page_sections:
       and uptime of client systems with proactive monitoring, maintenance, and stringent
       adherence to proven best practices and operational controls.
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-247-icon.svg"
+    background: "/uploads/exp_case_study_solution.jpg"
     headline: Proactive Maintenance
     description: As required, Expedient will analyze and install selected security
       fixes and operating system hot fixes.
