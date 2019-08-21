@@ -19,6 +19,12 @@ page_sections:
     We had complete confidence in [Expedient''s] technical expertise and in the research
     we had done."'
   cite: "- Brian Polak, Director of Information Technology, Bouchard Insurance"
+- template: link-bar
+  block: linkbar
+  link: http://bit.ly/2ywg0Tz
+  cta: Download Case Study
+  headline: Proactively failover from your production environments
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
