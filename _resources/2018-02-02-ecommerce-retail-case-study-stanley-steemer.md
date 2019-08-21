@@ -31,7 +31,7 @@ page_sections:
     and headquartered in Dublin, Ohio, Stanley Steemer – via its iconic yellow vans
     – offers national coverage through nearly 300 independently owned and operated
     franchises and company-owned locations.
-  header: Mobilizing a national field services team
+  header: Mobilize a National Field Services Team
   services:
   - tag: Colocation
   - tag: Cloud
