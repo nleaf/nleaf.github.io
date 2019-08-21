@@ -18,8 +18,8 @@ page_sections:
     and audited attestation documentation.
 - template: subscribe-bar
   block: subbar
-  headline: Subscribe to receive the latest articles related to DRaaS
-  cta: Subscribe Now
+  headline: Expedient's Security and Compliance Suite at a Glace
+  cta: Download Now
 - template: featured-service
   block: featured-service
   align-left: true
