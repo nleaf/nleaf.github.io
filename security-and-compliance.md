@@ -152,7 +152,7 @@ page_sections:
   - headline_left: Intelligent Filtering
     icon_left: ''
     headline_right: Automated Network Protection
-    description_right: Remotely triggered black hole (RTB) filtering technology is
+    description_right: Remotely triggered blackhole (RTB) filtering technology is
       used on border routers to automatically reject suspicious traffic.
     icon_right: ''
     description_left: Expedient uses NetFlow signatures to only filter suspicious
