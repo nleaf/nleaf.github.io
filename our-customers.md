@@ -19,7 +19,7 @@ page_sections:
     companies, and others, achieve the outcomes they were looking for.
 - template: subscribe-bar
   block: subbar
-  headline: 'Star up to date with all our of client testimonials '
+  headline: 'Stay up to date with all our of client testimonials '
   cta: Subscribe Now
 - template: grid
   block: grid
