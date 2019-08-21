@@ -30,6 +30,21 @@ page_sections:
   - image: "/uploads/careworkstech.png"
     label: Care Works Tech
     link: "/knowledgebase/resources/professional-services-case-study-careworks-tech/"
+- template: grid
+  block: grid
+  row:
+  - image: "/uploads/ColumbusMetroLib.png"
+    label: Columbus Metropolitan Library
+    link: "/knowledgebase/resources/columbus-metropolitan-library/"
+  - image: "/uploads/crisp.jpg"
+    label: Crisp
+    link: ''
+  - image: "/uploads/DDI.jpg"
+    label: DDI
+    link: ''
+  - image: "/uploads/first-insight.jpg"
+    label: First Insight
+    link: "/knowledgebase/resources/firstinsightcs/"
 - template: subscribe-bar
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
