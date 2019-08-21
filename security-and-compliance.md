@@ -397,10 +397,9 @@ type: include
 template: seo
 label: SEO
 name: seo
-seo_title: Cloud Computing and Data Center Infrastructure as a Service
-description: Expedient helps companies transform their IT operations through award-winning
-  cloud solutions and managed services including disaster recovery, security and compliance,
-  and more
+seo_title: Expedient Security and Compliance Solutions
+description: Security and compliance services complement Expedient's enterprise-grade
+  Infrastructure as a Service (IaaS) solutions.
 image: ''
 
 ---
