@@ -23,7 +23,7 @@ page_sections:
   block: linkbar
   link: http://go.expedient.com/OrchardSoftware_CS
   cta: Download Case Study
-  headline: 'Reliable infrastructure as a service for the healthcare industry '
+  headline: Learn more about Orchard Software's success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top
