@@ -133,7 +133,7 @@ page_sections:
       of network appliances (such as VPN) in the event of unplanned downtime.
   - align-left: false
     icon: "/uploads/EXP_RiskMitigation.svg"
-    background: "/uploads/exp_cloud_private.jpg"
+    background: "/uploads/exp_dr-02.png"
     headline: Compliance
     description: Ensure compliance with industry and government mandates with features
       such as session idle timeouts and vendor appliance interoperability.
