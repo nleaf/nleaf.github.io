@@ -19,6 +19,12 @@ page_sections:
   cite: "- Kelly Tryon, Chief Information Officer, Nonni's Foods LLC"
   icon: "/uploads/kelly_tryon.jpg"
   quote_background: "/uploads/exp_CaseStudybg-nf.jpg"
+- template: link-bar
+  block: linkbar
+  link: http://bit.ly/2qJ6Ujc
+  cta: Download Case Study
+  headline: Nonni’s is able to save capital expenses with Expedient
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
