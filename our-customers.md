@@ -19,7 +19,7 @@ page_sections:
     companies, and others, achieve the outcomes they were looking for.
 - template: subscribe-bar
   block: subbar
-  headline: Subscribe to receive the latest articles related to DRaaS
+  headline: 'Star up to date with all our of client testimonials '
   cta: Subscribe Now
 - template: grid
   block: grid

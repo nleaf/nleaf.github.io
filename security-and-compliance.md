@@ -151,11 +151,11 @@ page_sections:
       and protocol vulnerabilities.
     icon_right: "/uploads/exp-geo-icon.svg"
   - headline_left: Intelligent Filtering
-    icon_left: ''
+    icon_left: "/uploads/EXP_RiskMitigation.svg"
     headline_right: Automated Network Protection
     description_right: Remotely triggered blackhole (RTB) filtering technology is
       used on border routers to automatically reject suspicious traffic.
-    icon_right: ''
+    icon_right: "/uploads/exp-geo-icon.svg"
     description_left: Expedient uses NetFlow signatures to only filter suspicious
       traffic flows and leave legitimate traffic untouched.
 - template: subscribe-bar
