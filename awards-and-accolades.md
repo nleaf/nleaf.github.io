@@ -102,8 +102,6 @@ page_sections:
     description_right: Stop purchasing hardware and accurately forecast monthly operational
       infrastructure expense while taking advantage of the latest technology.
     icon_right: "/uploads/EXP_CostControl.svg"
-- template: recent-posts
-  block: recentposts
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
