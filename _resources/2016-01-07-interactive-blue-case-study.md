@@ -19,6 +19,12 @@ page_sections:
     not going to fall behind. Having someone who is continually updating and continually
     staying on top of [new hardware] means that we don''t have to."'
   cite: "-Bill O'Neil, CTO of InteractiveBlue"
+- template: link-bar
+  block: linkbar
+  link: http://bit.ly/29Z54SP
+  cta: Download Case Study
+  headline: 'Upgraded technology and plan for future growth. '
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: Market Opportunity
