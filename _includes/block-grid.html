@@ -8,7 +8,7 @@
                     {% if item.link == nil or item.link == empty%}
                         <img src="{{ item.image| absolute_url }}" class="mx-auto">
                     {% else %}
-                        <a href="{{item.link}}" alt="{{item.label}}"><img src="{{ item.image| absolute_url }}" class="mx-auto" data-tippy-content="Read Case Study"></a>
+                        <a href="{{item.link}}" alt="{{item.label}}"><img src="{{ item.image| absolute_url }}" class="mx-auto h-auto w-full gs" data-tippy-content="Read Case Study"></a>
                     {% endif %}
                 </div>
             {% endfor %}
