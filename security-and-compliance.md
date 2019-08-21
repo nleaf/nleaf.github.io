@@ -275,6 +275,34 @@ page_sections:
     headline_right: Compliance
     description_right: Maintain corporate compliance with auditing and reporting standards.
     icon_right: ''
+- template: highlights-2-column
+  block: highlights-2col
+  heading: Unified Log Management
+  subheading: Conquer IT complexity and deliver actionable intelligence
+  highlights:
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Security Analytics
+    description: Collect, store, and analyze disparate log data for quick decision-making,
+      or to support business and/or compliance requests.
+  - align-left: false
+    icon: ''
+    background: ''
+    headline: Business Intelligence
+    description: Provide automatic data visualization in an intuitive GUI dashboard
+      to enable streamlined workflows.
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Increase Efficiency
+    description: Query data up to three times faster than leading log management solutions.
+  - align-left: false
+    icon: ''
+    background: ''
+    headline: Budget Management
+    description: Predictable monthly pricing for unlimited log data, without surcharges
+      on peak usage.
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
