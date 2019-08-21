@@ -303,6 +303,27 @@ page_sections:
     headline: Budget Management
     description: Predictable monthly pricing for unlimited log data, without surcharges
       on peak usage.
+- template: highlights-2-column-2-row
+  block: highlights-2col-2row
+  heading: Vulnerability Scanning
+  subheading: Defend Against the Complex Threat Landscape with Persistent Monitoring
+  highlights:
+  - headline_left: Risk Mitigation
+    description_left: With vulnerability scanning, Expedient continuously monitors
+      in-scope client IT assets for known vulnerabilities.
+    icon_left: ''
+    headline_right: Get Strategic with IT
+    description_right: Focus your IT team on strategic projects and trust Expedient
+      to facilitate periodic vulnerability scanning of your mission-critical infrastructure.
+    icon_right: ''
+  - headline_left: Security Analytics
+    description_left: Obtain useful reports containing a prioritized list of vulnerabilities
+      by severity.
+    icon_left: ''
+    headline_right: Expert Support
+    description_right: Work with Expedient to implement risk mitigation tactics, such
+      as changes to access control lists (ACLs) and implementation of OS patches/hotfixes.
+    icon_right: ''
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
