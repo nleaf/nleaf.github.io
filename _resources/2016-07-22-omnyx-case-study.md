@@ -23,7 +23,7 @@ page_sections:
   block: linkbar
   link: http://bit.ly/1UTwCY8
   cta: Download Case Study
-  headline: Capacity and service reliability to transform cancer care.
+  headline: Learn more about Omnyx's success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top

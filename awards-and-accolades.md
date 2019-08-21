@@ -29,7 +29,7 @@ page_sections:
     A survey applicable to the overall relationship with Expedient is distributed
     to all then-current customer contacts. Our scores demonstrate a higher-than-average
     score in our industry as compared to the publicly available information.
-  icon: "/uploads/EXP_NewPromoter-1.svg"
+  icon: "/uploads/EXP_NewPromoter-2.svg"
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"

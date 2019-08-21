@@ -23,7 +23,7 @@ page_sections:
   block: linkbar
   link: http://bit.ly/29Z54SP
   cta: Download Case Study
-  headline: 'Upgraded technology and plan for future growth. '
+  headline: Learn more about InteractiveBlue's success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top
