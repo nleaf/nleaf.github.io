@@ -88,16 +88,17 @@ page_sections:
   align-left: false
 - template: highlights-2-column-2-row
   block: highlights-2col-2row
-  heading: Robust and Secure
-  subheading: On-Site Private Cloud  Provides
+  heading: Dedicated Firewall Management
+  subheading: Secure protection across clouds with a unified management interface
   highlights:
-  - headline_left: Risk Mitigation
-    description_left: Protect data and comply with mandates like the Payment Card
-      Industry Data Security Standard (PCI DSS)
+  - headline_left: Multi-cloud Security Insight
+    description_left: Gain security policy insight across all Expedient infrastructure
+      protected with Dedicated Firewall Management, as well as other vSRX-based, managed
+      firewalls at third-party cloud providers, such as AWS and Azure.
     icon_left: "/uploads/EXP_RiskMitigation.svg"
-    headline_right: Agility
-    description_right: Operate applications in multiple data centers concurrently
-      for active/active  workload protection.
+    headline_right: Comprehensive Risk Mitigation
+    description_right: Protect against threats to your private, public, and hybrid
+      cloud environments.
     icon_right: "/uploads/EXP_Agility.svg"
   - headline_left: Availability
     description_left: Replicate computing workloads of critical importance in two
@@ -121,8 +122,9 @@ template: seo
 label: SEO
 name: seo
 seo_title: Cloud Computing and Data Center Infrastructure as a Service
-description: Expedient is the local cloud, colocation, IaaS and DRaaS provider in
-  Baltimore, Boston, Cleveland, Columbus, Indianapolis, Memphis and Pittsburgh.
+description: Expedient helps companies transform their IT operations through award-winning
+  cloud solutions and managed services including disaster recovery, security and compliance,
+  and more
 image: ''
 
 ---
