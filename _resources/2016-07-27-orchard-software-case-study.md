@@ -27,7 +27,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: Market Opportunity
+  header: Create Tools to Automate and Simplify Laboratory Processes
   description: Orchard Software has been a leader in the laboratory information system
     industry for more than 20 years. The company has implemented award-winning automation
     and interface tools to address regulatory and integration issues as well as simplify
