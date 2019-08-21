@@ -15,10 +15,28 @@ page_sections:
   subheadline: Expedient’s Disaster Recovery as a Service solutions have been recognized
     in  the Gartner Magic Quadrant for DRaaS and offer fast, total network failover  without
     IP and DNS changes.
+- template: featured-service
+  block: featured-service
+  description: |-
+    For the third consecutive year, Expedient has been positioned in Gartner’s Magic Quadrant for Disaster Recovery as a Service.
+
+    Expedient’s Push Button DR enables complete network failover without IP and DNS changes, and with a sub-10 minute RTO – keeping your business running in the most critical times.
+  icon: "/uploads/EXP_MagicQuadrant.svg"
+  title: '2019 Gartner Magic Quadrant '
+  headline: for Disaster Recovery as a Service
+  align-left: false
 - template: subscribe-bar
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
   cta: Subscribe Now
+- template: quote
+  block: quote
+  image: ''
+  image-alt: ''
+  quote: ''
+  cite: ''
+  link: ''
+  cta: ''
 - template: featured-service
   block: featured-service
   align-left: true
