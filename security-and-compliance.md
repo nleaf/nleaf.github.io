@@ -85,6 +85,12 @@ page_sections:
     headline: Globally Aware
     description: ATP contributes to and benefits from a global threat intelligence
       database.
+  - align-left: false
+    icon: "/uploads/exp-geo-icon.svg"
+    background: "/uploads/exp_CaseStudybg-blue.jpg"
+    headline: Security Analytics
+    description: Expedient ATP comprehensively logs all activity enabling for forensic
+      review and actionable intelligence to improve security policies.
   subheading: Go beyond static blacklists to protect against increasingly sophisticated
     cyber attacks
 - template: callout
