@@ -348,7 +348,7 @@ page_sections:
     description: Expedient is your managed services and infrastructure as a service
       (IaaS) provider with Health Insurance Portability and Accountability (HIPAA)
       compliance.
-  - align-left: true
+  - align-left: false
     icon: "/uploads/exp-2fa-icon.svg"
     background: "/uploads/exp_colocation-security.png"
     headline: PCI DSS Compliance
@@ -356,8 +356,8 @@ page_sections:
       Security Standards Council (DSS) compliance process by providing various types
       of documentation.
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-results-icon.svg"
+    background: "/uploads/exp_cloud_private.jpg"
     headline: General Data Protection Regulation (GDPR)
     description: Expedient is prepared to support current and prospective clients
       with GDPR compliance needs via a Data Protection Agreement (DPA) that can be
