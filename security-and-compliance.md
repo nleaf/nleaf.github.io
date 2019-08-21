@@ -32,60 +32,6 @@ page_sections:
     supported tests. And if disaster strikes, you can rely upon our 24x7x365 Operations
     Support Center team to be available if — and when — you need us.
   icon: "/uploads/EXP_PushButtonDR.svg"
-- template: quote
-  block: quote
-  image: "/uploads/EXP_Circle-Mark.svg"
-  image-alt: Expedient
-  quote: "“Our experience watching Push Button DR in action for our applications was
-    like magic. It simplified our business continuity plan.”"
-  cite: "- IT Director, Professional Services Company"
-  link: ''
-  cta: ''
-- template: highlights-2-column
-  block: highlights-2col
-  heading: Flexible and Extensible
-  subheading: "Push Button DR  \nHighlights "
-  highlights:
-  - align-left: true
-    icon: "/uploads/EXP_Agility.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Agility
-    description: Failover at the push of a button and have the ability to operate
-      applications in multiple data centers or your own site.
-  - align-left: false
-    icon: "/uploads/EXP_Availability.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Availability
-    description: Replicate computing workloads of critical importance in two or more
-      data centers or your own site and rely upon automatic recovery by interconnected
-      locations.
-  - align-left: true
-    icon: "/uploads/EXP_RiskMitigation.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Risk Mitigation
-    description: Protect information technology workloads with disaster recovery solutions
-      that offer the fastest recovery time objectives.
-- template: callout
-  block: callout
-  link: contact.md
-  cta: Learn More
-  heading: Interested in saving $100,000 a day?
-  content: Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
-    Push Button DR.
-  icon: ''
-  background: "/uploads/bg_hurricane.png"
-- template: featured-service
-  block: featured-service
-  title: On-Site Private Cloud with Disaster Recovery as a Service
-  headline: 'Ease your transition to the  cloud with a dedicated  on-premises cloud. '
-  description: Expedient’s On-Site Private Cloud with Disaster Recovery as a Service
-    is designed to ease your transition to the cloud through dedicated on-premises
-    cloud resources coupled with managed disaster recovery from your location to any
-    one of Expedient’s 11 data centers using Push Button DR. The On-Site Private Cloud
-    with DRaaS is ideal for customers who want to transform their IT operations without
-    sacrificing the benefits or control of an on-premises environment.
-  icon: "/uploads/EXP_OnSiteDraaS.svg"
-  align-left: false
 - template: highlights-2-column-2-row
   block: highlights-2col-2row
   heading: Dedicated Firewall Management
@@ -108,6 +54,60 @@ page_sections:
     description_right: Improve business continuity with faster firewall failover (Push
       Button DR clients only)
     icon_right: "/uploads/EXP_CostControl.svg"
+- template: quote
+  block: quote
+  image: "/uploads/EXP_Circle-Mark.svg"
+  image-alt: Expedient
+  quote: "“Our experience watching Push Button DR in action for our applications was
+    like magic. It simplified our business continuity plan.”"
+  cite: "- IT Director, Professional Services Company"
+  link: ''
+  cta: ''
+- template: highlights-2-column
+  block: highlights-2col
+  heading: Advanced Threat Prevention (ATP)
+  highlights:
+  - align-left: true
+    icon: "/uploads/EXP_Agility.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: Next-gen cybersecurity
+    description: Use state-of-the-art machine learning to continuously scan web and
+      email files for evasive malware.
+  - align-left: false
+    icon: "/uploads/EXP_Availability.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: Protect Critical Data
+    description: Detect zero-day threats through crowd sourced file analysis and cloud-based
+      malware detonation without additional infrastructure or specialized training.
+  - align-left: true
+    icon: "/uploads/EXP_RiskMitigation.svg"
+    background: "/uploads/ph_hurricane.jpg"
+    headline: Globally Aware
+    description: ATP contributes to and benefits from a global threat intelligence
+      database.
+  subheading: Go beyond static blacklists to protect against increasingly sophisticated
+    cyber attacks
+- template: callout
+  block: callout
+  link: contact.md
+  cta: Learn More
+  heading: Interested in saving $100,000 a day?
+  content: Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
+    Push Button DR.
+  icon: ''
+  background: "/uploads/bg_hurricane.png"
+- template: featured-service
+  block: featured-service
+  title: On-Site Private Cloud with Disaster Recovery as a Service
+  headline: 'Ease your transition to the  cloud with a dedicated  on-premises cloud. '
+  description: Expedient’s On-Site Private Cloud with Disaster Recovery as a Service
+    is designed to ease your transition to the cloud through dedicated on-premises
+    cloud resources coupled with managed disaster recovery from your location to any
+    one of Expedient’s 11 data centers using Push Button DR. The On-Site Private Cloud
+    with DRaaS is ideal for customers who want to transform their IT operations without
+    sacrificing the benefits or control of an on-premises environment.
+  icon: "/uploads/EXP_OnSiteDraaS.svg"
+  align-left: false
 - template: recent-posts
   block: recentposts
 - template: newsletter
