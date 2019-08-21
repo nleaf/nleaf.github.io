@@ -329,8 +329,8 @@ page_sections:
     industry
   highlights:
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-redundancy-icon.svg"
+    background: "/uploads/exp_cloud_multi.jpg"
     headline: Service Organizational Control (SOC) Reporting
     description: Expedient offers multiple SOC reports that serve as third-party attestations
       of our operating excellence.
