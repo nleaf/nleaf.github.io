@@ -23,8 +23,7 @@ page_sections:
   block: linkbar
   cta: Download Case Study
   link: http://go.expedient.com/FirstInsightCS
-  headline: 'Reliable infrastructure to enable clients to pick products that deliver
-    profits. '
+  headline: Learn more about First Insight's success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top
