@@ -304,11 +304,11 @@ page_sections:
   - headline_left: Risk Mitigation
     description_left: With vulnerability scanning, Expedient continuously monitors
       in-scope client IT assets for known vulnerabilities.
-    icon_left: ''
+    icon_left: "/uploads/EXP_Security.svg"
     headline_right: Get Strategic with IT
     description_right: Focus your IT team on strategic projects and trust Expedient
       to facilitate periodic vulnerability scanning of your mission-critical infrastructure.
-    icon_right: ''
+    icon_right: "/uploads/exp-geo-icon.svg"
   - headline_left: Security Analytics
     description_left: Obtain useful reports containing a prioritized list of vulnerabilities
       by severity.
