@@ -11,7 +11,7 @@ author: Mike Garuccio
 image: "/uploads/EXP-Social-Four-Ways-to-Deploy-K8s-on-VMware.jpg"
 
 ---
-Kubernetes (k8s) is quickly becoming the de facto standard for container orchestration because it provides an effective framework to operate applications built using microservices architecture. Also known as application “containerization,” this approach enables development teams to be more agile, employ continuous delivery practices, and ultimately bring new business applications to market faster. 
+Kubernetes (k8s) is quickly becoming the de facto standard for container orchestration because it provides an effective framework to operate applications built using microservices architecture. Also known as application “containerization,” this approach enables development teams to be more agile, employ continuous delivery practices, and ultimately bring new business applications to market faster.
 
 **k8s streamlines the management of containerized applications at scale.** Because of k8s, migrating production workloads from VMs to containers makes practical sense from a business perspective in many situations. However, using k8s for container orchestration will not be second nature for your application engineers. It requires learning several new skills, such as:
 
@@ -62,8 +62,6 @@ With the Kubernetes intro in the rear view, we can now talk about the fun stuff.
 
   **2. Ansible-based deployment with kubespray**
   * Deploy servers manually and use the [ansible playbooks provided by the kubespray project](https://github.com/kubernetes-sigs/kubespray) to bootstrap and manage the cluster
-
-
 * **Advantages**
   * Based on kubeadm so k8s is fully upstream with quick availability of new versions
   * Leverages existing ansible skills and infrastructure (if present)
@@ -77,8 +75,6 @@ With the Kubernetes intro in the rear view, we can now talk about the fun stuff.
 
   **3. Use the Container Service Extension (CSE) for vCD**
   * [Use the CSE extension of vcd-cli to deploy clusters](https://vmware.github.io/container-service-extension/CLUSTER_ADMIN.html#example).
-
-
 * **Advantages**
   * Bootstraps both nodes and cluster so new cluster deployment can happen from a single CLI command
   * Allows creation and deletion of worker nodes with a single command
@@ -91,8 +87,6 @@ With the Kubernetes intro in the rear view, we can now talk about the fun stuff.
   * **Side Note**: Read [this blog post](https://www.expedient.com/blog/deploy-kubernetes-clusters-alongside-virtual-machines-with-expedient-enterprise-cloud/) from John White, Expedient’s Chief Innovation Officer, for more on CSE for vCD.
 * **4. Rancher**
   * Deploy an instance of [Rancher's open source cluster management tool](https://rancher.com/products/rancher/) and use that for cluster creation/management
-
-
 * **Advantages**
   * Deploys a more complete platform:
     * RBAC (Role-based access control)
@@ -107,6 +101,6 @@ With the Kubernetes intro in the rear view, we can now talk about the fun stuff.
     * Still certified compatible but potential for incompatibility is still higher than upstream
     * Updates tend to be slightly behind the upstream (typically by a month or two)
 
-As you can see, there are many ways to get k8s up and running in a VMware-based cloud like EEC. If you would like more information on the approaches described above or k8s in general, feel free to email me at [mike.garuccio@expedient.com](mailto:mike.garuccio@expedient.com). 
+As you can see, there are many ways to get k8s up and running in a VMware-based cloud like EEC. If you would like more information on the approaches described above or k8s in general, feel free to email me at [mike.garuccio@expedient.com](mailto:mike.garuccio@expedient.com).
 
 _Mike Garuccio is a Product Strategy Engineer at Expedient focused on researching new software and hardware to find ways to productize this technology into new solutions for Expedient clients. As a ‘full stack’ engineer, Mike works with all layers of infrastructure architecture - from the hypervisor all the way up to front-end applications. Mike has played a leading role in the deployment and implementation of Expedient’s next-generation cloud platform, Expedient Enterprise Cloud. His professional interests include automation, containers, Kubernetes, CI/CD, and developer experience optimization. Follow Mike on_ [_Twitter_](https://twitter.com/mgaruccio)_._
