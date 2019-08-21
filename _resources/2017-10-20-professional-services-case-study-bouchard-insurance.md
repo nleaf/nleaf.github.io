@@ -23,7 +23,7 @@ page_sections:
   block: linkbar
   link: http://bit.ly/2ywg0Tz
   cta: Download Case Study
-  headline: Proactively failover from your production environments
+  headline: Learn more about Bouchard Insurance's success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top

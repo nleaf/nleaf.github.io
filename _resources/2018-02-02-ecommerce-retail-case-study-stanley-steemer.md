@@ -22,7 +22,7 @@ page_sections:
   block: linkbar
   link: http://go.expedient.com/stanleysteemer
   cta: Download Case Study
-  headline: 'A completely virtual environment and disaster recovery as a service '
+  headline: Learn more about Stanley Steemer's success with Expedient
   newtab: false
 - template: case-study-intro
   block: casestudy-top
