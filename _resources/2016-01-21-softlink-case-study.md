@@ -20,6 +20,13 @@ page_sections:
     the local ones; Expedient met all of our requirements as they were the perfect
     mix of scale and personal touch."'
   cite: "- Dr. Hikyu Lee, President and CEO of Softlinx Inc."
+- template: link-bar
+  block: linkbar
+  link: http://bit.ly/1KsISbk
+  cta: Download Case Study
+  headline: Guaranteed uptime and compliance support for healthcare and financial
+    industries
+  newtab: false
 - template: case-study-intro
   block: casestudy-top
   header: ''
