@@ -168,8 +168,8 @@ page_sections:
   subheading: Protect your organization’s unstructured data
   highlights:
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_RiskMitigation.svg"
+    background: "/uploads/exp_cloud_hybrid2.jpg"
     headline: Hybrid-Cloud Protection
     description: Encrypt and protect unstructured data across physical and virtual
       infrastructure.
