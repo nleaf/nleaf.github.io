@@ -191,8 +191,8 @@ page_sections:
     description: Maintain compliance with government and industry mandates by protecting
       sensitive data with FIPS 140-2 compliant encryption.
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-compliance-icon.svg"
+    background: "/uploads/exp_case_study_scenario.jpg"
     headline: Access Data Securely
     description: Connect to data using standard file sharing protocols, such as Common
       Internet File System (CIFS) and Network File System (NFS).
