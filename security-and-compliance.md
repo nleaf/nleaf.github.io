@@ -286,8 +286,8 @@ page_sections:
     description: Provide automatic data visualization in an intuitive GUI dashboard
       to enable streamlined workflows.
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/EXP_Solution.svg"
+    background: "/uploads/exp_colocation-fast.png"
     headline: Increase Efficiency
     description: Query data up to three times faster than leading log management solutions.
   - align-left: false
