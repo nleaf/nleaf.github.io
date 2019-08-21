@@ -212,11 +212,11 @@ page_sections:
   - headline_left: Multi-Cloud Security
     description_left: Combine Intrusion Detection with Expedient’s Dedicated Firewall
       Management solution for enhanced network protection.
-    icon_left: ''
+    icon_left: "/uploads/exp-private_cloud-icon.svg"
     headline_right: Business Agility
     description_right: Expedient will provide daily alert reports directly to named
       client contacts, so that you can focus on running your business.
-    icon_right: ''
+    icon_right: "/uploads/EXP_Agility.svg"
 - template: highlights-2-column
   block: highlights-2col
   heading: Server Management & Monitoring
