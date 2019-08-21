@@ -28,7 +28,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: ''
+  header: Support Growth Trajectory with Top-Notch IT Infrastructure
   description: Softlinx, a provider of HIPAA-compliant cloud-based fax services and
     enterprise fax solutions, needed a colocation and hosting provider that offered
     guaranteed uptime, had a nationwide presence but with a local data center, and
