@@ -179,8 +179,8 @@ page_sections:
     headline: Key Management
     description: Centralize administration of all keys and policies.
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-private_cloud-icon.svg"
+    background: "/uploads/exp_cloud_01.jpg"
     headline: Granular Access Controls
     description: Ensure that only authorized users are able to access confidential
       data.
