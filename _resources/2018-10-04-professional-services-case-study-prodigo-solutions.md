@@ -26,7 +26,7 @@ page_sections:
   newtab: false
 - template: case-study-intro
   block: casestudy-top
-  header: Market Opportunity
+  header: Optimize the Healthcare Supply Chain Process
   description: Spun out of the University of Pittsburgh’s Medical Center (UPMC) in
     July 2014 to enable healthcare providers to optimize spend and supply chain processes
     via contract automation, Prodigo Solutions, Inc. now counts some of the nation’s
