@@ -51,6 +51,12 @@ page_sections:
   - image: "/uploads/first-insight.jpg"
     label: First Insight
     link: "/knowledgebase/resources/firstinsightcs/"
+  - image: "/uploads/ColumbusMetroLib.png"
+    label: Columbus Metropolitan Library
+    link: https://wwwnew.expedient.com/uploads/ColumbusMetroLib.png
+  - image: "/uploads/crisp.jpg"
+    label: Crisp
+    link: ''
 - template: grid
   block: grid
   row:
