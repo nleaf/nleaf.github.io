@@ -8,6 +8,8 @@ image: "/uploads/Gruetter-blog_communicate-vision.png"
 author: Steve Gruetter
 
 ---
+## Three Pillars to Communication Your Vision
+
 With a great deal of help, I put together an IT leadership development program – [Central Ohio IT Leaders.org](https://itleaders.org/central-ohio/) – in 2017 for aspiring CIOs in Central Ohio.  The following message is my effort to share what I’ve learned from the tremendous CIO guest speakers that have presented as part of the program.
 
 **Central Ohio IT Leaders.org** is a peer group that meets monthly to network, discuss ideas, learn from experienced speakers, and establish collaborative relationships with the goal of nurturing the next generation of Columbus IT leadership. Several times throughout the year, the peer group will host CIOs as guest speakers to discuss various aspects of IT leadership.
@@ -26,7 +28,7 @@ When I started the process of building the IT Leaders program, I solicited the o
 
 * **Have a purpose with your efforts and actions.** Be sure that there is a defined impact on others, outside of your immediate circle of contacts.  Do your actions support a meaningful portion of the market?
 * **Care about the efforts and actions that you are taking.** If you are going to invest your time in some aspect of the community, you need to care about the success of the effort.  Otherwise, your time will be taken away by other projects that mean more to you.
-* **Have a defined system in place where you can measure the impact on the community.** As a smart person - that I report to - once told me, if you cannot measure it, it does not exist. What are the positive takeaways?  How are you helping the community? 
+* **Have a defined system in place where you can measure the impact on the community.** As a smart person - that I report to - once told me, if you cannot measure it, it does not exist. What are the positive takeaways?  How are you helping the community?
 
 Next week, we will dive deeper into Ben’s presentation to the IT Leaders cohort.
 
