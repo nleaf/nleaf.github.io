@@ -2,7 +2,7 @@
 layout: blocks
 title: Disk Based Backup Calculator
 hide_body: true
-permalink: "/disk-based-backup-calculator"
+permalink: "/knowledgebase/tools-and-calculators/disk-based-backup-calculator"
 page_sections:
 - template: page-hero
   block: page-hero

@@ -2,7 +2,7 @@
 layout: blocks
 title: Disk Raid and IOPS Calculator
 hide_body: true
-permalink: "/disk-raid-and-iops-calculator"
+permalink: "/knowledgebase/tools-and-calculators/disk-raid-and-iops-calculator"
 page_sections:
 - template: page-hero
   block: page-hero
