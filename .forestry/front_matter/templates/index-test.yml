@@ -49,8 +49,8 @@ fields:
     min: 
     max: 
 pages:
-- awards-and-accolades.md
 - technology-partners.md
+- awards-and-accolades.md
 - security-and-compliance.md
 - colocation.md
 - disaster-recovery.md
