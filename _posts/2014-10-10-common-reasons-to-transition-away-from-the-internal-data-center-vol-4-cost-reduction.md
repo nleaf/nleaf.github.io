@@ -8,7 +8,9 @@ tags:
 author: Jon Rosenson
 
 ---
-The cost of running an internal data center can greatly exceed the cost of utilizing a cloud services provider in many ways. One of the single greatest benefits of cloud technology is cost reduction not only from a capital basis, but also from an operating expense perspective. 
+## How would your business benefit from reducing the cost associated with your IT infrastructure? 
+
+The cost of running an internal data center can greatly exceed the cost of utilizing a cloud services provider in many ways. One of the single greatest benefits of cloud technology is cost reduction not only from a capital basis, but also from an operating expense perspective.
 
 **Making use of the cloud can reduce IT expenses in multiple ways:**
 
