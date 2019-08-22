@@ -8,9 +8,9 @@ tags:
 author: Bryan Smith
 
 ---
-Do you have industry or government compliance requirements such as HIPAA, PCI DSS, GLB, SOX or others? 
+#### Do you have industry or government compliance requirements such as HIPAA, PCI DSS, GLB, SOX or others?
 
-Ensuring proper security measures and adhering to regulatory compliance requirements can be a difficult undertaking for a company running an internal data center. Understanding the challenges of security and compliance are paramount in following industry and government standards. Finding a qualified hosting partner is an ideal alternative to addressing such challenges alone. 
+Ensuring proper security measures and adhering to regulatory compliance requirements can be a difficult undertaking for a company running an internal data center. Understanding the challenges of security and compliance are paramount in following industry and government standards. Finding a qualified hosting partner is an ideal alternative to addressing such challenges alone.
 
 **Why?**
 
