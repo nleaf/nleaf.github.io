@@ -12,10 +12,7 @@ page_sections:
 - template: page-hero
   block: page-hero
   banner_image: "/uploads/bg_general-02.jpg"
-  subheadline: '2018 was a special year for Expedient as we were recognized for multiple
-    prestigious awards and accolades, including a second consecutive positioning of
-    our Push Button DR solution on Gartner’s Magic Quadrant for DRaaS and our ranking
-    as the #7 managed service provider in the world by Channel Futures MSP 501 Ranking.'
+  subheadline: ''
 - template: subscribe-bar
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
