@@ -36,24 +36,21 @@ page_sections:
   - image: "/uploads/careworkstech.png"
     label: Care Works Tech
     link: "/knowledgebase/resources/professional-services-case-study-careworks-tech/"
-- template: grid
-  block: grid
-  row:
   - image: "/uploads/ColumbusMetroLib.png"
     label: Columbus Metropolitan Library
     link: "/knowledgebase/resources/columbus-metropolitan-library/"
   - image: "/uploads/crisp.jpg"
     label: Crisp
     link: ''
+- template: grid
+  block: grid
+  row:
   - image: "/uploads/DDI.jpg"
     label: DDI
     link: ''
   - image: "/uploads/first-insight.jpg"
     label: First Insight
     link: "/knowledgebase/resources/firstinsightcs/"
-- template: grid
-  block: grid
-  row:
   - image: "/uploads/Ideal-Chemical.jpg"
     label: Ideal Chemical and Supply Company
     link: ''
@@ -81,24 +78,21 @@ page_sections:
   - image: "/uploads/prodigosolutions.png"
     label: Prodigo Solutions
     link: "/knowledgebase/resources/professional-services-case-study-prodigo-solutions/"
-- template: grid
-  block: grid
-  row:
   - image: "/uploads/Sarris-Candy.jpg"
     label: Sarris Candies
     link: ''
   - image: "/uploads/Shapiro_Logo.png"
     label: Shapiro
     link: "/knowledgebase/resources/logistics-case-study-shapiro/"
+- template: grid
+  block: grid
+  row:
   - image: "/uploads/softlinx.jpg"
     label: Softlinx
     link: "/knowledgebase/resources/softlink-case-study/"
   - image: "/uploads/Stanley-steamer.jpg"
     label: Stanley Steemer
     link: "/knowledgebase/resources/ecommerce-retail-case-study-stanley-steemer/"
-- template: grid
-  block: grid
-  row:
   - image: "/uploads/Strike-King.jpg"
     label: Strike King
     link: ''
