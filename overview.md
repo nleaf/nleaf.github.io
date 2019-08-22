@@ -11,10 +11,11 @@ tags:
 page_sections:
 - template: page-hero
   block: page-hero
-  banner_image: "/uploads/bg_servies.jpg"
+  banner_image: "/uploads/bg_general-08.jpg"
   subheadline: ''
 - template: content-block-full
   block: content-full
+  sidebar: []
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
@@ -22,6 +23,9 @@ page_sections:
     Expedient.
   cta: Subscribe Now
   show_social: true
+seo_title: ''
+description: ''
+image: ''
 
 ---
 ## Significant Company Milestones
