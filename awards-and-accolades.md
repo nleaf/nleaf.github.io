@@ -76,10 +76,9 @@ page_sections:
   - align-left: false
     icon: "/uploads/EXP_CRN-100.svg"
     background: "/uploads/exp_case_study_challenge.jpg"
-    headline: CRN’s 2018 Data Center 100 List
-    description: This annual list recognizes technology suppliers that excel at powering,
-      supporting and protecting the complex and demanding data centers on which today’s
-      businesses rely.
+    headline: CRN’s 2019 Solution Provider 500 List
+    description: CRN's annual ranking of the top solution providers in North America,
+      by revenue.
 - template: newsletter
   block: newsletter
   heading: The best of Expedient delivered to your inbox.
