@@ -12,6 +12,8 @@ author: Doug Theis
 image: "/uploads/EXP-Social-Let-Your-Applications-Decide.png"
 
 ---
+## Hyperscale vs. Enterprise Cloud
+
 This is the second installment of a two-part blog post on the difference between “smart” and “dumb” applications. Part 2 covers the characteristics of “dumb applications” that are best suited to run on “smart hardware.” To learn more about “smart applications” (aka cloud native applications) running on “dumb hardware,” [**read Part 1**](https://www.expedient.com/blog/hyperscale-or-enterprise-cloud-let-your-applications-decide-part-i/)**.**
 
 #### Dumb Applications on Smart Hardware
@@ -32,6 +34,6 @@ When evaluating if an enterprise cloud is a good fit for a “dumb” applicatio
 * **Network** – How flexible will your network be with an enterprise cloud provider? Can you connect to an existing wide area network?  Can the enterprise cloud provider include connectivity in to the offering?  Does the enterprise cloud provider offer faster, more cost-conscious connections to multiple clouds if you need them?
 * **Financial stability** – How long has the enterprise cloud provider delivered services? Does the provider innovate and improve their cloud regularly?  What is the debt load of the provider?  Who is the enterprise cloud provider’s first consideration:  stockholders, private equity, leadership or clients?
 
-**Did you know?** In a recent independent cloud analysis performed by Cloud Spectator LLC, the Expedient Enterprise Cloud platform largely outperformed comparable instances from AWS, Azure and Rackspace. [Download your free copy](https://www.expedient.com/2019-cloud-spectator-report/) of the benchmark report to see the results. 
+**Did you know?** In a recent independent cloud analysis performed by Cloud Spectator LLC, the Expedient Enterprise Cloud platform largely outperformed comparable instances from AWS, Azure and Rackspace. [Download your free copy](https://www.expedient.com/2019-cloud-spectator-report/) of the benchmark report to see the results.
 
 **_Doug Theis_** _is the Director of Market Strategy in Expedient’s Indianapolis market focused on engaging with and improving the regional IT community through planning, sponsoring and attending community events, facilitating IT-focused continuing education opportunities, and sharing strategies, tactics, and research to help IT professionals stay abreast of best practices and industry trends. Connect with Doug at_ [_doug.theis@expedient.com_](mailto:doug.theis@expedient.com) _and follow him on_ [_Twitter_](https://twitter.com/dougtheis)_._
