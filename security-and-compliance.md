@@ -11,7 +11,7 @@ tags:
 page_sections:
 - template: page-hero
   block: page-hero
-  banner_image: "/uploads/bg_servies-05.jpg"
+  banner_image: "/uploads/bg_servies-06.jpg"
   subheadline: Expedient specializes in providing enterprise information technology
     infrastructure as a service (IaaS) that complements the compliance and security
     requirements of businesses in any industry through a combination of security services
