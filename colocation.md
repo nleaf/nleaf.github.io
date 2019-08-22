@@ -11,7 +11,7 @@ tags:
 page_sections:
 - template: page-hero
   block: page-hero
-  banner_image: "/uploads/bg_servies.jpg"
+  banner_image: "/uploads/bg_servies-03.jpg"
   subheadline: 'Get out of the business of managing your own data center, and host
     your hardware in one of our data centers across the United States '
 - template: subscribe-bar

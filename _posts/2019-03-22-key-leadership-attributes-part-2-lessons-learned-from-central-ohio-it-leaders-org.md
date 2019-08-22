@@ -6,9 +6,11 @@ author: Steve Gruetter
 image: "/uploads/Central_Ohio-Key-Leadership-Attributes.png"
 
 ---
-With a great deal of help, I put together an IT leadership development program – [Central Ohio IT Leaders.org](https://itleaders.org/central-ohio/) – in 2017 for aspiring CIOs in Central Ohio. The following message is my effort to share what I've learned from the tremendous CIO guest speakers that have presented as part of the program. **Central Ohio IT Leaders.org** is a peer group that meets monthly to network, discuss ideas, learn from experienced speakers, and establish collaborative relationships with the goal of nurturing the next generation of Columbus IT leadership. Several times throughout the year, the peer group will host CIOs as guest speakers to discuss various aspects of IT leadership. The following lesson learned is based off of my interpretation of a recent presentation by [Bruce Barnes](https://www.linkedin.com/in/bruce-barnes-653211/), a very well respected educator in Central Ohio, most well-known for his continuing professional development series [CIO Solutions Gallery](https://professionals.engineering.osu.edu/cio-solutions-gallery). 
+## What Are Key Leadership Attributes?
 
-I met Bruce in 2005 while I was at Platform Lab, but got involved with his CIO Practicum/Solutions Gallery events about the time I moved to Expedient in 2011. The content and the speakers at the CIO Solutions Gallery are outstanding, and I learn each time I attend. If you are in IT leadership, it is well worth investing your time in participating in these sessions. His presenting partner, [Thornton May](https://www.linkedin.com/in/thornton-may-a224b2/), will often ask very difficult questions that the attendees will work through in small groups. The working groups are very different from event to event and that is one of the best parts about attending – working on hard questions with very smart people with different viewpoints. During 2018, the theme of the CIO Solutions Gallery series was **Leadership**, which worked very well for Bruce’s presentation. The first half of Bruce’s presentation focused on Change and can be found [here](http://bit.ly/2UqB1qP). 
+With a great deal of help, I put together an IT leadership development program – [Central Ohio IT Leaders.org](https://itleaders.org/central-ohio/) – in 2017 for aspiring CIOs in Central Ohio. The following message is my effort to share what I've learned from the tremendous CIO guest speakers that have presented as part of the program. **Central Ohio IT Leaders.org** is a peer group that meets monthly to network, discuss ideas, learn from experienced speakers, and establish collaborative relationships with the goal of nurturing the next generation of Columbus IT leadership. Several times throughout the year, the peer group will host CIOs as guest speakers to discuss various aspects of IT leadership. The following lesson learned is based off of my interpretation of a recent presentation by [Bruce Barnes](https://www.linkedin.com/in/bruce-barnes-653211/), a very well respected educator in Central Ohio, most well-known for his continuing professional development series [CIO Solutions Gallery](https://professionals.engineering.osu.edu/cio-solutions-gallery).
+
+I met Bruce in 2005 while I was at Platform Lab, but got involved with his CIO Practicum/Solutions Gallery events about the time I moved to Expedient in 2011. The content and the speakers at the CIO Solutions Gallery are outstanding, and I learn each time I attend. If you are in IT leadership, it is well worth investing your time in participating in these sessions. His presenting partner, [Thornton May](https://www.linkedin.com/in/thornton-may-a224b2/), will often ask very difficult questions that the attendees will work through in small groups. The working groups are very different from event to event and that is one of the best parts about attending – working on hard questions with very smart people with different viewpoints. During 2018, the theme of the CIO Solutions Gallery series was **Leadership**, which worked very well for Bruce’s presentation. The first half of Bruce’s presentation focused on Change and can be found [here](http://bit.ly/2UqB1qP).
 
 This ‘Lessons Learned’ blog post is based on the second half of Bruce’s presentation, which focused on the most important traits of a good leader in general. Bruce ran through his Top 10 leadership attributes, which weren't specific to IT leadership. My breakdown of the first five can be found [here](https://www.expedient.com/blog/key-leadership-attributes-part-1-lessons-learned-from-central-ohio-it-leaders-org/#utm_source=LinkedIn&utm_medium=social-media). Here are my key takeaways of the second five attributes:
 
@@ -47,7 +49,7 @@ This ‘Lessons Learned’ blog post is based on the second half of Bruce’s pr
    * Real leadership can be lonely – as it is hard to make hard decisions well and many will flinch from the opportunity to make a decision
    * Strive to have fun at what you do
 
-Our class loved Bruce’s presentation on change and leadership, I hope that you have enjoyed it as well. In next week's post, I will cover another great presentation that was discussed at [Central Ohio IT Leaders.org](https://itleaders.org/central-ohio/). 
+Our class loved Bruce’s presentation on change and leadership, I hope that you have enjoyed it as well. In next week's post, I will cover another great presentation that was discussed at [Central Ohio IT Leaders.org](https://itleaders.org/central-ohio/).
 
 **If you’re interested in discussing the IT Leaders program,** [**digital transformation**](https://www.expedient.com/blog/is-your-organization-continuousnext/)**,** [**cloud technology**](https://www.expedient.com/services/infrastructure-as-a-service/cloud/) **or how to get involved with Central Ohio’s IT community, please reach out to me at** [**steve.gruetter@expedient.com**](mailto:steve.gruetter@expedient.com)**.**
 
@@ -96,10 +98,10 @@ Our class loved Bruce’s presentation on change and leadership, I hope that you
   \*Space
 * **_Blockquote_**
 
-  >Space
+  > Space
 * **Bold**
 
-  \**bold**
+  \*_bold_*
 * **_Italic_**
 
   _italic_
@@ -179,7 +181,6 @@ Our class loved Bruce’s presentation on change and leadership, I hope that you
 
   CtrlShiftJ
 
-  
 ly to network, discuss ideas, learn from experienced speakers, and establish collaborative relationships with the goal of nurturing the next generation of Columbus IT leadership. Several times throughout the year, the peer group will host CIOs as guest speakers to discuss various aspects of IT leadership. The following lesson learned is based off of my interpretation of a recent presentation by [Bruce Barnes](https://www.linkedin.com/in/bruce-barnes-653211/), a very well respected educator in Central Ohio, most well-known for his continuing professional development series [CIO Solutions Gallery](https://professionals.engineering.osu.edu/cio-solutions-gallery).  I met Bruce in 2005 while I was at Platform Lab, but got involved with his CIO Practicum/Solutions Gallery events about the time I moved to Expedient in 2011. The content and the speakers at the CIO Solutions Gallery are outstanding, and I learn each time I attend.  If you are in IT leadership, it is well worth investing your time in participating in these sessions. His presenting partner, [Thornton May](https://www.linkedin.com/in/thornton-may-a224b2/), will often ask very difficult questions that the attendees will work through in small groups.  The working groups are very different from event to event and that is one of the best parts about attending – working on hard questions with very smart people with different viewpoints. During 2018, the theme of the CIO Solutions Gallery series was **Leadership**, which worked very well for Bruce’s presentation. The first half of Bruce’s presentation focused on Change and can be found [here](http://bit.ly/2UqB1qP). This ‘Lessons Learned’ blog post is based on the second half of Bruce’s presentation, which focused on the most important traits of a good leader in general. Bruce ran through his Top 10 leadership attributes, which weren't specific to IT leadership. My breakdown of the first five can be found [here](https://www.expedient.com/blog/key-leadership-attributes-part-1-lessons-learned-from-central-ohio-it-leaders-org/#utm_source=LinkedIn&utm_medium=social-media).  Here are my key takeaways of the second five attributes:
 
  1. **Paralysis by Analysis**

@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- colocation.md
 - disaster-recovery.md
 - tools-and-calculators.md
 - our-customers.md
@@ -82,7 +83,6 @@ pages:
 - disk-based-backup-calculator.md
 - data-center-build-vs-buy-calculator.md
 - cloud-build-vs-buy-calculator.md
-- colocation.md
 - why-expedient.md
 - success-stories.md
 - technology-partners.md
