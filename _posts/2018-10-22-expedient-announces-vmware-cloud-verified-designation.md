@@ -12,6 +12,8 @@ author: Jon Rosenson
 image: "/uploads/EXP_WP-VMWareVerified.png"
 
 ---
+## Expedient Enterprise Cloud is VMware Cloud Verified!
+
 Expedient continues to be recognized as a leading provider of VMware-based cloud infrastructure. The company was recently named a [VMware Cloud Verified partner](https://cloud.vmware.com/providers/vmware-cloud-verified), joining an exclusive group as one of just 8 infrastructure as a service (IaaS) providers in the U.S to achieve this status. The designation signifies that Expedient customers gain seamless access to – and complete interoperability across – the full stack of VMware Cloud Infrastructure services including: VMware vCloud Director®, VMware NSX®, VMware vSAN™, and the VMware vRealize Suite.
 
 By offering an integrated and verified cloud platform based on the comprehensive VMware software-defined data center (SDDC) design, Expedient’s newest IaaS solution, [**Enterprise Cloud**](https://www.expedient.com/services/infrastructure-as-a-service/cloud/), enables smooth, flexible cloud migrations, built-in compliance for rigorous security needs, and a single management interface that offers a more unified user experience including self-service functions. Designed to simplify cloud management and provide maximum flexibility and security, Enterprise Cloud enables Expedient customers to build and evolve and pursue a multi-cloud approach. Expedient VP of Product Strategy, John White, [demonstrated the revolutionary capabilities](https://videos.vmworld.com/global/2018?q=john%2520white) of Enterprise Cloud at VMworld 2018.
