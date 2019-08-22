@@ -1,5 +1,5 @@
 ---
-title: 'Video -- Using Zerto''s Journal History feature for Point-in-Time Recovery'
+title: 'Using Zerto''s Journal History feature for Point-in-Time Recovery'
 date: Thu, 16 May 2019 17:58:19 +0000
 download: ''
 draft: false

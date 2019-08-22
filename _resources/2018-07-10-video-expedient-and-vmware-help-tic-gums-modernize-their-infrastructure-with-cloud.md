@@ -1,5 +1,5 @@
 ---
-title: 'Video -- Expedient and VMware Help TIC Gums Modernize Their Infrastructure with Cloud'
+title: 'Expedient and VMware Help TIC Gums Modernize Their Infrastructure with Cloud'
 date: Tue, 10 Jul 2018 20:26:30 +0000
 download: ''
 draft: false

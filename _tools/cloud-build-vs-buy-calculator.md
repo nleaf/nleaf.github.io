@@ -3,18 +3,11 @@ layout: blocks
 title: The complete Cloud Build vs Buy Calculator
 hide_body: true
 permalink: "/cloud-build-vs-buy-calculator"
-tags:
-- Disaster Recovery
-- VMware
-- DRAAS
-- Cloud Computing
 page_sections:
 - template: page-hero
   block: page-hero
   banner_image: "/uploads/bg_servies.jpg"
-  subheadline: Expedient’s Disaster Recovery as a Service solutions have been recognized
-    in  the Gartner Magic Quadrant for DRaaS and offer fast, total network failover  without
-    IP and DNS changes.
+  subheadline: 
 - template: subscribe-bar
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
@@ -40,3 +33,5 @@ description: Expedient is the local cloud, colocation, IaaS and DRaaS provider i
 image: ''
 
 ---
+
+Are you considering moving to the cloud but you are unsure of the value? Or perhaps you are trying to decide whether you should build your own solution or move to a hosted cloud platform? Use this calculator to determine the total cost of ownership between building your own vs. moving into a hosted solution from a cloud provider.

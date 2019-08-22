@@ -1,5 +1,5 @@
 ---
-title: 'Video -- Prodigo Solutions Reduces Customer Onboarding Time with Expedient''s Cloud and Managed Services'
+title: 'Prodigo Solutions Reduces Customer Onboarding Time with Expedient''s Cloud and Managed Services'
 date: Mon, 31 Dec 2018 14:22:41 +0000
 download: ''
 draft: false

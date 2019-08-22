@@ -3,11 +3,6 @@ layout: blocks
 title: Disk Raid and IOPS Calculator
 hide_body: true
 permalink: "/disk-raid-and-iops-calculator"
-tags:
-- Disaster Recovery
-- VMware
-- DRAAS
-- Cloud Computing
 page_sections:
 - template: page-hero
   block: page-hero
@@ -41,3 +36,5 @@ description: Do you know how many Input/Output Operations Per Second (IOPS) your
 image: ''
 
 ---
+
+Do you know how many Input/Output Operations Per Second (IOPS) your RAID configuration is going to produce? Are you trying to calculate how much usable storage you are going to net from different RAID configurations? Use this calcualtor to help properly size your environment.  

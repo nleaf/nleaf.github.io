@@ -3,11 +3,6 @@ layout: blocks
 title: Data Center Build vs Buy Calculator
 hide_body: true
 permalink: "/data-center-build-vs-buy-calculator"
-tags:
-- Disaster Recovery
-- VMware
-- DRAAS
-- Cloud Computing
 page_sections:
 - template: page-hero
   block: page-hero
@@ -42,3 +37,5 @@ description: Are you wondering how much it will take to build your own data cent
 image: ''
 
 ---
+
+Are you wondering how much it will take to build your own data center or are you unsure if you have everything accounted for in your construction budget? Use this calculator to see what it really takes to build out a Tier 1, Tier 2, Tier 3 or Tier 4 data center.

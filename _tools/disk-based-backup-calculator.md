@@ -3,11 +3,6 @@ layout: blocks
 title: Disk Based Backup Calculator
 hide_body: true
 permalink: "/disk-based-backup-calculator"
-tags:
-- Disaster Recovery
-- VMware
-- DRAAS
-- Cloud Computing
 page_sections:
 - template: page-hero
   block: page-hero
@@ -40,3 +35,5 @@ description: How much storage and bandwidth do you need for your disk based back
 image: ''
 
 ---
+
+How much storage and bandwidth do you need for your disk based backups? Use the options in this calculator to determine your sizing requirements.

@@ -44,6 +44,9 @@ collections:
   resources:
     output: true
     permalink: "/knowledgebase/resources/:title/"
+  tools:
+    output: true
+    permalink: "/knowledgebase/tools-and-calculators/:title/"
 autopages:
   enabled: true
   tags: 

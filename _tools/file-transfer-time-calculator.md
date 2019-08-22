@@ -3,11 +3,6 @@ layout: blocks
 title: File Transfer Time Calculator
 hide_body: true
 permalink: "/file-transfer-time-calculator"
-tags:
-- Disaster Recovery
-- VMware
-- DRAAS
-- Cloud Computing
 page_sections:
 - template: page-hero
   block: page-hero
@@ -41,3 +36,5 @@ description: Ever wonder how much bandwidth is consumed when transferring a larg
 image: ''
 
 ---
+
+Ever wonder how much bandwidth is consumed when transferring a large video or CAD file? Use this calculator to determine how much time and bandwidth it takes to move large files around a network.

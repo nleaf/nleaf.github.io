@@ -1,5 +1,5 @@
 ---
-title: 'Video -- mdLogix Scales Behavioral Health Platform Nationally with Expedient''s Private Cloud'
+title: 'MdLogix Scales Behavioral Health Platform Nationally with Expedient''s Private Cloud'
 date: Mon, 31 Dec 2018 14:38:46 +0000
 download: ''
 draft: false

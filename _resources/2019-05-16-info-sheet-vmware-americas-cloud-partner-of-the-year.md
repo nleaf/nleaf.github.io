@@ -1,5 +1,5 @@
 ---
-title: 'Info Sheet: VMware Americas Cloud Partner of the Year'
+title: 'VMware Americas Cloud Partner of the Year'
 date: Thu, 16 May 2019 13:39:09 +0000
 download: 'http://bit.ly/2VZ2G6f'
 draft: false

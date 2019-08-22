@@ -1,5 +1,5 @@
 ---
-title: 'Video -- Bouchard Insurance Averts IT Disaster with Expedient''s Push Button DR'
+title: 'Bouchard Insurance Averts IT Disaster with Expedient''s Push Button DR'
 date: Tue, 10 Jul 2018 20:18:38 +0000
 download: ''
 draft: false

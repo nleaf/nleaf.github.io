@@ -1,5 +1,5 @@
 ---
-title: 'Video -- Expedient: Delivering a Highly-Performant Enterprise Cloud with VMware'
+title: 'Expedient: Delivering a Highly-Performant Enterprise Cloud with VMware'
 date: Thu, 11 Apr 2019 18:33:16 +0000
 download: ''
 draft: false
