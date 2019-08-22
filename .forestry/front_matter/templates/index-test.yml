@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- success-stories.md
 - awards-and-accolades.md
 - technology-partners.md
 - security-and-compliance.md
@@ -85,6 +86,5 @@ pages:
 - data-center-build-vs-buy-calculator.md
 - cloud-build-vs-buy-calculator.md
 - why-expedient.md
-- success-stories.md
 - let-s-talk.md
 - thank-you-newsletter.md
