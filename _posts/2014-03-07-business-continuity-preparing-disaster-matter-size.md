@@ -17,3 +17,5 @@ Too many companies wait for a large-scale event to strike before they start prep
 #### Preparing for a Disaster
 
 Take a moment to evaluate your company’s [disaster recovery plan](/managed-services/disaster-recovery/ "Disaster Recovery as a Service"). Just how prepared are you to handle a disruption to computing resources? Forget about those large scale events, and instead think along the lines of a power outage, a downed phone line or office flooding. Can you afford a disruption to your network, even for a few hours? If you would like to learn more about business continuity planning, Expedient can help. [Contact us](https://www.expedient.com/support/ "Support") today for more information.
+
+_As Senior Vice President and Chief Operating Officer, Jonathan Rosenson is responsible for overseeing organizational functions that drive growth at Expedient. Jon additionally acts as an external spokesperson conveying the Expedient story._ [_Follow him_](https://twitter.com/rosenson) _on Twitter._
