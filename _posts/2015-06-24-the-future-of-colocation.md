@@ -6,6 +6,8 @@ tags:
 author: Jim Kothe
 
 ---
+## What Does the Future Look Like for Colocation?
+
 The future looks bright when it comes to data center colocation. The annual revenue for the global colocation market is expected to continue its upward trajectory but the key will lie in local markets as competition heats up.
 
 According to a recent report by 451 Research, the global colocation data center market is expected to reach $36 billion by the end of 2017. Current annual revenue is $22.8 billion. In the same time period, the global footprint should encompass nearly 150 million square feet in space, which is a growth or more than 40 million square feet. That is a lot of opportunity for data center providers to capture.
