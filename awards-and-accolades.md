@@ -15,7 +15,7 @@ page_sections:
   subheadline: ''
 - template: subscribe-bar
   block: subbar
-  headline: 'Find out every time receive another acknowledgement! '
+  headline: 'Find out every time we receive another acknowledgement! '
   cta: Subscribe Now
 - template: featured-service
   block: featured-service
