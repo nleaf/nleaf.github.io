@@ -117,6 +117,10 @@ layout: default
                   </div>
                   <p>{{ post.content | truncatewords: 60 | strip_html }}</p>
                   <div class="text-red text-base font-bold font-sans inline pb-1"><a href="{{ post.url | absolute_url }}" class="ctaLink">Read Article</a></div>
+                  {% if post.tags == nil or post.tags == empty%}
+                {% else %}
+                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">{{post.tags}}</span>
+                {% endif %}
               </div>
           </div>
       </section>
