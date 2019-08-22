@@ -11,7 +11,7 @@ tags:
 page_sections:
 - template: page-hero
   block: page-hero
-  banner_image: "/uploads/bg_general-06.jpg"
+  banner_image: "/uploads/bg_general-07.jpg"
   subheadline: Expedient is proud to be the trusted IT adviser to organizations spanning
     a number of verticals, including eCommerce/retail, energy/utilities, financial
     services, healthcare, manufacturing, professional services, software as a service,
