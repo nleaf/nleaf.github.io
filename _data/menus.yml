@@ -22,6 +22,7 @@ subfooter:
   weight: 5
 subnav:
 - title: Knowledgebase
+  url: ''
   childern:
   - page: Blog
     title: Blog
@@ -42,6 +43,7 @@ subnav:
   url: http://partner.expedient.com
   weight: 4
 - title: About
+  url: ''
   childern:
   - page: Overview
     title: Overview
@@ -55,7 +57,7 @@ subnav:
   weight: 1
 - page: Careers
   title: Careers
-  url: /careers
+  url: "/careers"
   weight: 2
 header:
 - title: Let's Talk
@@ -63,6 +65,7 @@ header:
   weight: 4
   identifier: item_dxjp3EH
 - title: Services
+  url: ''
   childern:
   - page: Cloud
     title: Cloud
@@ -81,6 +84,7 @@ header:
   url: "/data-centers"
   weight: 2
 - title: Why Expedient
+  url: ''
   childern:
   - page: Our Customers
     title: Our Customers
