@@ -46,7 +46,7 @@ page_sections:
   block: featured-service
   align-left: true
   title: Net Promoter Score®
-  headline: Rapid Speed, Complete Confidence, Resilience at the push of a button
+  headline: 'Customer loyalty and support for our services '
   description: 'Net Promoter Score® (NPS) is an index ranging from -100 to 100 that
     measures the willingness of customers to recommend a company''s products or services
     to others. We''re proud to have an increasing NPS every year for the past 4 years. '
@@ -57,8 +57,8 @@ page_sections:
   block: featured-service
   title: Channel Futures MSP 501 Ranking
   headline: ''
-  description: 'Expedient is ranked among the top 10 managed services providers worldwide
-    by Channel Futures’ annual MSP 501 Ranking. '
+  description: 'Once again, Expedient is ranked among the top managed services providers
+    worldwide in Channel Futures’ annual MSP 501 Ranking. '
   align-left: false
   icon: "/uploads/msp501-winner-nobadge-e1562485415451.webp"
 - template: highlights-2-column
