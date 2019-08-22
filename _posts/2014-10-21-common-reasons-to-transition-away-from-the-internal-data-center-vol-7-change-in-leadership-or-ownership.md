@@ -7,7 +7,9 @@ tags:
 author: Ed Dzurko
 
 ---
-Leadership changes often cause short-term uncertainty within a business. New leaders bring fresh ideas and expect fast results. It’s important for leaders and their teams to focus on core business objectives and avoid the distraction that sometimes go with maintaining a high capacity, highly available IT infrastructure. 
+## Leadership and/or Ownership Change
+
+Leadership changes often cause short-term uncertainty within a business. New leaders bring fresh ideas and expect fast results. It’s important for leaders and their teams to focus on core business objectives and avoid the distraction that sometimes go with maintaining a high capacity, highly available IT infrastructure.
 
 During a time of executive transition, it is imperative for an IT team to demonstrate quick success and build the confidence of their company’s leadership team.
 
