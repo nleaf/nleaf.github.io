@@ -8,9 +8,9 @@ tags:
 author: Devon Cole
 
 ---
-Are you experiencing increased business growth? 
+## Are you experiencing increased business growth?
 
-When the pace of business is on the rise, IT demands become greater and more complicated. At times, the demands of managing an internal data center in the midst of such growth can inhibit your IT team from focusing on new projects. It is key to maintain a comprehensive understanding of the expenses related to managing an internal data center versus the expenses associated with utilizing a data center partner. This will help you determine the right time to transition from your internal data center to a data center provider. 
+When the pace of business is on the rise, IT demands become greater and more complicated. At times, the demands of managing an internal data center in the midst of such growth can inhibit your IT team from focusing on new projects. It is key to maintain a comprehensive understanding of the expenses related to managing an internal data center versus the expenses associated with utilizing a data center partner. This will help you determine the right time to transition from your internal data center to a data center provider.
 
 **A cloud computing platform that can support your growth is important for several reasons:**
 
