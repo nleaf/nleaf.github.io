@@ -1,10 +1,10 @@
 /terms-and-conditions/   /terms-and-conditions
 /create-a-case/  https://support.expedient.com
 /operations-support-center-osc/  https://support.expedient.com
-/file-transfer-time-calculator/   /knowledgebase/tools-and-calculators
-/disk-based-backup-calculator/  /knowledgebase/tools-and-calculators
-/disk-raid-and-iops-calculator/  /knowledgebase/tools-and-calculators
-/data-transfer-speed-unit-conversion/  /knowledgebase/tools-and-calculators
+/file-transfer-time-calculator/ /knowledgebase/tools-and-calculators/file-transfer-time-calculator
+/disk-based-backup-calculator/ /knowledgebase/tools-and-calculators/disk-based-backup-calculator
+/disk-raid-and-iops-calculator/ /knowledgebase/tools-and-calculators/disk-raid-and-iops-calculator
+/data-transfer-speed-unit-conversion/ /knowledgebase/tools-and-calculators
 /smc-log-in/  https://support.expedient.com
 /the-data-centers/schedule-a-tour/  /data-centers
 /data-center-build-vs-buy-calculator/  /knowledgebase/tools-and-calculators
@@ -14,7 +14,7 @@
 /cloud-computing/virtual-on-demand/  /services/cloud
 /managed-services/compliance/industry-compliance/   /services/security-and-compliance
 /columbus-dublin/    /data-centers
-/cloud-build-vs-buy-calculator/  /knowledgebase/tools-and-calculators
+/cloud-build-vs-buy-calculator/ /knowledgebase/tools-and-calculators/cloud-build-vs-buy-calculator
 /cloud-computing/virtual-instance/  /services/cloud
 /landing-page-1-test/   /index
 /landing-page-2-test/   /index
