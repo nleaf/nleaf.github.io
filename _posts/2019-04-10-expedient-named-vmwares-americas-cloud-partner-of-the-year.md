@@ -10,6 +10,8 @@ author: Jon Rosenson
 image: "/uploads/EXP-Social-VMPartneroftheYear-2.png"
 
 ---
+## Expedient is VMware's Americas Cloud Partner of the Year!
+
 At [**VMware’s 2019 Partner Leadership Summit**](https://www.vmware.com/partner-leadership-summit), Expedient was named VMware’s 2018 Americas Regional Cloud Partner of the Year. Expedient was honored alongside other VMware partners from around the world during the 2018 VMware Partner Innovation Award ceremony, which recognizes partner excellence in using VMware technology to drive digital transformation for customers.
 
 As part of the 2018 awards, [VMware honored](https://www.vmware.com/company/news/releases/vmw-newsfeed.VMware-Recognizes-Partner-Innovation-Award-Recipients-at-Partner-Leadership-Summit-2019.1796999.html) partners across 12 global and 11 regional categories. Expedient’s recognition as VMware's Americas Regional Cloud Partner of the Year is in large part due to [the development and deployment](https://www.expedient.com/blog/designing-expedient-enterprise-cloud/) of our next-generation infrastructure as a service (IaaS) solution, [Expedient Enterprise Cloud](https://www.expedient.com/services/infrastructure-as-a-service/cloud/) (EEC) – which was built using the [full stack of VMware Cloud Infrastructure services](https://www.expedient.com/blog/expedient-announces-vmware-cloud-verified-designation/) and officially debuted at VMworld 2018 in Las Vegas.
