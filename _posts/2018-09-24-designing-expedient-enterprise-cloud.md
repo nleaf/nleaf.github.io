@@ -10,6 +10,8 @@ author: John White
 image: "/uploads/EXP-Enterprise-Sticker.png"
 
 ---
+## Designing Expedient Enterprise Cloud
+
 September 2018 marks a milestone for Expedient. The release of [**Expedient Enterprise Cloud**](https://www.expedient.com/services/infrastructure-as-a-service/cloud/) is the culmination of thousands of hours in evaluations, education, training, beta testing, product roadmap shaping, advisory boards, design sessions, and acceptance testing from Expedient Support and Delivery engineers.  As I reflect on the past several years of work, I want to provide perspective on the challenges we were having, the design process, and our end state, of course without giving away all the secret sauce.
 
 #### Challenge
