@@ -11,7 +11,7 @@ tags:
 page_sections:
 - template: page-hero
   block: page-hero
-  banner_image: "/uploads/bg_servies.jpg"
+  banner_image: "/uploads/bg_general-02.jpg"
   subheadline: '2018 was a special year for Expedient as we were recognized for multiple
     prestigious awards and accolades, including a second consecutive positioning of
     our Push Button DR solution on Gartner’s Magic Quadrant for DRaaS and our ranking
