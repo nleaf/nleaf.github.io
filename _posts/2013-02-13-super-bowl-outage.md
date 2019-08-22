@@ -1,5 +1,5 @@
 ---
-title: 'Lesson Learned from the Super Bowl Outage: The Importance of Availability'
+title: 'Lessons Learned from the Super Bowl Outage: The Importance of Availability'
 date: Wed, 13 Feb 2013 16:44:04 +0000
 tags: []
 author: Matthew Deramo
