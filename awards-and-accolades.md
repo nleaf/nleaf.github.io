@@ -15,7 +15,7 @@ page_sections:
   subheadline: ''
 - template: subscribe-bar
   block: subbar
-  headline: 'Find out every time we get another acknowledgement! '
+  headline: 'Find out every time receive another acknowledgement! '
   cta: Subscribe Now
 - template: featured-service
   block: featured-service
@@ -47,11 +47,9 @@ page_sections:
   align-left: true
   title: Net Promoter Score®
   headline: Rapid Speed, Complete Confidence, Resilience at the push of a button
-  description: Net Promoter Score® (NPS) is a management tool that can be used to
-    gauge customer loyalty. Expedient conducts its customer NPS evaluation annually.
-    A survey applicable to the overall relationship with Expedient is distributed
-    to all then-current customer contacts. Our scores demonstrate a higher-than-average
-    score in our industry as compared to the publicly available information.
+  description: 'Net Promoter Score® (NPS) is an index ranging from -100 to 100 that
+    measures the willingness of customers to recommend a company''s products or services
+    to others. We''re proud to have an increasing NPS every year for the past 4 years. '
   icon: "/uploads/EXP_NewPromoter-2.svg"
 - template: gartner
   block: gartner
