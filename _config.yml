@@ -3,6 +3,7 @@ short_title: Expedient
 description: Expedient Demo Site for Forestry.io
 baseurl: 
 permalink: /:path
+include: [_redirects]
 defaults:
   - scope:
       path: ""
