@@ -9,7 +9,7 @@ tags:
 - digital transformation
 - DevOps
 author: Mike Garuccio
-image: "/uploads/EXP-Enterprise-Sticker-1.png"
+image: "/uploads/EXP_Social-Blog-turnkeyIT (1).png"
 
 ---
 ## The Business Case for Turnkey Infrastructure as a Service
