@@ -170,7 +170,6 @@
 /storage/  /services/colocation
 /services/managed-services/compliance-security/service-organizational-control-reporting/  /services/security-and-compliance
 /request-a-quote/  /lets-talk
-/lets-talk/  /lets-talk
 /how-we-help/goals/improve-performance/  /index
 /how-we-help/goals/control-cost/  /index
 /services/managed-services/compliance-security/advanced-threat-prevention/  /services/security-and-compliance
@@ -459,7 +458,7 @@
 /data-transfer-speed-unit-conversion/index.php  /knowledgebase/tools-and-calculators
 /smc-log-in/index.php  https://support.expedient.com
 /the-data-centers/schedule-a-tour/index.php  /data-centers
-/data-center-build-vs-buy-calculator/index.php  /knowledgebase/tools-and-calculators
+/data-center-build-vs-buy-calculator/index.php  /knowledgebase/tools-and-calculators/data-center-build-vs-buy-calculator
 /pan-connectivity-gigabit/index.php  /services/colocation
 /managed-services/disaster-recovery/index.php  /services/disaster-recovery
 /network-connectivity/index.php   /services/colocation
@@ -881,8 +880,8 @@
 /blog/how-the-cost-of-cloud-computing-is-calculated/index.php	/knowledgebase/blog/2015-05-01-how-the-cost-of-cloud-computing-is-calculated/	
 /blog/the-differences-between-backups-and-disaster-recovery/index.php   /knowledgebase/blog/2019-06-27-the-differences-between-backups-and-disaster-recovery/		
 /blog/what-are-the-differences-between-backups-and-disaster-recovery/index.php  /knowledgebase/blog/2015-05-28-what-are-the-differences-between-backups-and-disaster-recovery/	
-/blog/are-you-incentivizing-the-wrong-it-behaviors/	/knowledgebase/blog/2019-05-15-are-you-incentivizing-the-wrong-it-behaviors/	
-/blog/the-where-and-why-of-choosing-data-center-location/	/knowledgebase/blog/2015-09-22-the-where-and-why-of-choosing-data-center-location/	
+/blog/are-you-incentivizing-the-wrong-it-behaviors/index.php	/knowledgebase/blog/2019-05-15-are-you-incentivizing-the-wrong-it-behaviors/	
+/blog/the-where-and-why-of-choosing-data-center-location/index.php	/knowledgebase/blog/2015-09-22-the-where-and-why-of-choosing-data-center-location/	
 /blog/infrastructure-as-code-four-ways-to-automate-vmware-cloud-management/index.php   /knowledgebase/blog/2019-07-10-infrastructure-as-code-four-ways-to-automate-vmware-cloud-management/	
 /blog/how-to-budget-for-cloud-computing-services/index.php  /knowledgebase/blog/2015-08-12-how-to-budget-for-cloud-computing-services		
 /blog/vmware-cloudspot-podcast-with-expedients-john-white/index.php   /knowledgebase/blog/2019-07-18-vmware-cloudspot-podcast-with-expedients-john-white/
