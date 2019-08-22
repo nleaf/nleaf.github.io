@@ -20,7 +20,8 @@ layout: default
           </div>
   </div>
 </div>
-{% if page.download %}
+{% if page.download == nil or page.download == empty%}
+{% else %}
   <div class="left-0 h-auto py-10 sm:py-0 sm:h-20 bg-dgrey w-full relative">
       <div class="absolute h-full w-10/12 z-0 top-0 bg-black"></div>
       <div class="relative z-10 flex flex-wrap lg:items-top mx-auto md:max-w-expBody px-4 h-full w-full content-center">
