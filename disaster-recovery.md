@@ -11,7 +11,7 @@ tags:
 page_sections:
 - template: page-hero
   block: page-hero
-  banner_image: "/uploads/bg_servies.jpg"
+  banner_image: "/uploads/bg_servies-02.jpg"
   subheadline: A comprehensive suite of Disaster Recovery solutions for both virtual
     and physical environments, with RPOs and RTOs that ensure your critical applications
     are protected and available when you need them.

@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- disaster-recovery.md
 - tools-and-calculators.md
 - our-customers.md
 - executive-team.md
@@ -82,7 +83,6 @@ pages:
 - data-center-build-vs-buy-calculator.md
 - cloud-build-vs-buy-calculator.md
 - colocation.md
-- disaster-recovery.md
 - why-expedient.md
 - success-stories.md
 - technology-partners.md
