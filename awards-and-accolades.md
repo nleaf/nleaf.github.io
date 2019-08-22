@@ -25,6 +25,8 @@ page_sections:
     Expedient’s Push Button DR enables complete network failover without IP and DNS changes and with a sub-10 minute RTO – keeping your business running in the most critical times.
 
     The 11 solutions providers in the Magic Quadrant were evaluated by Gartner analysts on several criteria, including completeness of vision and ability to execute solutions.
+
+    <a href="https://www.expedient.com/2019-magic-quadrant-report">Download your complimentary report now</a>
   icon: "/uploads/EXP_MagicQuadrant-1.svg"
   title: '2019 Gartner Magic Quadrant '
   headline: Disaster Recovery as a Service
