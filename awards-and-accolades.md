@@ -15,7 +15,7 @@ page_sections:
   subheadline: ''
 - template: subscribe-bar
   block: subbar
-  headline: Subscribe to receive the latest articles related to DRaaS
+  headline: 'Find out every time we get another acknowledgement! '
   cta: Subscribe Now
 - template: featured-service
   block: featured-service
