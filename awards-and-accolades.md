@@ -21,9 +21,9 @@ page_sections:
   block: featured-service
   title: ''
   headline: Americas Cloud Partner of the Year
-  description: 'Acknowledge as VMware''s Americas Cloud Partner of the Year for our
+  description: "Acknowledge as VMware's Americas Cloud Partner of the Year for our
     outstanding performance and distinctive achievements related to our VMware technologies
-    and relationship. '
+    and relationship. \n<p>\n<a href=\""
   icon: "/uploads/EXP-Social-VMPartneroftheYear-2.png"
   align-left: false
 - template: featured-service
@@ -83,7 +83,7 @@ page_sections:
       in North America whose forward-thinking approach to providing managed services
       is changing the landscape of the IT channel.
   - align-left: false
-    icon: "/uploads/EXP_CRN-100.svg"
+    icon: "/uploads/EXP_CRN-500--solution.svg"
     background: "/uploads/exp_case_study_challenge.jpg"
     headline: CRN’s 2019 Solution Provider 500 List
     description: CRN's annual ranking of the top solution providers in North America,
