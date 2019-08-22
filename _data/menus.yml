@@ -36,11 +36,13 @@ subnav:
   weight: 3
 - page: Support
   title: Support
+  target: true
   url: https://support.expedient.com
   weight: 5
 - page: Partner
   title: Partner
   url: http://partner.expedient.com
+  target: true
   weight: 4
 - title: About
   url: ''
@@ -58,6 +60,7 @@ subnav:
 - page: Careers
   title: Careers
   url: "/careers"
+  target: true
   weight: 2
 header:
 - title: Let's Talk
