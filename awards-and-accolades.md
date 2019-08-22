@@ -26,7 +26,7 @@ page_sections:
 
     The 11 solutions providers in the Magic Quadrant were evaluated by Gartner analysts on several criteria, including completeness of vision and ability to execute solutions.
 
-    <a href="https://www.expedient.com/2019-magic-quadrant-report">Download your complimentary report now</a>
+    <a href="https://www.expedient.com/2019-magic-quadrant-report">Download your complimentary Magic Quadrant now.</a>
   icon: "/uploads/EXP_MagicQuadrant-1.svg"
   title: '2019 Gartner Magic Quadrant '
   headline: Disaster Recovery as a Service
