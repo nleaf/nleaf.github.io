@@ -31,6 +31,8 @@ page_sections:
 
     Expedient Enterprise Cloud is cloud the way you want it to be. Leverage your organization’s existing VMware skill sets while taking advantage of a fully integrated VMware stack of technologies, including next-generation vCloud Director, vRealize Operations, LogInsight, NSX, and vSAN. Control your clouds through a beautifully designed, intuitive, and entirely self-service management console that lets you create VMs in as few as two clicks and offers automated provisioning and de-provisioning of resources. And rely upon the built-in, always-on security features of Enterprise Cloud, including Data Encryption at Rest, 2FA, and Active Directory integrations, and Expedient’s 100% SLA, which means your workloads and applications are always available.
   icon: "/uploads/EXP_EnterpriseCloud.svg"
+  cta_label: ''
+  cta_link: ''
 - template: highlights-2-column
   block: highlights-2col
   subheading: The simplicity of Enterprise Cloud improves your efficiency and productivity
@@ -65,15 +67,15 @@ page_sections:
   heading: Experience the Enterprise Cloud
 - template: quote
   block: quote
-  image: "/uploads/EXP_Circle-Mark.svg"
+  image: "/uploads/Homes_Circle-Mark.svg"
   image-alt: Expedient
   quote: "“Expedient’s enterprise level cloud solution freed up our internal resources,
     allowing us the time we needed to implement a best-in-class cloud services platform
     to support a site that has over 123 million monthly page views and 2.6 billion
     associated images. As a result, we gained efficiencies at all levels.”"
   cite: "- David Mele, President, Homes.com"
-  link: ''
-  cta: ''
+  link: "/about/media/expedient-announces-largest-deployment-of-enterprise-cloud-platform/"
+  cta: Read the press release
 - template: highlights-2-column
   block: highlights-2col
   subheading: 'Public, Private, and Hybrid cloud options to drive your business transformation

@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- cloud.md
 - awards-and-accolades.md
 - disaster-recovery.md
 - success-stories.md
@@ -79,7 +80,6 @@ pages:
 - _resources/2018-10-04-professional-services-case-study-prodigo-solutions.md
 - _resources/2019-01-02-retail-case-study-dunlap-and-kyle-company.md
 - _resources/2018-11-01-professional-services-case-study-ultimate-home-services.md
-- cloud.md
 - why-expedient.md
 - let-s-talk.md
 - thank-you-newsletter.md
