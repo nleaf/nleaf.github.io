@@ -34,7 +34,7 @@
                             <h3 class="w-full block text-black text-2xl sm:text-3xl md:text-xl font-bold font-sans">{{ item.title }}</h3>
                             {% if item.link %}
                                 {% assign apost = site.pages | where:"path",item.link  | first %}
-                                <a href="{{ apost.url }}" class="w-full block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans ctaButton mt-8 text-center">
+                                <a href="{{ item.link }}" class="w-full block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans ctaButton mt-8 text-center">
                                     {{ item.description }}
                                 </a>
                             {% endif %}
