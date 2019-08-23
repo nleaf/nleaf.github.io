@@ -49,8 +49,8 @@ fields:
     min: 
     max: 
 pages:
-- cloud.md
 - awards-and-accolades.md
+- cloud.md
 - disaster-recovery.md
 - success-stories.md
 - index.md
