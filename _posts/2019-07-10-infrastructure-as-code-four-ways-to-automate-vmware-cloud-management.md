@@ -16,7 +16,7 @@ Worse than the time lost to provisioning toil is the potential for inconsistency
 
 Within VMware’s Cloud environment, there are various ways to implement an Infrastructure as Code approach.  For instance, [Expedient Enterprise Cloud](https://www.expedient.com/services/infrastructure-as-a-service/cloud/) (EEC) platform – which is based on VMware’s vCloud Director provisioning and management platform – offers a complete REST API to streamline integration with your existing automation tooling.  Continue reading for more detail on this ‘Infrastructure as Code’ approach and others.
 
-#### Directly using the REST API
+#### 1) Directly using the REST API
 
 The REST API can be interacted with directly from any programming language with HTTP support or tools like [Postman](https://www.getpostman.com/) or [Insomnia](https://insomnia.rest/).  There are some pitfalls with this approach, but we created a [Postman collection with documentation](https://apidocs.expedient.cloud/?version=latest) to assist in understanding the various API endpoints.
 
@@ -31,7 +31,7 @@ The REST API can be interacted with directly from any programming language with 
 * In general, this approach is less user friendly than other available options.
 * More time-consuming than pre-made tooling or libraries when performing common operations
 
-#### Shell scripting with vCD-cli
+#### 2) Shell scripting with vCD-cli
 
 [Vcd-cli](http://vmware.github.io/vcd-cli/) is a Python-based command-line utility that can be used to perform the most common administration tasks within vCD. Just remember that in order to access the vCloud command line interface (CLI), an up-to-date python installation is required.
 
@@ -46,7 +46,7 @@ The REST API can be interacted with directly from any programming language with 
 * Somewhat more complicated install on Windows platforms as that you will need [to install the Visual C++ build tools](https://visualstudio.microsoft.com/downloads/) in addition to Python
 * BASH is not necessarily ideal for complex automation tasks when compared with other languages or configuration management tooling
 
-#### Using client libraries/SDKs
+#### 3) Using client libraries/SDKs
 
 There are client libraries available for both [Python](https://github.com/vmware/pyvcloud) and [the Golang SDK for vCD](https://github.com/vmware/go-vcloud-director) that can be used to perform the vast majority of administration operations.
 
@@ -61,9 +61,9 @@ There are client libraries available for both [Python](https://github.com/vmware
 * Confined to two specific programming languages
 * Some features exposed by the API are not yet accessible in the libraries.
 
-#### Using modern automation tooling
+#### 4) Using modern automation tooling
 
-vCD is well supported by modern automation tooling such as [Ansible](https://www.ansible.com/) or [Terraform](https://www.terraform.io/).  These modules allow you to easily automate common operations like server deployment, network creation, and firewall rule adjustments using declarative configuration files. 
+vCD is well supported by modern automation tooling such as [Ansible](https://www.ansible.com/) or [Terraform](https://www.terraform.io/).  These modules allow you to easily automate common operations like server deployment, network creation, and firewall rule adjustments using declarative configuration files.
 
 **Advantages**
 
