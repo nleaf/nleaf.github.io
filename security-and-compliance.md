@@ -160,16 +160,12 @@ page_sections:
     icon_right: "/uploads/exp-geo-icon.svg"
     description_left: Expedient uses NetFlow signatures to only filter suspicious
       traffic flows and leave legitimate traffic untouched.
-- template: subscribe-bar
-  block: subbar
-  headline: Detect Zero-Day Threats with Expedient ATP
-  cta: Learn More
 - template: link-bar
   block: linkbar
   headline: Detect Zero-Day Threats with Expedient ATP
-  link: Watch the Video
+  link: https://www.youtube.com/watch?v=fkS7dDgHI4M
   newtab: true
-  cta: https://www.youtube.com/watch?v=fkS7dDgHI4M
+  cta: Watch the Video
 - template: highlights-2-column
   block: highlights-2col
   heading: Data Encryption at Rest
