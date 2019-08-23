@@ -24,17 +24,11 @@ fields:
       format: markdown
   label: content
 - name: link
-  type: select
-  default: []
+  type: text
   config:
     required: false
-    options: []
-    source:
-      type: pages
-      section: jekyll-pages
-      file: 
-      path: 
   label: link
+  description: Relative link
 - name: cta
   type: text
   config:
