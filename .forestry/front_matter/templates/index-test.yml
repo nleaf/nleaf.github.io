@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- technology-partners.md
 - security-and-compliance.md
 - awards-and-accolades.md
 - let-s-talk.md
@@ -58,7 +59,6 @@ pages:
 - disaster-recovery.md
 - success-stories.md
 - overview.md
-- technology-partners.md
 - colocation.md
 - tools-and-calculators.md
 - executive-team.md
