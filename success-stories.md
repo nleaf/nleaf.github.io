@@ -20,16 +20,19 @@ page_sections:
 - template: featured-service
   block: featured-service
   align-left: true
-  title: Push Button DR
-  headline: Rapid Speed, Complete Confidence, Resilience at the push of a button
-  description: Expedient’s Push Button DR offers rapid, total network failover between
-    disparate locations at the push of a button, without IP or DNS changes. Our Recovery
-    Time Objectives (RTOs) and Recovery Point Objectives (RPOs) are measured in minutes,
-    not hours or days, giving you confidence in business continuity. Testing your
-    DR plan is a breeze with dedicated infrastructure and unlimited self-service or
-    supported tests. And if disaster strikes, you can rely upon our 24x7x365 Operations
-    Support Center team to be available if — and when — you need us.
-  icon: "/uploads/EXP_PushButtonDR.svg"
+  title: Stanley Steemer
+  headline: '"This stuff is like magic. Literally one button to push and we were in
+    another facility."'
+  description: |-
+    Stanley Steemer is the nation’s leading provider of professional deep
+    cleaning services for homes and businesses across the country. Founded
+    in 1947 and headquartered in Dublin, Ohio, Stanley Steemer – via
+    its iconic yellow vans – offers national coverage through nearly 300
+    independently owned and operated franchises and company-owned
+    locations; its services extend beyond carpet cleaning to furniture
+    cleaning, tile and grout, hardwood, air ducts, and 24-hour emergency
+    water restoration.
+  icon: "/uploads/stanley-steemer-1.svg"
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
