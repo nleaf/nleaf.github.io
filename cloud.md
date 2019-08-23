@@ -110,7 +110,7 @@ page_sections:
   heading: ''
 - template: callout
   block: callout
-  link: contact.md
+  link: https:/go.expedient.com/2019-cloud-spectator-report
   cta: Read the report now
   heading: A cloud that outperforms AWS, Azure, and Rackspace? It's true!
   content: 'Expedient Enterprise Cloud outperforms hyperscale clouds on price and
