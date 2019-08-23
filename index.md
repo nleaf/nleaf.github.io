@@ -104,7 +104,7 @@ page_sections:
   block: gartner
 - template: callout
   block: callout
-  link: tools-and-calculators.md
+  link: "/knowledgebase/tools-and-calculators/"
   cta: Learn More
   heading: Cloud Build vs. Buy Calculator
   content: Determine the cost of building your own private <br/>cloud vs. the cost
