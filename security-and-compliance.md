@@ -33,6 +33,8 @@ page_sections:
     supported tests. And if disaster strikes, you can rely upon our 24x7x365 Operations
     Support Center team to be available if — and when — you need us.
   icon: "/uploads/EXP_PushButtonDR.svg"
+  cta_label: ''
+  cta_link: ''
 - template: highlights-2-column-2-row
   block: highlights-2col-2row
   heading: Dedicated Firewall Management
@@ -321,6 +323,12 @@ page_sections:
   block: subbar
   headline: Expedient Enterprise Cloud is Secure by Default
   cta: Learn More
+- template: link-bar
+  block: linkbar
+  headline: Download the Advanced Threat Prevention data sheet
+  link: http://bit.ly/2q6b7L0
+  cta: Download now
+  newtab: false
 - template: highlights-2-column
   block: highlights-2col
   heading: Compliance
