@@ -22,10 +22,6 @@ page_sections:
   headline: Expedient positioned in Gartner’s Magic Quadrant for Disaster Recovery
     as a Service
   newtab: true
-- template: subscribe-bar
-  block: subbar
-  headline: Don't fall behind on the latest in DR. Learn from the experts at Expedient.
-  cta: Subscribe Now
 - template: highlights-2-column
   block: highlights-2col
   subheading: ''
@@ -109,6 +105,10 @@ page_sections:
     description_right: Stop purchasing hardware and accurately forecast monthly operational
       infrastructure expense while taking advantage of the latest technology.
     icon_right: "/uploads/EXP_CostControl.svg"
+- template: subscribe-bar
+  block: subbar
+  headline: Don't fall behind on the latest in DR. Learn from the experts at Expedient.
+  cta: Subscribe Now
 - template: recent-posts
   block: recentposts
 - template: newsletter
