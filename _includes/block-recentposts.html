@@ -3,7 +3,7 @@
 
         <div class="px-4 md:max-w-expBody justify-between mx-auto">
             <div class="flex -mx-4 flex-wrap">
-
+                    <h3 class="text-2xl sm:text-3xl md:text-xl font-bold font-sans mb-3 text-red mb-6 w-full">Related Posts</h3>
 {% assign maxRelated = 3 %}
 
 {% assign minCommonTags =  3 %}
@@ -25,7 +25,6 @@
             {% endif %}
         {% endif %}
     {% endfor %}
-    <h3 class="text-2xl sm:text-3xl md:text-xl font-bold font-sans mb-3 text-red mb-6 w-full">Related Posts</h3>
     {% if sameTagCount >= minCommonTags %}
         <!-- Column -->
         <a href="{{ post.url }}" class="flex-1 px-4 related">
