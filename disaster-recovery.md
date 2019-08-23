@@ -17,8 +17,8 @@ page_sections:
     are protected and available when you need them.
 - template: link-bar
   block: linkbar
-  cta: https://go.expedient.com/magicquadrant2019
-  link: Learn More
+  cta: Learn More
+  link: https://go.expedient.com/magicquadrant2019
   headline: Expedient positioned in Gartner’s Magic Quadrant for Disaster Recovery
     as a Service
   newtab: true
@@ -84,6 +84,8 @@ page_sections:
     sacrificing the benefits or control of an on-premises environment.
   icon: "/uploads/EXP_OnSiteDraaS.svg"
   align-left: false
+  cta_label: ''
+  cta_link: ''
 - template: highlights-2-column-2-row
   block: highlights-2col-2row
   heading: Robust and Secure
