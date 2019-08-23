@@ -45,28 +45,28 @@ page_sections:
   cta: ''
 - template: highlights-2-column
   block: highlights-2col
-  heading: 'Industry Leaders '
-  subheading: The companies that Expedient has a working partnership are
+  heading: The companies that Expedient has a working partnership are
+  subheading: Industry Leaders
   highlights:
   - align-left: true
-    icon: "/uploads/EXP_Agility.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Agility
-    description: Failover at the push of a button and have the ability to operate
-      applications in multiple data centers or your own site.
+    icon: ''
+    background: "/uploads/cohesity.png"
+    headline: Cohesity
+    description: ''
   - align-left: false
-    icon: "/uploads/EXP_Availability.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Availability
-    description: Replicate computing workloads of critical importance in two or more
-      data centers or your own site and rely upon automatic recovery by interconnected
-      locations.
+    icon: ''
+    background: "/uploads/commvault.png"
+    headline: Commvault
+    description: Commvault and Expedient have worked together to promote data backups
+      through events in all of Expedient’s footprint. <a class="text-red ctaLink text-base
+      font-bold font-sans inline pb-1" href="https://www.commvault.com/resource-library/547cb6b7f665161279000003/expedient-case-study.pdf"
+      targte="_blank">Read the case study that highlights our partnership</a>.
   - align-left: true
-    icon: "/uploads/EXP_RiskMitigation.svg"
-    background: "/uploads/ph_hurricane.jpg"
-    headline: Risk Mitigation
-    description: Protect information technology workloads with disaster recovery solutions
-      that offer the fastest recovery time objectives.
+    icon: ''
+    background: "/uploads/dellemc.png"
+    headline: Dell EMC
+    description: The server and storage components of Expedient private and multi-tenant
+      cloud points of delivery (POD) are comprised of Dell EMC hardware.
 - template: callout
   block: callout
   link: contact.md
