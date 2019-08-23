@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Our Customers
+title: Our Clients
 hide_body: true
 permalink: "/why-expedient/our-customers"
 tags:
@@ -124,7 +124,7 @@ type: include
 template: seo
 label: SEO
 name: seo
-seo_title: Cloud Computing and Data Center Infrastructure as a Service
+seo_title: ''
 description: Expedient is proud to be the trusted IT adviser to organizations spanning
   a number of verticals, including eCommerce/retail, energy/utilities, financial services,
   healthcare, manufacturing, professional services, software as a service, and more.

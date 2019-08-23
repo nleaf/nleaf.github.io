@@ -49,13 +49,13 @@ fields:
     min: 
     max: 
 pages:
+- our-customers.md
 - index.md
 - cloud.md
 - awards-and-accolades.md
 - disaster-recovery.md
 - success-stories.md
 - overview.md
-- our-customers.md
 - technology-partners.md
 - security-and-compliance.md
 - colocation.md
