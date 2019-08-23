@@ -49,8 +49,8 @@ fields:
     min: 
     max: 
 pages:
-- success-stories.md
 - disaster-recovery.md
+- success-stories.md
 - index.md
 - overview.md
 - our-customers.md

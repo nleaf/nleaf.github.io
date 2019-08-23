@@ -65,8 +65,8 @@ page_sections:
   cta: ''
 - template: callout
   block: callout
-  link: contact.md
-  cta: Learn More
+  link: "/lets-talk"
+  cta: Let's Talk
   heading: Interested in saving $100,000 a day?
   content: 'Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
     Push Button DR powered by Zerto. '
