@@ -15,6 +15,13 @@ page_sections:
   subheadline: A comprehensive suite of Disaster Recovery solutions for both virtual
     and physical environments, with RPOs and RTOs that ensure your critical applications
     are protected and available when you need them.
+- template: link-bar
+  block: linkbar
+  cta: https://go.expedient.com/magicquadrant2019
+  link: Learn More
+  headline: Expedient positioned in Gartner’s Magic Quadrant for Disaster Recovery
+    as a Service
+  newtab: true
 - template: subscribe-bar
   block: subbar
   headline: Don't fall behind on the latest in DR. Learn from the experts at Expedient.

@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- disaster-recovery.md
 - overview.md
 - our-customers.md
 - success-stories.md
@@ -56,7 +57,6 @@ pages:
 - technology-partners.md
 - security-and-compliance.md
 - colocation.md
-- disaster-recovery.md
 - tools-and-calculators.md
 - executive-team.md
 - _resources/2016-01-07-interactive-blue-case-study.md
