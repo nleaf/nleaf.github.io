@@ -19,12 +19,12 @@ page_sections:
   cta: Subscribe Now
 - template: featured-service
   block: featured-service
-  title: ''
-  headline: Americas Cloud Partner of the Year
+  title: VMware's Americas
+  headline: Cloud Partner of the Year
   description: Acknowledge as VMware's Americas Cloud Partner of the Year for our
     outstanding performance and distinctive achievements related to our VMware technologies
     and relationship.
-  icon: "/uploads/EXP-Social-VMPartneroftheYear-2.png"
+  icon: "/uploads/EXP-VMWare_Badge.svg"
   align-left: false
   cta_label: ''
   cta_link: ''
