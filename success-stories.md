@@ -42,6 +42,21 @@ page_sections:
   cite: "- IT Director, Professional Services Company"
   link: ''
   cta: ''
+- template: featured-service
+  block: featured-service
+  title: Prodigo Solutions
+  headline: Optimize the Healthcare Supply Chain Process
+  description: Spun out of the University of Pittsburgh’s Medical Center (UPMC) in
+    July 2014 to enable healthcare providers to optimize spend and supply chain processes
+    via contract automation, Prodigo Solutions, Inc. now counts some of the nation’s
+    leading hospitals as its customers. The software provider develops solutions that
+    address several acute challenges in healthcare procurement such as contract management,
+    contract compliance, request & purchase order management, and automation of digital
+    supply chain transactions. The utility of Prodigo’s solutions is especially attractive
+    to the largest-scale integrated delivery network (IDNs) in the country, as Prodigo
+    counts more than 20% of these massive healthcare systems as customers.
+  icon: "/uploads/prodigo_solutions.jpeg"
+  align-left: false
 - template: highlights-2-column
   block: highlights-2col
   heading: Flexible and Extensible
@@ -75,18 +90,6 @@ page_sections:
     Push Button DR.
   icon: ''
   background: "/uploads/bg_hurricane.png"
-- template: featured-service
-  block: featured-service
-  title: On-Site Private Cloud with Disaster Recovery as a Service
-  headline: 'Ease your transition to the  cloud with a dedicated  on-premises cloud. '
-  description: Expedient’s On-Site Private Cloud with Disaster Recovery as a Service
-    is designed to ease your transition to the cloud through dedicated on-premises
-    cloud resources coupled with managed disaster recovery from your location to any
-    one of Expedient’s 11 data centers using Push Button DR. The On-Site Private Cloud
-    with DRaaS is ideal for customers who want to transform their IT operations without
-    sacrificing the benefits or control of an on-premises environment.
-  icon: "/uploads/EXP_OnSiteDraaS.svg"
-  align-left: false
 - template: highlights-2-column-2-row
   block: highlights-2col-2row
   heading: Robust and Secure
