@@ -14,7 +14,7 @@ subfooter:
   weight: 3
 - page: Our Clients
   title: Our Clients
-  url: "/why-expedient/our-customers"
+  url: "/why-expedient/our-clients"
   weight: 4
 - page: Data Centers
   title: Data Centers
@@ -91,7 +91,7 @@ header:
   childern:
   - page: Our Clients
     title: Our Clients
-    url: "/why-expedient/our-customers"
+    url: "/why-expedient/our-clients"
   - page: Success Stories
     title: Success Stories
     url: "/why-expedient/success-stories"
