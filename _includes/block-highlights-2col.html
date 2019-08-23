@@ -23,13 +23,22 @@
                     <!-- Left -->
                     <div class="w-full sm:w-6/12 px-4 mt-4 flex items-center">
                         <div class="w-full relative">
-                            <img src="{{ item.icon | absolute_url }}" class="absolute pt-2 right-0 w-4/12 z-10">
-                            <div class="w-10/12" style="
-                                overflow: hidden;
-                                height: 200px;
-                            ">
-                            <img src="{{ item.background | absolute_url }}" class="imgbg">
-                            </div>
+                            {% if item.icon == nil  and item.icon == empty %}
+                                <img src="{{ item.icon | absolute_url }}" class="absolute pt-2 right-0 w-4/12 z-10">
+                                <div class="w-10/12" style="
+                                    overflow: hidden;
+                                    height: 200px;
+                                ">
+                                <img src="{{ item.background | absolute_url }}" class="imgbg">
+                                </div>
+                            {% else %}
+                                    <div class="w-full text-center" style="
+                                    overflow: hidden;
+                                    height: 200px;
+                                ">
+                                <img src="{{ item.background | absolute_url }}" class="imgbg mx-auto">
+                                </div>
+                            {% endif %}
                         </div> 
                     </div>
                     <!-- Right -->
@@ -52,6 +61,7 @@
                     <!-- Right -->
                     <div class="w-full sm:w-6/12 px-4 mt-4 flex items-center">
                         <div class="w-full relative text-right">
+                            {% if item.icon == nil  and item.icon == empty %}
                             <img src="{{ item.icon | absolute_url }}" class="absolute pt-2 left-0 w-4/12 z-10">
                             <div class="w-10/12 float-right" style="
                                 overflow: hidden;
@@ -59,6 +69,14 @@
                             ">
                             <img src="{{ item.background | absolute_url }}" class="imgbg" >
                             </div>
+                            {% else %}
+                            <div class="w-full float-right" style="
+                                overflow: hidden;
+                                height: 200px;
+                            ">
+                            <img src="{{ item.background | absolute_url }}" class="imgbg mx-auto" >
+                            </div>
+                            {% endif %}
                         </div> 
                     </div>
                 </div>
