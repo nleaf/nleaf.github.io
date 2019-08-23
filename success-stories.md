@@ -33,8 +33,8 @@ page_sections:
     cleaning, tile and grout, hardwood, air ducts, and 24-hour emergency
     water restoration.
   icon: "/uploads/stanley-steemer-1.svg"
-  cta_label: ''
-  cta_link: ''
+  cta_label: Read Case Study
+  cta_link: "/knowledgebase/resources/ecommerce-retail-case-study-stanley-steemer/"
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
