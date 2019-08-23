@@ -45,7 +45,7 @@ page_sections:
   cta: ''
 - template: highlights-2-column
   block: highlights-2col
-  heading: The companies that Expedient has a working partnership are
+  heading: Expedient has a working partnership with
   subheading: Industry Leaders
   highlights:
   - align-left: true
