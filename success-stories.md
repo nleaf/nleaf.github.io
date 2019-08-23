@@ -63,7 +63,7 @@ page_sections:
   cta_link: "/knowledgebase/resources/professional-services-case-study-prodigo-solutions/"
 - template: callout
   block: callout
-  link: contact.md
+  link: "/knowledgebase/resources/professional-services-case-study-bouchard-insurance/"
   cta: Read Case Study
   heading: Bouchard Insurance
   content: Bouchard Insurance used Push Button DR to proactively failover from its
