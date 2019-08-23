@@ -37,11 +37,11 @@ page_sections:
   - client_logo: "/uploads/ph_Client1.png"
     link: "/knowledgebase/resources/columbus-metropolitan-library/"
   - client_logo: "/uploads/EXP_Careworks.png"
-    link: "/knowledgebase/resources/careworks-tech/"
+    link: "/knowledgebase/resources/professional-services-case-study-careworks-tech/"
   - client_logo: "/uploads/ph_Client3.png"
-    link: "/knowledgebase/resources/Prodigo-Solutions/"
+    link: "/knowledgebase/resources/professional-services-case-study-prodigo-solutions/"
   - client_logo: "/uploads/EXP_StanleySteemer.png"
-    link: "/knowledgebase/resources/stanley-steemer/"
+    link: "/knowledgebase/resources/ecommerce-retail-case-study-stanley-steemer/"
 - template: newswire
   block: newswire
   news:
