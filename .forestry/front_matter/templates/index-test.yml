@@ -49,9 +49,9 @@ fields:
     min: 
     max: 
 pages:
+- technology-partners.md
 - executive-team.md
 - index.md
-- technology-partners.md
 - security-and-compliance.md
 - awards-and-accolades.md
 - let-s-talk.md
