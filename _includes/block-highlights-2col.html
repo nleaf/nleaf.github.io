@@ -5,9 +5,11 @@
         
         <!-- Title Section -->
         {% if section.heading == nil or section.heading == empty%}
+        {% else %}
         <h4 class="w-full text-black font-bold text-base mb-4 font-sans text-center align-middle justify-center">{{ section.heading }}</h4>
         {% endif %}
         {% if section.subheading == nil or section.subheading == empty%}
+        {% else %}
         <div class="w-full text-black font-bold text-6xl mb-12 font-sans text-center align-middle justify-center leading-exp">
                 {{ section.subheading }}
         </div>
