@@ -61,6 +61,16 @@ page_sections:
   align-left: false
   cta_label: Read Case Study
   cta_link: "/knowledgebase/resources/professional-services-case-study-prodigo-solutions/"
+- template: callout
+  block: callout
+  link: contact.md
+  cta: Read Case Study
+  heading: Bouchard Insurance
+  content: Bouchard Insurance used Push Button DR to proactively failover from its
+    production environment in Florida to an Expedient data center nearly 1,000 miles
+    away in advance of Hurricane Irma in September 2017.
+  icon: "/uploads/Bouchard Insurance MMA Logo BLUE.png"
+  background: "/uploads/bg_hurricane.png"
 - template: highlights-2-column
   block: highlights-2col
   heading: Flexible and Extensible
@@ -85,15 +95,6 @@ page_sections:
     headline: Risk Mitigation
     description: Protect information technology workloads with disaster recovery solutions
       that offer the fastest recovery time objectives.
-- template: callout
-  block: callout
-  link: contact.md
-  cta: Learn More
-  heading: Interested in saving $100,000 a day?
-  content: Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
-    Push Button DR.
-  icon: ''
-  background: "/uploads/bg_hurricane.png"
 - template: highlights-2-column-2-row
   block: highlights-2col-2row
   heading: Robust and Secure
