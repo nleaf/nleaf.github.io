@@ -638,6 +638,11 @@ p {
   font-weight: 300;
 }
 
+.post {
+  font-size: 1.35rem;
+  font-weight: 400;
+  line-height: 1.6;
+}
 .post p {
   font-size: 1.35rem;
   margin-top: 1.28rem;
