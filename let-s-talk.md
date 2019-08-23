@@ -13,5 +13,11 @@ page_sections:
     innovations? Complete the form below, and a local expert will get back to you
     within one business day.
   banner_image: ''
+- template: link-bar
+  block: linkbar
+  headline: Current Expedient customers wishing to contact us
+  newtab: true
+  link: https://support.expedient.com/
+  cta: Click here
 
 ---
