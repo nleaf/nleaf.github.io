@@ -33,6 +33,8 @@ page_sections:
     cleaning, tile and grout, hardwood, air ducts, and 24-hour emergency
     water restoration.
   icon: "/uploads/stanley-steemer-1.svg"
+  cta_label: ''
+  cta_link: ''
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
@@ -55,8 +57,10 @@ page_sections:
     supply chain transactions. The utility of Prodigo’s solutions is especially attractive
     to the largest-scale integrated delivery network (IDNs) in the country, as Prodigo
     counts more than 20% of these massive healthcare systems as customers.
-  icon: "/uploads/prodigo_solutions.jpeg"
+  icon: "/uploads/prodigosolutions.svg"
   align-left: false
+  cta_label: Read Case Study
+  cta_link: "/knowledgebase/resources/professional-services-case-study-prodigo-solutions/"
 - template: highlights-2-column
   block: highlights-2col
   heading: Flexible and Extensible
