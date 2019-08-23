@@ -43,15 +43,6 @@ page_sections:
     headline: Dell EMC
     description: The server and storage components of Expedient private and multi-tenant
       cloud points of delivery (POD) are comprised of Dell EMC hardware.
-- template: quote
-  block: quote
-  image: "/uploads/EXP_Circle-Mark.svg"
-  image-alt: Expedient
-  quote: "“Our experience watching Push Button DR in action for our applications was
-    like magic. It simplified our business continuity plan.”"
-  cite: "- IT Director, Professional Services Company"
-  link: ''
-  cta: ''
 - template: callout
   block: callout
   link: "/lets-talk"
@@ -61,6 +52,55 @@ page_sections:
     Push Button DR.
   icon: ''
   background: "/uploads/bg_hurricane.png"
+- template: highlights-2-column
+  block: highlights-2col
+  highlights:
+  - align-left: true
+    icon: ''
+    background: "/uploads/intel.png"
+    headline: Intel
+    description: 'With Intel Cloud Technology, Expedient guarantees a high-quality
+      user experience with adaptable performance, even during bursts of increased
+      demand. '
+  - align-left: false
+    icon: ''
+    background: "/uploads/juniper.png"
+    headline: Juniper
+    description: Expedient has contributed to the testing of virtual firewall products
+      through participation on its customer advisory board. <a class="text-red ctaLink
+      text-base font-bold font-sans inline pb-1" href="http://www.juniper.net/us/en/company/case-studies/service-provider/expedient/"
+      targte="_blank">Read the case study of how Expedient integrated the Juniper
+      vSRX into a seamless disaster recovery as a service (DRaaS) solution</a>.
+  - align-left: true
+    icon: ''
+    background: "/uploads/nutanix.png"
+    headline: Nutanix
+    description: Expedient delivers Nutanix hyperconverged infrastructure technology
+      by providing increased availability, compliance and security, and disaster recovery
+      services beyond what can be achieved with Nutanix alone.
+  - align-left: false
+    icon: ''
+    background: "/uploads/vmware.png"
+    headline: VMware
+    description: Expedient is one of only 30 companies that sit on the global board
+      for VMware, and is a Cloud Verified Service Provider, which means we offer services
+      based on the most complete VMware-based cloud infrastructure technology available,
+      providing compatibility, choice, and control of VMware Cloud Infrastructure
+      at our data center locations. <a class="text-red ctaLink text-base font-bold
+      font-sans inline pb-1" href="https://vcloudproviders.vmware.com/cloud-providers/Continental-Broadband-LLC"
+      targte="_blank">Find the company on the vCloud Air Network</a> and take a <a
+      class="text-red ctaLink text-base font-bold font-sans inline pb-1" href="/vmware-test-drive/"
+      targte="_blank">free test drive</a> of the VMware-powered cloud.
+  - align-left: true
+    icon: ''
+    background: "/uploads/zerto.png"
+    headline: Zerto
+    description: Expedient has delivered host-to-host replication service using Zerto
+      software since 2012. The company participates on the Zerto advisory board and
+      has been a sponsor of ZertoCON, a business continuity and disaster recovery
+      conference.
+  heading: ''
+  subheading: ''
 - template: recent-posts
   block: recentposts
 - template: newsletter
