@@ -49,11 +49,11 @@ fields:
     min: 
     max: 
 pages:
+- index.md
 - cloud.md
 - awards-and-accolades.md
 - disaster-recovery.md
 - success-stories.md
-- index.md
 - overview.md
 - our-customers.md
 - technology-partners.md
