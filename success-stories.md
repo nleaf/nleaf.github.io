@@ -73,7 +73,7 @@ page_sections:
   background: "/uploads/bg_hurricane.png"
 - template: link-bar
   block: linkbar
-  headline: Interested in seeing more of our client's success with Expedient?
+  headline: Interested in seeing more of our client's successes with Expedient?
   cta: Case Studies
   link: "/knowledgebase/resources/casestudies"
   newtab: false
