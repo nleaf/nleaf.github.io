@@ -40,3 +40,15 @@ fields:
     maxSize: 250
   label: Icon
   description: Featured Service Icon
+- name: cta_label
+  type: text
+  config:
+    required: false
+  label: CTA Label
+  description: Optional CTA Button
+- name: cta_link
+  type: text
+  config:
+    required: false
+  label: CTA Link
+  description: Optional link for CTA Button
