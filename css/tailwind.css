@@ -743,7 +743,9 @@ p {
   color: #57575D;
   cursor: pointer;
 }
-
+#subNav nav .links a:nth-child(1n), #subNav nav .links a:nth-child(3n) {
+  cursor: initial;
+}
 #subNav nav .links a::after {
   content: '';
   transition: all .3s;
