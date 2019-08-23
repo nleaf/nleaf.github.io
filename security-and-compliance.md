@@ -164,6 +164,12 @@ page_sections:
   block: subbar
   headline: Detect Zero-Day Threats with Expedient ATP
   cta: Learn More
+- template: link-bar
+  block: linkbar
+  headline: Detect Zero-Day Threats with Expedient ATP
+  link: Watch the Video
+  newtab: true
+  cta: https://www.youtube.com/watch?v=fkS7dDgHI4M
 - template: highlights-2-column
   block: highlights-2col
   heading: Data Encryption at Rest
@@ -319,10 +325,6 @@ page_sections:
     description_right: Work with Expedient to implement risk mitigation tactics, such
       as changes to access control lists (ACLs) and implementation of OS patches/hotfixes.
     icon_right: "/uploads/exp-public_cloud-icon.svg"
-- template: subscribe-bar
-  block: subbar
-  headline: Expedient Enterprise Cloud is Secure by Default
-  cta: Learn More
 - template: link-bar
   block: linkbar
   headline: Download the Advanced Threat Prevention data sheet
