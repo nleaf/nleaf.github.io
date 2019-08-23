@@ -54,7 +54,7 @@
 /blog/  /knowledgebase/blog/
 /company/engage/events/  /index
 /agent-program/  /index
-/company/careers-opportunities.php#new_tab  /careers
+/company/careers-opportunities.php  /careers
 /company/engage/operations-support-center-osc/  https://support.expedient.com/
 /services/managed-services/  /services/colocation
 /services/managed-services/compliance-security/pci-dss-compliance/  /services/security-and-compliance
@@ -500,7 +500,7 @@
 /blog/index.php  /knowledgebase/blog/
 /company/engage/events/index.php  /index
 /agent-program/index.php  /index
-/company/careers-opportunities.php#new_tabindex.php  /careers
+/company/careers-opportunities.php/index.php  /careers
 /company/engage/operations-support-center-osc/index.php  https://support.expedient.com/
 /services/managed-services/index.php  /services/colocation
 /services/managed-services/compliance-security/pci-dss-compliance/index.php  /services/security-and-compliance
