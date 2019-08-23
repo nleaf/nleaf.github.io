@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- executive-team.md
 - index.md
 - technology-partners.md
 - security-and-compliance.md
@@ -61,7 +62,6 @@ pages:
 - overview.md
 - colocation.md
 - tools-and-calculators.md
-- executive-team.md
 - _resources/2016-01-07-interactive-blue-case-study.md
 - _resources/2016-01-21-softlink-case-study.md
 - _resources/2016-03-03-firstinsightcs.md

@@ -6,7 +6,7 @@ permalink: "/about/executive-team"
 page_sections:
 - template: page-hero
   block: page-hero
-  banner_image: "/uploads/bg_servies.jpg"
+  banner_image: "/uploads/bg_general-09.jpg"
   subheadline: ''
 - template: subscribe-bar
   block: subbar
