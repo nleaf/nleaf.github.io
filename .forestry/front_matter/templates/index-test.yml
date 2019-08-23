@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- index.md
 - success-stories.md
 - disaster-recovery.md
 - overview.md
@@ -79,7 +80,6 @@ pages:
 - _resources/2019-01-02-retail-case-study-dunlap-and-kyle-company.md
 - _resources/2018-11-01-professional-services-case-study-ultimate-home-services.md
 - cloud.md
-- index.md
 - why-expedient.md
 - let-s-talk.md
 - thank-you-newsletter.md

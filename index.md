@@ -52,7 +52,7 @@ page_sections:
     description: Expedient Announces VMworld 2019 Schedule of Events
   - title: Homes.com
     icon: "/uploads/ico_play.svg"
-    link: index.md
+    link: "/about/media/expedient-announces-largest-deployment-of-enterprise-cloud-platform/"
     description: Expedient Announces Largest Deployment of Enterprise Cloud Platform
     newtab: false
   - title: Expedient Named VMware Americas Cloud Partner of the Year
