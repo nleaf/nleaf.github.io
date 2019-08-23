@@ -45,8 +45,8 @@ page_sections:
   cta: ''
 - template: highlights-2-column
   block: highlights-2col
-  heading: Flexible and Extensible
-  subheading: "Push Button DR  \nHighlights "
+  heading: 'Industry Leaders '
+  subheading: The companies that Expedient has a working partnership are
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Agility.svg"
