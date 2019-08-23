@@ -69,7 +69,7 @@ page_sections:
   content: Bouchard Insurance used Push Button DR to proactively failover from its
     production environment in Florida to an Expedient data center nearly 1,000 miles
     away in advance of Hurricane Irma in September 2017.
-  icon: "/uploads/Bouchard Insurance MMA Logo BLUE.png"
+  icon: "/uploads/Bouchard_WHT.svg"
   background: "/uploads/bg_hurricane.png"
 - template: highlights-2-column
   block: highlights-2col
