@@ -49,12 +49,12 @@ fields:
     min: 
     max: 
 pages:
+- awards-and-accolades.md
 - disaster-recovery.md
 - success-stories.md
 - index.md
 - overview.md
 - our-customers.md
-- awards-and-accolades.md
 - technology-partners.md
 - security-and-compliance.md
 - colocation.md

@@ -21,11 +21,13 @@ page_sections:
   block: featured-service
   title: ''
   headline: Americas Cloud Partner of the Year
-  description: "Acknowledge as VMware's Americas Cloud Partner of the Year for our
+  description: Acknowledge as VMware's Americas Cloud Partner of the Year for our
     outstanding performance and distinctive achievements related to our VMware technologies
-    and relationship. \n<p>\n<a href=\""
+    and relationship.
   icon: "/uploads/EXP-Social-VMPartneroftheYear-2.png"
   align-left: false
+  cta_label: ''
+  cta_link: ''
 - template: featured-service
   block: featured-service
   description: |-
@@ -40,6 +42,8 @@ page_sections:
   title: '2019 Gartner Magic Quadrant '
   headline: Disaster Recovery as a Service
   align-left: false
+  cta_label: ''
+  cta_link: ''
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
@@ -60,6 +64,8 @@ page_sections:
     measures the willingness of customers to recommend a company''s products or services
     to others. We''re proud to have an increasing NPS every year for the past 4 years. '
   icon: "/uploads/EXP_NewPromoter-2.svg"
+  cta_label: ''
+  cta_link: ''
 - template: gartner
   block: gartner
 - template: featured-service
@@ -70,6 +76,8 @@ page_sections:
     worldwide in Channel Futures’ annual MSP 501 Ranking. '
   align-left: false
   icon: "/uploads/msp501-winner-nobadge-e1562485415451.webp"
+  cta_label: ''
+  cta_link: ''
 - template: highlights-2-column
   block: highlights-2col
   heading: Expedient Recognized by CRN
