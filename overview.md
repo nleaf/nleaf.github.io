@@ -28,6 +28,13 @@ description: ''
 image: ''
 
 ---
+
+## Company Headquarters
+
+1 Allegheny Square, Suite 600
+Pittsburgh, PA 15212
+877-570-7827
+
 ## Significant Company Milestones
 
 <div class="flex mb-4 relative mt-12">
@@ -176,8 +183,10 @@ image: ''
 </div>
 <div class="flex mb-4 relative">
 <div class="w-1/3 font-bold font-sans">Jun 2018</div>
-<div class="w-2/3">Named #7 managed services provider in the world on the MSP 501</div>
-<div class="w-2/3">Completed network backbone upgrade to 100 Gbp/s</div>
+<div class="w-2/3">
+  Named #7 managed services provider in the world on the MSP 501 <br/>
+  Completed network backbone upgrade to 100 Gbp/s
+</div>
 </div>
 <div class="flex mb-4 relative">
 <div class="w-1/3 font-bold font-sans">Jul 2018</div>
