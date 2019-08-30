@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- overview.md
 - technology-partners.md
 - executive-team.md
 - index.md
@@ -59,7 +60,6 @@ pages:
 - cloud.md
 - disaster-recovery.md
 - success-stories.md
-- overview.md
 - colocation.md
 - tools-and-calculators.md
 - _resources/2016-01-07-interactive-blue-case-study.md
