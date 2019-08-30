@@ -5,7 +5,7 @@ seo_title: ''
 description: ''
 image: "/uploads/EXP-Social--cloud_simplify.png"
 banner_image: ''
-date: 
+date: 2019-08-30 04:00:00 +0000
 tags:
 - Cloud
 featured: false
