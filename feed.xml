@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-22T15:15:26-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Expedient</title><subtitle>Expedient Demo Site for Forestry.io</subtitle><entry><title type="html">Persistent Volume Options for Kubernetes Storage</title><link href="http://localhost:4000/knowledgebase/blog/2019-08-13-persistent-volume-options-for-kubernetes-storage/" rel="alternate" type="text/html" title="Persistent Volume Options for Kubernetes Storage" /><published>2019-08-13T12:20:00-04:00</published><updated>2019-08-13T12:20:00-04:00</updated><id>http://localhost:4000/knowledgebase/blog/persistent-volume-options-for-kubernetes-storage</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-08-13-persistent-volume-options-for-kubernetes-storage/">&lt;h2 id=&quot;persistent-volume-options-for-k8s-storage&quot;&gt;Persistent Volume Options for K8s Storage&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-23T21:35:51-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Expedient</title><subtitle>Expedient Demo Site for Forestry.io</subtitle><entry><title type="html">Persistent Volume Options for Kubernetes Storage</title><link href="http://localhost:4000/knowledgebase/blog/2019-08-13-persistent-volume-options-for-kubernetes-storage/" rel="alternate" type="text/html" title="Persistent Volume Options for Kubernetes Storage" /><published>2019-08-13T12:20:00-04:00</published><updated>2019-08-13T12:20:00-04:00</updated><id>http://localhost:4000/knowledgebase/blog/persistent-volume-options-for-kubernetes-storage</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-08-13-persistent-volume-options-for-kubernetes-storage/">&lt;h2 id=&quot;persistent-volume-options-for-k8s-storage&quot;&gt;Persistent Volume Options for K8s Storage&lt;/h2&gt;
 
 &lt;p&gt;Kubernetes was originally developed as a platform for stateless applications with persistent data stored elsewhere. As the project matured, many organizations wanted to also begin leveraging it for their stateful applications and so persistent volume management was added. At first, this was generally provisioned using cloud-provider-specific interfaces that linked directly to underlying block storage on a given cloud platform. More recently, options have been made available that are functional within any cloud provider and in some cases offer additional features or enhanced performance over the cloud-provider-specific offerings. Rather than develop an Expedient-specific storage solution we are encouraging clients to leverage the cloud-agnostic storage solution or solutions that meet their needs for performance, manageability, compliance, and cost. As the number and variety of available options available in this rapidly changing space can be daunting, an overview of the main options can be found below.&lt;/p&gt;
 
@@ -143,15 +143,13 @@
 
 &lt;p&gt;&lt;em&gt;As Chief Innovation Officer, John White is the lead executive at Expedient responsible for the company’s product and technology vision. In addition to leading Expedient’s product strategy function, John also serves as the lead technology evangelist for the company, works closely with the sales team on closing complex/high brand deals, and acts as Expedient’s primary interface with existing technology partners. Follow him on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/johna_white&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>John White</name></author><category term="Cloud" /><summary type="html">VMworld is back in the Bay and the Expedient team is busier than ever! This year we have 5 sessions, booth duties with awesome Expedient demos focusing on our Enterprise Cloud product, multi-cloud management product, Push Button DR (DRaaS), and Backup as a Service, a Cube interview with our partner Cohesity, and an EcoCast with ActualTech Media. Of course we have parties as well, more on that in another blog post, today we are going to focus on the Expedient sessions.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/EXP-Social--vmworld2019.png" /></entry><entry><title type="html">Hyperscale or Enterprise - Which Cloud is Best for Your Business?</title><link href="http://localhost:4000/knowledgebase/blog/2019-07-18-hyperscale-or-enterprise-which-cloud-is-best-for-your-business/" rel="alternate" type="text/html" title="Hyperscale or Enterprise - Which Cloud is Best for Your Business?" /><published>2019-07-18T16:36:56-04:00</published><updated>2019-07-18T16:36:56-04:00</updated><id>http://localhost:4000/knowledgebase/blog/hyperscale-or-enterprise-which-cloud-is-best-for-your-business</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-07-18-hyperscale-or-enterprise-which-cloud-is-best-for-your-business/">&lt;p&gt;The cloud provider landscape is complex and constantly evolving. To meet the performance demands of legacy compute workloads and to control cloud costs, many businesses are opting for hosted enterprise clouds instead of the mainstream hyperscale options provided by AWS, Azure and Google Cloud. During &lt;a href=&quot;https://www.youtube.com/watch?v=owgkJHsMcRY&amp;amp;#t=3m10s&quot;&gt;our recent webinar&lt;/a&gt;, I was joined by &lt;a href=&quot;https://451research.com/analyst-team/analyst/Carl+Brooks&quot;&gt;Carl Brooks&lt;/a&gt;, Analyst with 451 research, to discuss several key topics shaping enterprise cloud transformation, including:&lt;/p&gt;
 
-&lt;p&gt;• Cloud adoption trends&lt;/p&gt;
-
-&lt;p&gt;• The drivers of workload placement across various cloud venues&lt;/p&gt;
-
-&lt;p&gt;• The common challenges enterprises face during cloud transformation&lt;/p&gt;
-
-&lt;p&gt;• The differences between hyperscale clouds and enterprise clouds, and the impact these characteristics have on application performance and cloud cost control&lt;/p&gt;
-
-&lt;p&gt;• A &lt;a href=&quot;https://www.expedient.com/2019-cloud-spectator-report/&quot;&gt;recent cloud benchmark report&lt;/a&gt; that compared Expedient Enterprise Cloud with clouds from AWS, Azure and Rackspace&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Cloud adoption trends&lt;/li&gt;
+  &lt;li&gt;The drivers of workload placement across various cloud venues&lt;/li&gt;
+  &lt;li&gt;The common challenges enterprises face during cloud transformation&lt;/li&gt;
+  &lt;li&gt;The differences between hyperscale clouds and enterprise clouds, and the impact these characteristics have on application performance and cloud cost control&lt;/li&gt;
+  &lt;li&gt;A &lt;a href=&quot;https://www.expedient.com/2019-cloud-spectator-report/&quot;&gt;recent cloud benchmark report&lt;/a&gt; that compared Expedient Enterprise Cloud with clouds from AWS, Azure and Rackspace&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h4 id=&quot;watch-the-full-replay-of-the-webinar-now&quot;&gt;Watch the full replay of the webinar now:&lt;/h4&gt;
 
@@ -210,7 +208,7 @@
 
 &lt;p&gt;Within VMware’s Cloud environment, there are various ways to implement an Infrastructure as Code approach.  For instance, &lt;a href=&quot;https://www.expedient.com/services/infrastructure-as-a-service/cloud/&quot;&gt;Expedient Enterprise Cloud&lt;/a&gt; (EEC) platform – which is based on VMware’s vCloud Director provisioning and management platform – offers a complete REST API to streamline integration with your existing automation tooling.  Continue reading for more detail on this ‘Infrastructure as Code’ approach and others.&lt;/p&gt;
 
-&lt;h4 id=&quot;directly-using-the-rest-api&quot;&gt;Directly using the REST API&lt;/h4&gt;
+&lt;h4 id=&quot;1-directly-using-the-rest-api&quot;&gt;1) Directly using the REST API&lt;/h4&gt;
 
 &lt;p&gt;The REST API can be interacted with directly from any programming language with HTTP support or tools like &lt;a href=&quot;https://www.getpostman.com/&quot;&gt;Postman&lt;/a&gt; or &lt;a href=&quot;https://insomnia.rest/&quot;&gt;Insomnia&lt;/a&gt;.  There are some pitfalls with this approach, but we created a &lt;a href=&quot;https://apidocs.expedient.cloud/?version=latest&quot;&gt;Postman collection with documentation&lt;/a&gt; to assist in understanding the various API endpoints.&lt;/p&gt;
 
@@ -229,7 +227,7 @@
   &lt;li&gt;More time-consuming than pre-made tooling or libraries when performing common operations&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;shell-scripting-with-vcd-cli&quot;&gt;Shell scripting with vCD-cli&lt;/h4&gt;
+&lt;h4 id=&quot;2-shell-scripting-with-vcd-cli&quot;&gt;2) Shell scripting with vCD-cli&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://vmware.github.io/vcd-cli/&quot;&gt;Vcd-cli&lt;/a&gt; is a Python-based command-line utility that can be used to perform the most common administration tasks within vCD. Just remember that in order to access the vCloud command line interface (CLI), an up-to-date python installation is required.&lt;/p&gt;
 
@@ -248,7 +246,7 @@
   &lt;li&gt;BASH is not necessarily ideal for complex automation tasks when compared with other languages or configuration management tooling&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;using-client-librariessdks&quot;&gt;Using client libraries/SDKs&lt;/h4&gt;
+&lt;h4 id=&quot;3-using-client-librariessdks&quot;&gt;3) Using client libraries/SDKs&lt;/h4&gt;
 
 &lt;p&gt;There are client libraries available for both &lt;a href=&quot;https://github.com/vmware/pyvcloud&quot;&gt;Python&lt;/a&gt; and &lt;a href=&quot;https://github.com/vmware/go-vcloud-director&quot;&gt;the Golang SDK for vCD&lt;/a&gt; that can be used to perform the vast majority of administration operations.&lt;/p&gt;
 
@@ -267,7 +265,7 @@
   &lt;li&gt;Some features exposed by the API are not yet accessible in the libraries.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;using-modern-automation-tooling&quot;&gt;Using modern automation tooling&lt;/h4&gt;
+&lt;h4 id=&quot;4-using-modern-automation-tooling&quot;&gt;4) Using modern automation tooling&lt;/h4&gt;
 
 &lt;p&gt;vCD is well supported by modern automation tooling such as &lt;a href=&quot;https://www.ansible.com/&quot;&gt;Ansible&lt;/a&gt; or &lt;a href=&quot;https://www.terraform.io/&quot;&gt;Terraform&lt;/a&gt;.  These modules allow you to easily automate common operations like server deployment, network creation, and firewall rule adjustments using declarative configuration files.&lt;/p&gt;
 
