@@ -3,7 +3,7 @@ author: Doug Theis
 title: Can Enterprise Cloud Infrastructure Simplify Mergers and Acquisitions?
 seo_title: ''
 description: ''
-image: ''
+image: "/uploads/EXP-Social--cloud_simplify.png"
 banner_image: ''
 date: 
 tags:
