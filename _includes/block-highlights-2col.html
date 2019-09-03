@@ -1,7 +1,7 @@
 <!-- Highlights 2 Col -->
 <section class="bg-llgrey relative">
 
-    <div class="px-4 md:max-w-expBody justify-between mx-auto py-16 relative">
+    <div class="px-4 md:max-w-expBody justify-between mx-auto py-16 sm:py-4 relative">
         
         <!-- Title Section -->
         {% if section.heading == nil or section.heading == empty%}
@@ -10,7 +10,7 @@
         {% endif %}
         {% if section.subheading == nil or section.subheading == empty%}
         {% else %}
-        <div class="w-full text-black font-bold text-6xl mb-12 font-sans text-center align-middle justify-center leading-exp">
+        <div class="w-full text-black font-bold text-xl lg:text-6xl mb-12 font-sans text-center align-middle justify-center leading-exp">
                 {{ section.subheading }}
         </div>
         {% endif %}
@@ -19,7 +19,7 @@
         {% for item in section.highlights %}
 
             {% if item.align-left %} 
-                <div class="flex -mx-4 twocol highlight"> 
+                <div class="flex -mx-4 twocol highlight flex-wrap"> 
                     <!-- Left -->
                     <div class="w-full sm:w-6/12 px-4 mt-4 flex items-center">
                         <div class="w-full relative">
@@ -50,7 +50,7 @@
                     </div>
                 </div>
             {% else %}
-                <div class="flex -mx-4 twocol highlight"> 
+                <div class="flex -mx-4 twocol highlight flex-wrap"> 
                     <!-- Left -->
                     <div class="w-full sm:w-6/12 px-4 mt-4">
                         <div class="w-full my-4 pt-4 pb-6 px-6 relative">

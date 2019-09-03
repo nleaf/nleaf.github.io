@@ -3,7 +3,7 @@
     <div class="px-4 md:max-w-expBody justify-between mx-auto py-16">
         <div class="flex -mx-4">
             <!-- Column -->
-            <div class="w-8/12 px-4">
+            <div class="w-full lg:w-8/12 px-4">
                 <h3 class="text-black text-4xl font-sans font-bold leading-snug mb-2">{{ section.heading }}</h3>
                 <p class="text-xl font-light leading-normal my-2 w-8/12">{{ section.content }}</p>
                 <a href="{{ section.link }}" alt="{{ section.heading }}" class="w-56 inline-block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans mt-8 ctaButton relative align-middle relative">
@@ -14,7 +14,7 @@
 
             {% if section.icon != null and section.icon != "" %}
                 <!-- Column -->
-                <div class="w-4/12 px-4 self-center">
+                <div class="w-full lg:w-4/12 px-4 self-center">
                     <img src="{{ section.icon | absolute_url }}" alt="{{ section.heading }}" class="w-full" />
                 </div>
             {% endif %}
