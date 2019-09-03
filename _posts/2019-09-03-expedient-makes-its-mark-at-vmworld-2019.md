@@ -5,7 +5,7 @@ seo_title: ''
 description: ''
 image: "/uploads/Expedient-Team-at-VMworld-2019.jpg"
 banner_image: ''
-date: 2019-09-03 04:00:00 +0000
+date: 2019-09-03T04:00:00.000+00:00
 tags:
 - Cloud
 featured: false
