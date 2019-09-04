@@ -12,9 +12,9 @@ featured: false
 popular: false
 
 ---
-At VMworld 2019, VMware encouraged attendees to “Make Your Mark.” The Expedient team answered that call as the [VMware Americas Cloud Partner of the Year](https://www.expedient.com/blog/expedient-named-vmwares-americas-cloud-partner-of-the-year/) with its first ever sponsorship of the event, an exhibition booth in the Solutions Exchange, multiple educational session presentations, client case studies, and technology testimonials. More than twenty Expedient team members traveled to San Francisco to participate in the event, which was held at Moscone Center and several surrounding hotels.
+![](/uploads/4-Mark-Made-VMworld2019_small.jpg)At VMworld 2019, VMware encouraged attendees to “Make Your Mark.” The Expedient team answered that call as the [VMware Americas Cloud Partner of the Year](https://www.expedient.com/blog/expedient-named-vmwares-americas-cloud-partner-of-the-year/) with its first ever sponsorship of the event, an exhibition booth in the Solutions Exchange, multiple educational session presentations, client case studies, and technology testimonials. More than twenty Expedient team members traveled to San Francisco to participate in the event, which was held at Moscone Center and several surrounding hotels.
 
-##### ![](/uploads/Expedient-Team-at-VMworld-2019.jpg)_The Expedient team pauses to pose at the exhibition booth in the Solutions Exchange. The booth featured our VMware Americas Cloud Partner of the Year award._
+##### ![](/uploads/Expedient-Team-at-VMworld-2019.jpg) _The Expedient team pauses to pose at the exhibition booth in the Solutions Exchange. The booth featured our VMware Americas Cloud Partner of the Year award._
 
 Our booth in the Solutions Exchange offered a unique opportunity to conduct demonstrations of our VMware Cloud Verified Expedient Enterprise Cloud infrastructure as a service (IaaS) and disaster recovery as a service (DRaaS) solutions.
 
