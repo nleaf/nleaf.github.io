@@ -14,26 +14,9 @@ featured: false
 popular: true
 
 ---
-At VMworld 2019, I sat down with Scott Lowe from [ActualTech Media](https://www.actualtechmedia.com) to discuss [Expedient Enterprise Cloud](https://www.expedient.com/services/infrastructure-as-a-service/cloud/) (EEC) and the difference between managed service providers like Expedient and the hyperscale cloud providers like AWS and Azure.
+At VMworld 2019, I sat down with Scott Lowe from [ActualTech Media](https://www.actualtechmedia.com) to discuss [Expedient Enterprise Cloud](https://www.expedient.com/services/infrastructure-as-a-service/cloud/) (EEC) and the difference between managed service providers like Expedient and the hyperscale cloud providers like AWS and Azure. During our conversation, Scott and I discussed the architecture of EEC, the EEC user experience, how Expedient supports the hybrid cloud needs of its clients, and why our telecom carrier beginnings differentiate Expedient as a cloud service and disaster recovery as a service (DRaaS) solution provider.
 
-#### During our conversation, we discussed the following topics:
-
-* **0:50** – Expedient introduction and the difference between EEC and Hyperscale Cloud offerings
-* **6:47** – The architecture of EEC, which is built on top of VMware’s [software-defined data center (SDDC)](https://www.expedient.com/blog/expedient-announces-vmware-cloud-verified-designation/) infrastructure stack
-* **9:00** – The user experience provided by EEC, which delivers both streamlined cloud management functionality as well as APIs for power users
-* **11:18** – How Expedient supports the hybrid cloud needs of clients, and why Expedient’s telecom carrier beginnings are a differentiator in the cloud service provider space
-* **13:03** – Expedient’s multi-cloud journey and our upcoming product strategy focus
-
-#### During the EcoCast, the live audience also asked me several questions, including:
-
-* **16:10** – How do you handle clients with highly secure data?
-* **17:42** – What is Expedient’s uptime SLA?
-* **18:37** – Does Expedient run its own data centers?
-
-#### We wrapped up by discussing the announcements Expedient made during VMworld 2019, including:
-
-* **22:16** – Expedient’s westward expansion into the Phoenix market
-* **22:29** – Expedient’s largest EEC customer to date, [Homes.com](https://www.expedient.com/press-releases/expedient-announces-largest-deployment-of-enterprise-cloud-platform/)
+We wrapped up the conversation with on overview of our multi-cloud journey and the major announcements that Expedient made at VMworld 2019. If you would like to learn more about these announcements or how Expedient Enterprise Cloud can help save you time and money, watch the interview:
 
 {% include youtube.html ytid="awlLqH1qWok" %}
 
