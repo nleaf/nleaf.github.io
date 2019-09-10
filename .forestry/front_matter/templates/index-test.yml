@@ -49,10 +49,10 @@ fields:
     min: 
     max: 
 pages:
+- index.md
 - overview.md
 - technology-partners.md
 - executive-team.md
-- index.md
 - security-and-compliance.md
 - awards-and-accolades.md
 - let-s-talk.md
