@@ -94,7 +94,7 @@ page_sections:
       lean in-house technical operations group was challenged by keeping up with the
       escalating demands of the business and its growing number of large customers. '
     img: "/uploads/EXP_Prodigo.png"
-    link: "/knowledgebase/resources/Prodigo-Solutions/"
+    link: "/knowledgebase/resources/professional-services-case-study-prodigo-solutions/"
   - category: ''
     title: Lasting impact, for our clients business in the cloud, today.
     description: Read more success stories
