@@ -96,7 +96,7 @@ page_sections:
     img: "/uploads/EXP_Prodigo.png"
     link: "/knowledgebase/resources/professional-services-case-study-prodigo-solutions/"
   - category: ''
-    title: Lasting impact, for our clients business in the cloud, today.
+    title: ''
     description: Read more success stories
     img: ''
     link: "/knowledgebase/resources/casestudies/"
