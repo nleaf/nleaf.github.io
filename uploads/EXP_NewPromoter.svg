@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 110 61" style="enable-background:new 0 0 110 61;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{clip-path:url(#SVGID_2_);fill:#F15A22;}
+	.st2{font-family:'SourceSansPro-Black';}
+	.st3{font-size:12.4606px;}
+	.st4{font-family:'SourceSansPro-Regular';}
+	.st5{font-size:2.0768px;}
+	.st6{clip-path:url(#SVGID_4_);fill:#E84425;}
+	.st7{font-size:15.5757px;}
+	.st8{font-size:2.596px;}
+	.st9{clip-path:url(#SVGID_6_);fill:#DA223B;}
+	.st10{font-size:19.4697px;}
+	.st11{font-size:3.2449px;}
+	.st12{clip-path:url(#SVGID_8_);fill:#CE1F41;}
+	.st13{font-size:29.2045px;}
+	.st14{font-size:4.8674px;}
+</style>
+<rect y="-25.2" class="st0" width="110" height="110"/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="2.5" width="104.7" height="61"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st1" d="M95.5,38c6.5,0,11.7-5.3,11.7-11.7c0-6.5-5.3-11.7-11.7-11.7c-6.5,0-11.7,5.3-11.7,11.7
+		C83.7,32.7,89,38,95.5,38"/>
+</g>
+<text transform="matrix(1 0 0 1 88.7529 31.7828)" class="st0 st2 st3">58</text>
+<text transform="matrix(1 0 0 1 93.418 21.3883)" class="st0 st4 st5">2015</text>
+<g>
+	<defs>
+		<rect id="SVGID_3_" x="2.5" width="104.7" height="61"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st6" d="M77.4,57.4c8.1,0,14.7-6.6,14.7-14.7c0-8.1-6.6-14.7-14.7-14.7s-14.7,6.6-14.7,14.7
+		C62.7,50.8,69.3,57.4,77.4,57.4"/>
+</g>
+<text transform="matrix(1 0 0 1 69.0107 49.6656)" class="st0 st2 st7">62</text>
+<text transform="matrix(1 0 0 1 74.8418 36.6715)" class="st0 st4 st8">2016</text>
+<g>
+	<defs>
+		<rect id="SVGID_5_" x="2.5" width="104.7" height="61"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st9" d="M58.9,36.7c10.1,0,18.4-8.2,18.4-18.4S69,0,58.9,0S40.6,8.2,40.6,18.4S48.8,36.7,58.9,36.7"/>
+</g>
+<text transform="matrix(1 0 0 1 48.396 27.0206)" class="st0 st2 st10">65</text>
+<text transform="matrix(1 0 0 1 55.6841 10.778)" class="st0 st4 st11">2017</text>
+<g>
+	<defs>
+		<rect id="SVGID_7_" x="2.5" width="104.7" height="61"/>
+	</defs>
+	<clipPath id="SVGID_8_">
+		<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st12" d="M25.5,61c12.7,0,22.9-10.3,22.9-22.9S38.1,15.1,25.5,15.1S2.5,25.4,2.5,38.1S12.8,61,25.5,61"/>
+</g>
+<text transform="matrix(1 0 0 1 10.5688 50.1988)" class="st0 st2 st13">67</text>
+<text transform="matrix(1 0 0 1 21.501 25.8341)" class="st0 st4 st14">2018</text>
+</svg>
