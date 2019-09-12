@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- cloud.md
 - index.md
 - technology-partners.md
 - disaster-recovery.md
@@ -59,7 +60,6 @@ pages:
 - executive-team.md
 - colocation.md
 - why-expedient.md
-- cloud.md
 - overview.md
 - security-and-compliance.md
 - let-s-talk.md

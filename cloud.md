@@ -78,8 +78,7 @@ page_sections:
   cta: Read the press release
 - template: highlights-2-column
   block: highlights-2col
-  subheading: 'Public, Private, and Hybrid cloud options to drive your business transformation
-    forward '
+  subheading: Flexible options to drive business transformation
   highlights:
   - align-left: true
     icon: "/uploads/exp-public_cloud-icon.svg"
