@@ -2,7 +2,7 @@
 layout: blocks
 title: The complete Cloud Build vs Buy Calculator
 hide_body: true
-permalink: "/knowledgebase/tools-and-calculators/cloud-build-vs-buy-calculator"
+permalink: "/knowledgebase/tools-and-calculators/cloud-build-vs-buy-calculator/"
 page_sections:
 - template: page-hero
   block: page-hero

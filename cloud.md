@@ -2,7 +2,7 @@
 layout: blocks
 title: Enterprise Cloud
 hide_body: true
-permalink: "/services/cloud"
+permalink: "/services/cloud/"
 tags:
 - Disaster Recovery
 - VMware

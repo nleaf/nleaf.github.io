@@ -2,7 +2,7 @@
 layout: blocks
 title: Our Clients
 hide_body: true
-permalink: "/why-expedient/our-customers"
+permalink: "/why-expedient/our-customers/"
 tags:
 - Disaster Recovery
 - VMware

@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-03T14:43:10-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Expedient</title><subtitle>Expedient Demo Site for Forestry.io</subtitle><entry><title type="html">Can Enterprise Cloud Infrastructure Simplify Mergers and Acquisitions?</title><link href="http://localhost:4000/knowledgebase/blog/2019-08-30-can-enterprise-cloud-infrastructure-simplify-mergers-and-acquisitions/" rel="alternate" type="text/html" title="Can Enterprise Cloud Infrastructure Simplify Mergers and Acquisitions?" /><published>2019-08-30T00:00:00-04:00</published><updated>2019-08-30T00:00:00-04:00</updated><id>http://localhost:4000/knowledgebase/blog/can-enterprise-cloud-infrastructure-simplify-mergers-and-acquisitions</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-08-30-can-enterprise-cloud-infrastructure-simplify-mergers-and-acquisitions/">&lt;h2 id=&quot;can-enterprise-cloud-infrastructure-simplify-mergers-and-acquisitions&quot;&gt;Can Enterprise Cloud Infrastructure Simplify Mergers and Acquisitions?&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-12T09:58:28-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Expedient</title><subtitle>Expedient Demo Site for Forestry.io</subtitle><entry><title type="html">Solutions for VMware EcoCast at VMworld 2019 – Expedient Enterprise Cloud</title><link href="http://localhost:4000/knowledgebase/blog/2019-09-06-solutions-for-vmware-ecocast-at-vmworld-2019-expedient-enterprise-cloud/" rel="alternate" type="text/html" title="Solutions for VMware EcoCast at VMworld 2019 – Expedient Enterprise Cloud" /><published>2019-09-08T00:00:00-04:00</published><updated>2019-09-08T00:00:00-04:00</updated><id>http://localhost:4000/knowledgebase/blog/solutions-for-vmware-ecocast-at-vmworld-2019-expedient-enterprise-cloud</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-09-06-solutions-for-vmware-ecocast-at-vmworld-2019-expedient-enterprise-cloud/">&lt;p&gt;At VMworld 2019, I sat down with Scott Lowe from &lt;a href=&quot;https://www.actualtechmedia.com&quot;&gt;ActualTech Media&lt;/a&gt; to discuss &lt;a href=&quot;https://www.expedient.com/services/infrastructure-as-a-service/cloud/&quot;&gt;Expedient Enterprise Cloud&lt;/a&gt; (EEC) and the difference between cloud and managed service providers like Expedient and the hyperscale cloud providers like AWS and Azure. During our conversation, Scott and I discussed the architecture of EEC, the EEC user experience, how Expedient supports the hybrid cloud needs of its clients, and why our telecom carrier beginnings differentiate Expedient as a cloud service and disaster recovery as a service (DRaaS) solution provider.&lt;/p&gt;
+
+&lt;p&gt;We wrapped up the conversation with on overview of our multi-cloud journey and the major announcements that Expedient made at VMworld 2019. If you would like to learn more about these announcements or how Expedient Enterprise Cloud can streamline your organization’s cloud transformation journey while saving you money, watch the interview:&lt;/p&gt;
+
+&lt;div class=&quot;w-7/12&quot;&gt;
+    &lt;iframe width=&quot;663&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/awlLqH1qWok&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;As Chief Innovation Officer, John White is the lead executive at Expedient responsible for the company’s product and technology vision. In addition to leading Expedient’s product strategy function, John also serves as the lead technology evangelist for the company, works closely with the sales team on closing complex/high brand deals, and acts as Expedient’s primary interface with existing technology partners. Follow him on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/johna_white&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>John White</name></author><category term="Security and Compliance" /><category term="Disaster Recovery" /><category term="Cloud" /><summary type="html">At VMworld 2019, I sat down with Scott Lowe from ActualTech Media to discuss Expedient Enterprise Cloud (EEC) and the difference between cloud and managed service providers like Expedient and the hyperscale cloud providers like AWS and Azure. During our conversation, Scott and I discussed the architecture of EEC, the EEC user experience, how Expedient supports the hybrid cloud needs of its clients, and why our telecom carrier beginnings differentiate Expedient as a cloud service and disaster recovery as a service (DRaaS) solution provider.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/EcoCast%20Video%20Screenshot.JPG" /></entry><entry><title type="html">Expedient Makes Its Mark at VMworld 2019</title><link href="http://localhost:4000/knowledgebase/blog/2019-09-03-expedient-makes-its-mark-at-vmworld-2019/" rel="alternate" type="text/html" title="Expedient Makes Its Mark at VMworld 2019" /><published>2019-09-03T00:00:00-04:00</published><updated>2019-09-03T00:00:00-04:00</updated><id>http://localhost:4000/knowledgebase/blog/expedient-makes-its-mark-at-vmworld-2019</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-09-03-expedient-makes-its-mark-at-vmworld-2019/">&lt;p&gt;&lt;img src=&quot;/uploads/4-Mark-Made-VMworld2019_small.jpg&quot; alt=&quot;&quot; /&gt;At VMworld 2019, VMware encouraged attendees to “Make Your Mark.” The Expedient team answered that call as the &lt;a href=&quot;https://www.expedient.com/blog/expedient-named-vmwares-americas-cloud-partner-of-the-year/&quot;&gt;VMware Americas Cloud Partner of the Year&lt;/a&gt; with its first ever sponsorship of the event, an exhibition booth in the Solutions Exchange, multiple educational session presentations, client case studies, and technology testimonials. More than twenty Expedient team members traveled to San Francisco to participate in the event, which was held at Moscone Center and several surrounding hotels.&lt;/p&gt;
+
+&lt;h5 id=&quot;-the-expedient-team-pauses-to-pose-at-the-exhibition-booth-in-the-solutions-exchange-the-booth-featured-our-vmware-americas-cloud-partner-of-the-year-award&quot;&gt;&lt;img src=&quot;/uploads/Expedient-Team-at-VMworld-2019.jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;The Expedient team pauses to pose at the exhibition booth in the Solutions Exchange. The booth featured our VMware Americas Cloud Partner of the Year award.&lt;/em&gt;&lt;/h5&gt;
+
+&lt;p&gt;Our booth in the Solutions Exchange offered a unique opportunity to conduct demonstrations of our VMware Cloud Verified Expedient Enterprise Cloud infrastructure as a service (IaaS) and disaster recovery as a service (DRaaS) solutions.&lt;/p&gt;
+
+&lt;h5 id=&quot;an-expedient-solutions-architect-conducts-a-demonstration-of-expedient-enterprise-cloud-with-a-conference-attendee&quot;&gt;&lt;em&gt;&lt;img src=&quot;/uploads/Expedient-SA-Demo-VMworld.jpg&quot; alt=&quot;&quot; /&gt;An Expedient Solutions Architect conducts a demonstration of Expedient Enterprise Cloud with a conference attendee.&lt;/em&gt;&lt;/h5&gt;
+
+&lt;p&gt;In addition to our booth presence at the conference, Expedient sponsored several hospitality events at VMworld, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Americas Party&lt;/strong&gt; – Along with CDW and Dell EMC, Expedient was a sponsor of the annual party celebrating VMware clients. Attended by both Pat Gelsinger and Michael Dell, attendees also included other company executives and all participants enjoyed food, drink, and music while networking late into the night.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hall Crawl&lt;/strong&gt; – Expedient was one of only twenty vendors out of the 225 with a presence in the Solutions Exchange to offer free drinks during this annual happy hour event that draws a high volume of attendees to vendor booths. The company was the only participant to offer ice cream treats, making our booth particularly popular with the crowd that late afternoon.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tailgate Party and San Francisco Giants Baseball Game&lt;/strong&gt; – Along with our partner Cohesity, we sponsored a pre-game happy hour tailgate at Oracle Park featuring the #CohesityOnWheels demo truck, food, and drink. Participants had the opportunity to take a photo with the Giants World Series trophies!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Private Performance of HAMILTON the Musical&lt;/strong&gt; – Along with our partner Cohesity, we offered our prospects and clients the opportunity to attend this exclusive performance at SHN Orpheum Theatre. More than 2,000 attended.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;As Senior Vice President and Chief Operating Officer, Jonathan Rosenson is responsible for overseeing organizational functions that drive growth at Expedient. Jon additionally acts as an external spokesperson conveying the Expedient story.&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rosenson&quot;&gt;&lt;em&gt;Follow him&lt;/em&gt;&lt;/a&gt; &lt;em&gt;on Twitter.&lt;/em&gt;&lt;/p&gt;</content><author><name>Jon Rosenson</name></author><category term="Cloud" /><summary type="html">At VMworld 2019, VMware encouraged attendees to “Make Your Mark.” The Expedient team answered that call as the VMware Americas Cloud Partner of the Year with its first ever sponsorship of the event, an exhibition booth in the Solutions Exchange, multiple educational session presentations, client case studies, and technology testimonials. More than twenty Expedient team members traveled to San Francisco to participate in the event, which was held at Moscone Center and several surrounding hotels.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/Expedient-Team-at-VMworld-2019.jpg" /></entry><entry><title type="html">Can Enterprise Cloud Infrastructure Simplify Mergers and Acquisitions?</title><link href="http://localhost:4000/knowledgebase/blog/2019-08-30-can-enterprise-cloud-infrastructure-simplify-mergers-and-acquisitions/" rel="alternate" type="text/html" title="Can Enterprise Cloud Infrastructure Simplify Mergers and Acquisitions?" /><published>2019-08-30T00:00:00-04:00</published><updated>2019-08-30T00:00:00-04:00</updated><id>http://localhost:4000/knowledgebase/blog/can-enterprise-cloud-infrastructure-simplify-mergers-and-acquisitions</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-08-30-can-enterprise-cloud-infrastructure-simplify-mergers-and-acquisitions/">&lt;h2 id=&quot;can-enterprise-cloud-infrastructure-simplify-mergers-and-acquisitions&quot;&gt;Can Enterprise Cloud Infrastructure Simplify Mergers and Acquisitions?&lt;/h2&gt;
 
 &lt;p&gt;Mergers and acquisitions are common in most industries these days. While companies employ many different strategies to integrate newly acquired companies, we’ve found that the companies that leverage Information Technology (IT) as a strategic asset during the M&amp;amp;A process typically enjoy much smoother corporate integrations than those that don’t. We commonly see four IT disciplines used as ingredients for merger success: &lt;strong&gt;standards&lt;/strong&gt;, &lt;strong&gt;service levels&lt;/strong&gt;, &lt;strong&gt;tooling&lt;/strong&gt;, and &lt;strong&gt;skills&lt;/strong&gt;.&lt;/p&gt;
 
@@ -344,132 +369,4 @@
 
 &lt;p&gt;There were several thought leaders and inspirational guest speakers at the conference, including &lt;strong&gt;Michael Chertoff&lt;/strong&gt; (former Secretary of Homeland Security), &lt;strong&gt;Patrick Lencioni&lt;/strong&gt; (author of “&lt;a href=&quot;https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756&quot;&gt;The Five Dysfunctions of a Team&lt;/a&gt;”), &lt;strong&gt;Nicole Malachowski&lt;/strong&gt; (retired U.S. Air Force Colonel and first female Thunderbird Pilot and Combat Veteran), and others. Each speaker offered a different perspective on the theme of change that connects back to the concepts of &lt;strong&gt;ContinuousNEXT&lt;/strong&gt; and &lt;a href=&quot;https://www.expedient.com/blog/the-evolution-of-disaster-recovery-gaining-it-resilience/&quot;&gt;Organizational Resilience&lt;/a&gt; that are needed to adapt to digital business operations.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;As Senior Vice President and Chief Operating Officer, Jonathan Rosenson is responsible for overseeing organizational functions that drive growth at Expedient. Jon additionally acts as an external spokesperson conveying the Expedient story.&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rosenson&quot;&gt;&lt;em&gt;Follow him&lt;/em&gt;&lt;/a&gt; &lt;em&gt;on Twitter.&lt;/em&gt;&lt;/p&gt;</content><author><name>Jon Rosenson</name></author><category term="Security and Compliance" /><category term="Disaster Recovery" /><category term="managed services" /><category term="risk management" /><summary type="html">The Business Case for Organizational Resilience</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/EXP-Social--Gartner_Summit.png" /></entry><entry><title type="html">The Differences Between Backups and Disaster Recovery</title><link href="http://localhost:4000/knowledgebase/blog/2019-06-27-the-differences-between-backups-and-disaster-recovery/" rel="alternate" type="text/html" title="The Differences Between Backups and Disaster Recovery" /><published>2019-06-27T09:55:50-04:00</published><updated>2019-06-27T09:55:50-04:00</updated><id>http://localhost:4000/knowledgebase/blog/the-differences-between-backups-and-disaster-recovery</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-06-27-the-differences-between-backups-and-disaster-recovery/">&lt;h2 id=&quot;backups-and-disaster-recovery-whats-the-difference&quot;&gt;Backups and Disaster Recovery: What’s the Difference?&lt;/h2&gt;
-
-&lt;p&gt;Modern IT departments need to be able to protect their mission-critical data and quickly respond in the event of a problem in their environment.   This capability hinges on maintaining a strategy for both backups and disaster recovery.  These two capabilities &lt;a href=&quot;https://www.expedient.com/blog/what-are-the-differences-between-backups-and-disaster-recovery/&quot;&gt;are often conflated with each other&lt;/a&gt; but this blog post will explore the differences between the two and explain the situations they are needed for.&lt;/p&gt;
-
-&lt;h3 id=&quot;backups&quot;&gt;Backups&lt;/h3&gt;
-
-&lt;p&gt;Backups have been around almost as long as computers themselves and revolve around making point-in-time copies of all data on a given system.  A good backup solution should be capable of restoring anything from a single file to an entire system to a recently known-good state.  These backups are crucial in several situations:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A developer accidentally drops a table from a production database and it needs to be restored.&lt;/li&gt;
-  &lt;li&gt;A user accidentally deletes a file from a shared drive.&lt;/li&gt;
-  &lt;li&gt;A single server fails due to a bad software update and must be restored to the state it was in prior to the change.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A server is impacted by ransomware or other malware renders it unusable.&lt;/p&gt;
-
-    &lt;h4 id=&quot;infrastructure-integrations&quot;&gt;Infrastructure Integrations&lt;/h4&gt;
-
-    &lt;p&gt;Whether you’re running workloads on physical servers, a local hypervisor (vCenter) or in the cloud, your backup solution should work with the underlying infrastructure to leverage capabilities like snapshots, which will enable performant backups and rapid restores of entire systems.&lt;/p&gt;
-
-    &lt;h4 id=&quot;application-compatibility&quot;&gt;Application Compatibility&lt;/h4&gt;
-
-    &lt;p&gt;Applications, particularly databases, often have their own requirements for performing successful backups and restores. Before settling on a backup solution, you should ensure that it is compatible with your existing applications and be aware of any special procedures that are required to perform successful backup that can be restored.&lt;/p&gt;
-
-    &lt;h4 id=&quot;rporto&quot;&gt;RPO/RTO&lt;/h4&gt;
-
-    &lt;p&gt;If any of the issues listed above occurs, how long of an outage is acceptable (defined by Recovery Time Objective (RTO)), and how much data loss is acceptable (defined by Recovery Point Objective (RPO)).&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;disaster-recovery&quot;&gt;Disaster Recovery&lt;/h3&gt;
-
-&lt;p&gt;10 years ago, the disaster recovery plans of most organizations involved moving a set of their backup tapes off-site at the end of every week and calling it a day.  That is fine as long as the business is OK with the idea of potentially losing a week’s worth of work and being offline until a new data center is set up and all of the systems are restored.  Of course, most businesses in 2019 simply can’t survive that sort of operational disruption, so new solutions must be devised to deliver the desired level of IT availability. &lt;strong&gt;Here are a few scenarios that your disaster recovery solution should be able to handle:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The obvious&lt;/strong&gt; – some disaster that physically damages/destroys the data center where your workloads exist, such as:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Earthquake&lt;/li&gt;
-  &lt;li&gt;Water leak in some office that exists above the data center, causing a flood&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;A full network outage&lt;/strong&gt; in your primary data center, so while the systems may still be running they are not accessible to your users.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A long-term power outage at your office (assuming your infrastructure is in an office data center rather than a colocation facility).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Dealing with the issues above while maintaining the availability the business demands obviously requires a solution that goes beyond backups and includes a number of additional requirements, such as:&lt;/p&gt;
-
-&lt;h4 id=&quot;a-hot-site&quot;&gt;A “hot site”&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Basically, this entails a disparate location other than your data center where your workloads can be rapidly brought online and made available to your users.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;continuous-replication&quot;&gt;Continuous replication&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To meet the aggressive RPO’s modern businesses demand in the event of a disaster, data needs to be continuously replicated to the hot-site so that data loss is minimal.&lt;/li&gt;
-  &lt;li&gt;This data replication feature is also incredibly useful &lt;a href=&quot;https://www.expedient.com/blog/cloud-migration-strategies-how-to-choose-the-right-one/&quot;&gt;for migrating workloads&lt;/a&gt; from one environment to another with minimal downtime.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;service-discovery&quot;&gt;Service Discovery&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;After a fail-over takes place how do your users connect to the new environment? For smaller organizations this can be as simple as desktop engineers working with users to point their local machines to the new location, but for larger organizations, this needs to happen automatically.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The considerations for a DR platform are similar but slightly different than those for a backup solution. They include:&lt;/p&gt;
-
-&lt;h4 id=&quot;infrastructure-integrations-1&quot;&gt;Infrastructure Integrations&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A DR solution needs to be natively compatible with both the infrastructure you are protecting and the environment you plan to recover to.&lt;/li&gt;
-  &lt;li&gt;IF you are planning to use a recovery site that is using a different hypervisor than your primary site (e.g. failing over to a hyperscale cloud or from a physical server into a VM) it is also important that your DR solution have a way of re-configuring the machine operating system to have the correct drivers and other software packages for the new environment.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;rporto-1&quot;&gt;RPO/RTO&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Many modern DR solutions enable near-real-time RPOs, however this is heavily dependent on your network link to the recovery site and your data change rate.&lt;/li&gt;
-  &lt;li&gt;Due to differences in how cloud providers work internally, different backup solutions offer a range of RTO’s on different platforms. It is important to look at the expected RTO for the source site/recovery site/DR software combination you plan to use and ensure that the RTO for this combination meets the requirements of your business.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;consistency-requirements&quot;&gt;Consistency requirements&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Unlike traditional backups, DR solutions are generally not aware of underlying applications like databases. This means that additional care must be taken to ensure that data is consistent across servers in the event of an unexpected failover.&lt;/li&gt;
-  &lt;li&gt;Some DR solutions incorporate the idea of a “&lt;strong&gt;consistency group&lt;/strong&gt;” which ensures that a group of servers are always being restored to the exact same point in time to avoid inconsistency issues after a restore.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;service-discovery-1&quot;&gt;Service Discovery&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;After a failover is completed, a full DR solution should take steps to ensure that users are able to reach their applications quickly and without direct intervention from IT staff.&lt;/li&gt;
-  &lt;li&gt;The traditional way of handling this is to reconfigure DNS entries to point to the new site, however this method of failover can take a long time to propagate to all users, particularly if they are globally distributed or if long TTL’s exist on the entries themselves. Whatever the case, make sure to account for this additional time in your RTO calculations.&lt;/li&gt;
-  &lt;li&gt;An alternate way of dealing with this problem is to fail over the entire networking stack with the compute resources and announce the same IP addresses from the new location. This requires a deep integration with the infrastructure of both the source and destination sites. By automating and orchestrating network failover, Expedient’s Push Button DR solution enables this failover approach, which enables real-time RPOs and RTOs measured in minutes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;While these DR capabilities are wonderful, it’s important to remember that as of right now most DR solutions are optimized for the recovery of VMs but are lacking in important backup features like the ability to rapidly restore a single file deleted by a user or bringing back a database table that was mistakenly dropped. Since your business will most likely require a combination of DR and backup functionality, a hybrid solution that supports both is typically recommended.&lt;/p&gt;
-
-&lt;p&gt;Need help translating business requirements into a cohesive business continuity strategy that addresses both backups and disaster recovery? Expedient Solution Architects are adept at creating custom IT resilience solutions to match the specific needs of your business. Feel free to &lt;a href=&quot;mailto:mike.garuccio@expedient.com&quot;&gt;email me&lt;/a&gt; and I can put you in touch with an Expedient SA.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Mike Garuccio is a Product Strategy Engineer at Expedient focused on researching new software and hardware to find ways to productize this technology into new solutions for Expedient clients. As a ‘full stack’ engineer, Mike works with all layers of infrastructure architecture - from the hypervisor all the way up to front-end applications. Mike has played a leading role in the deployment and implementation of Expedient’s next-generation cloud platform, Expedient Enterprise Cloud. His professional interests include automation, containers, Kubernetes, CI/CD, and developer experience optimization. Follow Mike on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/mgaruccio&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Mike Garuccio</name></author><category term="Disaster Recovery" /><category term="managed services" /><summary type="html">Backups and Disaster Recovery: What’s the Difference?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/EXP-Garuccio_Blog--Backups-vs-DR_1.png" /></entry><entry><title type="html">Hyperscale or Enterprise Cloud? Let Your Applications Decide – Part 2</title><link href="http://localhost:4000/knowledgebase/blog/2019-06-18-hyperscale-or-enterprise-cloud-let-your-applications-decide-part-2/" rel="alternate" type="text/html" title="Hyperscale or Enterprise Cloud? Let Your Applications Decide – Part 2" /><published>2019-06-18T11:33:35-04:00</published><updated>2019-06-18T11:33:35-04:00</updated><id>http://localhost:4000/knowledgebase/blog/hyperscale-or-enterprise-cloud-let-your-applications-decide-part-2</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-06-18-hyperscale-or-enterprise-cloud-let-your-applications-decide-part-2/">&lt;h2 id=&quot;hyperscale-vs-enterprise-cloud&quot;&gt;Hyperscale vs. Enterprise Cloud&lt;/h2&gt;
-
-&lt;p&gt;This is the second installment of a two-part blog post on the difference between “smart” and “dumb” applications. Part 2 covers the characteristics of “dumb applications” that are best suited to run on “smart hardware.” To learn more about “smart applications” (aka cloud native applications) running on “dumb hardware,” &lt;a href=&quot;https://www.expedient.com/blog/hyperscale-or-enterprise-cloud-let-your-applications-decide-part-i/&quot;&gt;&lt;strong&gt;read Part 1&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;dumb-applications-on-smart-hardware&quot;&gt;Dumb Applications on Smart Hardware&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;Dumb applications&lt;/strong&gt; are traditional applications that typically run on Windows, Linux, and VMware infrastructure. There is little to no redundancy built in to the application code, hence “dumb applications.”  If the application needs to be highly reliable, the underlying computer hardware and operating system must be smart and resilient enough to handle hardware failures, network connection problems, and malware attacks, hence the term &lt;strong&gt;smart hardware&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Most line of business applications like manufacturing ERPs, Electronic Medical Records, and industry-specific software still fall in to the category of dumb applications.  These applications were often developed before the advent of cloud computing and are still most applications running in on-premises, colocated data centers, and hosted Windows and Linux environments. The best fit for dumb applications on smart hardware is usually a &lt;strong&gt;hardware-redundant enterprise cloud&lt;/strong&gt; such as &lt;a href=&quot;https://www.expedient.com/services/infrastructure-as-a-service/cloud/&quot;&gt;Expedient’s Enterprise Cloud platform&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;enterprise-cloud-considerations&quot;&gt;Enterprise Cloud Considerations&lt;/h4&gt;
-
-&lt;p&gt;When evaluating if an enterprise cloud is a good fit for a “dumb” application, make sure to consider the service by:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Familiarity&lt;/strong&gt; – Does the enterprise cloud your considering use hypervisors, operating systems and tooling that are industry standard and familiar to your IT staff or your IT service providers?&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Performance&lt;/strong&gt; – Is the underlying hardware/software architecture fast enough to match or exceed the existing software implementation, or to meet your users’ needs?&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Economics&lt;/strong&gt; - Is the cost of using the enterprise cloud predictable? Does it show appropriate return on investment when the hardware, software licensing, data protection and reduction in IT staff labor is evaluated?&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Automation Capability&lt;/strong&gt; – Does the enterprise cloud have an API that allows your IT team to automate and control the compute environment programmatically?&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Service level agreements&lt;/strong&gt; – Does the enterprise cloud’s SLA match up with your organization’s expected recovery times and recovery points?&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Network&lt;/strong&gt; – How flexible will your network be with an enterprise cloud provider? Can you connect to an existing wide area network?  Can the enterprise cloud provider include connectivity in to the offering?  Does the enterprise cloud provider offer faster, more cost-conscious connections to multiple clouds if you need them?&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Financial stability&lt;/strong&gt; – How long has the enterprise cloud provider delivered services? Does the provider innovate and improve their cloud regularly?  What is the debt load of the provider?  Who is the enterprise cloud provider’s first consideration:  stockholders, private equity, leadership or clients?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Did you know?&lt;/strong&gt; In a recent independent cloud analysis performed by Cloud Spectator LLC, the Expedient Enterprise Cloud platform largely outperformed comparable instances from AWS, Azure and Rackspace. &lt;a href=&quot;https://www.expedient.com/2019-cloud-spectator-report/&quot;&gt;Download your free copy&lt;/a&gt; of the benchmark report to see the results.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Doug Theis&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;is the Director of Market Strategy in Expedient’s Indianapolis market focused on engaging with and improving the regional IT community through planning, sponsoring and attending community events, facilitating IT-focused continuing education opportunities, and sharing strategies, tactics, and research to help IT professionals stay abreast of best practices and industry trends. Connect with Doug at&lt;/em&gt; &lt;a href=&quot;mailto:doug.theis@expedient.com&quot;&gt;&lt;em&gt;doug.theis@expedient.com&lt;/em&gt;&lt;/a&gt; &lt;em&gt;and follow him on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/dougtheis&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Doug Theis</name></author><category term="private cloud" /><category term="hybrid cloud" /><category term="Multi-cloud" /><category term="hyperscale cloud" /><category term="VMware" /><category term="Expedient Enterprise Cloud" /><summary type="html">Hyperscale vs. Enterprise Cloud</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/EXP-Social-Let-Your-Applications-Decide.png" /></entry></feed>
+&lt;p&gt;&lt;em&gt;As Senior Vice President and Chief Operating Officer, Jonathan Rosenson is responsible for overseeing organizational functions that drive growth at Expedient. Jon additionally acts as an external spokesperson conveying the Expedient story.&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rosenson&quot;&gt;&lt;em&gt;Follow him&lt;/em&gt;&lt;/a&gt; &lt;em&gt;on Twitter.&lt;/em&gt;&lt;/p&gt;</content><author><name>Jon Rosenson</name></author><category term="Security and Compliance" /><category term="Disaster Recovery" /><category term="managed services" /><category term="risk management" /><summary type="html">The Business Case for Organizational Resilience</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/EXP-Social--Gartner_Summit.png" /></entry></feed>

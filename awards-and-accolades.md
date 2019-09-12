@@ -2,7 +2,7 @@
 layout: blocks
 title: Awards and Accolades
 hide_body: true
-permalink: "/why-expedient/awards-and-accolades"
+permalink: "/why-expedient/awards-and-accolades/"
 tags:
 - Disaster Recovery
 - VMware

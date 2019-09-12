@@ -2,7 +2,7 @@
 layout: blocks
 title: EXPEDIENT EU-U.S. AND SWISS-U.S. PRIVACY SHIELD POLICY for GENERAL DATA PROTECTION REGULATION (GDPR)
 hide_body: false
-permalink: "/services/managed-services/compliance-security/privacy-shield"
+permalink: "/services/managed-services/compliance-security/privacy-shield/"
 page_sections:
 - template: page-hero
   block: page-hero

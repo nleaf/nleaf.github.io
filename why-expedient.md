@@ -2,7 +2,7 @@
 layout: blocks
 title: Why Expedient
 hide_body: true
-permalink: "/why-expedient"
+permalink: "/why-expedient/"
 tags:
 - Disaster Recovery
 - VMware

@@ -2,7 +2,7 @@
 layout: blocks
 title: Disaster Recovery as a Service
 hide_body: true
-permalink: "/services/disaster-recovery"
+permalink: "/services/disaster-recovery/"
 tags:
 - Disaster Recovery
 - VMware

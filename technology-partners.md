@@ -2,7 +2,7 @@
 layout: blocks
 title: Technology Partners
 hide_body: true
-permalink: "/why-expedient/technology-partners"
+permalink: "/why-expedient/technology-partners/"
 tags:
 - Disaster Recovery
 - VMware

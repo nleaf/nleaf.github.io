@@ -4,7 +4,7 @@ layout: tools
 sub_heading: ''
 description: Tools and Calculators by Expedient
 publish_date: 2017-11-01T03:00:00.000+00:00
-permalink: '/knowledgebase/tools-and-calculators'
+permalink: '/knowledgebase/tools-and-calculators/'
 pagination: 
   enabled: true
   collection: tools

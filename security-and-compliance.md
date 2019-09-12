@@ -2,7 +2,7 @@
 layout: blocks
 title: Security and Compliance
 hide_body: true
-permalink: "/services/security-and-compliance"
+permalink: "/services/security-and-compliance/"
 tags:
 - Disaster Recovery
 - VMware

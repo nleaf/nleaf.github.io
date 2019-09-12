@@ -2,7 +2,7 @@
 layout: blocks
 title: Success Stories
 hide_body: true
-permalink: "/why-expedient/success-stories"
+permalink: "/why-expedient/success-stories/"
 tags:
 - Disaster Recovery
 - VMware

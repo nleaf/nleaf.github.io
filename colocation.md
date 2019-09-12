@@ -2,7 +2,7 @@
 layout: blocks
 title: Colocation
 hide_body: true
-permalink: "/services/colocation"
+permalink: "/services/colocation/"
 tags:
 - Disaster Recovery
 - VMware

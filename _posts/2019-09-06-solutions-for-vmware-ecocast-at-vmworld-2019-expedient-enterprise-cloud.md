@@ -5,7 +5,7 @@ seo_title: ''
 description: ''
 image: "/uploads/EcoCast Video Screenshot.JPG"
 banner_image: ''
-date: 
+date: 2019-09-08T04:00:00.000+00:00
 tags:
 - Security and Compliance
 - Disaster Recovery

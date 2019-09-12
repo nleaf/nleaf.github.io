@@ -2,7 +2,7 @@
 layout: blocks
 title: Terms and Conditions
 hide_body: false
-permalink: "/terms-and-conditions"
+permalink: "/terms-and-conditions/"
 tags:
 - Disaster Recovery
 - VMware

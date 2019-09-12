@@ -2,7 +2,7 @@
 layout: blocks
 title: Data Center Build vs Buy Calculator
 hide_body: true
-permalink: "/knowledgebase/tools-and-calculators/data-center-build-vs-buy-calculator"
+permalink: "/knowledgebase/tools-and-calculators/data-center-build-vs-buy-calculator/"
 page_sections:
 - template: page-hero
   block: page-hero

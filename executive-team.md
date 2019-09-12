@@ -2,7 +2,7 @@
 layout: blocks
 title: Executive Team
 hide_body: true
-permalink: "/about/executive-team"
+permalink: "/about/executive-team/"
 page_sections:
 - template: page-hero
   block: page-hero

@@ -2,7 +2,7 @@
 layout: blocks
 title: Data Centers
 hide_body: true
-permalink: "/data-centers"
+permalink: "/data-centers/"
 tags:
 - Disaster Recovery
 - VMware

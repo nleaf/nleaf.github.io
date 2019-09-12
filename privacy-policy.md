@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Privacy Policy
-permalink: "/privacy-policy"
+permalink: "/privacy-policy/"
 page_sections:
 - template: page-hero
   block: page-hero

@@ -2,7 +2,7 @@
 layout: blocks
 title: Overview
 hide_body: false
-permalink: "/about/overview"
+permalink: "/about/overview/"
 tags:
 - Disaster Recovery
 - VMware

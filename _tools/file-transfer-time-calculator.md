@@ -2,7 +2,7 @@
 layout: blocks
 title: File Transfer Time Calculator
 hide_body: true
-permalink: "/knowledgebase/tools-and-calculators/file-transfer-time-calculator"
+permalink: "/knowledgebase/tools-and-calculators/file-transfer-time-calculator/"
 page_sections:
 - template: page-hero
   block: page-hero
