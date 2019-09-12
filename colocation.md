@@ -86,7 +86,7 @@ page_sections:
   link: "/data-centers/"
   cta: Learn More
   heading: 'Ready to exit your data center for Expedient? '
-  content: 'Find a data center nearest you and learn more. '
+  content: Find the data center nearest you and schedule a tour.
   icon: ''
   background: "/uploads/EXP_Block-Callout-Background-2.jpg"
 - template: recent-posts
