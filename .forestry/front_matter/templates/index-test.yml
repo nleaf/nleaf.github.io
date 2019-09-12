@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- colocation.md
 - cloud.md
 - index.md
 - technology-partners.md
@@ -58,7 +59,6 @@ pages:
 - tools-and-calculators.md
 - our-customers.md
 - executive-team.md
-- colocation.md
 - why-expedient.md
 - overview.md
 - security-and-compliance.md

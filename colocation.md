@@ -28,6 +28,8 @@ page_sections:
     the United States enable your organization to host your hardware while taking
     advantage of features standard in each facility: "
   icon: "/uploads/EXP_Server.svg"
+  cta_label: ''
+  cta_link: ''
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
@@ -79,57 +81,14 @@ page_sections:
     description: Expedient’s Operations Support Center encompasses all aspects of
       a network control center, call center, and IT help desk, enabling a single point
       of contact to clients 24 hours a day, 7 days a week.
-- template: quote
-  block: quote
-  image: "/uploads/EXP_Circle-Mark.svg"
-  image-alt: Expedient
-  quote: "“Our experience watching Push Button DR in action for our applications was
-    like magic. It simplified our business continuity plan.”"
-  cite: "- IT Director, Professional Services Company"
-  link: ''
-  cta: ''
 - template: callout
   block: callout
-  link: contact.md
+  link: "/data-centers/"
   cta: Learn More
-  heading: Interested in saving $100,000 a day?
-  content: Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
-    Push Button DR.
+  heading: 'Ready to exit your data center for Expedient? '
+  content: 'Find a data center nearest you and learn more. '
   icon: ''
   background: "/uploads/EXP_Block-Callout-Background-2.jpg"
-- template: featured-service
-  block: featured-service
-  title: On-Site Private Cloud with Disaster Recovery as a Service
-  headline: 'Ease your transition to the  cloud with a dedicated  on-premises cloud. '
-  description: Expedient’s On-Site Private Cloud with Disaster Recovery as a Service
-    is designed to ease your transition to the cloud through dedicated on-premises
-    cloud resources coupled with managed disaster recovery from your location to any
-    one of Expedient’s 11 data centers using Push Button DR. The On-Site Private Cloud
-    with DRaaS is ideal for customers who want to transform their IT operations without
-    sacrificing the benefits or control of an on-premises environment.
-  icon: "/uploads/EXP_OnSiteDraaS.svg"
-  align-left: false
-- template: highlights-2-column-2-row
-  block: highlights-2col-2row
-  heading: Robust and Secure
-  subheading: On-Site Private Cloud  Provides
-  highlights:
-  - headline_left: Risk Mitigation
-    description_left: Protect data and comply with mandates like the Payment Card
-      Industry Data Security Standard (PCI DSS)
-    icon_left: "/uploads/EXP_RiskMitigation.svg"
-    headline_right: Agility
-    description_right: Operate applications in multiple data centers concurrently
-      for active/active  workload protection.
-    icon_right: "/uploads/EXP_Agility.svg"
-  - headline_left: Availability
-    description_left: Replicate computing workloads of critical importance in two
-      or more data centers and rely upon automatic recovery if the unexpected happens.
-    icon_left: "/uploads/EXP_Availability.svg"
-    headline_right: Cost Control
-    description_right: Stop purchasing hardware and accurately forecast monthly operational
-      infrastructure expense while taking advantage of the latest technology.
-    icon_right: "/uploads/EXP_CostControl.svg"
 - template: recent-posts
   block: recentposts
 - template: newsletter
