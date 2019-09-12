@@ -58,7 +58,7 @@ page_sections:
   - title: Expedient Named VMware Americas Cloud Partner of the Year
     icon: "/uploads/ico_trophy.svg"
     link: "/knowledgebase/blog/2019-04-10-expedient-named-vmwares-americas-cloud-partner-of-the-year/"
-    description: Expedient Named VMware’s Americas Regional Cloud Partner of the Year
+    description: Expedient Named VMware’s Americas Cloud Partner of the Year
     newtab: false
 - template: featured
   block: featured
