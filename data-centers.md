@@ -67,7 +67,7 @@ page_sections:
   - align-left: true
     icon: "/uploads/EXP_RiskMitigation.svg"
     background: "/uploads/ph_hurricane.jpg"
-    headline: Risk Mitigation
+    headline: 'Baltimore - Owings Mills '
     description: Protect information technology workloads with disaster recovery solutions
       that offer the fastest recovery time objectives.
 - template: highlights-2-column
