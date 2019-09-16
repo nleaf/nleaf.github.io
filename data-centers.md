@@ -47,8 +47,8 @@ page_sections:
   subheading: Explore Expedient Data Centers
   highlights:
   - align-left: true
-    icon: "/uploads/EXP_RiskMitigation.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-connection-icon.svg"
+    background: "/uploads/bg_servies-03.jpg"
     headline: 'Baltimore - Owings Mills '
     description: "<i>11155 Red Run Blvd., Owings Mills, MD 21117</i>\n<br> \n<li>
       Low latency connection to AWS East to enable hybrid cloud infrastructure</li>\n<li>
