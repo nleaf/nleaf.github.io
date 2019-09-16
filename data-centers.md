@@ -47,11 +47,6 @@ page_sections:
   subheading: Explore Expedient Data Centers
   highlights:
   - align-left: true
-    icon: ''
-    background: ''
-    headline: Pittsburgh - Green Tree
-    description: ''
-  - align-left: true
     icon: "/uploads/exp-connection-icon.svg"
     background: "/uploads/bg_servies-03.jpg"
     headline: 'Baltimore - Owings Mills '
@@ -133,6 +128,11 @@ page_sections:
       feeds, 4 auto-cutover diesel generators, multiple cooling systems, an 18-inch
       raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
       Support Center</li>"
+  - align-left: false
+    icon: ''
+    background: ''
+    headline: Pittsburgh - Green Tree
+    description: ''
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
