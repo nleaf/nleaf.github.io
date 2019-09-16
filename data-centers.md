@@ -9,10 +9,6 @@ tags:
 - DRAAS
 - Cloud Computing
 page_sections:
-- template: ''
-  block: ''
-  banner_image: ''
-  subheadline: ''
 - template: page-hero
   block: page-hero
   banner_image: "/uploads/bg_general-01.jpg"
