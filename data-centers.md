@@ -58,10 +58,12 @@ page_sections:
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
     background: "/uploads/ph_hurricane.jpg"
-    headline: Availability
-    description: Replicate computing workloads of critical importance in two or more
-      data centers or your own site and rely upon automatic recovery by interconnected
-      locations.
+    headline: Baltimore - Tidepoint
+    description: "<i>1050 Hull Street, Suite 150, Baltimore, MD 21230</i>\n<br> \n<li>
+      17,000 square feet of total floor space</li>\n<li> Redundant electric utility
+      power feeds, 4 auto-cutover diesel generators, multiple cooling systems, a 24-inch
+      raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
+      Support Center</li>"
   - align-left: true
     icon: "/uploads/EXP_RiskMitigation.svg"
     background: "/uploads/ph_hurricane.jpg"
