@@ -47,15 +47,6 @@ page_sections:
   subheading: Explore Expedient Data Centers
   highlights:
   - align-left: true
-    icon: ''
-    background: ''
-    headline: Pittsburgh - Nova Place
-    description: "<i>1 Allegheny Center, Pittsburgh, PA 15212</i>\n<br> \n<li> 26,000
-      square feet of total floor space</li>\n<li> Redundant electric utility power
-      feeds, 2 auto-cutover diesel generators, multiple cooling systems, a 24-inch
-      raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
-      Support Center</li>"
-  - align-left: true
     icon: "/uploads/exp-connection-icon.svg"
     background: "/uploads/bg_servies-03.jpg"
     headline: 'Baltimore - Owings Mills '
@@ -66,8 +57,8 @@ page_sections:
       raised floor, and advanced fire suppression</li>\n<li> 24x7x365 on-site Operations
       Support Center</li>"
   - align-left: false
-    icon: "/uploads/EXP_Availability.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-colo-icon.svg"
+    background: "/uploads/bg_general-01.jpg"
     headline: Baltimore - Tidepoint
     description: "<i>1050 Hull Street, Suite 150, Baltimore, MD 21230</i>\n<br> \n<li>
       17,000 square feet of total floor space</li>\n<li> Redundant electric utility
@@ -144,6 +135,15 @@ page_sections:
     description: "<i>810 Parish Street, Pittsburgh, PA 15220</i>\n<br> \n<li> 26,000
       square feet of total floor space</li>\n<li> Redundant electric utility power
       feeds, 3 auto-cutover diesel generators, multiple cooling systems, a 24-inch
+      raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
+      Support Center</li>"
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Pittsburgh - Nova Place
+    description: "<i>1 Allegheny Center, Pittsburgh, PA 15212</i>\n<br> \n<li> 26,000
+      square feet of total floor space</li>\n<li> Redundant electric utility power
+      feeds, 2 auto-cutover diesel generators, multiple cooling systems, a 24-inch
       raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
       Support Center</li>"
 - template: highlights-2-column
