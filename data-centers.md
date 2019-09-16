@@ -101,6 +101,15 @@ page_sections:
       electric utility power feeds, 2 auto-cutover diesel generators, multiple cooling
       systems, a 24-inch raised floor, and advanced fire suppression</li> \n<li> 24x7x365
       on-site Operations Support Center</li>"
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: 'Columbus - Dublin '
+    description: "<i>5700 Innovation Drive, Dublin, OH 43016</i>\n<br> \n<li> 29,000
+      square feet of total floor space</li>\n<li> Redundant electric utility power
+      feeds, 2 auto-cutover diesel generators, multiple cooling systems, a 24-inch
+      raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
+      Support Center</li>"
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
