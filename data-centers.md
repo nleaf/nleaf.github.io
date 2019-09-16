@@ -111,8 +111,8 @@ page_sections:
       raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
       Support Center</li>"
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-colo-icon.svg"
+    background: "/uploads/bg_general-07.jpg"
     headline: 'Indianapolis '
     description: "<i>701 Congressional Blvd., Suite 100, Carmel, IN 46032</i>\n<br>
       \n<li> 38,000 square feet of total floor space</li>\n<li> Redundant electric
