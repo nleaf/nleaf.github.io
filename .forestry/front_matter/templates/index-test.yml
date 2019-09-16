@@ -49,8 +49,8 @@ fields:
     min: 
     max: 
 pages:
-- security-and-compliance.md
 - disaster-recovery.md
+- security-and-compliance.md
 - colocation.md
 - cloud.md
 - index.md

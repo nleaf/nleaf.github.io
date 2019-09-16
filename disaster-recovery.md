@@ -19,8 +19,8 @@ page_sections:
   block: linkbar
   cta: Learn More
   link: https://go.expedient.com/magicquadrant2019
-  headline: Expedient's DRaaS is positioned in Gartner’s Magic Quadrant for Disaster
-    Recovery as a Service
+  headline: Expedient is positioned in Gartner’s Magic Quadrant for Disaster Recovery
+    as a Service
   newtab: true
 - template: highlights-2-column
   block: highlights-2col
