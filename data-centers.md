@@ -151,15 +151,6 @@ page_sections:
   heading: ''
   subheading: ''
   highlights: []
-- template: callout
-  block: callout
-  link: contact.md
-  cta: Learn More
-  heading: Interested in saving $100,000 a day?
-  content: Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
-    Push Button DR.
-  icon: ''
-  background: "/uploads/bg_hurricane.png"
 - template: recent-posts
   block: recentposts
 - template: newsletter
