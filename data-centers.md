@@ -75,8 +75,8 @@ page_sections:
       floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
       Support Center</li>"
   - align-left: false
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-connection-icon.svg"
+    background: "/uploads/bg_general-01.jpg"
     headline: 'Cleveland '
     description: ''
 - template: highlights-2-column
