@@ -26,16 +26,16 @@ page_sections:
 - template: featured-service
   block: featured-service
   align-left: true
-  title: Push Button DR
+  title: 'Expedient Data Centers '
   headline: Rapid Speed, Complete Confidence, Resilience at the push of a button
-  description: Expedient’s Push Button DR offers rapid, total network failover between
-    disparate locations at the push of a button, without IP or DNS changes. Our Recovery
-    Time Objectives (RTOs) and Recovery Point Objectives (RPOs) are measured in minutes,
-    not hours or days, giving you confidence in business continuity. Testing your
-    DR plan is a breeze with dedicated infrastructure and unlimited self-service or
-    supported tests. And if disaster strikes, you can rely upon our 24x7x365 Operations
-    Support Center team to be available if — and when — you need us.
-  icon: "/uploads/EXP_PushButtonDR.svg"
+  description: "You need capacity, power, safety, and security. You don't need the
+    headaches and costs of managing a data center. Expedient's data centers across
+    the United States enable your organization to host your hardware while taking
+    advantage of features standard in each facility, including: \n\n<li> Built-In
+    Redundancy: All Expedient data centers have N+1 or 2N redundancy</li>\n<li> Fast,
+    secure connectivity: All Expedient data centers are interconnected by a private
+    multigigabit network</li> \n<li> "
+  icon: "/uploads/exp-colo-icon.svg"
   cta_label: ''
   cta_link: ''
 - template: highlights-2-column
