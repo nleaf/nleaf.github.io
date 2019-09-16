@@ -132,7 +132,11 @@ page_sections:
     icon: ''
     background: ''
     headline: Pittsburgh - Green Tree
-    description: ''
+    description: "<i>810 Parish Street, Pittsburgh, PA 15220</i>\n<br> \n<li> 26,000
+      square feet of total floor space</li>\n<li> Redundant electric utility power
+      feeds, 3 auto-cutover diesel generators, multiple cooling systems, a 24-inch
+      raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
+      Support Center</li>"
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
