@@ -9,6 +9,11 @@ tags:
 - DRAAS
 - Cloud Computing
 page_sections:
+- template: page-hero
+  block: page-hero
+  subheadline: Managed security services that protect your critical applications at
+    every layer of your infrastructure, and help you to meet rigorous compliance demands
+  banner_image: ''
 - template: subscribe-bar
   block: subbar
   headline: Expedient's Security and Compliance Suite at a Glace
