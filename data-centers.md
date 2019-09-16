@@ -27,7 +27,8 @@ page_sections:
   block: featured-service
   align-left: true
   title: 'Expedient Data Centers '
-  headline: Rapid Speed, Complete Confidence, Resilience at the push of a button
+  headline: Get out of the business of managing your own data center, and host your
+    hardware in one of our data centers across the United States
   description: "You need capacity, power, safety, and security. You don't need the
     headaches and costs of managing a data center. Expedient's data centers across
     the United States enable your organization to host your hardware while taking
