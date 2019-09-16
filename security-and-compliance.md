@@ -9,17 +9,6 @@ tags:
 - DRAAS
 - Cloud Computing
 page_sections:
-- template: page-hero
-  block: page-hero
-  banner_image: "/uploads/bg_servies-06.jpg"
-  subheadline: Expedient specializes in providing enterprise information technology
-    infrastructure as a service (IaaS) that complements the compliance and security
-    requirements of businesses in any industry through a combination of security services
-    and audited attestation documentation.
-- template: subscribe-bar
-  block: subbar
-  headline: Expedient's Security and Compliance Suite at a Glace
-  cta: Download Now
 - template: featured-service
   block: featured-service
   align-left: true
@@ -35,6 +24,10 @@ page_sections:
   icon: "/uploads/EXP_PushButtonDR.svg"
   cta_label: ''
   cta_link: ''
+- template: subscribe-bar
+  block: subbar
+  headline: Expedient's Security and Compliance Suite at a Glace
+  cta: Download Now
 - template: highlights-2-column-2-row
   block: highlights-2col-2row
   heading: Dedicated Firewall Management
