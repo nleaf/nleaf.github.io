@@ -92,7 +92,7 @@ page_sections:
       feeds, 4 auto-cutover diesel generators, multiple cooling systems, a 24-inch
       raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
       Support Center</li>"
-  - align-left: true
+  - align-left: false
     icon: "/uploads/exp-colo-icon.svg"
     background: "/uploads/bg_general-07.jpg"
     headline: Columbus - Upper Arlington
@@ -110,11 +110,15 @@ page_sections:
       feeds, 2 auto-cutover diesel generators, multiple cooling systems, a 24-inch
       raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
       Support Center</li>"
-  - align-left: true
+  - align-left: false
     icon: ''
     background: ''
     headline: 'Indianapolis '
-    description: ''
+    description: "<i>701 Congressional Blvd., Suite 100, Carmel, IN 46032</i>\n<br>
+      \n<li> 38,000 square feet of total floor space</li>\n<li> Redundant electric
+      utility power feeds, 4 auto-cutover diesel generators, multiple cooling systems,
+      a 24-inch raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site
+      Operations Support Center</li>"
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
