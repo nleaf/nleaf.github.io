@@ -138,8 +138,8 @@ page_sections:
       raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
       Support Center</li>"
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-colo-icon.svg"
+    background: "/uploads/bg_general-07.jpg"
     headline: Pittsburgh - Nova Place
     description: "<i>1 Allegheny Center, Pittsburgh, PA 15212</i>\n<br> \n<li> 26,000
       square feet of total floor space</li>\n<li> Redundant electric utility power
