@@ -68,8 +68,12 @@ page_sections:
     icon: "/uploads/EXP_RiskMitigation.svg"
     background: "/uploads/ph_hurricane.jpg"
     headline: 'Baltimore - Owings Mills '
-    description: Protect information technology workloads with disaster recovery solutions
-      that offer the fastest recovery time objectives.
+    description: "<i>11155 Red Run Blvd., Owings Mills, MD 21117</i>\n<br> \n<li>
+      Low latency connection to AWS East to enable hybrid cloud infrastructure</li>\n<li>
+      21,000 square feet of total floor space</li>\n<li> Redundant electric utility
+      power feeds, 2 auto-cutover diesel generators, multiple cooling systems, a 24-inch
+      raised floor, and advanced fire suppression</li>\n<li> 24x7x365 on-site Operations
+      Support Center</li>"
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
