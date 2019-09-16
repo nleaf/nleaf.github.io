@@ -47,6 +47,15 @@ page_sections:
   subheading: Explore Expedient Data Centers
   highlights:
   - align-left: true
+    icon: ''
+    background: ''
+    headline: Pittsburgh - Nova Place
+    description: "<i>1 Allegheny Center, Pittsburgh, PA 15212</i>\n<br> \n<li> 26,000
+      square feet of total floor space</li>\n<li> Redundant electric utility power
+      feeds, 2 auto-cutover diesel generators, multiple cooling systems, a 24-inch
+      raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
+      Support Center</li>"
+  - align-left: true
     icon: "/uploads/exp-connection-icon.svg"
     background: "/uploads/bg_servies-03.jpg"
     headline: 'Baltimore - Owings Mills '
