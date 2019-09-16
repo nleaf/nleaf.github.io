@@ -83,6 +83,15 @@ page_sections:
       feeds, 2 auto-cutover diesel generators, multiple cooling systems, a 24-inch
       raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
       Support Center</li>"
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Cleveland - 152 NEO
+    description: "<i>15248 NEO Parkway, Cleveland, OH 44128</i>\n<br> \n<li> 21,400
+      square feet of total floor space</li>\n<li> Redundant electric utility power
+      feeds, 4 auto-cutover diesel generators, multiple cooling systems, a 24-inch
+      raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
+      Support Center</li>"
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
