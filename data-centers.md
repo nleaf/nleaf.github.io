@@ -47,6 +47,11 @@ page_sections:
   subheading: Explore Expedient Data Centers
   highlights:
   - align-left: true
+    icon: ''
+    background: ''
+    headline: Pittsburgh - Green Tree
+    description: ''
+  - align-left: true
     icon: "/uploads/exp-connection-icon.svg"
     background: "/uploads/bg_servies-03.jpg"
     headline: 'Baltimore - Owings Mills '
