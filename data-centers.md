@@ -20,7 +20,7 @@ page_sections:
     your hardware in world-class facilities with 24x7x365 on-site support
 - template: subscribe-bar
   block: subbar
-  headline: Subscribe to receive the latest articles related to DRaaS
+  headline: Stay in the know on all things IT infrastructure
   cta: Subscribe Now
   subheadline: Stay in the know on all things IT infrastructure.
 - template: featured-service
@@ -62,6 +62,11 @@ page_sections:
     headline: Risk Mitigation
     description: Protect information technology workloads with disaster recovery solutions
       that offer the fastest recovery time objectives.
+- template: highlights-2-column
+  block: highlights-2col
+  heading: ''
+  subheading: ''
+  highlights: []
 - template: callout
   block: callout
   link: contact.md
