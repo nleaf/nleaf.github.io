@@ -391,8 +391,8 @@ template: seo
 label: SEO
 name: seo
 seo_title: Expedient Security and Compliance Solutions
-description: Security and compliance services complement Expedient's enterprise-grade
-  Infrastructure as a Service (IaaS) solutions.
+description: Managed security services that protect your critical applications at
+  every layer of your infrastructure, and help you to meet rigorous compliance demands
 image: ''
 
 ---

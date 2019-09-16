@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- security-and-compliance.md
 - disaster-recovery.md
 - colocation.md
 - cloud.md
@@ -61,7 +62,6 @@ pages:
 - executive-team.md
 - why-expedient.md
 - overview.md
-- security-and-compliance.md
 - let-s-talk.md
 - _resources/2016-01-07-interactive-blue-case-study.md
 - _resources/2016-01-21-softlink-case-study.md
