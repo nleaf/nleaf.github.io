@@ -66,8 +66,8 @@ page_sections:
       raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
       Support Center</li>"
   - align-left: true
-    icon: "/uploads/EXP_Agility.svg"
-    background: "/uploads/ph_hurricane.jpg"
+    icon: "/uploads/exp-colo-icon.svg"
+    background: "/uploads/bg_general-03.jpg"
     headline: Boston
     description: "<i>1 Cabot Road, Medford, MA 02155</i>\n<br> \n<li> 38,000 square
       feet of total floor space</li>\n<li> Redundant electric utility power feeds,
