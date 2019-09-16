@@ -119,6 +119,11 @@ page_sections:
       utility power feeds, 4 auto-cutover diesel generators, multiple cooling systems,
       a 24-inch raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site
       Operations Support Center</li>"
+  - align-left: true
+    icon: ''
+    background: ''
+    headline: Memphis
+    description: ''
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
