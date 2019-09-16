@@ -77,8 +77,12 @@ page_sections:
   - align-left: false
     icon: "/uploads/exp-connection-icon.svg"
     background: "/uploads/bg_general-01.jpg"
-    headline: 'Cleveland '
-    description: ''
+    headline: Cleveland - 151 NEO
+    description: "<i>15166 NEO Parkway, Cleveland, OH 44128</i>\n<br> \n<li> 24,000
+      square feet of total floor space</li>\n<li> Redundant electric utility power
+      feeds, 2 auto-cutover diesel generators, multiple cooling systems, a 24-inch
+      raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
+      Support Center</li>"
 - template: highlights-2-column
   block: highlights-2col
   heading: ''
