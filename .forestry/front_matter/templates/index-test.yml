@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- data-centers.md
 - disaster-recovery.md
 - security-and-compliance.md
 - colocation.md

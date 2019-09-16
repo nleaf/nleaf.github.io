@@ -36,6 +36,8 @@ page_sections:
     supported tests. And if disaster strikes, you can rely upon our 24x7x365 Operations
     Support Center team to be available if — and when — you need us.
   icon: "/uploads/EXP_PushButtonDR.svg"
+  cta_label: ''
+  cta_link: ''
 - template: highlights-2-column
   block: highlights-2col
   heading: Flexible and Extensible
