@@ -24,14 +24,20 @@ page_sections:
   align-left: true
   title: 'Expedient Data Centers '
   headline: Get out of the business of managing your own data center, and host your
-    hardware in one of our data centers across the United States
+    hardware in one of ours
   description: "You need capacity, power, safety, and security. You don't need the
-    headaches and costs of managing a data center. Expedient's data centers across
-    the United States enable your organization to host your hardware while taking
-    advantage of features standard in each facility, including: \n\n<li> Built-In
-    Redundancy: All Expedient data centers have N+1 or 2N redundancy</li>\n<li> Fast,
-    secure connectivity: All Expedient data centers are interconnected by a private
-    multigigabit network</li> \n<li> "
+    headaches and costs of managing a data center. Expedient's geographically diverse
+    data centers across the United States enable your organization to host your hardware
+    while taking advantage of premium features standard in each facility, including:
+    \n\n<li><b>Built-In Redundancy:</b> All Expedient data centers have N+1 or 2N
+    redundancy</li>\n<li><b>Fast, secure connectivity:</b> All Expedient data centers
+    are interconnected by a private multigigabit network</li> \n<li><b>Compliance
+    & security:</b> Every Expedient data center maintains detailed Security and Control
+    Policies, and is audited in accordance with SSAE-18 SOC1 and SOC2, HIPAA and PCI
+    standards.</li> \n<li><b>24x7x365 On-Site Staffing:</b>Expedient’s Operations
+    Support Center encompasses all aspects of a network control center, call center,
+    and IT help desk, enabling a single point of contact to clients 24 hours a day,
+    7 days a week.</li>"
   icon: "/uploads/exp-colo-icon.svg"
   cta_label: ''
   cta_link: ''
