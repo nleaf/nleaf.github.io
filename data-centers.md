@@ -41,15 +41,17 @@ page_sections:
   cta_link: ''
 - template: highlights-2-column
   block: highlights-2col
-  heading: Flexible and Extensible
-  subheading: "Push Button DR  \nHighlights "
+  heading: ''
+  subheading: Explore Expedient Data Centersston
   highlights:
   - align-left: true
     icon: "/uploads/EXP_Agility.svg"
     background: "/uploads/ph_hurricane.jpg"
-    headline: Agility
-    description: Failover at the push of a button and have the ability to operate
-      applications in multiple data centers or your own site.
+    headline: Boston
+    description: "1 Cabot Road, Medford, MA 02155\n<br> \n<li> 38,000 square feet
+      of total floor space</li>\n<li> Redundant electric utility power feeds, 3 auto-cutover
+      diesel generators, multiple cooling systems, a 24-inch raised floor, and advanced
+      fire suppression</li> \n<li> 24x7x365 on-site Operations Support Center</li>"
   - align-left: false
     icon: "/uploads/EXP_Availability.svg"
     background: "/uploads/ph_hurricane.jpg"
