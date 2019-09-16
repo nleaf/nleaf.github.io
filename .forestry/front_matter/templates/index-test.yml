@@ -49,11 +49,11 @@ fields:
     min: 
     max: 
 pages:
+- disaster-recovery.md
 - colocation.md
 - cloud.md
 - index.md
 - technology-partners.md
-- disaster-recovery.md
 - awards-and-accolades.md
 - success-stories.md
 - tools-and-calculators.md

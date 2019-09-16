@@ -50,10 +50,7 @@ page_sections:
     description: 'Push Button DR powered by Cohesity protects workloads with replication
       from your on-premises or virtual environments to Expedient Enterprise Cloud,
       with a  4-hour RPO and 1-hour RTO. '
-  heading: When disaster strikes, every moment counts. For more than 10 years, Expedient's
-    industry-leading Disaster Recovery as a Service solutions have given our customers
-    the ability and confidence to failover with speed and ease -- on their own, or
-    with our 24x7x365 support.
+  heading: ''
 - template: quote
   block: quote
   image: "/uploads/EXP_Circle-Mark.svg"
