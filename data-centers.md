@@ -12,9 +12,8 @@ page_sections:
 - template: page-hero
   block: page-hero
   banner_image: "/uploads/bg_general-01.jpg"
-  subheadline: Expedient’s Disaster Recovery as a Service solutions have been recognized
-    in  the Gartner Magic Quadrant for DRaaS and offer fast, total network failover  without
-    IP and DNS changes.
+  subheadline: Interconnected data centers across the United States allow you to host
+    your hardware in world-class facilities with 24x7x365 on-site support
 - template: subscribe-bar
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
