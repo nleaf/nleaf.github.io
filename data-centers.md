@@ -102,8 +102,8 @@ page_sections:
       systems, a 24-inch raised floor, and advanced fire suppression</li> \n<li> 24x7x365
       on-site Operations Support Center</li>"
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-colo-icon.svg"
+    background: "/uploads/bg_general-01.jpg"
     headline: 'Columbus - Dublin '
     description: "<i>5700 Innovation Drive, Dublin, OH 43016</i>\n<br> \n<li> 29,000
       square feet of total floor space</li>\n<li> Redundant electric utility power
