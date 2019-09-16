@@ -84,8 +84,8 @@ page_sections:
       raised floor, and advanced fire suppression</li> \n<li> 24x7x365 on-site Operations
       Support Center</li>"
   - align-left: true
-    icon: ''
-    background: ''
+    icon: "/uploads/exp-connection-icon.svg"
+    background: "/uploads/bg_general-01.jpg"
     headline: Cleveland - 152 NEO
     description: "<i>15248 NEO Parkway, Cleveland, OH 44128</i>\n<br> \n<li> 21,400
       square feet of total floor space</li>\n<li> Redundant electric utility power
