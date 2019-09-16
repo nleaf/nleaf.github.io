@@ -18,6 +18,7 @@ page_sections:
   block: subbar
   headline: Subscribe to receive the latest articles related to DRaaS
   cta: Subscribe Now
+  subheadline: Stay in the know on all things IT infrastructure.
 - template: featured-service
   block: featured-service
   align-left: true
