@@ -49,15 +49,15 @@ fields:
     min: 
     max: 
 pages:
+- index.md
+- awards-and-accolades.md
 - thank-you-newsletter.md
 - data-centers.md
 - disaster-recovery.md
 - security-and-compliance.md
 - colocation.md
 - cloud.md
-- index.md
 - technology-partners.md
-- awards-and-accolades.md
 - success-stories.md
 - tools-and-calculators.md
 - our-customers.md

@@ -87,7 +87,7 @@ page_sections:
       scalable and highly available, ensuring that it was accessible to health screeners
       when and where it was needed. '
     img: "/uploads/EXP_MdLogix.png"
-    link: "/knowledgebase/resources/professional-services-case-study-prodigo-solutions/"
+    link: knowledgebase/resources/video-mdlogix-scales-behavioral-health-platform-nationally-with-expedients-private-cloud/
   - category: Featured Case Study
     title: Prodigo Solutions Reduces Customer Onboarding Time with Expedient
     description: 'As a healthcare supply chain software startup, Prodigo Solutions’
