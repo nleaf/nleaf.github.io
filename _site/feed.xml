@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-12T14:39:05-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Expedient</title><subtitle>Expedient Demo Site for Forestry.io</subtitle><entry><title type="html">Solutions for VMware EcoCast at VMworld 2019 – Expedient Enterprise Cloud</title><link href="http://localhost:4000/knowledgebase/blog/2019-09-06-solutions-for-vmware-ecocast-at-vmworld-2019-expedient-enterprise-cloud/" rel="alternate" type="text/html" title="Solutions for VMware EcoCast at VMworld 2019 – Expedient Enterprise Cloud" /><published>2019-09-08T00:00:00-04:00</published><updated>2019-09-08T00:00:00-04:00</updated><id>http://localhost:4000/knowledgebase/blog/solutions-for-vmware-ecocast-at-vmworld-2019-expedient-enterprise-cloud</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-09-06-solutions-for-vmware-ecocast-at-vmworld-2019-expedient-enterprise-cloud/">&lt;p&gt;At VMworld 2019, I sat down with Scott Lowe from &lt;a href=&quot;https://www.actualtechmedia.com&quot;&gt;ActualTech Media&lt;/a&gt; to discuss &lt;a href=&quot;https://www.expedient.com/services/infrastructure-as-a-service/cloud/&quot;&gt;Expedient Enterprise Cloud&lt;/a&gt; (EEC) and the difference between cloud and managed service providers like Expedient and the hyperscale cloud providers like AWS and Azure. During our conversation, Scott and I discussed the architecture of EEC, the EEC user experience, how Expedient supports the hybrid cloud needs of its clients, and why our telecom carrier beginnings differentiate Expedient as a cloud service and disaster recovery as a service (DRaaS) solution provider.&lt;/p&gt;
+
+&lt;p&gt;We wrapped up the conversation with on overview of our multi-cloud journey and the major announcements that Expedient made at VMworld 2019. If you would like to learn more about these announcements or how Expedient Enterprise Cloud can streamline your organization’s cloud transformation journey while saving you money, watch the interview:&lt;/p&gt;
+
+&lt;div class=&quot;w-7/12&quot;&gt;
+    &lt;iframe width=&quot;663&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/awlLqH1qWok&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;As Chief Innovation Officer, John White is the lead executive at Expedient responsible for the company’s product and technology vision. In addition to leading Expedient’s product strategy function, John also serves as the lead technology evangelist for the company, works closely with the sales team on closing complex/high brand deals, and acts as Expedient’s primary interface with existing technology partners. Follow him on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/johna_white&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>John White</name></author><category term="Security and Compliance" /><category term="Disaster Recovery" /><category term="Cloud" /><summary type="html">At VMworld 2019, I sat down with Scott Lowe from ActualTech Media to discuss Expedient Enterprise Cloud (EEC) and the difference between cloud and managed service providers like Expedient and the hyperscale cloud providers like AWS and Azure. During our conversation, Scott and I discussed the architecture of EEC, the EEC user experience, how Expedient supports the hybrid cloud needs of its clients, and why our telecom carrier beginnings differentiate Expedient as a cloud service and disaster recovery as a service (DRaaS) solution provider.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/EcoCast%20Video%20Screenshot.JPG" /></entry><entry><title type="html">Expedient Makes Its Mark at VMworld 2019</title><link href="http://localhost:4000/knowledgebase/blog/2019-09-03-expedient-makes-its-mark-at-vmworld-2019/" rel="alternate" type="text/html" title="Expedient Makes Its Mark at VMworld 2019" /><published>2019-09-03T00:00:00-04:00</published><updated>2019-09-03T00:00:00-04:00</updated><id>http://localhost:4000/knowledgebase/blog/expedient-makes-its-mark-at-vmworld-2019</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-09-03-expedient-makes-its-mark-at-vmworld-2019/">&lt;p&gt;&lt;img src=&quot;/uploads/4-Mark-Made-VMworld2019_small.jpg&quot; alt=&quot;&quot; /&gt;At VMworld 2019, VMware encouraged attendees to “Make Your Mark.” The Expedient team answered that call as the &lt;a href=&quot;https://www.expedient.com/blog/expedient-named-vmwares-americas-cloud-partner-of-the-year/&quot;&gt;VMware Americas Cloud Partner of the Year&lt;/a&gt; with its first ever sponsorship of the event, an exhibition booth in the Solutions Exchange, multiple educational session presentations, client case studies, and technology testimonials. More than twenty Expedient team members traveled to San Francisco to participate in the event, which was held at Moscone Center and several surrounding hotels.&lt;/p&gt;
+
+&lt;h5 id=&quot;-the-expedient-team-pauses-to-pose-at-the-exhibition-booth-in-the-solutions-exchange-the-booth-featured-our-vmware-americas-cloud-partner-of-the-year-award&quot;&gt;&lt;img src=&quot;/uploads/Expedient-Team-at-VMworld-2019.jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;The Expedient team pauses to pose at the exhibition booth in the Solutions Exchange. The booth featured our VMware Americas Cloud Partner of the Year award.&lt;/em&gt;&lt;/h5&gt;
+
+&lt;p&gt;Our booth in the Solutions Exchange offered a unique opportunity to conduct demonstrations of our VMware Cloud Verified Expedient Enterprise Cloud infrastructure as a service (IaaS) and disaster recovery as a service (DRaaS) solutions.&lt;/p&gt;
+
+&lt;h5 id=&quot;an-expedient-solutions-architect-conducts-a-demonstration-of-expedient-enterprise-cloud-with-a-conference-attendee&quot;&gt;&lt;em&gt;&lt;img src=&quot;/uploads/Expedient-SA-Demo-VMworld.jpg&quot; alt=&quot;&quot; /&gt;An Expedient Solutions Architect conducts a demonstration of Expedient Enterprise Cloud with a conference attendee.&lt;/em&gt;&lt;/h5&gt;
+
+&lt;p&gt;In addition to our booth presence at the conference, Expedient sponsored several hospitality events at VMworld, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Americas Party&lt;/strong&gt; – Along with CDW and Dell EMC, Expedient was a sponsor of the annual party celebrating VMware clients. Attended by both Pat Gelsinger and Michael Dell, attendees also included other company executives and all participants enjoyed food, drink, and music while networking late into the night.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hall Crawl&lt;/strong&gt; – Expedient was one of only twenty vendors out of the 225 with a presence in the Solutions Exchange to offer free drinks during this annual happy hour event that draws a high volume of attendees to vendor booths. The company was the only participant to offer ice cream treats, making our booth particularly popular with the crowd that late afternoon.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tailgate Party and San Francisco Giants Baseball Game&lt;/strong&gt; – Along with our partner Cohesity, we sponsored a pre-game happy hour tailgate at Oracle Park featuring the #CohesityOnWheels demo truck, food, and drink. Participants had the opportunity to take a photo with the Giants World Series trophies!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Private Performance of HAMILTON the Musical&lt;/strong&gt; – Along with our partner Cohesity, we offered our prospects and clients the opportunity to attend this exclusive performance at SHN Orpheum Theatre. More than 2,000 attended.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;As Senior Vice President and Chief Operating Officer, Jonathan Rosenson is responsible for overseeing organizational functions that drive growth at Expedient. Jon additionally acts as an external spokesperson conveying the Expedient story.&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rosenson&quot;&gt;&lt;em&gt;Follow him&lt;/em&gt;&lt;/a&gt; &lt;em&gt;on Twitter.&lt;/em&gt;&lt;/p&gt;</content><author><name>Jon Rosenson</name></author><category term="Cloud" /><summary type="html">At VMworld 2019, VMware encouraged attendees to “Make Your Mark.” The Expedient team answered that call as the VMware Americas Cloud Partner of the Year with its first ever sponsorship of the event, an exhibition booth in the Solutions Exchange, multiple educational session presentations, client case studies, and technology testimonials. More than twenty Expedient team members traveled to San Francisco to participate in the event, which was held at Moscone Center and several surrounding hotels.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/Expedient-Team-at-VMworld-2019.jpg" /></entry><entry><title type="html">Can Enterprise Cloud Infrastructure Simplify Mergers and Acquisitions?</title><link href="http://localhost:4000/knowledgebase/blog/2019-08-30-can-enterprise-cloud-infrastructure-simplify-mergers-and-acquisitions/" rel="alternate" type="text/html" title="Can Enterprise Cloud Infrastructure Simplify Mergers and Acquisitions?" /><published>2019-08-30T00:00:00-04:00</published><updated>2019-08-30T00:00:00-04:00</updated><id>http://localhost:4000/knowledgebase/blog/can-enterprise-cloud-infrastructure-simplify-mergers-and-acquisitions</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-08-30-can-enterprise-cloud-infrastructure-simplify-mergers-and-acquisitions/">&lt;h2 id=&quot;can-enterprise-cloud-infrastructure-simplify-mergers-and-acquisitions&quot;&gt;Can Enterprise Cloud Infrastructure Simplify Mergers and Acquisitions?&lt;/h2&gt;
+
+&lt;p&gt;Mergers and acquisitions are common in most industries these days. While companies employ many different strategies to integrate newly acquired companies, we’ve found that the companies that leverage Information Technology (IT) as a strategic asset during the M&amp;amp;A process typically enjoy much smoother corporate integrations than those that don’t. We commonly see four IT disciplines used as ingredients for merger success: &lt;strong&gt;standards&lt;/strong&gt;, &lt;strong&gt;service levels&lt;/strong&gt;, &lt;strong&gt;tooling&lt;/strong&gt;, and &lt;strong&gt;skills&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Standards&lt;/strong&gt; are repeatable approaches to solve specific problems that mergers and acquisitions often bring.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Service levels&lt;/strong&gt; are minimum expectations for service turnaround that both sides of the transaction can expect as a result of the acquisition or merger&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tooling&lt;/strong&gt; includes the software, hardware and cloud services that are used to accomplish a merger or acquisition&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Skills&lt;/strong&gt; are the infrastructure, software and data support capabilities that are required by the IT team to successfully merge with or acquire another company.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Traditional on-premises or colocated hardware infrastructure can often be a limiting factor in the success of a merger or acquisition. While this type of IT infrastructure can be standardized and built to meet service levels, the components of the infrastructure, or tooling, may not be sufficient in size and elasticity to meet merger/acquisition needs. Skills required for repeatable integration of systems, applications and data can overwhelm a capable IT team as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So, how can IT teams reduce the friction caused by traditional on-prem or collocated hardware during the M&amp;amp;A process?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;By moving from a traditional on-premises approach to a fully-managed Enterprise cloud platform &lt;strong&gt;BEFORE&lt;/strong&gt; the initiation of the M&amp;amp;A process. Enterprise cloud infrastructure and related managed services may be IT’s secret weapon in reducing the friction generated by mergers and acquisitions. Enterprise cloud is scalable, elastic IT infrastructure that allows for ingestion of VMware, Windows and Linux legacy systems into a unified platform that IT can actually support. Plus, having a turnkey IT infrastructure solution in place beforehand will make it much easier to scale compute capacity and resources to meet the extra IT demands that can be expected with any type of M&amp;amp;A activity.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-does-enterprise-cloud-help&quot;&gt;How does enterprise cloud help?&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Familiarity –&lt;/strong&gt; Industry-standard VMware hypervisor running Windows and Linux is familiar and comfortable both for the legacy applications and for the support teams as they transition systems.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Economics –&lt;/strong&gt; The best enterprise cloud infrastructures have predictable costs and no variable bandwidth charges, so the incremental costs of mergers and acquisitions can be estimated accurately.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Service Levels –&lt;/strong&gt; High-end enterprise cloud infrastructure providers provide 100% service level agreements (SLAs), similar to what most organizations expect IT to deliver.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;API –&lt;/strong&gt; Modern enterprise cloud providers deliver application programming interfaces (APIs) that enable IT teams to automate repetitive tasks and integrate disparate systems. APIs are tooling that can multiply workforce capabilities through automation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Performance –&lt;/strong&gt; Few organizations can tolerate slower systems as a result of a merger or acquisition. The finest enterprise cloud providers deliver the highest performance and consequently the best user experiences.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reduction of tactical workload and skill requirements–&lt;/strong&gt; Maybe the most important feature of enterprise cloud offerings is the reduction in time needed and skills required to manage the hardware, licensing and utility tools of ever-changing IT infrastructure. The best enterprise cloud providers offload virtually all the hardware and software complexities of production systems and data protection, leaving the IT team free to focus on the people, process and applications involved in the merger.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Enterprise cloud can deliver flexible standards, 100% service levels, consistent, and familiar tooling that reduces the need for low-value skill sets and allows IT teams to focus on organizational needs.&lt;/p&gt;
+
+&lt;p&gt;Which enterprise cloud should you use? &lt;a href=&quot;https://www.expedient.com/blog/expedient-enterprise-cloud-vs-on-prem-vmware-the-business-case-for-turnkey-infrastructure-as-a-service/&quot;&gt;Read this blog&lt;/a&gt; by Expedient Product Strategy Engineer Mike Garuccio to learn about the benefits organizations can realize with &lt;a href=&quot;https://www.expedient.com/services/infrastructure-as-a-service/cloud/&quot;&gt;&lt;strong&gt;Expedient Enterprise Cloud&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Doug Theis&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;is the Director of Market Strategy in Expedient’s Indianapolis market focused on engaging with and improving the regional IT community through planning, sponsoring and attending community events, facilitating IT-focused continuing education opportunities, and sharing strategies, tactics, and research to help IT professionals stay abreast of best practices and industry trends. Connect with Doug at&lt;/em&gt; &lt;a href=&quot;mailto:doug.theis@expedient.com&quot;&gt;&lt;em&gt;doug.theis@expedient.com&lt;/em&gt;&lt;/a&gt; &lt;em&gt;and follow him on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/dougtheis&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Doug Theis</name></author><category term="Cloud" /><summary type="html">Can Enterprise Cloud Infrastructure Simplify Mergers and Acquisitions?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/EXP-Social--cloud_simplify.png" /></entry><entry><title type="html">Persistent Volume Options for Kubernetes Storage</title><link href="http://localhost:4000/knowledgebase/blog/2019-08-13-persistent-volume-options-for-kubernetes-storage/" rel="alternate" type="text/html" title="Persistent Volume Options for Kubernetes Storage" /><published>2019-08-13T12:20:00-04:00</published><updated>2019-08-13T12:20:00-04:00</updated><id>http://localhost:4000/knowledgebase/blog/persistent-volume-options-for-kubernetes-storage</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-08-13-persistent-volume-options-for-kubernetes-storage/">&lt;h2 id=&quot;persistent-volume-options-for-k8s-storage&quot;&gt;Persistent Volume Options for K8s Storage&lt;/h2&gt;
+
+&lt;p&gt;Kubernetes was originally developed as a platform for stateless applications with persistent data stored elsewhere. As the project matured, many organizations wanted to also begin leveraging it for their stateful applications and so persistent volume management was added. At first, this was generally provisioned using cloud-provider-specific interfaces that linked directly to underlying block storage on a given cloud platform. More recently, options have been made available that are functional within any cloud provider and in some cases offer additional features or enhanced performance over the cloud-provider-specific offerings. Rather than develop an Expedient-specific storage solution we are encouraging clients to leverage the cloud-agnostic storage solution or solutions that meet their needs for performance, manageability, compliance, and cost. As the number and variety of available options available in this rapidly changing space can be daunting, an overview of the main options can be found below.&lt;/p&gt;
+
+&lt;h4 id=&quot;nfs&quot;&gt;NFS&lt;/h4&gt;
+
+&lt;p&gt;For workloads with relatively low performance requirements, simple NFS volumes can be a great option. In general, NFS is already well understood by IT teams and can offer “good enough” performance in most cases. In the past, relying on NFS meant losing access to dynamic provisioning of persistent volumes. However, with the release of the &lt;a href=&quot;https://github.com/kubernetes-incubator/external-storage/tree/master/nfs-client&quot;&gt;NFS client provisioner&lt;/a&gt;, enabling dynamic provisioning is as easy as deploying a helm chart and pointing it at an existing NFS share. If your team would also like to avoid managing a separate NFS server the client provisioner is fully compatible with , which provides resource quota support, off-site replication, and basic reporting functionality.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Leverages existing skill-sets around NFS&lt;/li&gt;
+  &lt;li&gt;Easy to set up/configure&lt;/li&gt;
+  &lt;li&gt;Can be backed up using traditional backup utilities&lt;/li&gt;
+  &lt;li&gt;Inexpensive managed storage options are available&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Not highly performant&lt;/li&gt;
+  &lt;li&gt;Not compatible with most k8s-native backup/DR solutions&lt;/li&gt;
+  &lt;li&gt;No snapshots (exception is &lt;a href=&quot;https://www.expedient.com/services/managed-services/cloud-storage/#file&quot;&gt;Expedient cloud file services&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Limited HA functionality (again this does not apply to the cloud file services)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Good for:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Warm” data that needs to be available at all times but is not frequently accessed.&lt;/li&gt;
+  &lt;li&gt;Batch-processing applications&lt;/li&gt;
+  &lt;li&gt;Log storage, especially as an archive tier&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;openebs&quot;&gt;OpenEBS&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://openebs.io/&quot;&gt;OpenEBS&lt;/a&gt; is a CNCF project supporting Container Attached Storage which creates a unique controller and replica POD for every volume and uses these to present storage from block devices available on individual nodes. This provides enhanced scalability and enables platform management entirely within Kubernetes itself via Custom Resource Definitions. This solution also provides copy-on-write snapshots and integrations with backup and restore tools such as VMWare’s &lt;a href=&quot;https://github.com/heptio/velero&quot;&gt;velero&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Available as an open-source project at no cost (commercial support also available)&lt;/li&gt;
+  &lt;li&gt;Fully controllable via the k8s api and kubectl (via CRD’s)&lt;/li&gt;
+  &lt;li&gt;Snapshot functionality, allowing for use of standard backup/DR solutions like velero&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Relatively new project (1.0.0 recently released)&lt;/li&gt;
+  &lt;li&gt;Fairly complex initial setup&lt;/li&gt;
+  &lt;li&gt;Some workloads will take a performance hit due to the fully distributed architecture, but OpenEBS is still significantly faster than NFS, particularly for latency-sensitive apps like databases&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Good for:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Applications with strict RPO and moderate RTO requirements&lt;/li&gt;
+  &lt;li&gt;Databases that do not require the absolute highest performance&lt;/li&gt;
+  &lt;li&gt;CI/CD Servers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;portworx&quot;&gt;Portworx&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://portworx.com/&quot;&gt;Portworx&lt;/a&gt; is a storage solution that takes in block devices attached directly to your nodes and combines them into a cloud-native storage layer for your cluster. This option makes use of a custom scheduler to ensure that your stateful workloads run on the same node that houses the primary copy of the data they are operating on, providing a significant performance advantage that is further enhanced by the of Expedient Enterprise Cloud. Portworx also offers unique DR, management, and compliance features that enable many applications not generally considered well-suited for containerization to move to the cloud with ease. The DR orchestration capability in particular can offer extremely low RPO/RTO.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Highly performant&lt;/li&gt;
+  &lt;li&gt;Built-in redundancy options to deal with node failure&lt;/li&gt;
+  &lt;li&gt;Additional security controls beyond k8s RBAC to assist with security/compliance requirements&lt;/li&gt;
+  &lt;li&gt;Both synchronous and asynchronous replication options, enabling a variety of DR scenarios&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;More costly than other options&lt;/li&gt;
+  &lt;li&gt;Relatively high complexity - requires either &lt;a href=&quot;https://github.com/hashicorp/consul&quot;&gt;Hashicorp Consul&lt;/a&gt; or &lt;a href=&quot;https://etcd.io/&quot;&gt;etcd cluster&lt;/a&gt;; requires provisioning block devices directly on nodes&lt;/li&gt;
+  &lt;li&gt;To get the most out of the platform, a custom scheduler should be used, which can make using pre-built manifests and helm charts a challenge&lt;/li&gt;
+  &lt;li&gt;Introduces additional tooling and interfaces (pxctl, lighthouse) that provide additional features but involve their own learning curve&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Good for:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Database servers (Postgres, MondgoDB, Cassandra) that need near-native performance&lt;/li&gt;
+  &lt;li&gt;Big data applications (Hadoop, Spark, Elastic)&lt;/li&gt;
+  &lt;li&gt;Any app with strict compliance requirements around data security&lt;/li&gt;
+  &lt;li&gt;Applications with low RPO/RTO DR requirements - RPOs of 15 minutes; RTOs of less than 1 minute&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;rook&quot;&gt;Rook&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://rook.io/&quot;&gt;Rook&lt;/a&gt; is a CNCF project designed to provide an orchestration layer on top of other storage and database offerings, which allows management fully within Kubernetes via the addition of new Custom Resource Definitions. In addition to persistent volumes backed by NFS, EdgeFS (this can also be exposed outside of the cluster to provide a performant, geo-redundant filesystem), or Ceph Rook can provision and manage a Minio object store or databases backed by CockroachDB or Casssandra. The exact features that are available vary across the different providers, but via Ceph Rook is able to provide a relatively similar set of features as OpenEBS but with a slightly different architecture. The major advantage here is the ability to manage Persistent volumes, object stores, and databases from a single, Kubernetes-native, interface.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Free Open-Source CNCF project&lt;/li&gt;
+  &lt;li&gt;Management of multiple types of persistent volumes&lt;/li&gt;
+  &lt;li&gt;Solid performance via Ceph&lt;/li&gt;
+  &lt;li&gt;K8s-native S3-compatible Object store provisioning&lt;/li&gt;
+  &lt;li&gt;K8s-native database provisioning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Only the Ceph provisioner is considered stable, other provisioners are either in alpha or beta status&lt;/li&gt;
+  &lt;li&gt;No native snapshot or other DR support&lt;/li&gt;
+  &lt;li&gt;Limited commercial-support options&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As you can see, a lot of options exist for Persistent storage inside your Kubernetes cluster, each with their own pros/cons. The information in this blog post can give you an idea of where to start your search for the solution that fits your company/workload. if you’d like to talk further about for bringing your workloads into Expedient’s Enterprise Cloud platform feel free to &lt;a href=&quot;mailto:mike.garuccio@expedient.com&quot;&gt;email me&lt;/a&gt; or talk to your Expedient Client Adviser.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mike Garuccio is a Product Strategy Engineer at Expedient focused on researching new software and hardware to find ways to productize this technology into new solutions for Expedient clients. As a ‘full stack’ engineer, Mike works with all layers of infrastructure architecture – from the hypervisor all the way up to front-end applications. Mike has played a leading role in the deployment and implementation of Expedient’s next-generation cloud platform, Expedient Enterprise Cloud. His professional interests include automation, containers, Kubernetes, CI/CD, and developer experience optimization. Follow Mike on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/mgaruccio&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Mike Garuccio</name></author><category term="Cloud" /><summary type="html">Persistent Volume Options for K8s Storage</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/EXP-Social--volume_options_kubernetes.png" /></entry><entry><title type="html">Expedient Sessions at VMworld 2019</title><link href="http://localhost:4000/knowledgebase/blog/2019-08-11-expedient-sessions-at-vmworld-2019/" rel="alternate" type="text/html" title="Expedient Sessions at VMworld 2019" /><published>2019-08-11T10:45:58-04:00</published><updated>2019-08-11T10:45:58-04:00</updated><id>http://localhost:4000/knowledgebase/blog/expedient-sessions-at-vmworld-2019</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-08-11-expedient-sessions-at-vmworld-2019/">&lt;p&gt;&lt;a href=&quot;https://www.vmworld.com/en/us/index.html&quot;&gt;VMworld&lt;/a&gt; is back in the Bay and the Expedient team is busier than ever! This year we have 5 sessions, booth duties with awesome Expedient demos focusing on our Enterprise Cloud product, multi-cloud management product, Push Button DR (DRaaS), and Backup as a Service, &lt;a href=&quot;https://www.thecube.net/vmworld-2019&quot;&gt;a Cube interview&lt;/a&gt; with our partner Cohesity, and an &lt;a href=&quot;https://www.actualtechmedia.com/event-schedule/?leads%5B%5D=400&amp;amp;topic%5B%5D=3#EventSchedule&quot;&gt;EcoCast with ActualTech Media&lt;/a&gt;. Of course we have parties as well, more on that in another blog post, today we are going to focus on the &lt;a href=&quot;https://my.vmworld.com/widget/vmware/vmworld19us/us19catalog?search=expedient&quot;&gt;Expedient sessions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;expedient-hyper-growth-cloud-provider-powered-by-vmware-vcloud-director-hbi2806bu--john-white&quot;&gt;Expedient: Hyper-growth cloud provider powered by VMware vCloud Director [&lt;a href=&quot;https://my.vmworld.com/widget/vmware/vmworld19us/us19catalog?search=HBI2806BU&quot;&gt;HBI2806BU&lt;/a&gt;] – John White&lt;/h4&gt;
+
+&lt;p&gt;At VMworld 2018, &lt;a href=&quot;https://www.expedient.com/blog/expedient-cloud-evolution-a-vision-5-years-in-the-making/&quot;&gt;we debuted Expedient Enterprise Cloud&lt;/a&gt; via a session following the keynote &lt;a href=&quot;https://videos.vmworld.com/global/2018?q=john%2520white&quot;&gt;with a live demo&lt;/a&gt;. For VMworld 2019, we are going to share the success we have had on the platform and highlight why we think a VMware based cloud is the ideal solution for most cloud destined workloads. Attend this session to get an inside scoop as I share some of our secret sauce on why/how VMware recognized us as the &lt;a href=&quot;https://www.expedient.com/blog/expedient-named-vmwares-americas-cloud-partner-of-the-year/&quot;&gt;2018 Americas Cloud Partner of the Year&lt;/a&gt; and our fastest growing product ever – &lt;a href=&quot;https://www.expedient.com/services/infrastructure-as-a-service/cloud/&quot;&gt;Expedient Enterprise Cloud&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;architecting-vmware-cloud-roundtable-hbi2615pu--john-white&quot;&gt;Architecting VMware Cloud Roundtable [&lt;a href=&quot;https://my.vmworld.com/widget/vmware/vmworld19us/us19catalog?search=HBI2615PU&quot;&gt;HBI2615PU&lt;/a&gt;] – John White&lt;/h4&gt;
+
+&lt;p&gt;Really looking forward to this session as the ability to ask questions of your peers and gain new perspective is at the heart of a successful VMworld. In this session, we will do just that for a whole hour! Come ask questions to David Grimes of Navisite, John Dwyer, Martin Hosken, and Daniel Paluszek of VMware, and me.&lt;/p&gt;
+
+&lt;p&gt;vBrownbag sessions are a great opportunity to talk about any type of tech and provides the opportunity for anyone in the community talk about what they are passionate about. This year Expedient has three sessions from Brent Meadows, Mike Morris, and yours truly.&lt;/p&gt;
+
+&lt;h4 id=&quot;building-a-kubernetes-cluster-in-12-minutes-with-vcloud-director--cse-vmtn5054u--brent-meadows&quot;&gt;Building a Kubernetes Cluster in 12 Minutes with vCloud Director &amp;amp; CSE [&lt;a href=&quot;https://my.vmworld.com/widget/vmware/vmworld19us/us19catalog?search=VMTN5054U&quot;&gt;VMTN5054U&lt;/a&gt;] – Brent Meadows&lt;/h4&gt;
+
+&lt;p&gt;Almost every developer is asking for a Kubernetes environment for development work or even production. &lt;a href=&quot;https://www.expedient.com/blog/deploy-kubernetes-clusters-alongside-virtual-machines-with-expedient-enterprise-cloud/&quot;&gt;VMware has built a product offering&lt;/a&gt; to suit each need with their Container Service Extension (CSE) for vCloud Director, and then their work with the Heptio and Pivotal teams. Brent will show you how easy it is to get a CSE cluster up in a vCloud Director environment to provide turnkey Kubernetes with no extra licensing cost.&lt;/p&gt;
+
+&lt;h4 id=&quot;getting-started-with-infrastructure-as-code-using-terraform-and-vcloud-director-vmtn5036u--mike-morris&quot;&gt;Getting Started with Infrastructure as Code using Terraform and vCloud Director [&lt;a href=&quot;https://my.vmworld.com/widget/vmware/vmworld19us/us19catalog?search=VMTN5036U&quot;&gt;VMTN5036U&lt;/a&gt;] – Mike Morris&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.expedient.com/blog/infrastructure-as-code-four-ways-to-automate-vmware-cloud-management/&quot;&gt;Infrastructure as code&lt;/a&gt; is all the rage right now as we look to automate as much as humanly possible. In this TechTalk, Mike will show how easy it is to use Terraform to instantiate VM’s using the powerful vCloud Director APIs.&lt;/p&gt;
+
+&lt;h4 id=&quot;building-a-cloud-native-app-vmtn5005u--john-white&quot;&gt;Building a Cloud Native App [&lt;a href=&quot;https://my.vmworld.com/widget/vmware/vmworld19us/us19catalog?search=VMTN5005U&quot;&gt;VMTN5005U&lt;/a&gt;] – John White&lt;/h4&gt;
+
+&lt;p&gt;This year I am going to walk through my journey of learning how to build my first Cloud Native Application on AWS. The end result was a pretty killer scalable application having some fun with my colleague, Sam Sarnicke.&lt;/p&gt;
+
+&lt;p&gt;As you can see, we will be busy the week of VMworld and we hope to connect with as many of the attendees as possible. I hope to see you in a session or at the booth. Follow Expedient on &lt;a href=&quot;https://www.instagram.com/_expedient/&quot;&gt;Instagram&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/Expedient&quot;&gt;Twitter&lt;/a&gt; for up-to-date info on sessions and parties. See you in San Fran!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;As Chief Innovation Officer, John White is the lead executive at Expedient responsible for the company’s product and technology vision. In addition to leading Expedient’s product strategy function, John also serves as the lead technology evangelist for the company, works closely with the sales team on closing complex/high brand deals, and acts as Expedient’s primary interface with existing technology partners. Follow him on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/johna_white&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>John White</name></author><category term="Cloud" /><summary type="html">VMworld is back in the Bay and the Expedient team is busier than ever! This year we have 5 sessions, booth duties with awesome Expedient demos focusing on our Enterprise Cloud product, multi-cloud management product, Push Button DR (DRaaS), and Backup as a Service, a Cube interview with our partner Cohesity, and an EcoCast with ActualTech Media. Of course we have parties as well, more on that in another blog post, today we are going to focus on the Expedient sessions.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/EXP-Social--vmworld2019.png" /></entry><entry><title type="html">Hyperscale or Enterprise - Which Cloud is Best for Your Business?</title><link href="http://localhost:4000/knowledgebase/blog/2019-07-18-hyperscale-or-enterprise-which-cloud-is-best-for-your-business/" rel="alternate" type="text/html" title="Hyperscale or Enterprise - Which Cloud is Best for Your Business?" /><published>2019-07-18T16:36:56-04:00</published><updated>2019-07-18T16:36:56-04:00</updated><id>http://localhost:4000/knowledgebase/blog/hyperscale-or-enterprise-which-cloud-is-best-for-your-business</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-07-18-hyperscale-or-enterprise-which-cloud-is-best-for-your-business/">&lt;p&gt;The cloud provider landscape is complex and constantly evolving. To meet the performance demands of legacy compute workloads and to control cloud costs, many businesses are opting for hosted enterprise clouds instead of the mainstream hyperscale options provided by AWS, Azure and Google Cloud. During &lt;a href=&quot;https://www.youtube.com/watch?v=owgkJHsMcRY&amp;amp;#t=3m10s&quot;&gt;our recent webinar&lt;/a&gt;, I was joined by &lt;a href=&quot;https://451research.com/analyst-team/analyst/Carl+Brooks&quot;&gt;Carl Brooks&lt;/a&gt;, Analyst with 451 research, to discuss several key topics shaping enterprise cloud transformation, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cloud adoption trends&lt;/li&gt;
+  &lt;li&gt;The drivers of workload placement across various cloud venues&lt;/li&gt;
+  &lt;li&gt;The common challenges enterprises face during cloud transformation&lt;/li&gt;
+  &lt;li&gt;The differences between hyperscale clouds and enterprise clouds, and the impact these characteristics have on application performance and cloud cost control&lt;/li&gt;
+  &lt;li&gt;A &lt;a href=&quot;https://www.expedient.com/2019-cloud-spectator-report/&quot;&gt;recent cloud benchmark report&lt;/a&gt; that compared Expedient Enterprise Cloud with clouds from AWS, Azure and Rackspace&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;watch-the-full-replay-of-the-webinar-now&quot;&gt;Watch the full replay of the webinar now:&lt;/h4&gt;
+
+&lt;div class=&quot;w-7/12&quot;&gt;
+    &lt;iframe width=&quot;663&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/owgkJHsMcRY?start=190&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name>John White</name></author><category term="Cloud Computing" /><category term="private cloud" /><category term="public cloud" /><category term="hybrid cloud" /><category term="digital transformation" /><summary type="html">The cloud provider landscape is complex and constantly evolving. To meet the performance demands of legacy compute workloads and to control cloud costs, many businesses are opting for hosted enterprise clouds instead of the mainstream hyperscale options provided by AWS, Azure and Google Cloud. During our recent webinar, I was joined by Carl Brooks, Analyst with 451 research, to discuss several key topics shaping enterprise cloud transformation, including:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/451Webinar-Cover-Slide_july2019.png" /></entry><entry><title type="html">VMware CloudSpot Podcast with Expedient’s John White</title><link href="http://localhost:4000/knowledgebase/blog/2019-07-18-vmware-cloudspot-podcast-with-expedients-john-white/" rel="alternate" type="text/html" title="VMware CloudSpot Podcast with Expedient's John White" /><published>2019-07-18T10:45:58-04:00</published><updated>2019-07-18T10:45:58-04:00</updated><id>http://localhost:4000/knowledgebase/blog/vmware-cloudspot-podcast-with-expedients-john-white</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-07-18-vmware-cloudspot-podcast-with-expedients-john-white/">&lt;p&gt;&lt;a href=&quot;http://bit.ly/30EuoDS&quot;&gt;Listen to John White&lt;/a&gt;, Expedient’s Chief Innovation Officer, and Guy Bartram, Director of Product Marketing at VMware, discuss Expedient’s evolution as a VMware Cloud Provider Partner on VMware’s CloudSpot Podcast.&lt;/p&gt;
+
+&lt;p&gt;More information on the podcast is available on &lt;a href=&quot;http://bit.ly/2XYXPPg&quot;&gt;VMware’s blog here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/3568_VMware_Podcast_LinkedIn_Ep5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>John White</name></author><category term="Cloud" /><category term="Cloud Computing" /><category term="VMware" /><category term="Expedient Enterprise Cloud" /><summary type="html">Listen to John White, Expedient’s Chief Innovation Officer, and Guy Bartram, Director of Product Marketing at VMware, discuss Expedient’s evolution as a VMware Cloud Provider Partner on VMware’s CloudSpot Podcast.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/3568_VMware_Podcast_LinkedIn_Ep5.jpg" /></entry><entry><title type="html">Repurposing IT - How cloud-based VMware infrastructure enables better strategic focus</title><link href="http://localhost:4000/knowledgebase/blog/2019-07-12-repurposing-it-how-cloud-based-vmware-infrastructure-enables-better-strategic-focus/" rel="alternate" type="text/html" title="Repurposing IT - How cloud-based VMware infrastructure enables better strategic focus" /><published>2019-07-12T16:22:07-04:00</published><updated>2019-07-12T16:22:07-04:00</updated><id>http://localhost:4000/knowledgebase/blog/repurposing-it-how-cloud-based-vmware-infrastructure-enables-better-strategic-focus</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-07-12-repurposing-it-how-cloud-based-vmware-infrastructure-enables-better-strategic-focus/">&lt;p&gt;How strategic is your IT team? Ask two questions to get a sense of your strategic value:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ask the employees in your organization &lt;strong&gt;whether they feel like Information Technology makes the organization run more effectively.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;As an IT professional, ask yourself &lt;strong&gt;whether your IT team helps your organization get the most out of its critical business applications&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If the answer to either of these questions isn’t yes, your IT team may have a strategic focus problem. I’ll define strategic focus as the ability to find, prioritize and deliver business applications that drive better customer service, new lines of business, higher revenue, and lower costs.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-chronic-problem--it-infrastructure&quot;&gt;The Chronic Problem – IT infrastructure&lt;/h4&gt;
+
+&lt;p&gt;Whether its located in-house or at a colocated data center facility, selecting, managing, maintaining, and repairing IT infrastructure still accounts for a huge portion of the IT team’s available work hours.  Add in the choices for cloud-based servers, storage and software, and an IT team can quickly become overwhelmed by &lt;a href=&quot;https://www.expedient.com/blog/how-are-you-addressing-the-10-complexities-of-your-multi-cloud-environment/&quot;&gt;the complexity inherent&lt;/a&gt; in supporting multiple clouds and on-premises systems.  This infrastructure-focused work leaves little to no time for the IT team to focus on helping the business run more effectively.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-solution---optimize-your-cloud-stack-based-on-business-requirements&quot;&gt;The Solution - Optimize Your Cloud Stack Based on Business Requirements&lt;/h4&gt;
+
+&lt;p&gt;What are successful IT teams doing to improve their organizations and help their internal customers get the most out of their applications?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Choosing an optimized combination of SaaS, enterprise cloud platforms, hyperscale cloud, and on-premises equipment based on business requirements.&lt;/li&gt;
+  &lt;li&gt;Minimizing infrastructure-related workloads using enterprise VMware-based cloud for legacy applications, hyperscale cloud for new development, and SaaS applications when functionality and cost make sense.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For many organizations, the key to reducing infrastructure is the intelligent use of enterprise cloud. Enterprise cloud is VMware-based cloud infrastructure with these characteristics:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Performance –&lt;/strong&gt; Most organizations expect their applications to run faster on newer IT platforms. The best enterprise cloud providers provide higher memory, disk and network performance for better application experiences.  Hyperscale clouds and SaaS don’t measure up to the best enterprise cloud performance levels.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Comfort –&lt;/strong&gt; Your critical business applications are comfortable running on VMware-based infrastructure, and your Systems Administrators are comfortable using the VMware management plane.  Hyperscale cloud often includes a learning curve and new skillsets.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Economics –&lt;/strong&gt; Ultimately, the cost of IT must be in alignment with the value it brings to the business. The best enterprise cloud providers offer predictable spending and cost changes that reflect changes in the business.  Accurate cost evaluations should include estimated reduction in FTE hours, licensing and hardware maintenance costs.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Service level –&lt;/strong&gt; How much downtime can your organization tolerate? Hyperscale cloud provider’s 99.95% uptime means more than four hours of downtime per year is acceptable.  &lt;a href=&quot;https://www.expedient.com/services/infrastructure-as-a-service/cloud/&quot;&gt;Enterprise cloud providers such as Expedient&lt;/a&gt; offer 100% uptime with service credits.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;API –&lt;/strong&gt; As more companies automate IT functions, application programming interfaces (APIs) become critical for enabling optimized IT management processes. The best enterprise cloud providers deliver APIs to enable automation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;there-is-still-more-to-do-the-it-team-still-must-repurpose-the-freed-up-time-to&quot;&gt;There is still more to do.  The IT team still must repurpose the freed-up time to:&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Work closely with the organization to evaluate, implement, support and change critical business applications.&lt;/li&gt;
+  &lt;li&gt;Lead the organization to better long-term technology planning and usage&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Skeptical?  &lt;a href=&quot;https://www.expedient.com/resources/video-prodigo-solutions-reduces-customer-onboarding-time-with-expedients-cloud-and-managed-services/&quot;&gt;See how Prodigo Solutions&lt;/a&gt; reduced their tactical IT infrastructure workload and refocused on new applications and better business outcomes.  Or contact me to discuss your organization’s specific situation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Doug Theis&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;is the Director of Market Strategy in Expedient’s Indianapolis market focused on engaging with and improving the regional IT community through planning, sponsoring and attending community events, facilitating IT-focused continuing education opportunities, and sharing strategies, tactics, and research to help IT professionals stay abreast of best practices and industry trends. Connect with Doug at&lt;/em&gt; &lt;a href=&quot;mailto:doug.theis@expedient.com&quot;&gt;&lt;em&gt;doug.theis@expedient.com&lt;/em&gt;&lt;/a&gt; &lt;em&gt;and follow him on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/dougtheis&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Doug Theis</name></author><category term="Cloud Computing" /><category term="Infrastructure as a service" /><category term="hyperscale cloud" /><category term="digital transformation" /><category term="IT Leadership" /><summary type="html">How strategic is your IT team? Ask two questions to get a sense of your strategic value:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/EXP-Social--repurposing_it.png" /></entry><entry><title type="html">Infrastructure as Code: Four Ways to Automate VMware Cloud Management</title><link href="http://localhost:4000/knowledgebase/blog/2019-07-10-infrastructure-as-code-four-ways-to-automate-vmware-cloud-management/" rel="alternate" type="text/html" title="Infrastructure as Code: Four Ways to Automate VMware Cloud Management" /><published>2019-07-10T14:33:23-04:00</published><updated>2019-07-10T14:33:23-04:00</updated><id>http://localhost:4000/knowledgebase/blog/infrastructure-as-code-four-ways-to-automate-vmware-cloud-management</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-07-10-infrastructure-as-code-four-ways-to-automate-vmware-cloud-management/">&lt;p&gt;For years, &lt;a href=&quot;https://www.expedient.com/blog/on-premises-it-infrastructure/&quot;&gt;IT infrastructure provisioning was a manual process&lt;/a&gt;.  This made sense when deploying a new server meant placing a purchase order, waiting for gear to arrive, racking the new gear, and then finally applying a bespoke configuration to support a new workload.  However, now that most workloads are moving to the cloud, new VMs can be provisioned in seconds meaning that manual provisioning adds hours or days to the process, which creates additional friction with every new deployment.  Even if the additional time lag is not a factor for your business, every minute an engineer spends following a SOP to deploy a new machine is a minute they aren’t spending working to improve your environment and make it faster, improve its stability, or provide additional capabilities.&lt;/p&gt;
+
+&lt;p&gt;Worse than the time lost to provisioning toil is the potential for inconsistency introduced by relying on humans to apply configurations to every server by hand.  People make mistakes, and even if you have a robust QA process on every new machine (more valuable engineer time lost!), inevitably, some things will slip through the cracks.  Over time, these small deviations add up and eventually make it difficult or impossible to confidently describe the current state of your environment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.expedient.com/blog/expedient-cloud-evolution-a-vision-5-years-in-the-making/&quot;&gt;Adopting an infrastructure as code approach&lt;/a&gt; enables the automation of rote provisioning operations, which will free up your engineers to work on improving your environment.  At the same time, you will be removing a major source of potential inconsistency or misconfiguration caused by human error, improving both the stability and security of your infrastructure.  Finally, having your infrastructure defined as code and managed in an SCM like Github means that you can always be certain of the current state of your environment and have total insight into all changes made.&lt;/p&gt;
+
+&lt;p&gt;Within VMware’s Cloud environment, there are various ways to implement an Infrastructure as Code approach.  For instance, &lt;a href=&quot;https://www.expedient.com/services/infrastructure-as-a-service/cloud/&quot;&gt;Expedient Enterprise Cloud&lt;/a&gt; (EEC) platform – which is based on VMware’s vCloud Director provisioning and management platform – offers a complete REST API to streamline integration with your existing automation tooling.  Continue reading for more detail on this ‘Infrastructure as Code’ approach and others.&lt;/p&gt;
+
+&lt;h4 id=&quot;1-directly-using-the-rest-api&quot;&gt;1) Directly using the REST API&lt;/h4&gt;
+
+&lt;p&gt;The REST API can be interacted with directly from any programming language with HTTP support or tools like &lt;a href=&quot;https://www.getpostman.com/&quot;&gt;Postman&lt;/a&gt; or &lt;a href=&quot;https://insomnia.rest/&quot;&gt;Insomnia&lt;/a&gt;.  There are some pitfalls with this approach, but we created a &lt;a href=&quot;https://apidocs.expedient.cloud/?version=latest&quot;&gt;Postman collection with documentation&lt;/a&gt; to assist in understanding the various API endpoints.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;This is approach is highly flexible, supporting development in any language or automation tooling.&lt;/li&gt;
+  &lt;li&gt;Good for extending existing tooling with new features to complete your automation workflows&lt;/li&gt;
+  &lt;li&gt;Complete coverage – All capabilities exposed by vCD can be accessed via the REST API.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In general, this approach is less user friendly than other available options.&lt;/li&gt;
+  &lt;li&gt;More time-consuming than pre-made tooling or libraries when performing common operations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-shell-scripting-with-vcd-cli&quot;&gt;2) Shell scripting with vCD-cli&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://vmware.github.io/vcd-cli/&quot;&gt;Vcd-cli&lt;/a&gt; is a Python-based command-line utility that can be used to perform the most common administration tasks within vCD. Just remember that in order to access the vCloud command line interface (CLI), an up-to-date python installation is required.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;On mac OS and Linux, installation is simple using &lt;a href=&quot;https://realpython.com/what-is-pip/&quot;&gt;Python’s PIP package manager&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The vCD-cli leverages common BASH scripting skills&lt;/li&gt;
+  &lt;li&gt;It is useful for performing one-off tasks from the command line such as VM deployments, hardware adjustments, and network connection changes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Somewhat more complicated install on Windows platforms as that you will need &lt;a href=&quot;https://visualstudio.microsoft.com/downloads/&quot;&gt;to install the Visual C++ build tools&lt;/a&gt; in addition to Python&lt;/li&gt;
+  &lt;li&gt;BASH is not necessarily ideal for complex automation tasks when compared with other languages or configuration management tooling&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-using-client-librariessdks&quot;&gt;3) Using client libraries/SDKs&lt;/h4&gt;
+
+&lt;p&gt;There are client libraries available for both &lt;a href=&quot;https://github.com/vmware/pyvcloud&quot;&gt;Python&lt;/a&gt; and &lt;a href=&quot;https://github.com/vmware/go-vcloud-director&quot;&gt;the Golang SDK for vCD&lt;/a&gt; that can be used to perform the vast majority of administration operations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;This approach is generally more user-friendly and facilitates faster development than the plain REST API.&lt;/li&gt;
+  &lt;li&gt;Capable of integrating with other software/processes as long as either Python or Go are supported&lt;/li&gt;
+  &lt;li&gt;Still retains good flexibility and covers most operations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Confined to two specific programming languages&lt;/li&gt;
+  &lt;li&gt;Some features exposed by the API are not yet accessible in the libraries.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;4-using-modern-automation-tooling&quot;&gt;4) Using modern automation tooling&lt;/h4&gt;
+
+&lt;p&gt;vCD is well supported by modern automation tooling such as &lt;a href=&quot;https://www.ansible.com/&quot;&gt;Ansible&lt;/a&gt; or &lt;a href=&quot;https://www.terraform.io/&quot;&gt;Terraform&lt;/a&gt;.  These modules allow you to easily automate common operations like server deployment, network creation, and firewall rule adjustments using declarative configuration files.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;This approach leverages existing expertise with configuration management tooling.&lt;/li&gt;
+  &lt;li&gt;Allows for declarative configuration&lt;/li&gt;
+  &lt;li&gt;Easier for non-programmers to read and modify&lt;/li&gt;
+  &lt;li&gt;Facilitates much faster time to market due with the ability to create simpler automation workflows&lt;/li&gt;
+  &lt;li&gt;Automation playbooks can be given to auditors in place of SOP documentation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Requires learning new tooling if expertise does not already exist within the organization&lt;/li&gt;
+  &lt;li&gt;Often means increased support costs if not purely using the OSS projects&lt;/li&gt;
+  &lt;li&gt;Somewhat limited in scope compared with the number of operations that are exposed via the API and included in the SDKs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In conclusion, there are several different ways to automate the deployment, configuration and management of IT infrastructure within vCD. As I mentioned previously, an Infrastructure as Code approach to IT infrastructure management definitely has its benefits. Just make sure you choose the approach that is best for your business.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mike Garuccio is a Product Strategy Engineer at Expedient focused on researching new software and hardware to find ways to productize this technology into new solutions for Expedient clients. As a ‘full stack’ engineer, Mike works with all layers of infrastructure architecture - from the hypervisor all the way up to front-end applications. Mike has played a leading role in the deployment and implementation of Expedient’s next-generation cloud platform, Expedient Enterprise Cloud. His professional interests include automation, containers, Kubernetes, CI/CD, and developer experience optimization. Follow Mike on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/mgaruccio&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Mike Garuccio</name></author><category term="Cloud Computing" /><category term="DevOps" /><summary type="html">For years, IT infrastructure provisioning was a manual process.  This made sense when deploying a new server meant placing a purchase order, waiting for gear to arrive, racking the new gear, and then finally applying a bespoke configuration to support a new workload.  However, now that most workloads are moving to the cloud, new VMs can be provisioned in seconds meaning that manual provisioning adds hours or days to the process, which creates additional friction with every new deployment.  Even if the additional time lag is not a factor for your business, every minute an engineer spends following a SOP to deploy a new machine is a minute they aren’t spending working to improve your environment and make it faster, improve its stability, or provide additional capabilities.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/EXP-Social--infa-as-code%20(1).png" /></entry><entry><title type="html">Key Takeaways from Gartner’s 2019 Security and Risk Management Summit</title><link href="http://localhost:4000/knowledgebase/blog/2019-06-28-key-takeaways-from-gartners-2019-security-and-risk-management-summit-the-business-case-for-organizational-resilience/" rel="alternate" type="text/html" title="Key Takeaways from Gartner's 2019 Security and Risk Management Summit" /><published>2019-06-28T15:20:08-04:00</published><updated>2019-06-28T15:20:08-04:00</updated><id>http://localhost:4000/knowledgebase/blog/key-takeaways-from-gartners-2019-security-and-risk-management-summit-the-business-case-for-organizational-resilience</id><content type="html" xml:base="http://localhost:4000/knowledgebase/blog/2019-06-28-key-takeaways-from-gartners-2019-security-and-risk-management-summit-the-business-case-for-organizational-resilience/">&lt;h2 id=&quot;the-business-case-for-organizational-resilience&quot;&gt;The Business Case for Organizational Resilience&lt;/h2&gt;
+
+&lt;p&gt;More than 3,500 IT risk and security professionals congregated outside of Washington, D.C., recently to attend the &lt;a href=&quot;https://www.gartner.com/en/conferences/na/security-risk-management-us&quot;&gt;2019 Gartner Security and Risk Management Summit&lt;/a&gt; to gain the latest insights on evolving security trends and the ever-changing threat landscape.&lt;/p&gt;
+
+&lt;p&gt;I was among the team from Expedient who were there to meet with vendors, partners, clients, and analysts. Throughout the week, several topic areas were comprehensively covered with respect to some of today’s top priorities for security and risk in digital business. These were key areas where I focused my engagement:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Choosing Cybersecurity Standards and Frameworks&lt;/strong&gt; – continuously improving an effective posture that meets the broadest needs of organization that rely on Expedient services to achieve business resilience&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Understanding Compliance Challenges&lt;/strong&gt; – designing, implementing, and integrating risk management systems based upon the government and industry mandates that apply to a variety of client vertical industries requiring business resilience&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;the-principles-of-organizational-resilience&quot;&gt;The Principles of Organizational Resilience&lt;/h4&gt;
+
+&lt;p&gt;As I have for the past three years, I attended sessions on the topic of &lt;strong&gt;organizational resilience&lt;/strong&gt;, which Gartner defines as a set of techniques that allow people, processes, and information systems to adapt to changing patterns. This approach enables the ability to adjust operations in the face of changing business conditions. Integrating the principles of Organizational Resilience into day-to-day operations will provide a platform for our clients to more closely manage risk.&lt;/p&gt;
+
+&lt;p&gt;My interest in this topic is related to Expedient’s position as a &lt;a href=&quot;https://www.expedient.com/services/managed-services/disaster-recovery/&quot;&gt;disaster recovery as a service (DRaaS)&lt;/a&gt; solution provider. Through DRaaS and managed security services, Expedient plays a role in the organizational resilience of its clients by providing co-managed capabilities that protect data and reduce the likelihood of pervasive threats from impacting day-to-day business operations.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-agile-is-your-business&quot;&gt;How Agile is Your Business?&lt;/h4&gt;
+
+&lt;p&gt;Building upon the posture of &lt;a href=&quot;https://www.expedient.com/blog/is-your-organization-continuousnext/&quot;&gt;ContinuousNEXT&lt;/a&gt; that I first heard about at Gartner’s 2018 Symposium, Organizational Resilience confronts changes in technology, competition, and business in order to possess the capability to adapt as the pace of change quickens. To embody this approach, business leaders are challenged to introduce new practices, develop new capabilities, and create new ways to succeed. Partnering with a service provider is one way accelerate implementation of this approach to managing risk and enhancing security.&lt;/p&gt;
+
+&lt;p&gt;There were several thought leaders and inspirational guest speakers at the conference, including &lt;strong&gt;Michael Chertoff&lt;/strong&gt; (former Secretary of Homeland Security), &lt;strong&gt;Patrick Lencioni&lt;/strong&gt; (author of “&lt;a href=&quot;https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756&quot;&gt;The Five Dysfunctions of a Team&lt;/a&gt;”), &lt;strong&gt;Nicole Malachowski&lt;/strong&gt; (retired U.S. Air Force Colonel and first female Thunderbird Pilot and Combat Veteran), and others. Each speaker offered a different perspective on the theme of change that connects back to the concepts of &lt;strong&gt;ContinuousNEXT&lt;/strong&gt; and &lt;a href=&quot;https://www.expedient.com/blog/the-evolution-of-disaster-recovery-gaining-it-resilience/&quot;&gt;Organizational Resilience&lt;/a&gt; that are needed to adapt to digital business operations.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;As Senior Vice President and Chief Operating Officer, Jonathan Rosenson is responsible for overseeing organizational functions that drive growth at Expedient. Jon additionally acts as an external spokesperson conveying the Expedient story.&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rosenson&quot;&gt;&lt;em&gt;Follow him&lt;/em&gt;&lt;/a&gt; &lt;em&gt;on Twitter.&lt;/em&gt;&lt;/p&gt;</content><author><name>Jon Rosenson</name></author><category term="Security and Compliance" /><category term="Disaster Recovery" /><category term="managed services" /><category term="risk management" /><summary type="html">The Business Case for Organizational Resilience</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/EXP-Social--Gartner_Summit.png" /></entry></feed>

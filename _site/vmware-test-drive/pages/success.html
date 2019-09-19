@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Expedient | Thank You</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom Fonts -->
+    <script src="//use.typekit.net/tyi1nmc.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <!-- Custom CSS -->
+    <link href="../css/mainstyle.css" rel="stylesheet">
+
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+    <!-- Fixed Navbar -->    
+    <nav class="navbar navbar-default navbar-static-top">
+      <div class="container">
+        <a href="https://www.expedient.com/"><img class="header-logo" src="../img/logo@2x.png" class="img-responsive" alt="Expedient"></a>
+      </div>
+    </nav>
+    
+    <!-- Header -->
+    <header id="top" class="header-success">
+        <div class="container text-vertical-center">
+            <div class="row">
+                <div class="col-sm-12">
+                    <img src="../img/thank-you.png" class="img-responsive text-center" alt="Responsive image">
+                    <h3>Thank you for your interest in our 30 day trial.  An Expedient solution architect will be in contact with you within 24 hours to discuss the environment and next steps.</h3>
+                </div>
+                <div class="col-sm-12">
+                    <h4>
+                         <a href="https://www.expedient.com/"><img class="header-logo" src="../img/logo@2x.png" class="img-responsive" alt="Expedient"></a>
+                    </h4>
+                   
+                    <ul class="list-unstyled">
+                         <a href="https://www.expedient.com/" class="btn btn-dark btn-lg">Find out more about Expedient</a>
+                        </li>
+                    </ul>
+                    <br>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="https://www.linkedin.com/company/expedient"><i class="fa fa-linkedin fa-fw fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/expedient"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
+                        </li>
+                    </ul>
+                    <hr class="small">
+                    <p class="text-muted">Copyright &copy; Expedient</p>
+                </div>
+            </div> <!-- row -->
+
+        </div>
+    </header>
+
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.counteverest.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script>
+    // Closes the sidebar menu
+    $("#menu-close").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+
+    // Opens the sidebar menu
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+
+    // Scrolls to the selected menu item on the page
+    $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+    </script>
+
+    
+        <script>
+      $(document).ready(function() {
+        $(".countdown").countEverest({
+          //Set your target date here!
+          day: 16,
+          month: 7,
+          year: 2015
+        });
+      });
+    </script>
+
+</body>
+
+</html>
