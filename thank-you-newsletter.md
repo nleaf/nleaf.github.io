@@ -1,12 +1,23 @@
 ---
 layout: blocks
-title: 'Thank you newsletter '
+title: Thanks for signing up!
 seo_title: ''
-description: ''
+description: You’ll now be first to me notified on Expedient technical briefs, stories, and special offers.
 image: ''
 page_sections:
+- template: page-hero
+  block: page-hero
+  banner_image: ''
+  subheadline: ''
 - template: content-block-full
   block: content-full
   sidebar: []
-
+- template: callout
+  block: callout
+  link: "/data-centers/"
+  cta: Learn More
+  heading: 'Ready to exit your data center for Expedient? '
+  content: Find the data center nearest you and schedule a tour.
+  icon: ''
+  background: "/uploads/EXP_Block-Callout-Background-2.jpg"
 ---

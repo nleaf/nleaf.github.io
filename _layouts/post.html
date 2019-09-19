@@ -25,7 +25,7 @@ layout: default
 <div class="lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12 mt-24">
   <div class="pure-u-1">
     <div class="content content-narrow">
-        <div class="flex flex-wrap flex-wrap w-3/4 my-8 align-middle items-center">
+        <div class="flex flex-wrap flex-wrap my-8 align-middle items-center mx-auto w-7/12">
           <div class="mr-8">
               <!-- Profile Picture -->
                 {% if page.author %}
@@ -51,7 +51,15 @@ layout: default
               <div class="post-date">{{ page.date | date_to_string }}</div>
         </div> 
         </div>
-      <div class="meta">
+        <div class="flex flex-wrap flex-wrap my-8 align-middle items-center mx-auto w-7/12">
+          {% if page.tags.size > 0 %}
+            <h3 class="text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Tags:</h3>
+            {% for tag in page.tags %}
+                <a class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block" href="/knowledgebase/blog/tag/{{tag | downcase }}">{{tag}}</a>
+            {% endfor %}
+          {% endif %}
+        </div>
+      <div class="meta hidden">
         {% if page.tags.size > 0 %}
         <div class="tags-list mb-2 absolute top-0 right-0 w-3/12 sm:w-4/12 mt-0 sm:mt-0 pl-4">
           <h3 class="text-red text-xl font-bold font-sans mb-4">Tags</h3>

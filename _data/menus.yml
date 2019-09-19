@@ -59,7 +59,7 @@ subnav:
   weight: 1
 - page: Careers
   title: Careers
-  url: "/careers"
+  url: "/careers.html"
   target: true
   weight: 2
 header:

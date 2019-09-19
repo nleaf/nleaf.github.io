@@ -2,7 +2,7 @@
 layout: blocks
 title: Our Clients
 hide_body: true
-permalink: "/why-expedient/our-clients/"
+permalink: "/why-expedient/our-clients123/"
 tags:
 - Disaster Recovery
 - VMware
@@ -51,9 +51,6 @@ page_sections:
   - image: "/uploads/first-insight.jpg"
     label: First Insight
     link: "/knowledgebase/resources/firstinsightcs/"
-  - image: "/uploads/homes.svg"
-    label: Homes.com
-    link: ''
   - image: "/uploads/Ideal-Chemical.jpg"
     label: Ideal Chemical and Supply Company
     link: ''
@@ -63,12 +60,12 @@ page_sections:
   - image: "/uploads/jumpline.jpg"
     label: Jumpline.com
     link: http://bit.ly/1GyI1JL
+  - image: "/uploads/medcom.jpg"
+    label: MedCom Solutions
+    link: "/knowledgebase/resources/healthcare-medcom-solutions/"
 - template: grid
   block: grid
   row:
-  - image: "/uploads/medcom.jpg"
-    label: MedCom Solutions
-    link: ''
   - image: "/uploads/nonnis.jpg"
     label: Nonnis
     link: "/knowledgebase/resources/manufacturing-nonnis-foods/"
@@ -84,12 +81,12 @@ page_sections:
   - image: "/uploads/Sarris-Candy.jpg"
     label: Sarris Candies
     link: ''
+  - image: "/uploads/Shapiro_Logo.png"
+    label: Shapiro
+    link: "/knowledgebase/resources/logistics-case-study-shapiro/"
 - template: grid
   block: grid
   row:
-  - image: "/uploads/shapiro logo.png"
-    label: Shapiro
-    link: "/knowledgebase/resources/logistics-case-study-shapiro/"
   - image: "/uploads/softlinx.jpg"
     label: Softlinx
     link: "/knowledgebase/resources/softlink-case-study/"
@@ -105,24 +102,9 @@ page_sections:
   - image: "/uploads/Tic_Gums.png"
     label: TIC GUMS
     link: "/knowledgebase/resources/manufacturing-tic-gums/"
-- template: grid
-  block: grid
-  row:
-  - label: ''
-    link: ''
-  - label: ''
-    link: ''
-  - label: ''
-    link: ''
-  - image: "/uploads/ultimate-home-services.png"
+  - image: "/uploads/ultimatehomeservices.png"
     label: Ultimate Home Services
     link: "/knowledgebase/resources/professional-services-case-study-ultimate-home-services/"
-  - label: ''
-    link: ''
-  - label: ''
-    link: ''
-  - label: ''
-    link: ''
 - template: link-bar
   block: linkbar
   cta: View More
