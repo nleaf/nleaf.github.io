@@ -647,6 +647,8 @@ p {
   font-size: 1.35rem;
   margin-top: 1.28rem;
   margin-bottom: 1.28rem;
+  margin-left: auto;
+  margin-right: auto;
   font-weight: 400;
   line-height: 1.6;
   width: 680px;
@@ -671,6 +673,8 @@ p {
   font-weight: 600;
   margin-top: 2.4rem;
   margin-bottom: .8rem;
+  margin-right: auto;
+  margin-left: auto;
   width: 680px;
 }
 .post ul {
@@ -680,6 +684,8 @@ p {
   font-size: 1.35rem;
   margin-top: 1.28rem;
   margin-bottom: 1.28rem;
+  margin-right: auto;
+  margin-left: auto;
   font-weight: 400;
   line-height: 1.6;
   width: 680px;
@@ -690,6 +696,8 @@ p {
   font-size: 1.35rem;
   margin-top: 1.28rem;
   margin-bottom: 1.28rem;
+  margin-right: auto;
+  margin-left: auto;
   font-weight: 400;
   line-height: 1.6;
   width: 680px;
