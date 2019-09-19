@@ -21,9 +21,9 @@ page_sections:
   block: featured-service
   title: VMware's Americas
   headline: Cloud Partner of the Year
-  description: Acknowledge as VMware's Americas Cloud Partner of the Year for our
-    outstanding performance and distinctive achievements related to our VMware technologies
-    and relationship.
+  description: Acknowledged as VMware's Americas Cloud Partner of the Year for our
+    outstanding performance and distinctive achievements related to our adoption of
+    key VMware technologies.
   icon: "/uploads/EXP-VMWare_Badge.svg"
   align-left: false
   cta_label: ''
