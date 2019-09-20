@@ -38,7 +38,7 @@ page_sections:
     Support Center encompasses all aspects of a network control center, call center,
     and IT help desk, enabling a single point of contact to clients 24 hours a day,
     7 days a week.</li>"
-  icon: "/uploads/exp-colo-icon.svg"
+  icon: "/uploads/exp-colocation-icon.svg"
   cta_label: ''
   cta_link: ''
 - template: highlights-2-column
