@@ -11,7 +11,7 @@ tags:
 - Disaster Recovery
 - Cloud
 featured: false
-popular: true
+popular: false
 
 ---
 At VMworld 2019, I sat down with Scott Lowe from [ActualTech Media](https://www.actualtechmedia.com) to discuss [Expedient Enterprise Cloud](https://www.expedient.com/services/infrastructure-as-a-service/cloud/) (EEC) and the difference between cloud and managed service providers like Expedient and the hyperscale cloud providers like AWS and Azure. During our conversation, Scott and I discussed the architecture of EEC, the EEC user experience, how Expedient supports the hybrid cloud needs of its clients, and why our telecom carrier beginnings differentiate Expedient as a cloud service and disaster recovery as a service (DRaaS) solution provider.
