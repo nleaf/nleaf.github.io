@@ -17,3 +17,5 @@ fields:
 - type: text
   name: video
   label: video
+pages:
+- _resources/2018-12-31-video-mdlogix-scales-behavioral-health-platform-nationally-with-expedients-private-cloud.md
