@@ -49,11 +49,11 @@ fields:
     min: 
     max: 
 pages:
+- data-centers.md
 - let-s-talk.md
 - index.md
 - awards-and-accolades.md
 - thank-you-newsletter.md
-- data-centers.md
 - disaster-recovery.md
 - security-and-compliance.md
 - colocation.md
