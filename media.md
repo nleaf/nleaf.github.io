@@ -19,6 +19,6 @@ page_sidebars:
   - link: Executive Team 
     url: "https://go.expedient.com/l/12902/2019-09-18/f88y8q/12902/213575/exp_executive_team.pdf"
   - link: Company Overview
-    url: "http://go.expedient.com/l/12902/2017-11-28/3ltvgj/12902/159857/Expedient_CompanyOverview.pdf"
+    url: "https://go.expedient.com/l/12902/2019-09-24/f9kw3z/12902/214043/Expedient_CompanyOverview.pdf"
   title: ''
 ---

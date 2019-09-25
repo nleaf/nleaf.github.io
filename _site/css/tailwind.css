@@ -1161,10 +1161,13 @@ p {
 
 /* Newsletter Form */
 
-.newsletterForm input, .newsletterForm textarea {
+.newsletterForm input, .newsletterForm textarea, #search-input {
   border: 1px solid #333132;
 }
 
+#Form-submit {
+  border: none;
+}
 /* Fade-In */
 
 @-webkit-keyframes fade-in {
