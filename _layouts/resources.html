@@ -19,6 +19,33 @@ layout: default
       </div>
     </div>
     <!-- END Blog Hero -->
+
+    <section class="relative sm:py-2 bg-bwhite sm:pb-12">
+            <div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4">
+                
+                <!-- Search -->
+                    <!-- Html Elements for Search -->
+                    <div id="search-container" class="w-full relative">
+                        <input type="text" id="search-input" placeholder="Search our resources..." class="w-full appearance-none p-4 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+                        <ul id="results-container" class="relative text-xl z-10 p-4 w-full leading-loose"></ul>
+                    </div>
+                        
+                    <!-- Script pointing to search-script.js -->
+                    <script src="/js/search-script.js" type="text/javascript"></script>
+                    
+                    <!-- Configuration -->
+                    <script>
+                    SimpleJekyllSearch({
+                        searchInput: document.getElementById('search-input'),
+                        resultsContainer: document.getElementById('results-container'),
+                        json: '/search_resources.json'
+                    })
+                    </script>
+                <!-- END SEARCH -->
+
+        </div>
+    </section>
+
     <section class="relative sm:py-2 sm:pb-12">
         <div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12">
                 <div class="w-full sm:w-8/12 pr-5">

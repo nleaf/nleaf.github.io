@@ -1,7 +1,7 @@
 ---
 title: '451 Research: Expedient Improves DRaaS'
 date: Thu, 01 Sep 2016 13:22:44 +0000
-download: ''
+download: 'http://go.expedient.com/451Research-DRaaS-NSX'
 draft: false
 tags: [Whitepapers]
 ---

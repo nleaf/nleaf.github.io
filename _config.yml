@@ -65,7 +65,7 @@ autopages:
       - 'resources.html'
     title: 'Posts in collection :coll' # :coll is replaced by the collection name
     permalink: '/collection/:coll'
-    enabled: false
+    enabled: true
 jekyll-archives:
   enabled: all
   layout: "archive"
