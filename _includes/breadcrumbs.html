@@ -11,13 +11,17 @@
 							{% for part in parts offset: 1 %}
 								{% if forloop.last %}
 									<!-- ACTIVE -->
-									<a href="#" class="font-semibold text-red nav-item">{{ page.title }}</a>
+									<a href="#" class="font-semibold text-red nav-item hidden">{{ page.title }}</a>
 								{% else %}
 									{% assign text =  part | replace:'-', ' ' | capitalize %}
 									{% assign limit = forloop.index | plus: 1 %}
 									{% capture href %}{% for part in parts limit: limit %}{{ part | append: '/' }}{% endfor %}{% endcapture %}
 									<!-- <li class="float-left"> -->
-									<a href="{{ href | absolute_url }}" class="nav-item">{{ text }}</a>
+										{% if forloop.index == 1 %}
+											<a href="#" class="nav-item">{{ text }}</a>
+										{% else %}
+											<a href="{{ href | absolute_url }}" class="nav-item">{{ text }}</a>
+										{% endif %}
 									<!-- </li> -->
 								{% endif %}
 							{% endfor %}
