@@ -1,0 +1,210 @@
+@media screen and (max-width: 640px) {
+  #homepageslider-cpanel {
+    display:none;
+  }
+  #homepageslider {
+    width:540px;
+    padding:30px 50px 0px;
+  }
+  #homepageslider .inner-wrap {
+    padding-bottom:30px;
+    background: url("img/border-pattern_mobile.gif") repeat-x bottom center;
+    margin-bottom:-35px;
+  }
+
+  #homepageslider .homepageslider-slide {
+    display:none;
+  }
+  #homepageslider #hpslide-cloud-calculators {
+    display:block;
+  }
+  .graphic img.monitor {
+    width:30%;
+    float:left; 
+    margin-right:30px;
+  }
+  #homepageslider-slides p {
+    font-size:23px;
+    color: #41403f;
+    line-height:1.2em;
+    margin-bottom:15px;
+  }
+}
+@media screen and (min-width: 641px) {
+  #homepageslider {
+    width:100%;
+    padding-top:20px;
+    background:url(../img/bkg_gradient.jpg) bottom center repeat-x;
+    min-width:1024px;
+  }
+  #homepageslider .inner-wrap {
+    background:url(../img/background.jpg) bottom center no-repeat;
+  }
+  #homepageslider-slides {
+    height:300px;
+  }
+  #homepageslider #homepageslider-slides {
+    height:362px;
+    margin-bottom:-25px;
+    overflow:hidden;
+    position:relative;
+  }
+  #homepageslider .homepageslider-slide {
+    position:absolute;
+    width:960px;
+    margin-left:-480px;
+    display:none;
+  }
+  #homepageslider #hpslide-cloud-calculators {
+    left:50%;
+    display:block;
+  }
+  #homepageslider .hideslides{
+    left:-480px;
+  }
+  #homepageslider .homepageslider-slide .graphic{
+      width:388px;
+      position:absolute;
+      left:0px;
+      z-index:50;
+      text-align:center;
+  }
+  #homepageslider .homepageslider-slide .content{
+    width:497px;
+    position:absolute;
+    left:388px;
+    padding-left:25px;
+    padding-right:50px;
+    z-index:1;
+  }
+  #homepageslider .homepageslider-slide .content .icon{
+    margin-left:-15px;
+  }
+  #homepageslider .homepageslider-slide .content * {
+    color:#41403f
+  }
+  #homepageslider .homepageslider-slide .content h1,
+  #homepageslider .homepageslider-slide .content h2 {
+    font-size:26px;
+    text-transform:uppercase;
+    font-weight:bold;
+  }
+  #homepageslider .homepageslider-slide .content p {
+    margin-bottom:20px;
+    padding-right:20px;
+  }
+  #homepageslider .homepageslider-slide .content #logos {
+    float:right;
+    margin-top:-15px;
+  }
+  #homepageslider .homepageslider-slide .content .red-button {
+    background: #dd4771; /* Old browsers */
+    background: -moz-linear-gradient(top, #dd4771 0%, #d63461 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#dd4771), color-stop(100%,#d63461)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #dd4771 0%,#d63461 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #dd4771 0%,#d63461 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #dd4771 0%,#d63461 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #dd4771 0%,#d63461 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dd4771', endColorstr='#d63461',GradientType=0 ); /* IE6-9 */
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    font-size:15px;
+    color:#fff;
+    font-weight:bold;
+    padding:5px 15px;
+  }
+  #homepageslider .homepageslider-slide .monitor {
+    margin-left:-20px;
+  }
+  #homepageslider .homepageslider-slide .resource-link {
+    float:left;
+    color:#A6A7A8;
+    font-size:18px;
+    font-weight:bold;
+    margin-right:30px;
+    padding-bottom:10px;
+    line-height:25px;
+    margin-top:0px;
+  }
+  #homepageslider .homepageslider-slide .resource-link img{
+    height:36px;
+    margin-right:10px;
+    vertical-align:bottom;
+  }
+
+
+  #homepageslider .homepageslider-slide .security-assest {
+    float:left;
+      margin-right:60px;
+      font-weight:bold;
+      
+    
+  }
+  #homepageslider .homepageslider-slide .security-assest img{
+    height:100px;  
+    margin-top:5px;
+  }
+
+
+  #homepageslider-cpanel {
+    position:relative;
+    width:1000px;
+    margin:auto;
+    z-index:2;
+  }
+  #homepageslider-cpanel ul {
+    
+  }
+  #homepageslider-cpanel ul li {
+    list-style:none;
+    display:inline;
+  }
+  #homepageslider-cpanel ul li a{
+    line-height:30px;
+    color:#fff;
+    
+    float:left;
+    width:193px;
+    height:30px;
+    background:#dddcdc;
+    border-radius: 10px 10px 0px 0px;
+    margin-right:5px;
+    text-align:center;  
+  }
+  #homepageslider-cpanel ul li.on a{
+    line-height:40px;
+    color:#fff;
+    height:40px;
+    margin-right:3px;
+    padding:0px 1px;  
+    background:#d42a59;
+    margin-top:-10px;
+  }
+  .clickable {
+    cursor:pointer;
+  }
+  #homepageslider-cpanel ul li.menu-cloud-calculators {
+    width:193px;
+  }
+  #homepageslider-cpanel ul li.menu-calculators {
+    width:175px;
+  }
+  #homepageslider-cpanel ul li.menu-resouces {
+    width:173px;
+  }
+  #homepageslider-cpanel ul li.menu-security {
+    width:245px;
+  }
+  #homepageslider-cpanel ul li.menu-request-tool {
+    width:173px;
+  }
+
+  #homepageslider-cpanel ul li a{
+    font-size:14px;
+    color:#5b5959;
+    line-height:30px;
+    text-transform:uppercase;
+  }
+}
+
+
