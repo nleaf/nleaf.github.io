@@ -156,8 +156,11 @@ page_sections:
     icon: "/uploads/vmware-icon.svg"
     background: "/uploads/exp_cloud_vmc-1.jpg"
     headline: VMC on AWS
-    description: 'Deliver IaaS and DRaaS solutions using VMware technology from an
-      Expedient data center or in VMware Cloud on AWS. '
+    description: |-
+      Deliver IaaS and DRaaS solutions using VMware technology from an Expedient data center or in VMware Cloud on AWS. <a href="https://expedient.netlify.com/lets-talk" alt="Lets Talk" class="w-56 inline-block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans mt-8 ctaButton relative align-middle relative">
+                          <svg xmlns="http://www.w3.org/2000/svg" width="7.737" height="11.791" viewBox="0 0 7.737 11.791" class="absolute right-0 mr-4 mt-2"><path d="M250.582,37.634l-5.829,5.9-1.908-1.92,3.925-3.976-3.925-3.975,1.908-1.92Z" transform="translate(-242.845 -31.738)" fill="#fdfdfd"></path></svg>
+                         Request a quote
+                      </a>
   - align-left: true
     icon: "/uploads/exp-nutanix-icon.svg"
     background: "/uploads/exp_cloud_nutanix.jpg"
