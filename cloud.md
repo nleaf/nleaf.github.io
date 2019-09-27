@@ -118,8 +118,8 @@ page_sections:
   background: "/uploads/bg_hurricane-1.png"
 - template: highlights-2-column
   block: highlights-2col
-  heading: ''
-  subheading: Overcome IT challenges with our portfolio of cloud solutions
+  heading: Overcome IT challenges with our portfolio of
+  subheading: Cloud Solutions
   highlights:
   - align-left: true
     icon: "/uploads/exp-dr-icon.svg"
