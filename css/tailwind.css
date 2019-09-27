@@ -653,6 +653,12 @@ p {
   line-height: 1.6;
   width: 680px;
 }
+.post .video {
+  margin: 0 auto;
+}
+.post.resource p,.post.resource .video {
+  margin-left: 0;
+}
 .post.expand p {
   font-size: 1.35rem;
   margin-top: 1.28rem;
