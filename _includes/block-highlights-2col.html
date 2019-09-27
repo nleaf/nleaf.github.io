@@ -10,7 +10,7 @@
         {% endif %}
         {% if section.subheading == nil or section.subheading == empty%}
         {% else %}
-        <div class="w-full text-black font-bold text-xl lg:text-6xl mb-12 font-sans text-center align-middle justify-center leading-exp">
+        <div class="w-full text-black font-bold text-xl lg:text-5xl mb-12 font-sans text-center align-middle justify-center leading-exp">
                 {{ section.subheading }}
         </div>
         {% endif %}
@@ -21,7 +21,7 @@
             {% if item.align-left %} 
                 <div class="flex -mx-4 twocol highlight flex-wrap"> 
                     <!-- Left -->
-                    <div class="w-full sm:w-6/12 px-4 mt-4 flex items-center">
+                    <div class="w-full sm:w-6/12 px-4 my-4 flex items-center">
                         <div class="w-full relative">
                             {% if item.icon == nil  and item.icon == empty %}
                                 <div class="w-full text-center" style="
@@ -42,7 +42,7 @@
                         </div> 
                     </div>
                     <!-- Right -->
-                    <div class="w-full sm:w-6/12 px-4 mt-4">
+                    <div class="w-full sm:w-6/12 px-4 my-4">
                         <div class="w-full my-4 pt-4 pb-6 px-6 relative">
                             <h3 class="text-2xl sm:text-3xl md:text-xl font-semibold font-sans mb-3 text-red">{{ item.headline }}</h3>
                             <p class="text-xl font-light leading-normal my-2">{{ item.description }}</p>
@@ -52,14 +52,14 @@
             {% else %}
                 <div class="flex -mx-4 twocol highlight flex-wrap"> 
                     <!-- Left -->
-                    <div class="w-full sm:w-6/12 px-4 mt-4">
+                    <div class="w-full sm:w-6/12 px-4 my-4">
                         <div class="w-full my-4 pt-4 pb-6 px-6 relative">
                             <h3 class="text-2xl sm:text-3xl md:text-xl font-semibold font-sans mb-3 text-red">{{ item.headline }}</h3>
                             <p class="text-xl font-light leading-normal my-2">{{ item.description }}</p>
                         </div> 
                     </div>
                     <!-- Right -->
-                    <div class="w-full sm:w-6/12 px-4 mt-4 flex items-center">
+                    <div class="w-full sm:w-6/12 px-4 my-4 flex items-center">
                         <div class="w-full relative text-right">
                             {% if item.icon == nil  and item.icon == empty %}
                             <div class="w-full float-right" style="
