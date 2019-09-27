@@ -1231,6 +1231,12 @@ h2 .ctaLink::after {
   height: auto;
 }
 
+@media (min-width: 1024px) {
+  .inxQN {
+    height: 35vh;
+  }
+}
+
 .container {
   width: 100%;
 }
