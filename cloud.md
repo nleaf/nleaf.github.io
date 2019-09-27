@@ -78,7 +78,7 @@ page_sections:
   cta: Read the press release
 - template: highlights-2-column
   block: highlights-2col
-  subheading: business transformation
+  subheading: Business Transformation
   highlights:
   - align-left: true
     icon: "/uploads/exp-public_cloud-icon.svg"
