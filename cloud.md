@@ -85,7 +85,7 @@ page_sections:
     background: "/uploads/exp_cloud_public.jpg"
     headline: Public Cloud
     description: |-
-      Shared cloud instances and resource pools that offer predictable performance and pricing, a 100% SLA, and the ability to leverage your team’s existing VMware skill set – no application refactoring or new platforms to learn. <a href="https://expedient.netlify.com/lets-talk" alt="Lets Talk" class="w-56 inline-block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans mt-8 ctaButton relative align-middle relative">
+      Shared cloud instances and resource pools that offer predictable performance and pricing, a 100% SLA, and the ability to leverage your team’s existing VMware skill set – no application refactoring or new platforms to learn. <a href="/lets-talk" alt="Lets Talk" class="w-56 inline-block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans mt-8 ctaButton relative align-middle relative">
                           <svg xmlns="http://www.w3.org/2000/svg" width="7.737" height="11.791" viewBox="0 0 7.737 11.791" class="absolute right-0 mr-4 mt-2"><path d="M250.582,37.634l-5.829,5.9-1.908-1.92,3.925-3.976-3.925-3.975,1.908-1.92Z" transform="translate(-242.845 -31.738)" fill="#fdfdfd"></path></svg>
                          Request a quote
                       </a>
