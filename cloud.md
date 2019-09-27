@@ -78,7 +78,7 @@ page_sections:
   cta: Read the press release
 - template: highlights-2-column
   block: highlights-2col
-  subheading: Flexible options to drive business transformation
+  subheading: business transformation
   highlights:
   - align-left: true
     icon: "/uploads/exp-public_cloud-icon.svg"
@@ -106,7 +106,7 @@ page_sections:
       centers with our public and private cloud solutions, or marrying physical infrastructure
       with a third-party cloud like AWS, our hybrid cloud solutions enable the seamless
       coexistence of all of your physical and virtual infrastructures.
-  heading: ''
+  heading: Flexible options to drive
 - template: callout
   block: callout
   link: https:/go.expedient.com/2019-cloud-spectator-report

@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- cloud.md
 - data-centers.md
 - let-s-talk.md
 - index.md
@@ -57,7 +58,6 @@ pages:
 - disaster-recovery.md
 - security-and-compliance.md
 - colocation.md
-- cloud.md
 - technology-partners.md
 - success-stories.md
 - tools-and-calculators.md
