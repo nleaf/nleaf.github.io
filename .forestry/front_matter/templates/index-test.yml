@@ -49,6 +49,7 @@ fields:
     min: 
     max: 
 pages:
+- overview.md
 - technology-partners.md
 - cloud.md
 - data-centers.md
@@ -63,7 +64,6 @@ pages:
 - tools-and-calculators.md
 - executive-team.md
 - why-expedient.md
-- overview.md
 - _resources/2016-01-07-interactive-blue-case-study.md
 - _resources/2016-01-21-softlink-case-study.md
 - _resources/2016-03-03-firstinsightcs.md
