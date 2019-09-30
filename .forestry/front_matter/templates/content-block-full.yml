@@ -12,7 +12,8 @@ fields:
 - name: sidebar
   type: blocks
   label: Sidebar
-  template_types: []
+  template_types:
+  - sidebar-tags
   config:
     min: 
     max: 
