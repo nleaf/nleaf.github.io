@@ -1318,6 +1318,26 @@
       "tags"     : "Whitepapers",
       "date"     : "2019-09-20 00:00:00 -0400"
 
+    } ,
+  
+    {
+
+      "title"    : "ActualTech Media Solutions for VMware EcoCast - Expedient Enterprise Cloud",
+      "url"      : "/knowledgebase/resources/actualtech-media-solutions-for-vmware-ecocast-expedient-enterprise-cloud/",
+      "category" : "",
+      "tags"     : "VMware, Expedient Enterprise Cloud, Video",
+      "date"     : "2019-09-30 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Homes.com Consolidates and Migrates Business Critical Applications to Expedient Enterprise Cloud",
+      "url"      : "/knowledgebase/resources/homes-com-consolidates-and-migrates-business-critical-applications-to-expedient-enterprise-cloud/",
+      "category" : "",
+      "tags"     : "enterprise cloud, multi-cloud, disaster recovery, Push Button DR, kubernetes, containers, Expedient Enterprise Cloud",
+      "date"     : "2019-09-30 01:00:00 -0400"
+
     } 
   
 ]
