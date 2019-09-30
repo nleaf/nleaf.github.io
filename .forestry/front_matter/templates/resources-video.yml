@@ -17,3 +17,5 @@ fields:
 - type: text
   name: video
   label: video
+pages:
+- _resources/actualtech-media-solutions-for-vmware-ecocast-expedient-enterprise-cloud.md
