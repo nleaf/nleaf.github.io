@@ -12,7 +12,6 @@ tags:
 - containers
 - Expedient Enterprise Cloud
 video: https://youtu.be/194kjeuVZqg
-published: false
 
 ---
 [Homes.com](https://www.homes.com/) selected Expedient to improve its IT infrastructure and establish a reliable disaster recovery plan after experiencing rising costs with incumbent providers and realizing its vulnerability to downtime. The Expedient solution, comprised of Expedient Enterprise Cloud, Push Button DR, Cloud Storage, as well as a host of complementary managed services and multi-cloud enablement solutions, has demonstrated a 20% reduction in total cost of ownership for [Homes.com](https://www.homes.com/).
