@@ -28,7 +28,11 @@ page_sections:
     icon: ''
     background: "/uploads/cohesity.png"
     headline: Cohesity
-    description: ''
+    description: Cohesity simplifies data protection and eliminates legacy backup
+      silos through its hyperconverged data management platform. As the largest Cohesity-powered
+      service provider, Expedient plays a pivotal role in the development of Cohesity’s
+      technology roadmap and has successfully migrated several enterprise clients
+      to the Cohesity platform.
   - align-left: false
     icon: ''
     background: "/uploads/commvault.png"
