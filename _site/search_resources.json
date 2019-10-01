@@ -1,0 +1,1343 @@
+[
+  
+    {
+
+      "title"    : "Backup",
+      "url"      : "/knowledgebase/resources/backup/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2014-06-04 12:58:46 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Firewall",
+      "url"      : "/knowledgebase/resources/firewall/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2014-06-04 12:58:46 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Private Cloud",
+      "url"      : "/knowledgebase/resources/private-cloud/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2014-06-04 12:58:47 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Juniper and Expedient Firewall",
+      "url"      : "/knowledgebase/resources/juniper-and-expedient-firewall/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2014-06-04 16:58:47 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "How important is 24hr customer service?",
+      "url"      : "/knowledgebase/resources/2604/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2014-07-03 16:58:06 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "How important is data location?",
+      "url"      : "/knowledgebase/resources/how-important-is-knowing-data-location/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2014-07-07 10:17:15 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "How important is a local provider?",
+      "url"      : "/knowledgebase/resources/how-important-is-a-local-provider/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2014-07-07 10:23:11 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "What are the main cloud concerns?",
+      "url"      : "/knowledgebase/resources/what-are-main-concerns-of-the-cloud/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2014-07-07 10:25:33 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Cloud computing considerations",
+      "url"      : "/knowledgebase/resources/what-critical-issues-should-be-considered/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2014-07-07 10:33:52 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Physical security of a cloud provider",
+      "url"      : "/knowledgebase/resources/physical-security-of-a-cloud-provider/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2014-07-07 10:43:25 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Providers that offer physical colocation",
+      "url"      : "/knowledgebase/resources/providers-that-offer-physical-colocation/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2014-07-07 10:46:06 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Reporting &amp; audit support importance",
+      "url"      : "/knowledgebase/resources/reporting-audit-support-importance/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2014-07-07 10:48:32 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Not all clouds are created equal",
+      "url"      : "/knowledgebase/resources/not-all-clouds-are-created-equal/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2014-07-07 11:01:34 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Security in the cloud",
+      "url"      : "/knowledgebase/resources/security-in-the-cloud-2/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2014-07-07 11:11:33 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Presentation: A tale of two clouds",
+      "url"      : "/knowledgebase/resources/presentation-a-tale-of-two-clouds/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2014-07-07 11:15:26 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "When &amp; Why move to the cloud?",
+      "url"      : "/knowledgebase/resources/presentation-when-why-move-to-the-cloud/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2014-07-07 11:22:32 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Not All Clouds Are Created Equal",
+      "url"      : "/knowledgebase/resources/not-all-clouds-are-created-equal-2/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2015-01-15 11:29:34 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Cloud Spectator Report Findings",
+      "url"      : "/knowledgebase/resources/cloud-spectator-report-findings/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2015-01-15 11:33:09 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Performance in the Cloud",
+      "url"      : "/knowledgebase/resources/performance-in-the-cloud/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2015-01-15 11:35:43 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Private vs. Public vs. Hybrid",
+      "url"      : "/knowledgebase/resources/private-vs-public-vs-hybrid/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2015-01-15 11:37:27 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Exiting the Data Center Business",
+      "url"      : "/knowledgebase/resources/exiting-the-data-center-business/",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2015-01-15 11:39:14 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Security Uncompromised",
+      "url"      : "/knowledgebase/resources/security-uncompromised/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2015-01-15 11:40:28 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Intel Technology &amp; Cloud Infrastructure",
+      "url"      : "/knowledgebase/resources/intel-technology-cloud-infrastructure/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2015-01-15 11:43:08 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "CPU Ready and Virtual Colocation",
+      "url"      : "/knowledgebase/resources/cpu-ready-and-virtual-colocation/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2015-01-15 11:44:25 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "TCO of the Cloud",
+      "url"      : "/knowledgebase/resources/tco-of-the-cloud/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2015-01-15 11:46:15 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Data Center Security and the Cage",
+      "url"      : "/knowledgebase/resources/data-center-security-and-the-cage/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2015-01-15 11:47:33 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Disaster Recovery Checklist",
+      "url"      : "/knowledgebase/resources/disaster-recovery-checklist/",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2015-01-16 14:05:06 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Cloud Spectator 2015  Report Findings",
+      "url"      : "/knowledgebase/resources/2015-cloud-spectator-report-findings-amazon-rackspace-azure-expedient/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2015-02-16 09:38:49 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Juniper vSRX Virtual Firewall",
+      "url"      : "/knowledgebase/resources/juniper-case-study/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2015-02-16 10:12:44 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "2015 Cloud Spectator Report",
+      "url"      : "/knowledgebase/resources/2015-cloud-spectator-report-findings-amazon-azure-expedient/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2015-02-16 11:42:52 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "The Need for Virtualization and Security Automation",
+      "url"      : "/knowledgebase/resources/the-need-for-virtualization-and-security-automation/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2015-03-23 11:17:10 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Top 10 Cloud Security Risks PDF",
+      "url"      : "/knowledgebase/resources/top-10-cloud-security-risks-pdf/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2015-03-27 09:53:35 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Push Button DR",
+      "url"      : "/knowledgebase/resources/push-button-dr/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2015-04-02 09:24:12 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Comparing Cloud Providers",
+      "url"      : "/knowledgebase/resources/comparing-cloud-providers/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2015-10-09 15:23:28 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "InteractiveBlue",
+      "url"      : "/knowledgebase/resources/interactive-blue-case-study/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2016-01-07 00:00:00 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Softlinx Inc.",
+      "url"      : "/knowledgebase/resources/softlink-case-study/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2016-01-21 00:00:00 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "The Benefits of Outsourcing Your Cloud",
+      "url"      : "/knowledgebase/resources/the-benefits-of-outsourcing-your-cloud/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2016-02-17 14:10:22 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "First Insight",
+      "url"      : "/knowledgebase/resources/firstinsightcs/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2016-03-03 00:00:00 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Private vs. Public Cloud",
+      "url"      : "/knowledgebase/resources/private-vs-public-cloud/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-04-19 13:38:58 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Omnyx",
+      "url"      : "/knowledgebase/resources/omnyx-case-study/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2016-07-22 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "SlimLine Cage",
+      "url"      : "/knowledgebase/resources/slimline-cage-info-sheet/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-07-22 12:24:59 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "SlimLine Cage Visual Guide",
+      "url"      : "/knowledgebase/resources/slimline-cage-visual-guide/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-07-22 12:27:28 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Orchard Software",
+      "url"      : "/knowledgebase/resources/orchard-software-case-study/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2016-07-27 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Elite Services Inc.",
+      "url"      : "/knowledgebase/resources/elite-services-case-study/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2016-07-29 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Industry - Healthcare",
+      "url"      : "/knowledgebase/resources/industry-healthcare/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-08-02 14:42:33 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Industry - SaaS",
+      "url"      : "/knowledgebase/resources/industry-saas/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-08-02 14:43:25 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Disaster Recovery as a Service (DRaaS)",
+      "url"      : "/knowledgebase/resources/disaster-recovery-as-a-service-draas-info-sheet/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-08-23 08:43:01 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Healthcare Info Pack",
+      "url"      : "/knowledgebase/resources/7453/",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2016-08-23 09:00:31 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "SaaS Info Pack",
+      "url"      : "/knowledgebase/resources/saas-info-pack/",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2016-08-23 09:16:14 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Healthcare Outcome Story",
+      "url"      : "/knowledgebase/resources/hospital-system-protects-data/",
+      "category" : "",
+      "tags"     : "Outcome Stories",
+      "date"     : "2016-08-23 09:31:07 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Industry - Ecommerce/Retail",
+      "url"      : "/knowledgebase/resources/e-commerceretail/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-08-23 09:42:04 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Server Management and Monitoring",
+      "url"      : "/knowledgebase/resources/server-management-and-monitoring/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-08-26 13:57:20 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Industry - Financial",
+      "url"      : "/knowledgebase/resources/financial/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-08-30 13:00:46 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "451 Research: Expedient Improves DRaaS",
+      "url"      : "/knowledgebase/resources/451-research-paper-expedient-improves-draas-on-the-back-of-wide-area-nsx-implementation/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2016-09-01 09:22:44 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Our Cloud is Your Cloud",
+      "url"      : "/knowledgebase/resources/our-cloud-is-your-cloud-video/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2016-09-01 09:46:54 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Financial Outcome Story",
+      "url"      : "/knowledgebase/resources/outcome-story-financial/",
+      "category" : "",
+      "tags"     : "Outcome Stories",
+      "date"     : "2016-09-01 10:54:09 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "On-Site Private Cloud with DraaS",
+      "url"      : "/knowledgebase/resources/on-site-private-cloud-with-draas/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-09-13 10:48:59 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "eCommerce and Retail Info Pack",
+      "url"      : "/knowledgebase/resources/ecommerce-and-retail-info-pack/",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2016-09-13 10:55:17 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Industry - Professional Services",
+      "url"      : "/knowledgebase/resources/professional-services/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-09-13 10:57:56 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Industry - Manufacturing",
+      "url"      : "/knowledgebase/resources/manufacturing/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-09-13 13:37:13 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Industry - Energy and Utilities",
+      "url"      : "/knowledgebase/resources/engergyutilities/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-09-13 13:42:19 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Software Defined Networking for Real Life Disaster Recovery as a Service (DRaaS)",
+      "url"      : "/knowledgebase/resources/software-defined-networking-for-real-life-disaster-recovery-as-a-service-draas/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2016-09-13 14:21:02 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Professional Services Outcome Story",
+      "url"      : "/knowledgebase/resources/outcome-story-professional-services/",
+      "category" : "",
+      "tags"     : "Outcome Stories",
+      "date"     : "2016-09-15 15:45:28 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Manufacturing Outcome Story",
+      "url"      : "/knowledgebase/resources/outcome-story-material-solutions-provider/",
+      "category" : "",
+      "tags"     : "Outcome Stories",
+      "date"     : "2016-09-16 14:49:22 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Storage",
+      "url"      : "/knowledgebase/resources/storage/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-10-07 09:22:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Compliance and Security",
+      "url"      : "/knowledgebase/resources/compliance-and-security/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-10-07 09:24:33 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Manufacturing Outcome Story",
+      "url"      : "/knowledgebase/resources/7682/",
+      "category" : "",
+      "tags"     : "Outcome Stories",
+      "date"     : "2016-10-11 11:05:13 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "irth Solutions, LLC",
+      "url"      : "/knowledgebase/resources/irth-solutions/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2016-10-12 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Nonprofit Outcome Story",
+      "url"      : "/knowledgebase/resources/outcome-story-non-profit/",
+      "category" : "",
+      "tags"     : "Outcome Stories",
+      "date"     : "2016-10-12 08:47:14 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Healthcare Outcome Story",
+      "url"      : "/knowledgebase/resources/outcome-store-healthcare-solutions/",
+      "category" : "",
+      "tags"     : "Outcome Stories",
+      "date"     : "2016-10-21 14:44:31 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Host-to-Host Replication",
+      "url"      : "/knowledgebase/resources/host-to-host-replication/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-10-24 09:18:36 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Migration Services",
+      "url"      : "/knowledgebase/resources/migration-services/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-10-24 11:42:10 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "SAN-to-SAN Replication",
+      "url"      : "/knowledgebase/resources/san-to-san/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-11-11 15:31:01 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Clouded Judgement: Don&#39;t Gamble with Distraction",
+      "url"      : "/knowledgebase/resources/clouded-judgement/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2016-11-15 13:42:16 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "On-Site Private Cloud",
+      "url"      : "/knowledgebase/resources/on-site-private-cloud/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2016-11-23 09:23:48 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "On-Site Private Cloud with DRaaS",
+      "url"      : "/knowledgebase/resources/7761/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2016-12-01 13:38:03 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Two-Factor Authentication",
+      "url"      : "/knowledgebase/resources/two-factor-authentication/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2016-12-22 07:58:18 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Manufacturing Outcome Story",
+      "url"      : "/knowledgebase/resources/outcome-stories-consumer-products-manufacturer/",
+      "category" : "",
+      "tags"     : "Outcome Stories",
+      "date"     : "2017-01-04 10:15:36 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Energy/Utility Outcome Story",
+      "url"      : "/knowledgebase/resources/energyutility-outcome-story/",
+      "category" : "",
+      "tags"     : "Outcome Stories",
+      "date"     : "2017-01-13 15:36:43 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Battelle for Kids",
+      "url"      : "/knowledgebase/resources/battelle-for-kids/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2017-03-01 00:00:00 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "2017 Cloud Spectator Report",
+      "url"      : "/knowledgebase/resources/2017-cloud-spectator-report/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2017-03-01 09:21:29 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Load Balancing",
+      "url"      : "/knowledgebase/resources/load-balancing/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2017-04-11 09:20:14 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Data Encryption",
+      "url"      : "/knowledgebase/resources/data-encryption/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2017-04-11 09:21:39 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "VMware NSX® and Expedient&#39;s DRaaS",
+      "url"      : "/knowledgebase/resources/vmware-nsx-and-expedients-draas/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2017-04-28 12:33:35 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "MedCom Solutions",
+      "url"      : "/knowledgebase/resources/healthcare-medcom-solutions/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2017-05-15 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Nonni&#39;s Foods",
+      "url"      : "/knowledgebase/resources/manufacturing-nonnis-foods/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2017-05-15 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "2017 Gartner Magic Quadrant",
+      "url"      : "/knowledgebase/resources/2017-gartner-magic-quadrant/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2017-06-21 12:40:39 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "TIC Gums",
+      "url"      : "/knowledgebase/resources/manufacturing-tic-gums/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2017-07-27 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "451 Research: Expedient Baltimore Overview",
+      "url"      : "/knowledgebase/resources/451-research-expedient-baltimore-overview/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2017-07-27 12:05:21 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "451 Research: Expedient Expands in Pittsburgh",
+      "url"      : "/knowledgebase/resources/451-research-expedient-expands-in-pittsburgh/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2017-07-27 12:10:38 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Unified Threat Management",
+      "url"      : "/knowledgebase/resources/unified-threat-management/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2017-09-08 09:46:07 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Application Delivery Controller",
+      "url"      : "/knowledgebase/resources/application-delivery-controller/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2017-09-08 09:50:13 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Shapiro",
+      "url"      : "/knowledgebase/resources/logistics-case-study-shapiro/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2017-10-19 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Unified Log Management",
+      "url"      : "/knowledgebase/resources/unified-log-management/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2017-10-19 12:17:35 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Bouchard Insurance",
+      "url"      : "/knowledgebase/resources/professional-services-case-study-bouchard-insurance/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2017-10-20 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Webinar -- The Evolution of Disaster Recovery: Gaining IT Resilience",
+      "url"      : "/knowledgebase/resources/webinar-the-evolution-of-disaster-recovery-gaining-it-resilience/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2017-11-13 09:05:42 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Stanley Steemer",
+      "url"      : "/knowledgebase/resources/ecommerce-retail-case-study-stanley-steemer/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2018-02-02 00:00:00 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Multi-Cloud Connection",
+      "url"      : "/knowledgebase/resources/multi-cloud-connection/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2018-02-19 04:56:30 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Columbus Metropolitan Library",
+      "url"      : "/knowledgebase/resources/columbus-metropolitan-library/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2018-03-28 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Advanced Threat Prevention",
+      "url"      : "/knowledgebase/resources/advanced-threat-prevention/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2018-04-04 13:48:45 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "451 Research: Expedient Continues to Grow with DRaaS, New Network Capacity",
+      "url"      : "/knowledgebase/resources/451-research-expedient-continues-to-grow-with-draas-new-network-capacity/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2018-06-29 08:47:59 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "CareWorks Tech",
+      "url"      : "/knowledgebase/resources/professional-services-case-study-careworks-tech/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2018-07-09 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Financial Outcome Story",
+      "url"      : "/knowledgebase/resources/financial-outcome-story/",
+      "category" : "",
+      "tags"     : "Outcome Stories",
+      "date"     : "2018-07-09 15:27:57 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Bouchard Insurance Averts IT Disaster with Expedient&#39;s Push Button DR",
+      "url"      : "/knowledgebase/resources/video-bouchard-insurance-averts-it-disaster-with-expedients-push-button-dr/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2018-07-10 16:18:38 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Expedient and VMware Help TIC Gums Modernize Their Infrastructure with Cloud",
+      "url"      : "/knowledgebase/resources/video-expedient-and-vmware-help-tic-gums-modernize-their-infrastructure-with-cloud/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2018-07-10 16:26:30 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Veeam Cloud Connect",
+      "url"      : "/knowledgebase/resources/veeam-cloud-connect/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2018-07-16 16:06:49 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Prodigo Solutions",
+      "url"      : "/knowledgebase/resources/professional-services-case-study-prodigo-solutions/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2018-10-04 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Support GDPR Compliance with Expedient",
+      "url"      : "/knowledgebase/resources/support-gdpr-compliance-with-expedient/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2018-10-23 09:21:55 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "451 Research: Expedient Launches Enterprise Cloud",
+      "url"      : "/knowledgebase/resources/451-research-expedient-launches-enterprise-cloud/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2018-10-29 13:31:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Ultimate Home Services",
+      "url"      : "/knowledgebase/resources/professional-services-case-study-ultimate-home-services/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2018-11-01 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Cloud File Storage",
+      "url"      : "/knowledgebase/resources/cloud-file-storage/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2018-11-14 10:53:48 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Cloud Object Storage",
+      "url"      : "/knowledgebase/resources/cloud-object-storage/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2018-11-29 05:38:10 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Consumer Goods Outcome Story",
+      "url"      : "/knowledgebase/resources/consumer-goods-outcome-story/",
+      "category" : "",
+      "tags"     : "Outcome Stories",
+      "date"     : "2018-12-06 15:17:46 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Infographic: Why Expedient Enterprise Cloud?",
+      "url"      : "/knowledgebase/resources/infographic-why-expedient-enterprise-cloud/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2018-12-10 12:46:20 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Awards &amp; Accolades",
+      "url"      : "/knowledgebase/resources/2018-awards-accolades/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2018-12-17 10:44:49 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Prodigo Solutions Reduces Customer Onboarding Time with Expedient&#39;s Cloud and Managed Services",
+      "url"      : "/knowledgebase/resources/video-prodigo-solutions-reduces-customer-onboarding-time-with-expedients-cloud-and-managed-services/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2018-12-31 09:22:41 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "MdLogix Scales Behavioral Health Platform Nationally with Expedient&#39;s Private Cloud",
+      "url"      : "/knowledgebase/resources/video-mdlogix-scales-behavioral-health-platform-nationally-with-expedients-private-cloud/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2018-12-31 09:38:46 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Dunlap and Kyle Company",
+      "url"      : "/knowledgebase/resources/retail-case-study-dunlap-and-kyle-company/",
+      "category" : "",
+      "tags"     : "Case Studies",
+      "date"     : "2019-01-02 00:00:00 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "451 Research: Top 10 IT Trends for 2019",
+      "url"      : "/knowledgebase/resources/451-research-top-10-it-trends-for-2019/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2019-01-28 14:54:49 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Infographic: 2019 Cloud Spectator Report",
+      "url"      : "/knowledgebase/resources/infographic-2019-cloud-spectator-report/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2019-02-04 13:15:34 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Cloud Data Protection",
+      "url"      : "/knowledgebase/resources/cloud-data-protection/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2019-02-21 14:44:05 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Expedient Hybrid Cloud Colocation for AWS",
+      "url"      : "/knowledgebase/resources/expedient-hybrid-cloud-colocation-for-aws/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2019-02-21 14:44:32 -0500"
+
+    } ,
+  
+    {
+
+      "title"    : "Dedicated Firewall Management",
+      "url"      : "/knowledgebase/resources/dedicated-firewall-management/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2019-03-14 09:54:06 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "The 451 Take on cloud-native: truly transformative for enterprise IT",
+      "url"      : "/knowledgebase/resources/the-451-take-on-cloud-native-truly-transformative-for-enterprise-it/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2019-03-28 16:32:45 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "451 Research: Want to move a business from following to leading? Get strategic with IT",
+      "url"      : "/knowledgebase/resources/451-research-want-to-move-a-business-from-following-to-leading-get-strategic-with-it/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2019-03-29 15:21:04 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Expedient: Delivering a Highly-Performant Enterprise Cloud with VMware",
+      "url"      : "/knowledgebase/resources/video-expedient-delivering-a-highly-performant-enterprise-cloud-with-vmware/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2019-04-11 14:33:16 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "RSA Conference US 2019: 451 Research analyst key insight roundup",
+      "url"      : "/knowledgebase/resources/rsa-conference-us-2019-451-research-analyst-key-insight-roundup/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2019-04-17 16:10:28 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "451 Research: Capacity growth and disaster recovery are leading storage pain points for enterprises",
+      "url"      : "/knowledgebase/resources/451-research-capacity-growth-and-disaster-recovery-are-leading-storage-pain-points-for-enterprises/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2019-04-29 11:43:12 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Six Steps to Disaster Recovery Preparedness",
+      "url"      : "/knowledgebase/resources/six-steps-to-disaster-recovery-preparedness/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2019-05-14 13:13:38 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "VMware Americas Cloud Partner of the Year",
+      "url"      : "/knowledgebase/resources/info-sheet-vmware-americas-cloud-partner-of-the-year/",
+      "category" : "",
+      "tags"     : "Info Sheets",
+      "date"     : "2019-05-16 09:39:09 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Using Zerto&#39;s Journal History feature for Point-in-Time Recovery",
+      "url"      : "/knowledgebase/resources/video-using-zertos-journal-history-feature-for-point-in-time-recovery/",
+      "category" : "",
+      "tags"     : "Videos",
+      "date"     : "2019-05-16 13:58:19 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "IDC Whitepaper: Expedient Delivers Compelling Value to Customers with Enterprise Cloud Platform",
+      "url"      : "/knowledgebase/resources/IDC-Whitepaper-Expedient-Delivers-Compelling-Value-to-Customers-with-Enterprise-Cloud-Platform/",
+      "category" : "",
+      "tags"     : "Whitepapers",
+      "date"     : "2019-09-20 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "ActualTech Media Solutions for VMware EcoCast - Expedient Enterprise Cloud",
+      "url"      : "/knowledgebase/resources/actualtech-media-solutions-for-vmware-ecocast-expedient-enterprise-cloud/",
+      "category" : "",
+      "tags"     : "VMware, Expedient Enterprise Cloud, Video",
+      "date"     : "2019-09-30 00:00:00 -0400"
+
+    } ,
+  
+    {
+
+      "title"    : "Homes.com Consolidates and Migrates Business Critical Applications to Expedient Enterprise Cloud",
+      "url"      : "/knowledgebase/resources/homes-com-consolidates-and-migrates-business-critical-applications-to-expedient-enterprise-cloud/",
+      "category" : "",
+      "tags"     : "enterprise cloud, multi-cloud, disaster recovery, Push Button DR, kubernetes, containers, Expedient Enterprise Cloud",
+      "date"     : "2019-09-30 01:00:00 -0400"
+
+    } 
+  
+]
