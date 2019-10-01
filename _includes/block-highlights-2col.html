@@ -1,7 +1,7 @@
 <!-- Highlights 2 Col -->
 <section class="bg-llgrey relative">
 
-    <div class="px-4 md:max-w-expBody justify-between mx-auto lg:py-16 sm:py-4 relative">
+    <div class="px-4 md:max-w-expBody justify-between mx-auto py-8 lg:py-16 relative">
         
         <!-- Title Section -->
         {% if section.heading == nil or section.heading == empty%}
@@ -24,17 +24,15 @@
                     <div class="w-full sm:w-6/12 px-4 my-4 flex items-center">
                         <div class="w-full relative">
                             {% if item.icon == nil  and item.icon == empty %}
-                                <div class="w-full text-center" style="
+                                <div class="w-full text-center bgImg" style="
                                     overflow: hidden;
-                                    height: 200px;
                                 ">
                                 <img src="{{ item.background | absolute_url }}" class="imgbg mx-auto">
                                 </div>
                             {% else %}
                             <img src="{{ item.icon | absolute_url }}" class="absolute pt-2 right-0 w-4/12 z-10">
-                            <div class="w-10/12" style="
+                            <div class="w-12/12 sm:w-10/12 bgImg" style="
                                 overflow: hidden;
-                                height: 200px;
                             ">
                             <img src="{{ item.background | absolute_url }}" class="imgbg">
                             </div>
@@ -50,7 +48,7 @@
                     </div>
                 </div>
             {% else %}
-                <div class="flex -mx-4 twocol highlight flex-wrap"> 
+                <div class="flex -mx-4 twocol highlight flex-wrap-reverse md:flex-wrap"> 
                     <!-- Left -->
                     <div class="w-full sm:w-6/12 px-4 my-4">
                         <div class="w-full my-4 pt-4 pb-6 px-6 relative">
@@ -62,17 +60,15 @@
                     <div class="w-full sm:w-6/12 px-4 my-4 flex items-center">
                         <div class="w-full relative text-right">
                             {% if item.icon == nil  and item.icon == empty %}
-                            <div class="w-full float-right" style="
+                            <div class="w-full float-right bgImg" style="
                                 overflow: hidden;
-                                height: 200px;
                             ">
                             <img src="{{ item.background | absolute_url }}" class="imgbg mx-auto" >
                             </div>
                             {% else %}
                             <img src="{{ item.icon | absolute_url }}" class="absolute pt-2 left-0 w-4/12 z-10">
-                            <div class="w-10/12 float-right" style="
+                            <div class="w-10/12 float-right bgImg" style="
                                 overflow: hidden;
-                                height: 200px;
                             ">
                             <img src="{{ item.background | absolute_url }}" class="imgbg" >
                             </div>

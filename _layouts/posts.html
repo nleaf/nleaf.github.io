@@ -53,7 +53,7 @@ layout: default
         {% include post_detail.html %}
 
     <!-- Popular Posts -->
-    <section class="relative sm:py-2 bg-bwhite sm:pb-12">
+    <section class="hidden md:block relative sm:py-2 bg-bwhite sm:pb-12">
         <div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12">
             
             <div class="w-full sm:w-4/12 p-10 relative" style="overflow: hidden;position: relative;min-height: 340px;width: 360px; background-color: #333132;">
@@ -76,10 +76,10 @@ layout: default
                                                 {% if post.author %}
                                                 {% assign staff_member = site.people | where: 'title', post.author | first %}
                                                 {% if staff_member %}
-                                                    <img alt="{{ staff_member.title }}" src="{{ staff_member.thumbnail | absolute_url }}" class="h-24 rounded-full">
+                                                    <img alt="{{ staff_member.title }}" src="{{ staff_member.thumbnail | absolute_url }}" class="h-16 md:h-24 rounded-full">
                                                 {% endif %}
                                                 {% else %}
-                                                    <img alt="Expedient" src="/uploads/EXP_Circle-Mark.svg" class="h-24 rounded-full">
+                                                    <img alt="Expedient" src="/uploads/EXP_Circle-Mark.svg" class="h-16 md:h-24 rounded-full">
                                                 {% endif %}
                                             </div> 
                                             <div class="post-info align-middle block float-left -mr-8">
@@ -105,30 +105,30 @@ layout: default
       <section class="relative sm:py-2 bg-bwhite sm:pb-12">
           <div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12">
               
-              <div class="w-full sm:w-4/12 pr-5" style="overflow: hidden;position: relative;min-height: 488px;width: 360px;">
+              <div class="w-full sm:w-4/12 pr-5 postsImg" style="">
                   {% if post.banner_image and post.banner_image != "" %}
-                    <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="h-auto w-auto absolute" style="min-height: 488px; object-fit: cover;">
+                    <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="h-auto w-auto absolute hidden md:block" style="min-height: 488px; object-fit: cover;">
                   {% else %}
-                    <img src="{{ "/uploads/ph_blogPost.png" | absolute_url }}" alt="{{ post.title }}" class="h-auto w-auto absolute" style="min-height: 488px; object-fit: cover;">
+                    <img src="{{ "/uploads/ph_blogPost.png" | absolute_url }}" alt="{{ post.title }}" class="h-auto w-auto absolute hidden md:block" style="min-height: 488px; object-fit: cover;">
                   {% endif %}
               </div>
 
-              <div class="w-full sm:w-8/12 pl-8">
+              <div class="w-full sm:w-8/12 pl-0 md:pl-8">
                   
                   <h2 class="text-4xl leading-tight font-black font-sans mt-1 mb-4">
                     <a href="{{ post.url | absolute_url }}" class="ctaLink">{{ post.title }}</a>
                   </h2>
                   
-                  <div class="flex flex-wrap flex-wrap w-3/4 my-8 align-middle items-center">
+                  <div class="flex flex-wrap flex-wrap w-full sm:w-3/4 my-8 align-middle items-center">
                       <div class="mr-8">
                           <!-- Profile Picture -->
                             {% if post.author %}
                                 {% assign staff_member = site.people | where: 'title', post.author | first %}
                                 {% if staff_member %}
-                                    <img alt="{{ staff_member.title }}" src="{{ staff_member.thumbnail | absolute_url }}" class="h-24 rounded-full">
+                                    <img alt="{{ staff_member.title }}" src="{{ staff_member.thumbnail | absolute_url }}" class="h-16 md:h-24 rounded-full">
                                 {% endif %}
                             {% else %}
-                                <img alt="Expedient" src="/uploads/EXP_Circle-Mark.svg" class="h-24 rounded-full">
+                                <img alt="Expedient" src="/uploads/EXP_Circle-Mark.svg" class="h-16 md:h-24 rounded-full">
                             {% endif %}
                       </div> 
                       <div class="mr-8 post-info align-middle">
@@ -156,7 +156,7 @@ layout: default
     {% endfor %}
 
     {% if paginator.total_pages > 1 %}
-    <ul class="pager flex flex-row flex-wrap justify-center items-center sm:p-12">
+    <ul class="pager flex flex-row flex-wrap justify-center items-center mb-12 md:mb-0 sm:p-12">
 
         <!-- Previous -->
         {% if paginator.previous_page %}

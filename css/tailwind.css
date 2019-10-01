@@ -651,7 +651,7 @@ p {
   margin-right: auto;
   font-weight: 400;
   line-height: 1.6;
-  width: 680px;
+  width: auto;
 }
 .post .video {
   margin: 0 auto;
@@ -665,7 +665,7 @@ p {
   margin-bottom: 1.28rem;
   font-weight: 400;
   line-height: 1.6;
-  width: 680px;
+  width: auto;
 }
 .post a {
   border-bottom: 1px dashed #F20505;
@@ -681,7 +681,7 @@ p {
   margin-bottom: .8rem;
   margin-right: auto;
   margin-left: auto;
-  width: 680px;
+  width: auto;
 }
 .post ul {
   list-style: none;
@@ -694,7 +694,7 @@ p {
   margin-left: auto;
   font-weight: 400;
   line-height: 1.6;
-  width: 680px;
+  width: auto;
 }
 .post ol, .post ul ol {
   margin: 0;
@@ -706,7 +706,7 @@ p {
   margin-left: auto;
   font-weight: 400;
   line-height: 1.6;
-  width: 680px;
+  width: auto;
   list-style: none;
   counter-reset: exp-counter;
 }
@@ -986,6 +986,11 @@ p {
   -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
   filter: grayscale(0%); /* FF 35+ */
 }
+
+.twocol .bgImg {
+  height: 120px;
+  width: 84%;
+}
 /* HP: Clients know best */
 
 .ckb {
@@ -1217,7 +1222,7 @@ h2 .ctaLink::after {
 }
 
 .featuredBlog .postDetail {
-  width: 62%;
+  width: auto;
 }
 
 /* Top Banner */
@@ -1239,6 +1244,20 @@ h2 .ctaLink::after {
 
 .container {
   width: 100%;
+}
+
+/* Expedient Mobile */
+@media (min-width: 640px) {
+  .twocol .bgImg {
+    height: 200px;
+    width: auto;
+  }
+  .featuredBlog .postDetail {
+    width: 62%;
+  }
+  .post p, .post.expand p, .post h2, .post h3, .post h4, .post ul, .post ol, .post ul ol {
+    width:680px;
+  }
 }
 
 @media (min-width: 640px) {
