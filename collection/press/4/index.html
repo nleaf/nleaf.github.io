@@ -212,12 +212,12 @@
 
                 <!-- Desktop Links -->
                 <div class="lg:items-center lg:justify-between links w-full md:w-auto absolute md:relative block md:flex flex-grow md:flex-grow-0 mt-12 md:mt-0 md:p-0 bg-bwhite">
-                    <ul class="block md:flex dt-nav hidden">
+                    <ul class="block md:flex dt-nav hidden" style="z-index: 9999">
                         
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Services
@@ -271,7 +271,7 @@
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Why Expedient
@@ -337,7 +337,7 @@
     var open = document.querySelectorAll('#sidebar-open');
     var close = document.querySelectorAll('#sidebar-close');
     var menu = document.querySelectorAll('.dt-nav');
-    var anchor = document.querySelectorAll('.dda');
+    //var anchor = document.querySelectorAll('.dda');
 
 
     open[0].addEventListener("click", function() {
@@ -352,20 +352,20 @@
         menu[0].classList.add('hidden');
     });  
 
-    document.addEventListener('click', function (event) {
+    // document.addEventListener('click', function (event) {
 
-    if (event.target.matches('.dda')) {
-        event.preventDefault();
-        var ul = event.target.nextElementSibling;
-        if(ul.classList.contains('hidden')){
-            ul.classList.remove('hidden');
-        }else{
-            ul.classList.add('hidden');
-        }
+    // if (event.target.matches('.dda')) {
+    //     event.preventDefault();
+    //     var ul = event.target.nextElementSibling;
+    //     if(ul.classList.contains('hidden')){
+    //         ul.classList.remove('hidden');
+    //     }else{
+    //         ul.classList.add('hidden');
+    //     }
         
-    }
+    // }
 
-    }, false);
+    // }, false);
     </script>
 
 
@@ -431,6 +431,7 @@
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2018-06-29-expedient-ranked-as-the-no-7-managed-services-provider-worldwide/" class="ctaLink">Read Article</a></div>
                                 
                                 
+                                
                             </div>
                         </div>
                     </section>
@@ -447,6 +448,7 @@
                                 
                                 <p>Pittsburgh, PA (11 June 2018) – Expedient, a cloud services and data center infrastructure as a service (IaaS) provider, announced it has been awarded the 2018 Zerto Growth Partner of the Year – Cloud Services Provider at ZertoCON 2018 in Boston. Zerto is an industry leader in IT resilience; its enterprise-class IT Resilience Platform is a cornerstone of Expedient’s unique Push Button...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2018-06-11-expedient-named-2018-zerto-growth-partner-of-the-year-cloud-services-provider/" class="ctaLink">Read Article</a></div>
+                                
                                 
                                 
                             </div>
@@ -467,6 +469,7 @@
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2018-05-14-expedient-announces-network-upgrade-to-100gbps/" class="ctaLink">Read Article</a></div>
                                 
                                 
+                                
                             </div>
                         </div>
                     </section>
@@ -485,6 +488,7 @@
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2018-04-09-expedient-announces-strong-disaster-recovery-as-a-service-category-performance-named-zerto-platinum-partner/" class="ctaLink">Read Article</a></div>
                                 
                                 
+                                
                             </div>
                         </div>
                     </section>
@@ -501,6 +505,7 @@
                                 
                                 <p>Pittsburgh, PA. (26 February 2018) – Expedient, a cloud computing and data center infrastructure as a service (IaaS) provider, today announced that CRN®, a brand of The Channel Company, has named Expedient to its 2018 Data Center 100 list. This annual list recognizes technology suppliers that excel at powering, supporting and protecting the complex and demanding data centers on which...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2018-02-26-expedient-recognized-on-crns-2018-data-center-100-list/" class="ctaLink">Read Article</a></div>
+                                
                                 
                                 
                             </div>

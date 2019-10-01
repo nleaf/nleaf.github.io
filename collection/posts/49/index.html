@@ -212,12 +212,12 @@
 
                 <!-- Desktop Links -->
                 <div class="lg:items-center lg:justify-between links w-full md:w-auto absolute md:relative block md:flex flex-grow md:flex-grow-0 mt-12 md:mt-0 md:p-0 bg-bwhite">
-                    <ul class="block md:flex dt-nav hidden">
+                    <ul class="block md:flex dt-nav hidden" style="z-index: 9999">
                         
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Services
@@ -271,7 +271,7 @@
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Why Expedient
@@ -337,7 +337,7 @@
     var open = document.querySelectorAll('#sidebar-open');
     var close = document.querySelectorAll('#sidebar-close');
     var menu = document.querySelectorAll('.dt-nav');
-    var anchor = document.querySelectorAll('.dda');
+    //var anchor = document.querySelectorAll('.dda');
 
 
     open[0].addEventListener("click", function() {
@@ -352,20 +352,20 @@
         menu[0].classList.add('hidden');
     });  
 
-    document.addEventListener('click', function (event) {
+    // document.addEventListener('click', function (event) {
 
-    if (event.target.matches('.dda')) {
-        event.preventDefault();
-        var ul = event.target.nextElementSibling;
-        if(ul.classList.contains('hidden')){
-            ul.classList.remove('hidden');
-        }else{
-            ul.classList.add('hidden');
-        }
+    // if (event.target.matches('.dda')) {
+    //     event.preventDefault();
+    //     var ul = event.target.nextElementSibling;
+    //     if(ul.classList.contains('hidden')){
+    //         ul.classList.remove('hidden');
+    //     }else{
+    //         ul.classList.add('hidden');
+    //     }
         
-    }
+    // }
 
-    }, false);
+    // }, false);
     </script>
 
 
@@ -430,7 +430,9 @@
                                 <p>For most companies, the question surrounding cloud computing does not come down to its advantages. In truth, there is little doubt that cloud computing services are a cost effective solution, allowing companies to expand their data capacity and system capabilities without investing in their overall infrastructure. When it comes to cloud services, the question invariably turns to...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2012-04-04-cloud-computing-public-vs-private-cloud-solutions/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
                                 
                             </div>
                         </div>
@@ -449,7 +451,9 @@
                                 <p>Are your companies growing IT needs outpacing your current company resources? Are you struggling with the fine balance of keeping operating costs manageable while simultaneously meeting your customer demand and an ever-changing business environment? In truth, in today’s rapidly changing business landscape, companies and organizations must ensure that their Information Technology Services continue to offer high...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2012-03-28-simple-benefits-of-it-management/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Server Management</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Server Management</span>
+                                
                                 
                             </div>
                         </div>
@@ -468,7 +472,9 @@
                                 <p>How to Avoid Operational Data Disruptions Does your company have a data disaster and recovery plan in place? Well believe it or not, if you answered “Yes,” you may actually be in the minority. According to DRPlanning.org, at least half (but probably more) of all US corporations do not undertake disaster recovery planning. This fact becomes...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2012-03-22-avoid-operational-data-disruptions-business-continuity/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Disaster Recovery</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Disaster Recovery</span>
+                                
                                 
                             </div>
                         </div>
@@ -487,7 +493,11 @@
                                 <p>As noted during a recent unveiling of the Dell™ PowerEdgeTM 12G family of servers this past February, Dell’s new server line has been updated with Intel’s Xeon E5 processors, more system management and the ability to use a Dell-developed PCI e-linked flash storage and cache system. Prior to release Expedient was offered a look at the new line by running...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2012-03-15-early-reviews-of-new-dell-poweredge-12g-family-of-servers/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">CloudServer Management</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Server Management</span>
+                                
                                 
                             </div>
                         </div>
@@ -506,7 +516,9 @@
                                 <p>Server virtualization management has become an effective solution for many companies, allowing them to increase the capabilities and efficiencies of their current networks, all without incurring a corresponding increase in expense. Unfortunately, these solutions are not always without their drawbacks. If your company does not have a dedicated staff of internal experts focused on deploying and...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2012-03-08-managing-virtual-servers/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Server Management</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Server Management</span>
+                                
                                 
                             </div>
                         </div>

@@ -212,12 +212,12 @@
 
                 <!-- Desktop Links -->
                 <div class="lg:items-center lg:justify-between links w-full md:w-auto absolute md:relative block md:flex flex-grow md:flex-grow-0 mt-12 md:mt-0 md:p-0 bg-bwhite">
-                    <ul class="block md:flex dt-nav hidden">
+                    <ul class="block md:flex dt-nav hidden" style="z-index: 9999">
                         
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Services
@@ -271,7 +271,7 @@
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Why Expedient
@@ -337,7 +337,7 @@
     var open = document.querySelectorAll('#sidebar-open');
     var close = document.querySelectorAll('#sidebar-close');
     var menu = document.querySelectorAll('.dt-nav');
-    var anchor = document.querySelectorAll('.dda');
+    //var anchor = document.querySelectorAll('.dda');
 
 
     open[0].addEventListener("click", function() {
@@ -352,20 +352,20 @@
         menu[0].classList.add('hidden');
     });  
 
-    document.addEventListener('click', function (event) {
+    // document.addEventListener('click', function (event) {
 
-    if (event.target.matches('.dda')) {
-        event.preventDefault();
-        var ul = event.target.nextElementSibling;
-        if(ul.classList.contains('hidden')){
-            ul.classList.remove('hidden');
-        }else{
-            ul.classList.add('hidden');
-        }
+    // if (event.target.matches('.dda')) {
+    //     event.preventDefault();
+    //     var ul = event.target.nextElementSibling;
+    //     if(ul.classList.contains('hidden')){
+    //         ul.classList.remove('hidden');
+    //     }else{
+    //         ul.classList.add('hidden');
+    //     }
         
-    }
+    // }
 
-    }, false);
+    // }, false);
     </script>
 
 
@@ -430,7 +430,19 @@
                                 <p>Executives from three major vendor partner companies presented perspective on their organization’s relationship with Expedient at our 2018 end-of-year company meeting. Participants included:  Senior Vice President of Corporate Strategy for Dell Technologies Vice President of Product Management, Cloud Software Business Unit for VMware Senior Director, Specialist Systems Engineering for Juniper Networks  Each presentation showcased the...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2019-01-14-three-key-vendor-partners-present-at-expedients-end-of-year-company-meeting/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud Computinghybrid cloudhyperscale cloudmulti cloudVMwarehybrid IT</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">hybrid cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">hyperscale cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">multi cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">VMware</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">hybrid IT</span>
+                                
                                 
                             </div>
                         </div>
@@ -449,7 +461,19 @@
                                 <p>Most traditional IT infrastructure teams are faced with the necessity of periodically updating their hardware stack.  It’s true whether they use colocation or in-house data centers.  The servers, storage, networking, security and data protection equipment and licensing all become outdated and are usually replaced in a cycle every three to five years. Hardware refresh events are often the change events...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2018-12-12-updating-your-it-infrastructure-did-you-include-risk-in-your-evaluation-process/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud ComputingData Centerscloud strategycolocationInfrastructure as a servicerisk mitigation</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Data Centers</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">cloud strategy</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">colocation</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Infrastructure as a service</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">risk mitigation</span>
+                                
                                 
                             </div>
                         </div>
@@ -468,7 +492,17 @@
                                 <p>The 2018 Gartner IT Infrastructure, Operations &amp; Cloud Strategies Conference (GartnerIOCS) was held at the Venetian in Las Vegas in early December. Nearly 3,000 attendees, including members of the Expedient team, participated and learned about new trend analysis in cloud and IT infrastructure. Guided by the latest impartial Gartner research, and input from infrastructure &amp; operations leaders from companies in...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2018-12-11-expedient-team-attends-gartner-infrastructure-operations-cloud-strategies-conference/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud Computinghybrid cloudInfrastructure as a servicedigital transformationhybrid IT</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">hybrid cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Infrastructure as a service</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">digital transformation</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">hybrid IT</span>
+                                
                                 
                             </div>
                         </div>
@@ -487,7 +521,17 @@
                                 <p>Nearly 50,000 technology professionals descended upon 6 convention centers in Las Vegas for this year’s AWS re:Invent conference to connect with peers and cloud experts for collaboration and learning about Amazon Web Services (AWS). Several team members from Expedient attended the week-long event to meet with partners and customers. The team participated in a variety of educational events including keynotes,...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2018-12-06-key-takeaways-from-aws-reinvent-2018/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud ComputingIaaSmanaged serviceshyperscale cloudmulti cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">IaaS</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">managed services</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">hyperscale cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">multi cloud</span>
+                                
                                 
                             </div>
                         </div>
@@ -506,7 +550,15 @@
                                 <p>One of the oldest and most well-known sayings in IT is “Nobody ever got fired for buying IBM.” The meaning is simple. Many IT leaders choose to play it safe when selecting vendors or products. By buying well-recognized brands, they feel that they are making a safe decision that won’t get them fired. Sadly, the same thinking is still prevalent...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2018-11-19-nobody-ever-got-fired-for-buying-hyperscale-until-they-did/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud ComputingInfrastructure as a servicepublic cloudhyperscale cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Infrastructure as a service</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">public cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">hyperscale cloud</span>
+                                
                                 
                             </div>
                         </div>

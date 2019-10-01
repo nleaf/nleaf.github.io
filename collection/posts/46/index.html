@@ -212,12 +212,12 @@
 
                 <!-- Desktop Links -->
                 <div class="lg:items-center lg:justify-between links w-full md:w-auto absolute md:relative block md:flex flex-grow md:flex-grow-0 mt-12 md:mt-0 md:p-0 bg-bwhite">
-                    <ul class="block md:flex dt-nav hidden">
+                    <ul class="block md:flex dt-nav hidden" style="z-index: 9999">
                         
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Services
@@ -271,7 +271,7 @@
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Why Expedient
@@ -337,7 +337,7 @@
     var open = document.querySelectorAll('#sidebar-open');
     var close = document.querySelectorAll('#sidebar-close');
     var menu = document.querySelectorAll('.dt-nav');
-    var anchor = document.querySelectorAll('.dda');
+    //var anchor = document.querySelectorAll('.dda');
 
 
     open[0].addEventListener("click", function() {
@@ -352,20 +352,20 @@
         menu[0].classList.add('hidden');
     });  
 
-    document.addEventListener('click', function (event) {
+    // document.addEventListener('click', function (event) {
 
-    if (event.target.matches('.dda')) {
-        event.preventDefault();
-        var ul = event.target.nextElementSibling;
-        if(ul.classList.contains('hidden')){
-            ul.classList.remove('hidden');
-        }else{
-            ul.classList.add('hidden');
-        }
+    // if (event.target.matches('.dda')) {
+    //     event.preventDefault();
+    //     var ul = event.target.nextElementSibling;
+    //     if(ul.classList.contains('hidden')){
+    //         ul.classList.remove('hidden');
+    //     }else{
+    //         ul.classList.add('hidden');
+    //     }
         
-    }
+    // }
 
-    }, false);
+    // }, false);
     </script>
 
 
@@ -430,7 +430,9 @@
                                 <p>In a relatively short period of time, cloud computing has had a major impact on the technological landscape. Since Information Systems Professor Ramnath Chellappa first coined the phrase back in 1997, the cloud computing industry has taken off, seemingly overnight. Within this first decade and a half since the cloud has gone mainstream, businesses and individuals have been attracted...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2012-09-19-cloud-computing-trends-the-future-is-bright/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
                                 
                             </div>
                         </div>
@@ -449,7 +451,13 @@
                                 <p>Four ways to Improve Data Availability In today’s modern business landscape, your customers expect instant answers and immediate turn-around times. And, you cannot let things like remote locations and system interruptions prevent you from delivering. The following four tips offer insights on improving data availability, which will ultimately help you better deliver on your promises to your customers: •...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2012-08-31-data-center-tips-4-ways-to-improve-data-availability/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud ComputingVirtual ColocationData Centers</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Virtual Colocation</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Data Centers</span>
+                                
                                 
                             </div>
                         </div>
@@ -468,7 +476,9 @@
                                 <p>Six Questions to Ask Prospective Cloud Providers Searching for a cloud computing solution? The reality is that accomplishing this may be a little trickier then you suspect. As the cloud storage revolution has exploded, a myriad of cloud computing providers have sprung into being, each offering services that vary greatly Finding the cloud solution to match YOUR needs...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2012-08-27-cloud-computing-checklist-what-to-ask-potential-providers/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
                                 
                             </div>
                         </div>
@@ -487,7 +497,11 @@
                                 <p>Has Virtualization Been Your Top Priority This Year? At the beginning of this year, the research firm of IDC released the results of a survey in which CIOs of major corporation were asked to name their top three IT priorities for 2012. So what stood atop that list? Virtualization of course. When asked to pick their...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2012-08-17-data-center-trends-has-virtualization-been-your-top-priority/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">CloudDallas Yuhasz</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Dallas Yuhasz</span>
+                                
                                 
                             </div>
                         </div>
@@ -506,7 +520,9 @@
                                 <p>A Sneak Peak at the Future of Cloud Computing: The Expedient Silver Lining Every cloud has a “Silver Lining.” And the Expedient cloud is certainly no exception. While our current cloud computing solutions have always been designed to offer you a cost effective and flexible way to expand and scale your IT resources, Expedient recognizes there is always room...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2012-08-06-cloud-computing-solution-expedient-silver-lining/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
                                 
                             </div>
                         </div>

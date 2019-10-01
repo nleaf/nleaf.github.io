@@ -212,12 +212,12 @@
 
                 <!-- Desktop Links -->
                 <div class="lg:items-center lg:justify-between links w-full md:w-auto absolute md:relative block md:flex flex-grow md:flex-grow-0 mt-12 md:mt-0 md:p-0 bg-bwhite">
-                    <ul class="block md:flex dt-nav hidden">
+                    <ul class="block md:flex dt-nav hidden" style="z-index: 9999">
                         
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Services
@@ -271,7 +271,7 @@
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Why Expedient
@@ -337,7 +337,7 @@
     var open = document.querySelectorAll('#sidebar-open');
     var close = document.querySelectorAll('#sidebar-close');
     var menu = document.querySelectorAll('.dt-nav');
-    var anchor = document.querySelectorAll('.dda');
+    //var anchor = document.querySelectorAll('.dda');
 
 
     open[0].addEventListener("click", function() {
@@ -352,20 +352,20 @@
         menu[0].classList.add('hidden');
     });  
 
-    document.addEventListener('click', function (event) {
+    // document.addEventListener('click', function (event) {
 
-    if (event.target.matches('.dda')) {
-        event.preventDefault();
-        var ul = event.target.nextElementSibling;
-        if(ul.classList.contains('hidden')){
-            ul.classList.remove('hidden');
-        }else{
-            ul.classList.add('hidden');
-        }
+    // if (event.target.matches('.dda')) {
+    //     event.preventDefault();
+    //     var ul = event.target.nextElementSibling;
+    //     if(ul.classList.contains('hidden')){
+    //         ul.classList.remove('hidden');
+    //     }else{
+    //         ul.classList.add('hidden');
+    //     }
         
-    }
+    // }
 
-    }, false);
+    // }, false);
     </script>
 
 
@@ -430,7 +430,13 @@
                                 <p>Tips from the Data Center: Ensuring the Availability of Your Data Here is an unfortunate bit of reality: Customer loyalty is fleeting—even the most trusted and valued customers will leave you if they suspect the IT infrastructure housing their private information and supporting your company is not secure. This is why any...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2014-03-18-data-availability-tips-data-center/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud Computingdata center servicesDisaster Recovery</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">data center services</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Disaster Recovery</span>
+                                
                                 
                             </div>
                         </div>
@@ -449,7 +455,13 @@
                                 <p>Choosing a Cloud Provider: the Importance of Compliance Transparency Looking beyond HIPAA, SOX or PCI-DSS compliance claims The alarming aspect of searching for a cloud hosting solution is that, despite claims to the contrary, your hosting provider may not actually be able to support your direct compliance needs. In truth, your provider is probably not trying to be...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2014-03-17-cloud-hosting-provider-importance-transparency/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Security and ComplianceCloud ComputingJohn White</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Security and Compliance</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">John White</span>
+                                
                                 
                             </div>
                         </div>
@@ -468,7 +480,9 @@
                                 <p>In the world of Cloud Computing, customers are becoming more diligent in understanding vendor Service Level Agreements (SLAs), which are designed to protect the customer in the event of downtime. However, an SLA offers zero protection if the vendor declares bankruptcy. Collapses of cloud storage providers due to bankruptcy don’t happen very often—but they do happen. Looking forward, how can...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2014-03-13-cloud-provider-financially-sound/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
                                 
                             </div>
                         </div>
@@ -487,7 +501,9 @@
                                 <p>Business Continuity: Preparing for a Disaster, No Matter the Size Natural disasters are unpredictable. Whether it is a hurricane rocking the East Coast, a blizzard pounding  the North, or a tornado causing havoc in the Midwest, these events give little, if any, advanced warning. While it may be easy to calculate the physical damage such an event causes, have...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2014-03-07-business-continuity-preparing-disaster-matter-size/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Disaster Recovery</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Disaster Recovery</span>
+                                
                                 
                             </div>
                         </div>
@@ -506,7 +522,9 @@
                                 <p>Exploring the Advantages of Colocation Solutions You may have heard that colocation solutions are an ideal way to accommodate your company’s ever-changing IT needs. You may also be skeptical, realizing that colocation is an investment, and uncertain as to whether the investment is worth the risk. Is colocation right for your business? To answer whether...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2014-03-06-data-center-colocation-advantages/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Data Centers</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Data Centers</span>
+                                
                                 
                             </div>
                         </div>

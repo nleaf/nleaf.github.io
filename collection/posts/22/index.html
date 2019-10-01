@@ -212,12 +212,12 @@
 
                 <!-- Desktop Links -->
                 <div class="lg:items-center lg:justify-between links w-full md:w-auto absolute md:relative block md:flex flex-grow md:flex-grow-0 mt-12 md:mt-0 md:p-0 bg-bwhite">
-                    <ul class="block md:flex dt-nav hidden">
+                    <ul class="block md:flex dt-nav hidden" style="z-index: 9999">
                         
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Services
@@ -271,7 +271,7 @@
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Why Expedient
@@ -337,7 +337,7 @@
     var open = document.querySelectorAll('#sidebar-open');
     var close = document.querySelectorAll('#sidebar-close');
     var menu = document.querySelectorAll('.dt-nav');
-    var anchor = document.querySelectorAll('.dda');
+    //var anchor = document.querySelectorAll('.dda');
 
 
     open[0].addEventListener("click", function() {
@@ -352,20 +352,20 @@
         menu[0].classList.add('hidden');
     });  
 
-    document.addEventListener('click', function (event) {
+    // document.addEventListener('click', function (event) {
 
-    if (event.target.matches('.dda')) {
-        event.preventDefault();
-        var ul = event.target.nextElementSibling;
-        if(ul.classList.contains('hidden')){
-            ul.classList.remove('hidden');
-        }else{
-            ul.classList.add('hidden');
-        }
+    // if (event.target.matches('.dda')) {
+    //     event.preventDefault();
+    //     var ul = event.target.nextElementSibling;
+    //     if(ul.classList.contains('hidden')){
+    //         ul.classList.remove('hidden');
+    //     }else{
+    //         ul.classList.add('hidden');
+    //     }
         
-    }
+    // }
 
-    }, false);
+    // }, false);
     </script>
 
 
@@ -430,7 +430,13 @@
                                 <p>Is Your Business “Always On”? Is your business “always on”? Does it require 100% availability and persistent access to data? These requirements have become a standard expectation as users demand 24x7x365 access to their IT environment and applications. Businesses in the era of always on cannot afford to slow down or stop applications for backup, maintenance or the restore...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2016-04-21-5-ways-to-ensure-your-business-is-always-on/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud ComputingServer ManagementInfrastructure Availability</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Server Management</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Infrastructure Availability</span>
+                                
                                 
                             </div>
                         </div>
@@ -449,7 +455,11 @@
                                 <p>What Does ‘No Downtime’ Really Mean? Everyone knows that downtime is not good for business. But does guaranteeing “no downtime” really mean no downtime? Ideally, yes, but we all know that service interruptions happen! So no downtime in reality means that customers will not pay for downtime and providers will do everything possible to keep your data accessible and...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2016-04-13-what-does-no-downtime-really-mean/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Server ManagementDisaster Recovery</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Server Management</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Disaster Recovery</span>
+                                
                                 
                             </div>
                         </div>
@@ -468,7 +478,11 @@
                                 <p>Data Center Trends: Shifting Workloads &amp; Skillsets Technology is ever-changing. New advances are made all of the time and IT professionals have to enhance their skill sets to keep up with the technological changes. Included in the advancement is the traditional data center, which have adopted cloud computing, IaaS, colocation and more. In order to offer these newer technologies,...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2016-04-07-data-center-trends-shifting-workloads-skillsets/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">CloudData Centers</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Data Centers</span>
+                                
                                 
                             </div>
                         </div>
@@ -487,7 +501,9 @@
                                 <p>Overcoming SBO Barriers Caused by Big Data In the world of the Internet of Things, Big Data is unavoidable. Big Data simply references having too much data that is also too complex and unstructured for an organization’s current IT infrastructure or compute capacity to accurately analyze or use in order to make sound decisions. Traditionally speaking, having the ability...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2016-03-22-overcoming-small-business-barriers-to-big-data-solutions/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud</span>
+                                
                                 
                             </div>
                         </div>
@@ -506,7 +522,13 @@
                                 <p>SaaS Data Protection Microsoft Office 365 continues to grow in popularity, especially among small to medium-sized businesses. However, the importance of backing up their Exchange environment outside of the Microsoft cloud is seemingly overlooked. A secondary environment of Exchange is not necessarily a priority for organizations in part because of the high level of redundancy promised in the SLA...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2016-03-14-why-you-need-to-back-up-your-office-365-exchange/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Big DataInfrastructure AvailabilitySaaS</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Big Data</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Infrastructure Availability</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">SaaS</span>
+                                
                                 
                             </div>
                         </div>

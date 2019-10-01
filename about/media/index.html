@@ -211,12 +211,12 @@
 
                 <!-- Desktop Links -->
                 <div class="lg:items-center lg:justify-between links w-full md:w-auto absolute md:relative block md:flex flex-grow md:flex-grow-0 mt-12 md:mt-0 md:p-0 bg-bwhite">
-                    <ul class="block md:flex dt-nav hidden">
+                    <ul class="block md:flex dt-nav hidden" style="z-index: 9999">
                         
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Services
@@ -270,7 +270,7 @@
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Why Expedient
@@ -336,7 +336,7 @@
     var open = document.querySelectorAll('#sidebar-open');
     var close = document.querySelectorAll('#sidebar-close');
     var menu = document.querySelectorAll('.dt-nav');
-    var anchor = document.querySelectorAll('.dda');
+    //var anchor = document.querySelectorAll('.dda');
 
 
     open[0].addEventListener("click", function() {
@@ -351,20 +351,20 @@
         menu[0].classList.add('hidden');
     });  
 
-    document.addEventListener('click', function (event) {
+    // document.addEventListener('click', function (event) {
 
-    if (event.target.matches('.dda')) {
-        event.preventDefault();
-        var ul = event.target.nextElementSibling;
-        if(ul.classList.contains('hidden')){
-            ul.classList.remove('hidden');
-        }else{
-            ul.classList.add('hidden');
-        }
+    // if (event.target.matches('.dda')) {
+    //     event.preventDefault();
+    //     var ul = event.target.nextElementSibling;
+    //     if(ul.classList.contains('hidden')){
+    //         ul.classList.remove('hidden');
+    //     }else{
+    //         ul.classList.add('hidden');
+    //     }
         
-    }
+    // }
 
-    }, false);
+    // }, false);
     </script>
 
 
@@ -430,6 +430,7 @@
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/expedient-announces-largest-deployment-of-enterprise-cloud-platform/" class="ctaLink">Read Article</a></div>
                                 
                                 
+                                
                             </div>
                         </div>
                     </section>
@@ -446,6 +447,7 @@
                                 
                                 <p>Pittsburgh, PA (19 August 2019) – Expedient, a cloud computing and data center infrastructure as a service provider, today announced that it will exhibit at VMworld 2019, taking place at the Moscone Center in San Francisco, August 25 – 29. The 2019 conference marks Expedient’s debut as an exhibitor at VMware’s annual thought leadership event for cloud infrastructure and technology...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/Expedient%20Announces%20VMworld%202019%20Schedule%20of%20Events/" class="ctaLink">Read Article</a></div>
+                                
                                 
                                 
                             </div>
@@ -466,6 +468,7 @@
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2019-06-28-expedient-announces-expanded-draas-offerings-based-on-vmware-vcloud-availability/" class="ctaLink">Read Article</a></div>
                                 
                                 
+                                
                             </div>
                         </div>
                     </section>
@@ -484,6 +487,7 @@
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2019-06-20-expedient-ranked-among-worlds-most-elite-501-managed-service-providers/" class="ctaLink">Read Article</a></div>
                                 
                                 
+                                
                             </div>
                         </div>
                     </section>
@@ -500,6 +504,7 @@
                                 
                                 <p>Pittsburgh, PA (3 June 2019) – Expedient, a managed cloud and data center infrastructure as a service provider, today announced that CRN, a brand of The Channel Company, has named the company to its 2019 Solution Provider 500. This annual list ranks the largest North American IT channel partner organizations by revenue. The Solution Provider 500 is the industry standard...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2019-06-03-expedient-named-to-crn-2019-solution-provider-500-list/" class="ctaLink">Read Article</a></div>
+                                
                                 
                                 
                             </div>

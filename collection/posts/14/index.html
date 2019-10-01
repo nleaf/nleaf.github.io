@@ -212,12 +212,12 @@
 
                 <!-- Desktop Links -->
                 <div class="lg:items-center lg:justify-between links w-full md:w-auto absolute md:relative block md:flex flex-grow md:flex-grow-0 mt-12 md:mt-0 md:p-0 bg-bwhite">
-                    <ul class="block md:flex dt-nav hidden">
+                    <ul class="block md:flex dt-nav hidden" style="z-index: 9999">
                         
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Services
@@ -271,7 +271,7 @@
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Why Expedient
@@ -337,7 +337,7 @@
     var open = document.querySelectorAll('#sidebar-open');
     var close = document.querySelectorAll('#sidebar-close');
     var menu = document.querySelectorAll('.dt-nav');
-    var anchor = document.querySelectorAll('.dda');
+    //var anchor = document.querySelectorAll('.dda');
 
 
     open[0].addEventListener("click", function() {
@@ -352,20 +352,20 @@
         menu[0].classList.add('hidden');
     });  
 
-    document.addEventListener('click', function (event) {
+    // document.addEventListener('click', function (event) {
 
-    if (event.target.matches('.dda')) {
-        event.preventDefault();
-        var ul = event.target.nextElementSibling;
-        if(ul.classList.contains('hidden')){
-            ul.classList.remove('hidden');
-        }else{
-            ul.classList.add('hidden');
-        }
+    // if (event.target.matches('.dda')) {
+    //     event.preventDefault();
+    //     var ul = event.target.nextElementSibling;
+    //     if(ul.classList.contains('hidden')){
+    //         ul.classList.remove('hidden');
+    //     }else{
+    //         ul.classList.add('hidden');
+    //     }
         
-    }
+    // }
 
-    }, false);
+    // }, false);
     </script>
 
 
@@ -430,7 +430,9 @@
                                 <p>Information technology organizations have been pursuing business-IT alignment for as long as businesses have used computers.  Wikipedia defines business-IT alignment as: A dynamic state in which a business organization can use information technology to achieve business objectives – typically improved financial performance or marketplace competitiveness.  Some definitions focus more on outcomes, like the ability of IT to produce business value,...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2018-02-12-how-are-you-keeping-it-aligned-with-the-business/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Infrastructure as a service</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Infrastructure as a service</span>
+                                
                                 
                             </div>
                         </div>
@@ -449,7 +451,11 @@
                                 <p>Celebrating Expedient Day in Pittsburgh! Customers, local dignitaries, and business leaders joined Expedient in Pittsburgh on January 25, 2018 for the public reveal of the Nova Place (formerly Allegheny Center Mall) data center expansion. Hundreds of guests enjoyed tours of the data center and even more joined us for food, drink, and networking with vendor partners – including Cloud...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2018-02-01-expedient-day-in-pittsburgh/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Disaster RecoveryCloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Disaster Recovery</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud</span>
+                                
                                 
                             </div>
                         </div>
@@ -468,7 +474,9 @@
                                 <p>When we meet with companies to discuss the value of migrating from traditional on-premises IT to cloud infrastructure, business stakeholders and financial teams are often skeptical.  Historically, these stakeholders have viewed the IT budgets and project plans in terms of previous budgets and transactions. When companies previously bought hardware, software and implementation services, the shopping list was simple:  Capital...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2018-02-01-why-does-cloud-infrastructure-seem-complex-to-the-business/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
                                 
                             </div>
                         </div>
@@ -487,7 +495,19 @@
                                 <p>TIC Gums is using Expedient’s On-Site Private Cloud with Disaster Recovery as a Service to meet several business objectives, including the modernization and migration of its aging IT infrastructure and the creation and implementation of a disaster recovery plan and solution. By placing an Expedient private cloud point of delivery (POD) on-site at TIC Gums’ premises, TIC Gums is...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2018-01-08-expedient-and-vmware-help-tic-gums-modernize-their-infrastructure-with-expedients-on-site-private-cloud-with-draas/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloudmanaged servicesprivate cloudOn Premise Clouddigital transformationVMware</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">managed services</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">private cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">On Premise Cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">digital transformation</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">VMware</span>
+                                
                                 
                             </div>
                         </div>
@@ -506,7 +526,15 @@
                                 <p>How to Build a Business Case for Cloud Migration When an organization changes how it attacks a business problem, it’s quite common for these changes to be met with resistance.  Information Technology is no exception.  Switching from traditional servers, storage, and other on premises IT equipment to cloud versions of these services often triggers resistance from leadership, finance, IT,...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/knowledgebase/blog/2017-12-22-moving-to-cloud-what-sort-of-resistance-can-you-expect-from-your-organization/" class="ctaLink">Read Article</a></div>
                                 
-                                    <span class="bg-lgrey text-dgrey mb-8 font-black font-sans text-sm text-center px-5 py-2">Cloud Computingprivate cloudpublic cloudhybrid cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Cloud Computing</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">private cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">public cloud</span>
+                                
+                                        <span class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">hybrid cloud</span>
+                                
                                 
                             </div>
                         </div>

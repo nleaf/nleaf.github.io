@@ -212,12 +212,12 @@
 
                 <!-- Desktop Links -->
                 <div class="lg:items-center lg:justify-between links w-full md:w-auto absolute md:relative block md:flex flex-grow md:flex-grow-0 mt-12 md:mt-0 md:p-0 bg-bwhite">
-                    <ul class="block md:flex dt-nav hidden">
+                    <ul class="block md:flex dt-nav hidden" style="z-index: 9999">
                         
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Services
@@ -271,7 +271,7 @@
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Why Expedient
@@ -337,7 +337,7 @@
     var open = document.querySelectorAll('#sidebar-open');
     var close = document.querySelectorAll('#sidebar-close');
     var menu = document.querySelectorAll('.dt-nav');
-    var anchor = document.querySelectorAll('.dda');
+    //var anchor = document.querySelectorAll('.dda');
 
 
     open[0].addEventListener("click", function() {
@@ -352,20 +352,20 @@
         menu[0].classList.add('hidden');
     });  
 
-    document.addEventListener('click', function (event) {
+    // document.addEventListener('click', function (event) {
 
-    if (event.target.matches('.dda')) {
-        event.preventDefault();
-        var ul = event.target.nextElementSibling;
-        if(ul.classList.contains('hidden')){
-            ul.classList.remove('hidden');
-        }else{
-            ul.classList.add('hidden');
-        }
+    // if (event.target.matches('.dda')) {
+    //     event.preventDefault();
+    //     var ul = event.target.nextElementSibling;
+    //     if(ul.classList.contains('hidden')){
+    //         ul.classList.remove('hidden');
+    //     }else{
+    //         ul.classList.add('hidden');
+    //     }
         
-    }
+    // }
 
-    }, false);
+    // }, false);
     </script>
 
 
@@ -431,6 +431,7 @@
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2014-09-08-expedient-announces-the-construction-of-a-60000-sq-ft-data-center-in-dublin-ohio/" class="ctaLink">Read Article</a></div>
                                 
                                 
+                                
                             </div>
                         </div>
                     </section>
@@ -447,6 +448,7 @@
                                 
                                 <p> CARMEL, Ind. – Expedient Data Centers announced today the assignment of Matthew D’Eramo as its new Director of Sales for Expedient’s Indiana market. D’Eramo, a transfer from Expedient’s Columbus market, will be responsible for leading the firm’s continued business development and growth initiatives in the Indianapolis, Indiana region. Expedient used to operate the regional Indianapolis market...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2014-04-01-expedient-assigns-new-business-development-director-to-indianapolis-region/" class="ctaLink">Read Article</a></div>
+                                
                                 
                                 
                             </div>
@@ -467,6 +469,7 @@
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2014-02-14-expedient-data-centers-named-to-the-crn-data-center-top-100-list/" class="ctaLink">Read Article</a></div>
                                 
                                 
+                                
                             </div>
                         </div>
                     </section>
@@ -485,6 +488,7 @@
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2014-01-28-expedient-completes-multi-million-dollar-expansion-in-pittsburgh-and-announces-three-more/" class="ctaLink">Read Article</a></div>
                                 
                                 
+                                
                             </div>
                         </div>
                     </section>
@@ -501,6 +505,7 @@
                                 
                                 <p>New website to serve as an IT Toolbox, filled with cloud calculators, videos and research Expedient announced that they have collaborated with industry leader, Intel, on a new cloud computing resource center called “The Cloud Calculator”:www.thecloudcalculator.com.  The resource center aids IT professionals by providing research and tools for ensuring the right solution from the cloud and its related...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2013-06-27-1843/" class="ctaLink">Read Article</a></div>
+                                
                                 
                                 
                             </div>

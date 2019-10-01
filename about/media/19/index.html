@@ -212,12 +212,12 @@
 
                 <!-- Desktop Links -->
                 <div class="lg:items-center lg:justify-between links w-full md:w-auto absolute md:relative block md:flex flex-grow md:flex-grow-0 mt-12 md:mt-0 md:p-0 bg-bwhite">
-                    <ul class="block md:flex dt-nav hidden">
+                    <ul class="block md:flex dt-nav hidden" style="z-index: 9999">
                         
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Services
@@ -271,7 +271,7 @@
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Why Expedient
@@ -337,7 +337,7 @@
     var open = document.querySelectorAll('#sidebar-open');
     var close = document.querySelectorAll('#sidebar-close');
     var menu = document.querySelectorAll('.dt-nav');
-    var anchor = document.querySelectorAll('.dda');
+    //var anchor = document.querySelectorAll('.dda');
 
 
     open[0].addEventListener("click", function() {
@@ -352,20 +352,20 @@
         menu[0].classList.add('hidden');
     });  
 
-    document.addEventListener('click', function (event) {
+    // document.addEventListener('click', function (event) {
 
-    if (event.target.matches('.dda')) {
-        event.preventDefault();
-        var ul = event.target.nextElementSibling;
-        if(ul.classList.contains('hidden')){
-            ul.classList.remove('hidden');
-        }else{
-            ul.classList.add('hidden');
-        }
+    // if (event.target.matches('.dda')) {
+    //     event.preventDefault();
+    //     var ul = event.target.nextElementSibling;
+    //     if(ul.classList.contains('hidden')){
+    //         ul.classList.remove('hidden');
+    //     }else{
+    //         ul.classList.add('hidden');
+    //     }
         
-    }
+    // }
 
-    }, false);
+    // }, false);
     </script>
 
 
@@ -431,6 +431,7 @@
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2012-06-13-nframe-plans-multi-million-dollar-expansion-of-data-center/" class="ctaLink">Read Article</a></div>
                                 
                                 
+                                
                             </div>
                         </div>
                     </section>
@@ -447,6 +448,7 @@
                                 
                                 <p>(Cleveland, Ohio) May 11, 2012 Expedient held an open house for the public on May 10, 2012. The event included the unveiling of its newest data center expansion in Cleveland, OH. Expedient invested over $4 million dollars as part of this expansion project, which is its sixth expansion at the Garfield Heights data center within the last four years. Upgrades...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2012-05-11-clevelands-expanded-data-center-unveiled-at-may-10th-open-house/" class="ctaLink">Read Article</a></div>
+                                
                                 
                                 
                             </div>
@@ -467,6 +469,7 @@
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2012-03-27-expedient-expanding-second-cleveland-data-center-again/" class="ctaLink">Read Article</a></div>
                                 
                                 
+                                
                             </div>
                         </div>
                     </section>
@@ -483,6 +486,7 @@
                                 
                                 <p>March 13, 2012 (Columbus, Ohio) VMware has always had a great relationship with Expedient and over the last twelve months it has become even stronger. Most recently, VMware has begun to co-locate their test lab equipment that they use for customer demos and internal training at the Expedient data center in Columbus. VMware has their Ohio-based systems engineers log in...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2012-03-14-vmware-strengthens-its-partnership-with-expedient-data-centers/" class="ctaLink">Read Article</a></div>
+                                
                                 
                                 
                             </div>
@@ -502,6 +506,7 @@
                                 <p>
 </p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2012-03-14-expedient-vp-endorses-intels-new-xeon-server-processor/" class="ctaLink">Read Article</a></div>
+                                
                                 
                                 
                             </div>

@@ -213,12 +213,12 @@
 
                 <!-- Desktop Links -->
                 <div class="lg:items-center lg:justify-between links w-full md:w-auto absolute md:relative block md:flex flex-grow md:flex-grow-0 mt-12 md:mt-0 md:p-0 bg-bwhite">
-                    <ul class="block md:flex dt-nav hidden">
+                    <ul class="block md:flex dt-nav hidden" style="z-index: 9999">
                         
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Services
@@ -272,7 +272,7 @@
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Why Expedient
@@ -338,7 +338,7 @@
     var open = document.querySelectorAll('#sidebar-open');
     var close = document.querySelectorAll('#sidebar-close');
     var menu = document.querySelectorAll('.dt-nav');
-    var anchor = document.querySelectorAll('.dda');
+    //var anchor = document.querySelectorAll('.dda');
 
 
     open[0].addEventListener("click", function() {
@@ -353,20 +353,20 @@
         menu[0].classList.add('hidden');
     });  
 
-    document.addEventListener('click', function (event) {
+    // document.addEventListener('click', function (event) {
 
-    if (event.target.matches('.dda')) {
-        event.preventDefault();
-        var ul = event.target.nextElementSibling;
-        if(ul.classList.contains('hidden')){
-            ul.classList.remove('hidden');
-        }else{
-            ul.classList.add('hidden');
-        }
+    // if (event.target.matches('.dda')) {
+    //     event.preventDefault();
+    //     var ul = event.target.nextElementSibling;
+    //     if(ul.classList.contains('hidden')){
+    //         ul.classList.remove('hidden');
+    //     }else{
+    //         ul.classList.add('hidden');
+    //     }
         
-    }
+    // }
 
-    }, false);
+    // }, false);
     </script>
 
 
@@ -493,7 +493,7 @@
 <p>In our latest video, we explain the differences between the three main cloud computing environments: Private, Public, and Hybrid.</p>
 
 <div class="w-7/12 video">
-    <iframe width="663" height="310" src="https://www.youtube.com/embed/U1nOJU-AQpk&amp;" frameborder="0" allowfullscreen=""></iframe>
+    <iframe width="640" height="385" src="https://www.youtube.com/embed/U1nOJU-AQpk&amp;" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
 <p>Using an apartment complex as a metaphor, our video illustrates how users within a public cloud receive their own separate and secure computing environment, while the costs of maintaining, upgrading and securing the environments are shared among the other tenants, leading to lower overall expense. On the other hand, the private cloud offers many of the same advantages as the public offering, but instead of resources being shared among multiple users, you have the whole “apartment complex” to yourself. And while costs may be higher in a private environment, it can lead to greater security and help to ensure regulatory compliance. Interested in learning more about the scalability and security that the Expedient cloud has to offer? Visit our <a href="https://www.expedient.com/products/cloud-computing-solutions.php">Cloud Solutions Center</a> to read more.</p>

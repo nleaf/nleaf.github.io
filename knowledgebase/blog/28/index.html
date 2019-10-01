@@ -212,12 +212,12 @@
 
                 <!-- Desktop Links -->
                 <div class="lg:items-center lg:justify-between links w-full md:w-auto absolute md:relative block md:flex flex-grow md:flex-grow-0 mt-12 md:mt-0 md:p-0 bg-bwhite">
-                    <ul class="block md:flex dt-nav hidden">
+                    <ul class="block md:flex dt-nav hidden" style="z-index: 9999">
                         
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Services
@@ -271,7 +271,7 @@
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Why Expedient
@@ -337,7 +337,7 @@
     var open = document.querySelectorAll('#sidebar-open');
     var close = document.querySelectorAll('#sidebar-close');
     var menu = document.querySelectorAll('.dt-nav');
-    var anchor = document.querySelectorAll('.dda');
+    //var anchor = document.querySelectorAll('.dda');
 
 
     open[0].addEventListener("click", function() {
@@ -352,20 +352,20 @@
         menu[0].classList.add('hidden');
     });  
 
-    document.addEventListener('click', function (event) {
+    // document.addEventListener('click', function (event) {
 
-    if (event.target.matches('.dda')) {
-        event.preventDefault();
-        var ul = event.target.nextElementSibling;
-        if(ul.classList.contains('hidden')){
-            ul.classList.remove('hidden');
-        }else{
-            ul.classList.add('hidden');
-        }
+    // if (event.target.matches('.dda')) {
+    //     event.preventDefault();
+    //     var ul = event.target.nextElementSibling;
+    //     if(ul.classList.contains('hidden')){
+    //         ul.classList.remove('hidden');
+    //     }else{
+    //         ul.classList.add('hidden');
+    //     }
         
-    }
+    // }
 
-    }, false);
+    // }, false);
     </script>
 
 
@@ -459,9 +459,9 @@
                   <div class="text-red text-base font-bold font-sans block pb-1 mb-6"><a href="http://localhost:4000/knowledgebase/blog/2015-06-22-the-value-of-around-the-clock-support/" class="ctaLink">Read Article</a></div>
                   
                   
-                     <a class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block" href="/knowledgebase/blog/tag/Data Centers">Data Centers</a>
+                     <a class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block" href="/knowledgebase/blog/tag/data centers">Data Centers</a>
                   
-                     <a class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block" href="/knowledgebase/blog/tag/Infrastructure Availability">Infrastructure Availability</a>
+                     <a class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block" href="/knowledgebase/blog/tag/infrastructure availability">Infrastructure Availability</a>
                   
                   
               </div>
@@ -512,7 +512,7 @@
                   <div class="text-red text-base font-bold font-sans block pb-1 mb-6"><a href="http://localhost:4000/knowledgebase/blog/2015-06-16-expedients-memphis-data-center-to-open-july-2015/" class="ctaLink">Read Article</a></div>
                   
                   
-                     <a class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block" href="/knowledgebase/blog/tag/Data Centers">Data Centers</a>
+                     <a class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block" href="/knowledgebase/blog/tag/data centers">Data Centers</a>
                   
                   
               </div>
@@ -563,7 +563,7 @@
                   <div class="text-red text-base font-bold font-sans block pb-1 mb-6"><a href="http://localhost:4000/knowledgebase/blog/2015-06-11-now-offering-evermore/" class="ctaLink">Read Article</a></div>
                   
                   
-                     <a class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block" href="/knowledgebase/blog/tag/Cloud Computing">Cloud Computing</a>
+                     <a class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block" href="/knowledgebase/blog/tag/cloud computing">Cloud Computing</a>
                   
                   
               </div>
@@ -614,7 +614,7 @@
                   <div class="text-red text-base font-bold font-sans block pb-1 mb-6"><a href="http://localhost:4000/knowledgebase/blog/2015-06-05-what-really-matters-in-a-data-center-a-checklist/" class="ctaLink">Read Article</a></div>
                   
                   
-                     <a class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block" href="/knowledgebase/blog/tag/Data Centers">Data Centers</a>
+                     <a class="bg-lgrey text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block" href="/knowledgebase/blog/tag/data centers">Data Centers</a>
                   
                   
               </div>

@@ -212,12 +212,12 @@
 
                 <!-- Desktop Links -->
                 <div class="lg:items-center lg:justify-between links w-full md:w-auto absolute md:relative block md:flex flex-grow md:flex-grow-0 mt-12 md:mt-0 md:p-0 bg-bwhite">
-                    <ul class="block md:flex dt-nav hidden">
+                    <ul class="block md:flex dt-nav hidden" style="z-index: 9999">
                         
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Services
@@ -271,7 +271,7 @@
                         <li class="lg:mx-8 w-full md:w-auto">
                             
                             
-                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4">   
+                                <a class="relative border-b border-lgrey px-4 py-6 lg:border-0 lg:py-8 lg:px-4" href="javascript:;">   
                             
                             
                                 Why Expedient
@@ -337,7 +337,7 @@
     var open = document.querySelectorAll('#sidebar-open');
     var close = document.querySelectorAll('#sidebar-close');
     var menu = document.querySelectorAll('.dt-nav');
-    var anchor = document.querySelectorAll('.dda');
+    //var anchor = document.querySelectorAll('.dda');
 
 
     open[0].addEventListener("click", function() {
@@ -352,20 +352,20 @@
         menu[0].classList.add('hidden');
     });  
 
-    document.addEventListener('click', function (event) {
+    // document.addEventListener('click', function (event) {
 
-    if (event.target.matches('.dda')) {
-        event.preventDefault();
-        var ul = event.target.nextElementSibling;
-        if(ul.classList.contains('hidden')){
-            ul.classList.remove('hidden');
-        }else{
-            ul.classList.add('hidden');
-        }
+    // if (event.target.matches('.dda')) {
+    //     event.preventDefault();
+    //     var ul = event.target.nextElementSibling;
+    //     if(ul.classList.contains('hidden')){
+    //         ul.classList.remove('hidden');
+    //     }else{
+    //         ul.classList.add('hidden');
+    //     }
         
-    }
+    // }
 
-    }, false);
+    // }, false);
     </script>
 
 
@@ -432,6 +432,7 @@
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2011-08-26-technology-and-intellectual-property-a-conversation-with-bryan-smith-from-expedient/" class="ctaLink">Read Article</a></div>
                                 
                                 
+                                
                             </div>
                         </div>
                     </section>
@@ -449,6 +450,7 @@
                                 <p>
 </p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2011-08-26-expedient-hosts-compuserve-alumni-reunion-at-old-headquarters/" class="ctaLink">Read Article</a></div>
+                                
                                 
                                 
                             </div>
@@ -470,6 +472,7 @@
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2011-08-16-building-the-transparent-cloud-an-intel-case-study-on-expedient/" class="ctaLink">Read Article</a></div>
                                 
                                 
+                                
                             </div>
                         </div>
                     </section>
@@ -488,6 +491,7 @@
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2010-11-29-expedient-data-centers-to-partner-with-nationwide-childrens-hospital/" class="ctaLink">Read Article</a></div>
                                 
                                 
+                                
                             </div>
                         </div>
                     </section>
@@ -504,6 +508,7 @@
                                 
                                 <p>(Columbus, Ohio) November 23, 2010 Expedient Data Centers, a leading provider of colocation, managed services and connectivity announced they will be hosting the Grand Opening of their Columbus data center on December 9th, 2010. The Open House will be from 11:00am to 5:00pm. The new facility, located at 5000 Arlington Center Blvd in Upper Arlington, OH, is Expedient’s first data...</p>
                                 <div class="text-red text-base font-bold font-sans black pb-1 mb-3"><a href="http://localhost:4000/about/media/2010-11-23-expedient-data-centers-to-host-open-house-at-new-columbus-ohio-data-center/" class="ctaLink">Read Article</a></div>
+                                
                                 
                                 
                             </div>
