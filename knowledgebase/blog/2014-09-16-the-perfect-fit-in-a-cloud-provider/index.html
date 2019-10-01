@@ -382,7 +382,7 @@
   <div class="absolute h-full w-full z-0 top-0 mt-20" style="background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%); "></div>
   <!-- Breadcrumbs -->
   
-<div class="absolute w-full z-40 text-black" style="top:10em;z-index:15;">
+<div class="hidden sm:block absolute w-full z-40 text-black" style="top:10em;z-index:15;">
 <nav aria-label="breadcrumb" class="breadcrumb flex flex-wrap mb-4 lg:items-top mx-auto md:max-w-exp px-4 z-10 relative font-sans text-xs tracking-widest font-normal">
 	<!-- <div class="container">
 		<div class="pure-u-1">
@@ -438,13 +438,13 @@
 <div class="lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12 mt-24">
   <div class="pure-u-1">
     <div class="content content-narrow">
-        <div class="flex flex-wrap flex-wrap my-8 align-middle items-center mx-auto w-7/12">
+        <div class="flex flex-wrap flex-wrap my-8 align-middle items-center mx-auto w-full md:w-7/12">
           <div class="mr-8">
               <!-- Profile Picture -->
                 
                   
                   
-                    <img alt="Joe Palian" src="http://localhost:4000/uploads/joe-palian.jpg" class="h-24 rounded-full">
+                    <img alt="Joe Palian" src="http://localhost:4000/uploads/joe-palian.jpg" class="h-16 md:h-24h-24 rounded-full">
                   
                 
           </div> 
@@ -465,7 +465,7 @@
               <div class="post-date">16 Sep 2014</div>
         </div> 
         </div>
-        <div class="flex flex-wrap flex-wrap my-8 align-middle items-center mx-auto w-7/12">
+        <div class="flex flex-wrap flex-wrap my-8 align-middle items-center mx-auto w-full md:w-7/12">
           
             <h3 class="text-dgrey mb-2 font-black font-sans text-sm text-center px-5 py-2 mr-2 inline-block">Tags:</h3>
             
@@ -501,11 +501,11 @@
 </div>
 
 <!-- Recent Posts -->
-<section class="relative sm:py-12 bg-lgrey sm:pb-12">
+<section class="relative py-6 sm:py-12 bg-lgrey sm:pb-12">
 
         <div class="px-4 md:max-w-expBody justify-between mx-auto">
             <div class="flex -mx-4 flex-wrap">
-                    <h3 class="text-2xl sm:text-3xl md:text-xl font-bold font-sans ml-4 text-red mb-6 w-full">Related Posts</h3>
+                    <h3 class="text-2xl sm:text-3xl md:text-xl font-bold font-sans mb-3 text-red mb-6 w-full px-4">Related Posts</h3>
 
 
 
@@ -523,7 +523,7 @@
         <a href="/knowledgebase/blog/2019-09-06-solutions-for-vmware-ecocast-at-vmworld-2019-expedient-enterprise-cloud/" class="flex-1 px-4 related">
             
             <!-- <img src="/uploads/ph_Related.jpg" class="w-full"/> -->
-            <div class="bg-bwhite p-6">
+            <div class="bg-bwhite p-6 mb-6 md:mb-0">
                 <h4 class="text-black text-2xl sm:text-3xl md:text-xl font-bold font-sans">Solutions for VMware EcoCast at VMworld 2019 – ...</h4>
                 <p class="text-base font-light my-4">At VMworld 2019, I sat down with Scott Lowe from [ActualTech Media](https://w...</p>
                 <span class="text-red ctaLink text-base font-bold font-sans inline pb-1">Learn More</span>
@@ -584,7 +584,7 @@
         <a href="/knowledgebase/blog/2019-07-18-hyperscale-or-enterprise-which-cloud-is-best-for-your-business/" class="flex-1 px-4 related">
             
             <!-- <img src="/uploads/ph_Related.jpg" class="w-full"/> -->
-            <div class="bg-bwhite p-6">
+            <div class="bg-bwhite p-6 mb-6 md:mb-0">
                 <h4 class="text-black text-2xl sm:text-3xl md:text-xl font-bold font-sans">Hyperscale or Enterprise - Which Cloud is Best ...</h4>
                 <p class="text-base font-light my-4">The cloud provider landscape is complex and constantly evolving. To meet the ...</p>
                 <span class="text-red ctaLink text-base font-bold font-sans inline pb-1">Learn More</span>
@@ -609,7 +609,7 @@
         <a href="/knowledgebase/blog/2019-07-18-vmware-cloudspot-podcast-with-expedients-john-white/" class="flex-1 px-4 related">
             
             <!-- <img src="/uploads/ph_Related.jpg" class="w-full"/> -->
-            <div class="bg-bwhite p-6">
+            <div class="bg-bwhite p-6 mb-6 md:mb-0">
                 <h4 class="text-black text-2xl sm:text-3xl md:text-xl font-bold font-sans">VMware CloudSpot Podcast with Expedient's John ...</h4>
                 <p class="text-base font-light my-4">[Listen to John White](http://bit.ly/30EuoDS), Expedient's Chief Innovation O...</p>
                 <span class="text-red ctaLink text-base font-bold font-sans inline pb-1">Learn More</span>
@@ -672,8 +672,8 @@
             <div class="w-full text-bwhite font-bold text-5xl mb-2 font-sans text-left align-middle justify-left">
                     <svg class="mb-8" xmlns="http://www.w3.org/2000/svg" width="71.901" height="28.771" viewBox="0 0 71.901 28.771"><path d="M915.5,260.49a5.992,5.992,0,1,1,5.991,6.043,6.018,6.018,0,0,1-5.991-6.043m-16.7,0,14.212-14.384,4.651,4.69-9.573,9.694,9.573,9.7-4.651,4.69Zm43.215,0a5.994,5.994,0,1,1,5.991,6.043,6.018,6.018,0,0,1-5.991-6.043m-13.258,0a5.994,5.994,0,1,1,5.991,6.043,6.018,6.018,0,0,1-5.991-6.043m41.944,0-14.212,14.388-4.651-4.69,9.569-9.7L951.84,250.8l4.651-4.69Z" transform="translate(-898.802 -246.106)" fill="#f20505"/></svg>
             </div>
-            <div class="flex mb-4">
-                <div class="w-1/4">
+            <div class="md:flex mb-4">
+                <div class="w-full md:w-1/4">
                     <ul class="sm:w-12/12 flex mx-auto sm:text-left align-middle justify-left pb-1 flex-wrap">
                         
                         <!-- Column -->
@@ -698,7 +698,7 @@
                         
                     </ul>
                 </div>
-                <div class="w-1/4">
+                <div class="w-full md:w-1/4">
                     <ul class="sm:w-12/12 flex mx-auto sm:text-left align-middle justify-left pb-1 flex-wrap">
                         
                             <!-- Column -->
@@ -728,7 +728,7 @@
                         
                     </ul>
                 </div>
-                <div class="w-1/4">
+                <div class="w-full md:w-1/4">
                     <ul class="sm:w-12/12 flex mx-auto sm:text-left align-middle justify-left pb-1 flex-wrap">
                             <!-- Column -->
                             <li class="w-full">
@@ -748,7 +748,7 @@
                             </li>
                     </ul>
                 </div>
-                <div class="w-1/4 text-dgrey font-normal text-base mb-2 sm:text-left align-middle justify-left">
+                <div class="w-full md:w-1/4 text-dgrey font-normal text-base mb-2 sm:text-left align-middle justify-left">
                     ©2019 Expedient. All Rights Reserved. <br/><a href="/terms-and-conditions">Terms and Conditions for Use of Service (TCUS)</a>. <br/><a href="/services/managed-services/compliance-security/privacy-shield">Privacy Shield Policy for GDPR</a>. <br/><a href="/privacy-policy">Privacy Policy</a>.
                 </div>
             </div>
