@@ -1,15 +1,15 @@
 <!-- Quote Call Out -->
 <section class="bg-black relative">
-    <div class="px-4 md:max-w-expBody justify-between mx-auto py-40 flex flex-wrap relative z-10">
+    <div class="px-4 md:max-w-expBody justify-between mx-auto py-12 md:py-40 flex flex-wrap relative z-10">
         <!-- Column -->
-        <div class="w-full sm:w-3/12 px-4 mx-auto text-center">
+        <div class="w-42 mb-6 sm:mb-0 sm:w-56 px-4 mx-auto">
             <img src="{{ section.icon | absolute_url }}"  class="mx-auto rounded-full w-full"/>
         </div>
         <!-- Column -->
         <div class="w-full sm:w-8/12 px-4">
             <div class="slide current">
-                <blockquote class="text-bwhite text-4xl font-sans font-semibold leading-snug mb-10">{{ section.quote }}</blockquote>
-                <cite class="text-bwhite text-2xl sm:text-3xl md:text-xl font-bold font-sans not-italic">{{ section.cite }}</cite>
+                <blockquote class="text-bwhite text-2xl md:text-4xl font-sans font-semibold leading-snug mb-10">{{ section.quote }}</blockquote>
+                <cite class="text-bwhite text-xl sm:text-3xl md:text-xl font-bold font-sans not-italic">{{ section.cite }}</cite>
             </div>
         </div>
     </div>
