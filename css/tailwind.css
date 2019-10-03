@@ -810,7 +810,7 @@ p {
   display: block;
 }
 
-#mainNav header nav .links li:last-of-type a {
+#mainNav header nav .links li:last-of-type a, #mainNav header nav .links li:nth-child(4) a {
   color: #F20505;
 }
 
@@ -875,10 +875,8 @@ p {
   display: none;
 }
 
-#mainNav header nav ul li:hover > ul,
-#mainNav header nav ul li:focus-within > ul,
-#mainNav header nav ul li ul:hover,
-#mainNav header nav ul li ul:focus {
+#mainNav header nav ul li:hover ul,
+#mainNav header nav ul li.ddActive ul {
   visibility: visible;
   opacity: 1;
   display: block;
