@@ -655,6 +655,7 @@ p {
 }
 .post .video {
   margin: 0 auto;
+  height: 375px;
 }
 .post.resource p,.post.resource .video {
   margin-left: 0;

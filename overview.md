@@ -29,8 +29,9 @@ image: ''
 
 ---
 <div class="w-full sm:w-12/12 pr-5 post">
-<iframe width="700" height="425" src="http://www.youtube.com/embed/1CLWBOzvdw0?rel=0&amp;controls=0&amp;showinfo=0&amp;enablejsapi=1&amp;origin=https:%2F%2Fwww.expedient.com" frameborder="0" allowfullscreen="allowfullscreen" id="widget2" class="mx-auto"></iframe>
-
+<div class="w-full h-full sm:w-7/12 video">
+<iframe width="100%" height="100%" src="http://www.youtube.com/embed/1CLWBOzvdw0?rel=0&amp;controls=0&amp;showinfo=0&amp;enablejsapi=1&amp;origin=https:%2F%2Fwww.expedient.com" frameborder="0" allowfullscreen="allowfullscreen" id="widget2" class="mx-auto"></iframe>
+</div>
 <h2 id="company-headquarters">Company Headquarters</h2>
 <p>
 1 Allegheny Square, Suite 600

@@ -25,7 +25,7 @@ layout: default
       <section class="relative sm:py-2 bg-bwhite sm:pb-12">
             <div class="flex flex-wrap lg:items-top mx-auto md:max-w-expBody justify-between relative px-4 mb-12">
                 
-                <div class="w-full sm:w-4/12 pr-5" style="overflow: hidden;position: relative;min-height: 488px;width: 360px;">
+                <div class="hidden md:block w-full sm:w-4/12 pr-5" style="overflow: hidden;position: relative;min-height: 488px;width: 360px;">
                     {% if post.banner_image and post.banner_image != "" %}
                       <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="h-auto w-auto absolute" style="min-height: 488px; object-fit: cover;">
                     {% else %}
@@ -33,14 +33,14 @@ layout: default
                     {% endif %}
                 </div>
   
-                <div class="w-full sm:w-8/12 pl-8">
+                <div class="w-full sm:w-8/12 md:pl-8">
                     
                     <h2 class="text-4xl leading-tight font-black font-sans mt-1 mb-4">
                       <a href="{{ post.url | absolute_url }}" class="ctaLink">{{ post.title }}</a>
                     </h2>
                     
-                    <div class="flex flex-wrap flex-wrap w-3/4 my-8 align-middle items-center">
-                        <div class="mr-8">
+                    <div class="flex flex-wrap w-full md:w-3/4 my-8 align-middle items-center">
+                        <div class="mr-6 sm:mr-8">
                             <!-- Profile Picture -->
                               {% if post.author %}
                                   {% assign staff_member = site.people | where: 'title', post.author | first %}
@@ -51,12 +51,12 @@ layout: default
                                   <img alt="Expedient" src="/uploads/EXP_Circle-Mark.svg" class="h-24 rounded-full">
                               {% endif %}
                         </div> 
-                        <div class="mr-8 post-info align-middle">
+                        <div class="mr-6 sm:mr-8 post-info align-middle">
                             <span class="addInfo block">Author</span>
                             {% assign authorPost = post.author | slugify %}
                             <a href="/knowledgebase/blog/authors/{{ authorPost }}" class="authorName">{{ post.author }}</span></a>
                         </div> 
-                        <div class="mr-8">
+                        <div class="mr-6 sm:mr-8">
                                 <span class="addInfo block">Read Time</span>
                                 {% include readtime.html content=post.content %}
                         </div> 

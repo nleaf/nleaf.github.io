@@ -6,7 +6,7 @@
         <!-- Executive -->
         {% for item in section.executives %}
             {% assign person = site.people | where:"title", item  | first %}
-            <div class="flex -mx-4 twocol highlight"> 
+            <div class="flex flex-wrap md:flex-no-wrap -mx-4 twocol highlight"> 
                 <!-- Left -->
                 <div class="w-full sm:w-4/12 px-4 mt-4 flex">
                     <div class="w-full relative">

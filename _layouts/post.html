@@ -45,7 +45,7 @@ layout: default
               {% assign authorPage = page.author | slugify %}
               <a href="/knowledgebase/blog/authors/{{ authorPage }}" class="authorName">{{ page.author }}</span></a>
           </div> 
-          <div class="mr-8">
+          <div class="mr-8 hidden sm:block">
                   <span class="addInfo block">Read Time</span>
                   {% include readtime.html content=content %}
           </div>
