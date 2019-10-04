@@ -64,11 +64,11 @@ page_sections:
   block: featured
   featured_category: Featured Service
   featured_title: Enterprise Cloud
-  featured_intro: Your enterprise workloads and applications are ready for a migration
+  featured_intro: 'Your enterprise workloads and applications are ready for a migration
     to the cloud, but a move to a hyperscale cloud provider requires your teams to
     learn entirely new platforms, demands potential refactoring of your applications,
     and doesn’t provide you with the inherent security and white-glove managed services
-    you need to keep your business risk-free and running.
+    you need to keep your business risk-free and running seamlessly. '
   featured_cta_link: cloud.md
   featured_cta_text: Learn More
   related_products:
