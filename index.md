@@ -45,21 +45,21 @@ page_sections:
 - template: newswire
   block: newswire
   news:
-  - title: Expedient Debuts at VMworld 2019
-    icon: "/uploads/ico_arrowDown.svg"
-    link: https://go.expedient.com/vmworld2019
-    newtab: true
-    description: Expedient Announces VMworld 2019 Schedule of Events
-  - title: Homes.com
-    icon: "/uploads/ico_play.svg"
-    link: "/about/media/expedient-announces-largest-deployment-of-enterprise-cloud-platform/"
-    description: Expedient Announces Largest Deployment of Enterprise Cloud Platform
-    newtab: false
   - title: Expedient Named VMware Americas Cloud Partner of the Year
     icon: "/uploads/ico_trophy.svg"
     link: "/knowledgebase/blog/2019-04-10-expedient-named-vmwares-americas-cloud-partner-of-the-year/"
     description: Expedient Named VMware’s Americas Cloud Partner of the Year
     newtab: false
+  - title: Homes.com
+    icon: "/uploads/ico_play.svg"
+    link: "/about/media/expedient-announces-largest-deployment-of-enterprise-cloud-platform/"
+    description: Expedient Announces Largest Deployment of Enterprise Cloud Platform
+    newtab: false
+  - title: 'vCAV Expanded DRaaS Capabilities '
+    icon: "/uploads/ico_play.svg"
+    link: "/about/media/2019-06-28-expedient-announces-expanded-draas-offerings-based-on-vmware-vcloud-availability/"
+    newtab: true
+    description: Expedient Expands DRaaS Capabilities with VMware vCloud Availability
 - template: featured
   block: featured
   featured_category: Featured Service

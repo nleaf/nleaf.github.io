@@ -49,12 +49,12 @@ fields:
     min: 
     max: 
 pages:
+- index.md
 - overview.md
 - technology-partners.md
 - cloud.md
 - data-centers.md
 - let-s-talk.md
-- index.md
 - awards-and-accolades.md
 - thank-you-newsletter.md
 - disaster-recovery.md
