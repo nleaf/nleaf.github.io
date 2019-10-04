@@ -4,6 +4,7 @@ seo_title: ''
 description: ''
 image: ''
 layout: blocks
+tags: [Cloud]
 page_sections:
 - template: case-study-header
   block: casestudy-hero
