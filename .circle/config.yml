@@ -4,25 +4,25 @@ jobs:
     docker:
       - image: circleci/ruby:2.5.3
 
-    working_directory: ~/repo
+    working_directory: ~/development
 
     steps:
       - checkout
       - save_cache:
-          key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
+          key: v1-development-{{ .Environment.CIRCLE_SHA1 }}
           paths:
-            - ~/repo
+            - ~/development
 
   bundle_dependencies:
     docker:
       - image: circleci/ruby:2.5.3
 
-    working_directory: ~/repo
+    working_directory: ~/development
 
     steps:
       - restore_cache:
           keys:
-            - v1-repo-{{ .Environment.CIRCLE_SHA1 }}
+            - v1-development-{{ .Environment.CIRCLE_SHA1 }}
       - restore_cache:
           keys:
             - v1-bundle-{{ checksum "Gemfile.lock" }}
@@ -34,18 +34,18 @@ jobs:
       - save_cache:
           key: v1-bundle-{{ checksum "Gemfile.lock" }}
           paths:
-            - ~/repo/vendor/bundle
+            - ~/development/vendor/bundle
 
   precompile:
     docker:
       - image: circleci/ruby:2.5.3
 
-    working_directory: ~/repo
+    working_directory: ~/development
 
     steps:
       - restore_cache:
           keys:
-            - v1-repo-{{ .Environment.CIRCLE_SHA1 }}
+            - v1-development-{{ .Environment.CIRCLE_SHA1 }}
       - restore_cache:
           keys:
             - v1-bundle-{{ checksum "Gemfile.lock" }}
@@ -63,12 +63,12 @@ jobs:
       - save_cache:
           key: v1-assets-{{ .Environment.CIRCLE_SHA1 }}
           paths:
-            - ~/repo
+            - ~/development
 
   deploy:
     machine: true
 
-    working_directory: ~/repo
+    working_directory: ~/development
 
     steps:
       - restore_cache:
