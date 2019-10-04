@@ -20,4 +20,4 @@ We wrapped up the conversation with on overview of our multi-cloud journey and t
 
 {% include youtube.html ytid="awlLqH1qWok" %}
 
-_As Chief Innovation Officer, John White is the lead executive at Expedient responsible for the company’s product and technology vision. In addition to leading Expedient’s product strategy function, John also serves as the lead technology evangelist for the company, works closely with the sales team on closing complex/high brand deals, and acts as Expedient’s primary interface with existing technology partners. Follow him on_ [_Twitter_](https://twitter.com/johna_white)_._
+_As Chief Innovation Officer, John White is the lead executive at Expedient responsible for the company’s product and technology vision. In addition to leading Expedient’s product strategy function, John also serves as the lead technology evangelist for the company, works closely with the sales team on closing complex/high brand deals, and acts as Expedient’s primary interface with existing technology partners. Follow him on_ [_Twitter_](https://twitter.com/johna_white)_.
