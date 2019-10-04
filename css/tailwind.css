@@ -1227,7 +1227,7 @@ h2 .ctaLink::after {
 /* Top Banner */
 
 .bg-cover {
-  min-height: 575px;
+  min-height: auto;
   height: auto;
 }
 
@@ -1256,6 +1256,10 @@ h2 .ctaLink::after {
   }
   .post p, .post.expand p, .post h2, .post h3, .post h4, .post ul, .post ol, .post ul ol {
     width:680px;
+  }
+  .bg-cover {
+    min-height: 575px;
+    height: auto;
   }
 }
 
