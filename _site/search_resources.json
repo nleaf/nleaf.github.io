@@ -1338,6 +1338,16 @@
       "tags"     : "enterprise cloud, multi-cloud, disaster recovery, Push Button DR, kubernetes, containers, Expedient Enterprise Cloud",
       "date"     : "2019-09-30 01:00:00 -0400"
 
+    } ,
+  
+    {
+
+      "title"    : "Push Button DR Infographic",
+      "url"      : "/knowledgebase/resources/push-button-dr-infographic/",
+      "category" : "",
+      "tags"     : "Infographic, Disaster Recovery",
+      "date"     : "2019-10-22 00:00:00 -0400"
+
     } 
   
 ]

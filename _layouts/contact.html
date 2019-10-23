@@ -9,16 +9,22 @@
     <div class="px-4 md:max-w-expBody justify-between mx-auto py-16 relative">
         <h3 class="w-full text-black font-light text-xl mb-12 font-sans text-left align-middle justify-center">If you are a current Expedient customer wishing to contact us, please <a href="https://support.expedient.com/" target="_blank" class="ctaLink text-red">click here</a>.</h3>
 
-        <form class="newsletterForm mb-12 mt-4" action="https://go.expedient.com/l/12902/2019-08-06/dbzszs" type="POST">
-            
-            <div class="w-full mb-4 text-center align-middle justify-center m-auto">
-                <input class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="fullname" type="text" placeholder="Full Name">
+        <form class="newsletterForm mb-12 mt-4" action="https://go.expedient.com/l/12902/2019-08-06/dbzszs" type="POST" autocomplete="off" id="letsTalk">
+            <div class="formClass">
+                <input id="firstName" type="text" name="FirstName" placeholder="First Name"  autocomplete="password">
+                <input id="lastName" type="text" name="LastName" placeholder="Last Name" autocomplete="password">
             </div>
             <div class="w-full mb-4 text-center align-middle justify-center m-auto">
-                <input class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="email" type="text" name="email" placeholder="Business Email">
+                <input class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="inputExpfn" type="text" placeholder="Full Name" autocomplete="password" required>
             </div>
             <div class="w-full mb-4 text-center align-middle justify-center m-auto">
-                <textarea name="comments" id="comments" class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" aria-invalid="false" rows="10" cols="50" placeholder="Comments" spellcheck="true"></textarea>
+                <input class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="inputExpem" type="text" name="inputExpem" placeholder="Business Email"  autocomplete="password" required>
+            </div>
+            <div class="w-full mb-4 text-center align-middle justify-center m-auto">
+                <select name="inputExplc" id="inputExplc" class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline rounded-none bg-bwhite" aria-required="true" aria-invalid="false" required><option value="" selected="selected" class="gf_placeholder">Nearest City *</option><option value="Baltimore">Baltimore</option><option value="Boston">Boston</option><option value="Cleveland">Cleveland</option><option value="Columbus">Columbus</option><option value="Indianapolis">Indianapolis</option><option value="Memphis">Memphis</option><option value="Phoenix">Phoenix</option><option value="Pittsburgh">Pittsburgh</option><option value="Other">Other</option></select>
+            </div>
+            <div class="w-full mb-4 text-center align-middle justify-center m-auto">
+                <textarea name="inputExpcom" id="inputExpcom" class="w-full appearance-none p-6 text-xl text-gray-700 leading-tight focus:outline-none focus:shadow-outline" aria-invalid="false" rows="10" cols="50" placeholder="Comments" spellcheck="true" autocomplete="off" required minlength="3"></textarea>
             </div>
             <div class="w-full mb-4 text-center align-middle justify-center m-auto">
                 <button class="w-full sm:w-2/6 m-auto block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans ctaButton mt-8 text-center" type="submit" value="Submit" id="Form-submit">
@@ -27,9 +33,9 @@
             </div>
 
             <div class="hidden">
-                <input name="fname" id="fname">
-                <input name="lname" id="lname">
-                <input name="company" id="company">
+                <input name="inputExpf" id="inputExpf">
+                <input name="inputExpl" id="inputExpl">
+                <input name="inputExpc" id="inputExpc">
             </div>
             </form>
         </form>
@@ -43,24 +49,42 @@
     </div>
 </section>
 {% include footer.html %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
 <script type="text/javascript">
+
+$(document).ready(function() {
+  $("#letsTalk").validate();
+});
+
     function popForm() {
             // Get shown inputs
-            var fullname = document.getElementById('fullname').value;
-            var nameArray = fullname.split(/(\s+)/);
+            var inputExpfn = document.getElementById('inputExpfn').value;
+            var nameArray = inputExpfn.split(/(\s+)/);
             //Inject
-            document.getElementById('fname').value = nameArray[0];
-            document.getElementById('lname').value = nameArray[2];
-            var email = document.getElementById('email').value;
+            document.getElementById('inputExpf').value = nameArray[0];
+            document.getElementById('inputExpl').value = nameArray[2];
+            var email = document.getElementById('inputExpem').value;
             var bizname = email.split('@');
             //Inject
-            document.getElementById('company').value = bizname[1];
+            document.getElementById('inputExpc').value = bizname[1];
         }
         
         $("#Form-submit").hover(function() {
             popForm();
+            if($("#firstName").val().length != 0) {
+                return false;
+            }
+            if($("#lastName").val().length != 0) {
+                return false;
+            }
         });
         $( "#Form-submit" ).focus(function() {
             popForm();
+            if($("#firstName").val().length != 0) {
+                return false;
+            }
+            if($("#lastName").val().length != 0) {
+                return false;
+            }
         });
 </script>

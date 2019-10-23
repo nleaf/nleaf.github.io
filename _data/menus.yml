@@ -1,74 +1,6 @@
 ---
-subfooter:
-- page: Awards
-  title: Awards
-  url: "/why-expedient/awards-and-accolades"
-  weight: 1
-- page: Technology Partners
-  title: Technology Partners
-  url: "/why-expedient/technology-partners"
-  weight: 2
-- page: Success Stories
-  title: Success Stories
-  url: "/why-expedient/success-stories"
-  weight: 3
-- page: Our Clients
-  title: Our Clients
-  url: "/why-expedient/our-clients"
-  weight: 4
-- page: Data Centers
-  title: Data Centers
-  url: "/data-centers"
-  weight: 5
-subnav:
-- title: Knowledgebase
-  url: ''
-  childern:
-  - page: Blog
-    title: Blog
-    url: "/knowledgebase/blog/"
-  - page: Resources
-    title: Resources
-    url: "/knowledgebase/resources"
-  - page: Tools and Calculators
-    title: Tools and Calculators
-    url: "/knowledgebase/tools-and-calculators"
-  weight: 3
-- page: Support
-  title: Support
-  target: true
-  url: https://support.expedient.com
-  weight: 5
-- page: Partner
-  title: Partner
-  url: http://partner.expedient.com
-  target: true
-  weight: 4
-- title: About
-  url: ''
-  childern:
-  - page: Overview
-    title: Overview
-    url: "/about/overview"
-  - page: Executive Team
-    title: Executive Team
-    url: "/about/executive-team"
-  - page: Media
-    title: Media
-    url: "/about/media"
-  weight: 1
-- page: Careers
-  title: Careers
-  url: "/careers.html"
-  target: true
-  weight: 2
 header:
-- title: Let's Talk
-  url: "/lets-talk"
-  weight: 4
-  identifier: item_dxjp3EH
 - title: Services
-  url: ''
   childern:
   - page: Cloud
     title: Cloud
@@ -83,11 +15,7 @@ header:
     title: Disaster Recovery
     url: "/services/disaster-recovery"
   weight: 1
-- title: Data Centers
-  url: "/data-centers"
-  weight: 2
 - title: Why Expedient
-  url: ''
   childern:
   - page: Our Clients
     title: Our Clients
@@ -102,20 +30,88 @@ header:
     title: Awards and Accolades
     url: "/why-expedient/awards-and-accolades"
   weight: 3
-footer:
-- page: Disaster Recovery
-  title: Disaster Recovery
-  url: "/services/disaster-recovery"
-  weight: 1
-- page: Security and Compliance
-  title: Security and Compliance
-  url: "/services/security-and-compliance"
+- title: Data Centers
+  url: "/data-centers"
   weight: 2
-- page: Colocation
-  title: Colocation
-  url: "/services/colocation"
+- title: Let's Talk
+  url: "/lets-talk"
+  weight: 4
+  identifier: item_dxjp3EH
+subnav:
+- page: Careers
+  title: Careers
+  url: "/careers.html"
+  target: true
+  weight: 2
+- title: About
+  childern:
+  - page: Overview
+    title: Overview
+    url: "/about/overview"
+  - page: Executive Team
+    title: Executive Team
+    url: "/about/executive-team"
+  - page: Media
+    title: Media
+    url: "/about/media"
+  weight: 1
+- page: Partner
+  title: Partner
+  url: http://partner.expedient.com
+  target: true
+  weight: 4
+- page: Support
+  title: Support
+  target: true
+  url: "/support"
+  weight: 5
+- title: Knowledgebase
+  childern:
+  - page: Blog
+    title: Blog
+    url: "/knowledgebase/blog/"
+  - page: Resources
+    title: Resources
+    url: "/knowledgebase/resources"
+  - page: Tools and Calculators
+    title: Tools and Calculators
+    url: "/knowledgebase/tools-and-calculators"
   weight: 3
+subfooter:
+- page: Data Centers
+  title: Data Centers
+  url: "/data-centers"
+  weight: 5
+- page: Our Clients
+  title: Our Clients
+  url: "/why-expedient/our-clients"
+  weight: 4
+- page: Success Stories
+  title: Success Stories
+  url: "/why-expedient/success-stories"
+  weight: 3
+- page: Technology Partners
+  title: Technology Partners
+  url: "/why-expedient/technology-partners"
+  weight: 2
+- page: Awards
+  title: Awards
+  url: "/why-expedient/awards-and-accolades"
+  weight: 1
+footer:
 - page: Cloud
   title: Cloud
   url: "/services/cloud"
   weight: 4
+- page: Colocation
+  title: Colocation
+  url: "/services/colocation"
+  weight: 3
+- page: Security and Compliance
+  title: Security and Compliance
+  url: "/services/security-and-compliance"
+  weight: 2
+- page: Disaster Recovery
+  title: Disaster Recovery
+  url: "/services/disaster-recovery"
+  weight: 1

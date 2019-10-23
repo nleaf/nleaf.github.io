@@ -50,14 +50,14 @@ page_sections:
     link: "/knowledgebase/blog/2019-04-10-expedient-named-vmwares-americas-cloud-partner-of-the-year/"
     description: Expedient Named VMware’s Americas Cloud Partner of the Year
     newtab: false
-  - title: Homes.com
-    icon: "/uploads/ico_play.svg"
-    link: "/about/media/expedient-announces-largest-deployment-of-enterprise-cloud-platform/"
-    description: Expedient Announces Largest Deployment of Enterprise Cloud Platform
+  - title: 'Expedient Secures New Investment from AMP Capital '
+    icon: "/uploads/ico_expand-1.svg"
+    link: "/about/media/expedient-secures-new-investment-sponsor-amp-capital-to-fund-continued-growth-and-expansion-of-its-data-center-and-enterprise-cloud-platforms/"
+    description: Expedient Secures New Investment from AMP Capital
     newtab: false
-  - title: 'vCAV Expanded DRaaS Capabilities '
+  - title: Expedient Enhances National Service Offerings with Western Expansion
     icon: "/uploads/ico_play.svg"
-    link: "/about/media/2019-06-28-expedient-announces-expanded-draas-offerings-based-on-vmware-vcloud-availability/"
+    link: "/about/media/expedient-enhances-national-service-offerings-with-recent-western-expansion/"
     newtab: true
     description: Expedient Expands DRaaS Capabilities with VMware vCloud Availability
 - template: featured

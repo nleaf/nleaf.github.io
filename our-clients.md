@@ -108,21 +108,27 @@ page_sections:
 - template: grid
   block: grid
   row:
-  - label: ''
-    link: ''
-  - label: ''
-    link: ''
-  - label: ''
-    link: ''
   - image: "/uploads/ultimate-home-services.png"
     label: Ultimate Home Services
     link: "/knowledgebase/resources/professional-services-case-study-ultimate-home-services/"
   - label: ''
     link: ''
+    image: ''
   - label: ''
     link: ''
+    image: ''
   - label: ''
     link: ''
+    image: ''
+  - label: ''
+    link: ''
+    image: ''
+  - label: ''
+    link: ''
+    image: ''
+  - label: ''
+    link: ''
+    image: ''
 - template: link-bar
   block: linkbar
   cta: View More

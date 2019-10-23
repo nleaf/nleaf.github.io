@@ -33,6 +33,14 @@ page_sections:
   icon: "/uploads/EXP_EnterpriseCloud.svg"
   cta_label: ''
   cta_link: ''
+- template: callout
+  block: callout
+  cta: Learn More
+  heading: Homes.com Consolidates & Saves with Expedient Enterprise Cloud
+  link: "/knowledgebase/resources/homes-com-consolidates-and-migrates-business-critical-applications-to-expedient-enterprise-cloud/"
+  content: ''
+  icon: ''
+  background: "/uploads/EXP_Block-Callout-Background-2.jpg"
 - template: highlights-2-column
   block: highlights-2col
   subheading: The simplicity of Enterprise Cloud improves your efficiency and productivity
@@ -111,7 +119,7 @@ page_sections:
   heading: Flexible options to drive
 - template: callout
   block: callout
-  link: https:/go.expedient.com/2019-cloud-spectator-report
+  link: https://go.expedient.com/2019cloudspectator
   cta: Read the report now
   heading: A cloud that outperforms AWS, Azure, and Rackspace? It's true!
   content: 'Expedient Enterprise Cloud outperforms hyperscale clouds on price and

@@ -5,6 +5,9 @@ download: ''
 layout: blocks
 headline: ''
 content: ''
+seo_title: ''
+description: ''
+image: ''
 
 ---
 **Pittsburgh, PA (11 June 2018) –** Expedient, a cloud services and data center infrastructure as a service (IaaS) provider, announced it has been awarded the 2018 Zerto Growth Partner of the Year – Cloud Services Provider at ZertoCON 2018 in Boston.

@@ -1,8 +1,9 @@
 ---
-title: 'Physical security of a cloud provider'
+title: Physical security of a cloud provider
 date: Mon, 07 Jul 2014 14:43:25 +0000
 download: ''
-draft: false
-tags: [Videos]
----
+tags:
+- Videos
+video: NpAsKVphLb4
 
+---

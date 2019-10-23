@@ -1,8 +1,9 @@
 ---
-title: 'Security in the cloud'
+title: Security in the cloud
 date: Mon, 07 Jul 2014 15:11:33 +0000
 download: ''
-draft: false
-tags: [Videos]
----
+tags:
+- Videos
+video: cCLQg6e2mHo
 
+---

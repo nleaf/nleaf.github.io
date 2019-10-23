@@ -322,38 +322,53 @@ page_sections:
     background: "/uploads/exp_cloud_multi.jpg"
     headline: Service Organizational Control (SOC) Reporting
     description: Expedient offers multiple SOC reports that serve as third-party attestations
-      of our operating excellence.
+      of our operating excellence. <a href="/services/managed-services/compliance-security/soc-reports/" alt="SOC Reports" target="_blank" class="w-56 inline-block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans mt-8 ctaButton relative align-middle relative">
+                          <svg xmlns="http://www.w3.org/2000/svg" width="7.737" height="11.791" viewBox="0 0 7.737 11.791" class="absolute right-0 mr-4 mt-2"><path d="M250.582,37.634l-5.829,5.9-1.908-1.92,3.925-3.976-3.925-3.975,1.908-1.92Z" transform="translate(-242.845 -31.738)" fill="#fdfdfd"></path></svg>
+                         More Information
+                      </a>
   - align-left: false
     icon: "/uploads/EXP_RiskMitigation.svg"
     background: "/uploads/exp_colocation-diversity.png"
     headline: EU-U.S. Privacy Shield Framework
     description: Expedient is a participant in the U.S. Department of Commerce’s EU-U.S.
       Privacy Shield and Swiss-U.S. Privacy Shield programs and has certified that
-      it adheres to the EU-U.S. and Swiss-U.S. Privacy Shield Principles.
+      it adheres to the EU-U.S. and Swiss-U.S. Privacy Shield Principles. <a href="/services/managed-services/compliance-security/privacy-shield/" alt="Privacy Sheild" target="_blank" class="w-56 inline-block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans mt-8 ctaButton relative align-middle relative">
+                          <svg xmlns="http://www.w3.org/2000/svg" width="7.737" height="11.791" viewBox="0 0 7.737 11.791" class="absolute right-0 mr-4 mt-2"><path d="M250.582,37.634l-5.829,5.9-1.908-1.92,3.925-3.976-3.925-3.975,1.908-1.92Z" transform="translate(-242.845 -31.738)" fill="#fdfdfd"></path></svg>
+                         More Information
+                      </a>
   - align-left: true
     icon: "/uploads/EXP_Security.svg"
     background: "/uploads/exp_cloud_hybrid.jpg"
     headline: HIPAA Business Associate Agreements
     description: Expedient is your managed services and infrastructure as a service
       (IaaS) provider with Health Insurance Portability and Accountability (HIPAA)
-      compliance.
+      compliance. <a href="/services/managed-services/compliance-security/hipaa/" alt="HIPAA" target="_blank" class="w-56 inline-block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans mt-8 ctaButton relative align-middle relative">
+                          <svg xmlns="http://www.w3.org/2000/svg" width="7.737" height="11.791" viewBox="0 0 7.737 11.791" class="absolute right-0 mr-4 mt-2"><path d="M250.582,37.634l-5.829,5.9-1.908-1.92,3.925-3.976-3.925-3.975,1.908-1.92Z" transform="translate(-242.845 -31.738)" fill="#fdfdfd"></path></svg>
+                         More Information
+                      </a>
   - align-left: false
     icon: "/uploads/exp-2fa-icon.svg"
     background: "/uploads/exp_colocation-security.png"
     headline: PCI DSS Compliance
     description: Expedient can assist clients with the Payment Card Industry (PCI)
       Security Standards Council (DSS) compliance process by providing various types
-      of documentation.
+      of documentation.<a href="/services/managed-services/compliance-security/pci-dss/" alt="PCI DSS" target="_blank" class="w-56 inline-block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans mt-8 ctaButton relative align-middle relative">
+                          <svg xmlns="http://www.w3.org/2000/svg" width="7.737" height="11.791" viewBox="0 0 7.737 11.791" class="absolute right-0 mr-4 mt-2"><path d="M250.582,37.634l-5.829,5.9-1.908-1.92,3.925-3.976-3.925-3.975,1.908-1.92Z" transform="translate(-242.845 -31.738)" fill="#fdfdfd"></path></svg>
+                         More Information
+                      </a>
   - align-left: true
     icon: "/uploads/exp-results-icon.svg"
     background: "/uploads/exp_cloud_private.jpg"
     headline: General Data Protection Regulation (GDPR)
     description: Expedient is prepared to support current and prospective clients
       with GDPR compliance needs via a Data Protection Agreement (DPA) that can be
-      executed as an addendum to a Master Services Agreement (MSA).
+      executed as an addendum to a Master Services Agreement (MSA). <br/><a href="/services/managed-services/compliance-security/privacy-shield/" alt="Privacy Shield" class="w-56 inline-block bg-red px-5 py-3 text-bwhite font-bold text-base font-sans mt-8 ctaButton relative align-middle relative">
+                          <svg xmlns="http://www.w3.org/2000/svg" width="7.737" height="11.791" viewBox="0 0 7.737 11.791" class="absolute right-0 mr-4 mt-2"><path d="M250.582,37.634l-5.829,5.9-1.908-1.92,3.925-3.976-3.925-3.975,1.908-1.92Z" transform="translate(-242.845 -31.738)" fill="#fdfdfd"></path></svg>
+                         More Information
+                      </a>
 - template: callout
   block: callout
-  link: contact.md
+  link: https://expedient.com/lets-talk/
   cta: Learn More
   heading: Interested in saving $100,000 a day?
   content: Bouchard Insurance avoided $100,000 per day in downtime costs with Expedient’s
