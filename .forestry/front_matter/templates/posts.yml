@@ -90,10 +90,10 @@ fields:
   hidden: false
   default: false
 pages:
-- _posts/2019-09-06-solutions-for-vmware-ecocast-at-vmworld-2019-expedient-enterprise-cloud.md
 - _posts/2019-09-03-expedient-makes-its-mark-at-vmworld-2019.md
-- _posts/2019-08-30-can-enterprise-cloud-infrastructure-simplify-mergers-and-acquisitions.md
 - _posts/2019-08-13-persistent-volume-options-for-kubernetes-storage.md
+- _posts/2019-08-11-expedient-sessions-at-vmworld-2019.md
 - _posts/2019-07-18-vmware-cloudspot-podcast-with-expedients-john-white.md
 - _press/Expedient Announces VMworld 2019 Schedule of Events.md
-- _posts/2019-08-11-expedient-sessions-at-vmworld-2019.md
+- _posts/2019-09-06-solutions-for-vmware-ecocast-at-vmworld-2019-expedient-enterprise-cloud.md
+- _posts/2019-08-30-can-enterprise-cloud-infrastructure-simplify-mergers-and-acquisitions.md
